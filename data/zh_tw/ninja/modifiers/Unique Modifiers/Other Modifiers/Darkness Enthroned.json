@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Darkness Enthroned",
+    "zh_cn": "夜临",
+    "zh_tw": "夜惡降臨",
+    "FlavourText": {
+      "original": "Kulemak sat triumphant, raising the crown.\nDarkness coiled the world in eternal night.\nVictory, a mere moment, came crashing down.\nNo conqueror, no conquered, only searing Light.",
+      "zh_cn": "库勒马克胜利在握，高举王冠。\n黑暗将世界拖入永恒长夜。\n胜利不过转眼，旋即灰飞烟灭。\n没有征服者，没有被征服者，唯有炽烈光辉。",
+      "zh_tw": "骷髏馬克洋洋得意地坐下，高舉王冠。\n黑暗將世界縈繞成了永夜。\n勝利，僅在一瞬間，轟然倒塌。\n此刻不再有征服者和被征服者之分，惟存炙熱的光芒。"
+    },
+    "img": "DarknessEnthroned.png",
+    "group": [
+        {
+          "original": "This item gains bonuses from Socketed Items as though it was a Body Armour",
+          "translation": {
+            "zh_cn": "此物品可作为胸甲获得镶嵌物的加成",
+            "zh_tw": "此物品會被視為身體護甲，自插槽中的物品獲得加成"
+          }
+        },
+        {
+          "original": "This item gains bonuses from Socketed Items as though it was a Helmet",
+          "translation": {
+            "zh_cn": "此物品可作为头盔获得镶嵌物的加成",
+            "zh_tw": "此物品會被視為頭盔，自插槽中的物品獲得加成"
+          }
+        },
+        {
+          "original": "This item gains bonuses from Socketed Items as though it was Gloves",
+          "translation": {
+            "zh_cn": "此物品可作为手套获得镶嵌物的加成",
+            "zh_tw": "此物品會被視為手套，自插槽中的物品獲得加成"
+          }
+        },
+        {
+          "original": "This item gains bonuses from Socketed Items as though it was Boots",
+          "translation": {
+            "zh_cn": "此物品可作为鞋子获得镶嵌物的加成",
+            "zh_tw": "此物品會被視為長靴，自插槽中的物品獲得加成"
+          }
+        },
+        {
+          "original": "This item gains bonuses from Socketed Items as though it was a Shield",
+          "translation": {
+            "zh_cn": "此物品可作为盾牌获得镶嵌物的加成",
+            "zh_tw": "此物品會被視為盾牌，自插槽中的物品獲得加成"
+          }
+        }
+    ]
+  }
+]

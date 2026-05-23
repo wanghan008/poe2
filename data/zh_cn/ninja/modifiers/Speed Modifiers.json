@@ -1,0 +1,37 @@
+[
+  {
+    "original": "{0}% increased [Attack|Attack] Speed",
+    "translation": {
+      "zh_cn": "[Attack|攻击]速度提高 {0}%",
+      "zh_tw": "增加 {0}% [Attack|攻擊]速度"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] have {0}% increased [Attack|Attack] Speed",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]的[Attack|攻击]速度提高 {0}%",
+      "zh_tw": "處於你[Presence|存在範圍]中的[Allies|友方]增加 {0}% [Attack|攻擊]速度"
+    }
+  },
+  {
+    "original": "{0}% increased Cast Speed",
+    "translation": {
+      "zh_cn": "施法速度提高 {0}%",
+      "zh_tw": "增加 {0}% 施放速度"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] have {0}% increased Cast Speed",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]的施法速度提高 {0}%",
+      "zh_tw": "處於你[Presence|存在範圍]中的[Allies|友方]增加 {0}% 施放速度"
+    }
+  },
+  {
+    "original": "{0}% increased Movement Speed",
+    "translation": {
+      "zh_cn": "移动速度提高 {0}%",
+      "zh_tw": "增加 {0}% 移動速度"
+    }
+  }
+]

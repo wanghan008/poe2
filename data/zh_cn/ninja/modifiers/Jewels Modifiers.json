@@ -1,0 +1,920 @@
+[
+  {
+    "original":"Limited to:",
+    "translation":{
+      "zh_cn":"仅限:",
+      "zh_tw":"僅限:"
+    }
+  },
+  {
+    "original":"Radius:",
+    "translation":{
+      "zh_cn":"范围:",
+      "zh_tw":"範圍:"
+    }
+  },
+  {
+    "original":"Small",
+    "translation":{
+      "zh_cn":"小",
+      "zh_tw":"小"
+    }
+  },
+  {
+    "original":"Medium",
+    "translation":{
+      "zh_cn":"中",
+      "zh_tw":"中"
+    }
+  },
+  {
+    "original":"Large",
+    "translation":{
+      "zh_cn":"大",
+      "zh_tw":"大"
+    }
+  },
+  {
+    "original":"Variable",
+    "translation":{
+      "zh_cn":"变量",
+      "zh_tw":"可變的"
+    }
+  },
+  {
+    "original":"Upgrades Radius to Medium",
+    "translation":{
+      "zh_cn":"将范围升级为中型",
+      "zh_tw":"升級範圍至中"
+    }
+  },
+  {
+    "original":"Upgrades Radius to Large",
+    "translation":{
+      "zh_cn":"将范围升级为大型",
+      "zh_tw":"升級範圍至大"
+    }
+  },
+  {
+    "original":"{0}% increased Effect of [Small Passive|Small Passive] Skills in Radius",
+    "translation":{
+      "zh_cn":"范围内的[Small Passive|小型天赋]效果提高 {0}%",
+      "zh_tw":"增加 {0}% 範圍內[Small Passive|小型天賦]的效果"
+    }
+  },
+  {
+    "original":"{0}% increased Effect of Notable Passive Skills in Radius",
+    "translation":{
+      "zh_cn":"范围内的核心天赋效果提高 {0}%",
+      "zh_tw":"增加 {0}% 範圍內核心天賦的效果"
+    }
+  },
+  {
+    "original":"Notable Passive Skills in Radius also grant",
+    "translation":{
+      "zh_cn":"范围内的核心天赋同时提供",
+      "zh_tw":"範圍內核心天賦也會賦予"
+    }
+  },
+  {
+    "original":"[Small Passive|Small Passive] Skills in Radius also grant",
+    "translation":{
+      "zh_cn":"范围内的[Small Passive|小型天赋]同时提供",
+      "zh_tw":"範圍內[Small Passive|小型天賦]也會賦予"
+    }
+  },
+  {
+    "original":"Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+    "translation":{
+      "zh_cn":"放置到一个天赋树的珠宝插槽中以产生效果。右键点击以移出插槽。",
+      "zh_tw":"放置到一個天賦樹的珠寶插槽中以產生效果。右鍵點擊以移出插槽。"
+    }
+  },
+  {
+    "original":"Base Prefix",
+    "translation":{
+      "zh_cn":"基础 前缀",
+      "zh_tw":"基礎 前綴"
+    }
+  },
+  {
+    "group":[
+      {
+        "original":"{0}% increased Area of Effect",
+        "translation":{
+          "zh_cn":"效果区域提高 {0}%",
+          "zh_tw":"增加 {0}% 範圍效果"
+        }
+      },
+      {
+        "original":"[Break|Break] {0}% increased [Armour|Armour]",
+        "translation":{
+          "zh_cn":"[Break|粉碎]的[Armour|护甲]提高 {0}%",
+          "zh_tw":"增加 {0}% [Armour|護甲值][Break|破壞]"
+        }
+      },
+      {
+        "original":"{0}% increased [Attack|Attack] Damage",
+        "translation":{
+          "zh_cn":"[Attack|攻击]伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Attack|攻擊]傷害"
+        }
+      },
+      {
+        "original":"{0}% chance to inflict [Bleeding|Bleeding] on [Hit|Hit]",
+        "translation":{
+          "zh_cn":"[Hit|击中]时有 {0}% 的几率造成[Bleeding|流血]",
+          "zh_tw":"[Hit|擊中]時有 {0}% 機率造成[Bleeding|流血]"
+        }
+      },
+      {
+        "itemTypes":[
+          "Jewel",
+          "珠宝",
+          "珠寶"
+        ],
+        "original":"{0}% increased [Block|Block] chance",
+        "translation":{
+          "zh_cn":"[Block|格挡]几率提高 {0}%",
+          "zh_tw":"增加 {0}% [Block|格擋]機率"
+        }
+      },
+      {
+        "original":"{0}% increased Damage against Enemies with [Fully Broken Armour|Fully Broken Armour]",
+        "translation":{
+          "zh_cn":"对[Fully Broken Armour|护甲完全破损]的敌人造成的伤害提高 {0}%",
+          "zh_tw":"增加 {0}% 對[Fully Broken Armour|完全破甲]敵人造成的傷害"
+        }
+      },
+      {
+        "original":"{0}% increased [Elemental Damage|Elemental Damage]",
+        "translation":{
+          "zh_cn":"[Elemental Damage|元素伤害]提高 {0}%",
+          "zh_tw":"增加 {0}% [Elemental Damage|元素傷害]"
+        }
+      },
+      {
+        "original":"[Empowered Attacks|Empowered Attacks] deal {0}% increased Damage",
+        "translation":{
+          "zh_cn":"[Empowered Attacks|强化攻击]造成的伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Empowered Attacks|強化攻擊]造成的傷害"
+        }
+      },
+      {
+        "original":"Damage [Penetrates|Penetrates] {0}% [Fire Resistance|Fire Resistance]",
+        "translation":{
+          "zh_cn":"伤害[Penetrates|穿透] {0}% [Fire Resistance|火焰抗性]",
+          "zh_tw":"傷害[Penetrates|穿透] {0}% [Fire Resistance|火焰抗性]"
+        }
+      },
+      {
+        "original":"{0}% increased Damage with [Maces|Maces]",
+        "translation":{
+          "zh_cn":"[Maces|锤类]的伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Maces|錘]傷害"
+        }
+      },
+      {
+        "original":"{0} to Maximum [Rage|Rage]",
+        "translation":{
+          "zh_cn":"{0} 最大[Rage|怒火]",
+          "zh_tw":"{0} 層最大[Rage|盛怒]"
+        }
+      },
+      {
+        "original":"{0}% increased [Melee|Melee] Damage",
+        "translation":{
+          "zh_cn":"[Melee|近战]伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Melee|近戰]傷害"
+        }
+      },
+      {
+        "original":"[Minions|Minions] have {0}% increased Area of Effect",
+        "translation":{
+          "zh_cn":"[Minions|召唤生物]的效果区域提高 {0}%",
+          "zh_tw":"增加 {0}% [Minions|召喚物]的效果範圍"
+        }
+      },
+      {
+        "original":"{0}% increased Global [Physical|Physical] Damage",
+        "translation":{
+          "zh_cn":"全局[Physical|物理]伤害提高 {0}%",
+          "zh_tw":"增加 {0}% 全域[Physical|物理]傷害"
+        }
+      },
+      {
+        "original":"{0}% increased [Defences|Defences] from Equipped [Shield|Shield]",
+        "translation":{
+          "zh_cn":"从[Shield|盾牌]获取的[Defences|防御]提高 {0}%",
+          "zh_tw":"增加 {0}% 已裝備[Shield|盾牌]的[Defences|防禦]"
+        }
+      },
+      {
+        "original":"{0}% increased [Magnitude|Magnitude] of [Bleeding|Bleeding] you inflict",
+        "translation":{
+          "zh_cn":"你造成的[Bleeding|流血][Magnitude|强度]提高 {0}%",
+          "zh_tw":"增加 {0}% 你所施加之[Bleeding|流血]的[Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"{0}% increased [Totem|Totem] Damage",
+        "translation":{
+          "zh_cn":"[Totem|图腾]伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Totem|圖騰]傷害"
+        }
+      },
+      {
+        "original":"{0}% increased [Totem|Totem] Life",
+        "translation":{
+          "zh_cn":"[Totem|图腾]的生命提高 {0}%",
+          "zh_tw":"增加 {0}% [Totem|圖騰]生命"
+        }
+      },
+      {
+        "original":"{0}% increased Damage with [Warcries|Warcries]",
+        "translation":{
+          "zh_cn":"[Warcries|战吼]的伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Warcries|戰吼]傷害"
+        }
+      },
+      {
+        "original":"{0}% chance for [Attack|Attack] [Hits|Hits] to apply [Incision|Incision]",
+        "translation":{
+          "zh_cn":"[Attack|攻击][Hits|击中]有 {0}% 的几率施加[Incision|创口]",
+          "zh_tw":"[Attack|攻擊][Hits|擊中]時，有 {0}% 機率施加[Incision|切割]"
+        }
+      },
+      {
+        "original":"[Banner|Banner] Skills have {0}% increased Area of Effect",
+        "translation":{
+          "zh_cn":"[Banner|旗帜]技能的效果范围提高 {0}%",
+          "zh_tw":"[Banner|旗幟]技能增加 {0}% 效果範圍"
+        }
+      },
+      {
+        "original":"{0}% increased Damage while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"[Shapeshifted|变形]时伤害提高 {0}%",
+          "zh_tw":"[Shapeshifted|變形]期間增加 {0}% 傷害"
+        }
+      },
+      {
+        "original":"{0}% increased Damage with [Plant|Plant] Skills",
+        "translation":{
+          "zh_cn":"[Plant|植物]技能的伤害提高 {0}%",
+          "zh_tw":"[Plant|植物]技能增加 {0}% 傷害"
+        }
+      }
+    ]
+  },
+  {
+    "group":[
+      {
+        "original":"{0}% increased [Accuracy|Accuracy] Rating",
+        "translation":{
+          "zh_cn":"[Accuracy|命中]值提高 {0}%",
+          "zh_tw":"增加 {0}% [Accuracy|命中]值"
+        }
+      },
+      {
+        "original":"{0}% increased [Magnitude|Magnitude] of [Ailments|Ailments] you inflict",
+        "translation":{
+          "zh_cn":"你造成的[Ailments|异常状态][Magnitude|强度]提高 {0}%",
+          "zh_tw":"增加 {0}% 你所施加之[Ailments|異常狀態]的[Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"{0}% increased [Blind|Blind] Effect",
+        "translation":{
+          "zh_cn":"[Blind|致盲]效果提高 {0}%",
+          "zh_tw":"增加 {0}% [Blind|致盲]效果"
+        }
+      },
+      {
+        "original":"{0}% increased Damage with [Hits|Hits] against [Rare and Unique|Rare and Unique] Enemies",
+        "translation":{
+          "zh_cn":"[Hits|击中][Rare and Unique|稀有和传奇]敌人的伤害提高 {0}%",
+          "zh_tw":"[Hits|擊中]對[Rare and Unique|稀有和傳奇]增加 {0}% 傷害"
+        }
+      },
+      {
+        "original":"{0}% increased Accuracy Rating with Bows",
+        "translation":{
+          "zh_cn":"弓类攻击的命中值提高 {0}%",
+          "zh_tw":"使用弓類武器時增加 {0}% 命中值"
+        }
+      },
+      {
+        "original":"{0}% increased Damage with Bows",
+        "translation":{
+          "zh_cn":"弓类伤害提高 {0}%",
+          "zh_tw":"持弓類武器時增加 {0}% 傷害"
+        }
+      },
+      {
+        "original":"{0}% increased Damage with [Quarterstaves|Quarterstaves]",
+        "translation":{
+          "zh_cn":"[Quarterstaves|节杖]的伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Quarterstaves|細杖]傷害"
+        }
+      },
+      {
+        "original":"{0}% increased Damage while you have an active [Charm|Charm]",
+        "translation":{
+          "zh_cn":"激活[Charm|咒符]时，伤害提高 {0}%",
+          "zh_tw":"當你有一個作用中的[Charm|護符]，增加 {0}% 傷害"
+        }
+      },
+      {
+        "original":"{0}% increased [Magnitude|Magnitude] of [Damaging Ailments|Damaging Ailments] you inflict with [Critical Hits|Critical Hits]",
+        "translation":{
+          "zh_cn":"你的[Critical Hits|暴击]造成的[Damaging Ailments|伤害性异常状态][Magnitude|强度]提高 {0}%",
+          "zh_tw":"增加 {0}% 你以[Critical Hits|暴擊]施加之[Damaging Ailments|傷害型異常狀態]的[Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"{0}% increased Damage with [Crossbows|Crossbows]",
+        "translation":{
+          "zh_cn":"[Crossbows|战弩]的伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Crossbows|十字弓]傷害"
+        }
+      },
+      {
+        "original":"[Herald|Herald] Skills deal {0}% increased Damage",
+        "translation":{
+          "zh_cn":"[Herald|捷]技能造成的伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Herald|捷光環]技能造成的傷害"
+        }
+      },
+      {
+        "original":"Damage [Penetrates|Penetrates] {0}% [Lightning Resistance|Lightning Resistance]",
+        "translation":{
+          "zh_cn":"伤害[Penetrates|穿透] {0}% 的[Lightning Resistance|闪电抗性]",
+          "zh_tw":"傷害[Penetrates|穿透] {0}% [Lightning Resistance|閃電抗性]"
+        }
+      },
+      {
+        "original":"{0}% increased Effect of your [Mark|Mark] Skills",
+        "translation":{
+          "zh_cn":"你的[Mark|印记]技能效果提高 {0}%",
+          "zh_tw":"增加 {0}% 你的[Mark|印記]技能效果"
+        }
+      },
+      {
+        "original":"{0}% increased [Magnitude|Magnitude] of [Poison|Poison] you inflict",
+        "translation":{
+          "zh_cn":"你造成的[Poison|中毒][Magnitude|强度]提高 {0}%",
+          "zh_tw":"增加 {0}% 你所施加之[Poison|中毒]的[Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"{0}% increased [Projectile|Projectile] Damage",
+        "translation":{
+          "zh_cn":"[Projectile|投射物]伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Projectile|投射物]傷害"
+        }
+      },
+      {
+        "original":"{0}% increased bonuses gained from Equipped [Quiver|Quiver]",
+        "translation":{
+          "zh_cn":"装备[Quiver|箭袋]获得的加成提高 {0}%",
+          "zh_tw":"增加 {0}% 從已裝備[Quiver|箭袋]獲得的加成"
+        }
+      },
+      {
+        "original":"{0}% increased Damage with [Spears|Spears]",
+        "translation":{
+          "zh_cn":"[Spears|战矛]的伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Spears|長矛]傷害"
+        }
+      },
+      {
+        "original":"{0}% increased [Projectile|Projectile] Damage if you've dealt a [Melee|Melee] [Hit|Hit] in the past eight seconds",
+        "translation":{
+          "zh_cn":"若你在过去 8 秒内造成过[Melee|近战][Hit|击中]，[Projectile|投射物]伤害提高 {0}%",
+          "zh_tw":"如果你在過去 8 秒內以[Melee|近戰][Hit|擊中]，增加 {0}% 則[Projectile|投射物]傷害"
+        }
+      },
+      {
+        "original":"{0}% increased [Melee|Melee] Damage if you've dealt a [Projectile|Projectile] [Attack|Attack] [Hit|Hit] in the past eight seconds",
+        "translation":{
+          "zh_cn":"若你在过去 8 秒内造成过[Projectile|投射物][Attack|攻击][Hit|击中]，[Melee|近战]伤害提高 {0}%",
+          "zh_tw":"如果你在過去 8 秒內以[Projectile|投射物][Attack|攻擊][Hit|擊中]，增加 {0}% [Melee|近戰]傷害"
+        }
+      },
+      {
+        "original":"{0}% increased [Parry|Parry] Damage",
+        "translation":{
+          "zh_cn":"[Parry|招架]伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Parry|招架]傷害"
+        }
+      },
+      {
+        "original":"[Companions|Companions] deal {0}% increased Damage",
+        "translation":{
+          "zh_cn":"[Companions|伙伴]的伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Companions|盟友]造成的傷害"
+        }
+      },
+      {
+        "original":"[Companions|Companions] have {0}% increased maximum Life",
+        "translation":{
+          "zh_cn":"[Companions|伙伴]的生命上限提高 {0}%",
+          "zh_tw":"增加 {0}% [Companions|盟友]的最大生命"
+        }
+      },
+      {
+        "original":"{0}% increased [Hazard|Hazard] Damage",
+        "translation":{
+          "zh_cn":"[Hazard|危害]伤害提高 {0}%",
+          "zh_tw":"增加 {0}% [Hazard|危險]的傷害"
+        }
+      }
+    ]
+  },
+  {
+    "group":[
+      {
+        "original":"Damage [Penetrates|Penetrates] {0}% [Cold Resistance|Cold Resistance]",
+        "translation":{
+          "zh_cn":"伤害[Penetrates|穿透] {0}% [Cold Resistance|冰霜抗性]",
+          "zh_tw":"傷害[Penetrates|穿透] {0}% [Cold Resistance|冰冷抗性]"
+        }
+      },
+      {
+        "original":"{0}% increased Damage if you have Consumed a [Corpse|Corpse] [Recently|Recently]",
+        "translation":{
+          "zh_cn":"若你[Recently|近期]内有消耗[Corpse|灵柩]，则伤害提高 {0}%",
+          "zh_tw":"若你[Recently|近期]消耗過[Corpse|屍體]，增加 {0}% 傷害"
+        }
+      },
+      {
+        "original":"{0}% increased Area of Effect of [Curses|Curses]",
+        "translation":{
+          "zh_cn":"[Curses|诅咒]的效果范围提高 {0}%",
+          "zh_tw":"增加 {0}% [Curses|詛咒]效果範圍"
+        }
+      },
+      {
+        "original":"{0}% increased [Energy Shield|Energy Shield] from Equipped [Focus|Focus]",
+        "translation":{
+          "zh_cn":"装备[Focus|法器]的[Energy Shield|能量护盾]提高 {0}%",
+          "zh_tw":"增加 {0}% 來自已裝備[Focus|法器]的[Energy Shield|能量護盾]"
+        }
+      },
+      {
+        "original":"[Offerings|Offerings] have {0}% increased Maximum Life",
+        "translation":{
+          "zh_cn":"[Offerings|奉献]的生命上限提高 {0}%",
+          "zh_tw":"[Offerings|奉獻]增加 {0}% 最大生命"
+        }
+      },
+      {
+        "original":"[Triggered|Triggered] [Spells|Spells] deal {0}% increased [Spell|Spell] Damage",
+        "translation":{
+          "zh_cn":"被[Triggered|触发][Spells|法术]的[Spell|法术]伤害提高 {0}%",
+          "zh_tw":"[Triggered|觸發][Spells|法術]增加 {0}% 造成的[Spell|法術]傷害"
+        }
+      }
+    ]
+  },
+  {
+    "original":"Base Suffix",
+    "translation":{
+      "zh_cn":"基础 后缀",
+      "zh_tw":"基礎 後綴"
+    }
+  },
+  {
+    "group":[
+      {
+        "original":"{0}% increased [Armour Break|Armour Break] Duration",
+        "translation":{
+          "zh_cn":"[Armour Break|护甲破损]持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% [Armour Break|護甲破壞]持續時間"
+        }
+      },
+      {
+        "original":"{0}% increased Bleeding Duration",
+        "translation":{
+          "zh_cn":"流血持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% 流血持續時間"
+        }
+      },
+      {
+        "original":"{0}% increased Skill Effect Duration",
+        "translation":{
+          "zh_cn":"技能效果持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% 技能效果持續時間"
+        }
+      },
+      {
+        "original":"{0}% increased [Knockback|Knockback] Distance",
+        "translation":{
+          "zh_cn":"[Knockback|击退]距离提高 {0}%",
+          "zh_tw":"增加 {0}% [Knockback|擊退]距離"
+        }
+      },
+      {
+        "original":"{0}% increased amount of Life [Leeched|Leeched]",
+        "translation":{
+          "zh_cn":"生命[Leeched|偷取]量提高 {0}%",
+          "zh_tw":"增加 {0}% 生命[Leeched|偷取]量"
+        }
+      },
+      {
+        "original":"{0}% increased Life Regeneration rate",
+        "translation":{
+          "zh_cn":"生命再生率提高 {0}%",
+          "zh_tw":"增加 {0}% 生命回復率"
+        }
+      },
+      {
+        "original":"{0}% increased [Stun Buildup|Stun Buildup] with [Maces|Maces]",
+        "translation":{
+          "zh_cn":"[Maces|锤类]的[Stun Buildup|晕眩积蓄]提高 {0}%",
+          "zh_tw":"使用[Maces|錘]時，增加 {0}% [Stun Buildup|暈眩累積]"
+        }
+      },
+      {
+        "original":"[Minions|Minions] have {0}% additional [Physical|Physical] Damage Reduction",
+        "translation":{
+          "zh_cn":"[Minions|召唤生物]有 {0}% 额外[Physical|物理]伤害减免",
+          "zh_tw":"[Minions|召喚物]有 {0}% 額外[Physical|物理]傷害減免"
+        }
+      },
+      {
+        "original":"Gain {0} [Rage|Rage] on [Melee|Melee] [Hit|Hit]",
+        "translation":{
+          "zh_cn":"[Melee|近战][Hit|击中]时获得 {0} [Rage|怒火]",
+          "zh_tw":"[Melee|近戰][Hit|擊中]時，獲得 {0} 層[Rage|盛怒]"
+        }
+      },
+      {
+        "original":"Gain {0} [Rage|Rage] when [Hit|Hit] by an Enemy",
+        "translation":{
+          "zh_cn":"被敌人[Hit|击中]时获得 {0} 点[Rage|怒火]",
+          "zh_tw":"遭敵人[Hit|擊中]時，獲得 {0} 層[Rage|盛怒]"
+        }
+      },
+      {
+        "original":"{0}% increased [Stun|Stun] Buildup",
+        "translation":{
+          "zh_cn":"[Stun|晕眩]积蓄值提高 {0}%",
+          "zh_tw":"增加 {0}% [Stun|暈眩]累積"
+        }
+      },
+      {
+        "original":"{0}% increased [Stun Threshold|Stun Threshold]",
+        "translation":{
+          "zh_cn":"[Stun Threshold|晕眩阈值]提高 {0}%",
+          "zh_tw":"增加 {0}% [Stun Threshold|暈眩門檻]"
+        }
+      },
+      {
+        "original":"{0}% increased [Totem|Totem] Placement speed",
+        "translation":{
+          "zh_cn":"你的[Totem|图腾]放置速度提高 {0}%",
+          "zh_tw":"增加 {0}% [Totem|圖騰]設置速度"
+        }
+      },
+      {
+        "original":"{0}% increased [Warcry|Warcry] Cooldown Recovery Rate",
+        "translation":{
+          "zh_cn":"[Warcry|战吼]冷却回复速度提高 {0}%",
+          "zh_tw":"增加 {0}% [Warcry|戰吼]冷卻時間恢復率"
+        }
+      },
+      {
+        "original":"{0}% increased [Warcry|Warcry] Speed",
+        "translation":{
+          "zh_cn":"[Warcry|战吼]速度提高 {0}%",
+          "zh_tw":"增加 {0}% [Warcry|戰吼]速度"
+        }
+      },
+      {
+        "original":"{0}% increased [Glory|Glory] generation for [Banner|Banner] Skills",
+        "translation":{
+          "zh_cn":"[Banner|旗帜]技能的[Glory|荣耀]产生速度提高 {0}%",
+          "zh_tw":"[Banner|旗幟]技能增加 {0}% 生成的[Glory|榮耀]"
+        }
+      },
+      {
+        "original":"[Banner|Banner] Skills have {0}% increased Duration",
+        "translation":{
+          "zh_cn":"[Banner|旗帜]技能的持续时间提高 {0}%",
+          "zh_tw":"[Banner|旗幟]技能增加 {0}% 持續時間"
+        }
+      },
+      {
+        "original":"{0}% increased [Skill Speed|Skill Speed] while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"[Shapeshifted|变形]时，[Skill Speed|技能速度]提高 {0}%",
+          "zh_tw":"你[Shapeshifted|變形]期間，增加 {0}% [Skill Speed|技能速度]"
+        }
+      }
+    ]
+  },
+  {
+    "group":[
+      {
+        "original":"{0}% chance to [Blind|Blind] Enemies on [Hit|Hit] with [Attacks|Attacks]",
+        "translation":{
+          "zh_cn":"[Attacks|攻击][Hit|击中]有 {0}% 的几率[Blind|致盲]敌人",
+          "zh_tw":"[Attacks|攻擊][Hit|擊中]有 {0}% 機率[Blind|致盲]敵人"
+        }
+      },
+      {
+        "original":"{0}% increased [Attack|Attack] Speed with Bows",
+        "translation":{
+          "zh_cn":"弓类攻击的[Attack|攻击]速度提高 {0}%",
+          "zh_tw":"弓增加 {0}% [Attack|攻擊]速度"
+        }
+      },
+      {
+        "original":"{0}% increased [Attack|Attack] Speed with [Quarterstaves|Quarterstaves]",
+        "translation":{
+          "zh_cn":"[Quarterstaves|节杖]的[Attack|攻击]速度提高 {0}%",
+          "zh_tw":"增加 {0}% [Quarterstaves|細杖][Attack|攻擊]速度"
+        }
+      },
+      {
+        "original":"[Projectiles|Projectiles] have {0}% chance to [Chain|Chain] an additional time from terrain",
+        "translation":{
+          "zh_cn":"[Projectiles|投射物]击中地形时有 {0}% 的几率额外[Chain|连锁]一次",
+          "zh_tw":"[Projectiles|投射物]有 {0}% 機率從地形額外[Chain|連鎖]一次"
+        }
+      },
+      {
+        "original":"{0}% increased [Crossbow|Crossbow] Reload Speed",
+        "translation":{
+          "zh_cn":"[Crossbow|战弩]装填速度提高 {0}%",
+          "zh_tw":"增加 {0}% [Crossbow|十字弓]裝填速度"
+        }
+      },
+      {
+        "original":"{0}% increased [Attack|Attack] Speed with [Crossbows|Crossbows]",
+        "translation":{
+          "zh_cn":"[Crossbows|战弩]的[Attack|攻击]速度提高 {0}%",
+          "zh_tw":"增加 {0}% [Crossbows|十字弓][Attack|攻擊]速度"
+        }
+      },
+      {
+        "original":"{0}% chance to [Daze|Daze] on [Hit|Hit]",
+        "translation":{
+          "zh_cn":"[Hit|击中]时有 {0}% 的几率使目标[Daze|恍惚]",
+          "zh_tw":"[Hit|擊中]時有 {0}% 機率造成[Daze|目眩]"
+        }
+      },
+      {
+        "original":"{0}% increased Duration of [Ignite|Ignite], [Shock|Shock] and [Chill|Chill] on Enemies",
+        "translation":{
+          "zh_cn":"敌人受到的[Ignite|点燃]、[Shock|感电]和[Chill|冰缓]持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% 敵人身上的[Ignite|點燃]、[Shock|感電]和[Chill|冰緩]持續時間"
+        }
+      },
+      {
+        "original":"[Damaging Ailments|Damaging Ailments] deal damage {0}% faster",
+        "translation":{
+          "zh_cn":"[Damaging Ailments|伤害型异常状态]生效速度加快 {0}%",
+          "zh_tw":"[Damaging Ailments|傷害型異常狀態]造成傷害加速 {0}%"
+        }
+      },
+      {
+        "original":"{0}% increased [Flask|Flask] Effect Duration",
+        "translation":{
+          "zh_cn":"[Flask|药剂]效果的持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% [Flask|藥劑]效果持續時間"
+        }
+      },
+      {
+        "original":"Projectiles have {0}% chance for an additional Projectile when [Forking|Forking]",
+        "translation":{
+          "zh_cn":"投射物[Forking|分叉]时，有 {0}% 的几率发射一个额外投射物",
+          "zh_tw":"投射物[Forking|分岔]時有 {0}% 機率發射 1 個額外投射物"
+        }
+      },
+      {
+        "original":"{0}% increased Life Recovery from [Flasks|Flasks]",
+        "translation":{
+          "zh_cn":"[Flask|药剂]的生命回复提高 {0}%",
+          "zh_tw":"增加 {0}% [Flask|藥劑]的生命恢復"
+        }
+      },
+      {
+        "original":"{0}% increased Life [Flask|Flask] Charges gained",
+        "translation":{
+          "zh_cn":"获得的生命[Flask|药剂]充能提高 {0}%",
+          "zh_tw":"增加 {0}% 生命[Flask|藥劑]充能獲取"
+        }
+      },
+      {
+        "original":"{0}% increased Mana [Flask|Flask] Charges gained",
+        "translation":{
+          "zh_cn":"获得的魔力[Flask|药剂]充能提高 {0}%",
+          "zh_tw":"增加 {0}% 魔力[Flask|藥劑]充能獲取"
+        }
+      },
+      {
+        "original":"{0}% increased Mana Recovery from [Flasks|Flasks]",
+        "translation":{
+          "zh_cn":"[Flask|药剂]的魔力回复提高 {0}%",
+          "zh_tw":"增加 {0}% [Flask|藥劑]的魔力恢復"
+        }
+      },
+      {
+        "original":"{0}% increased amount of Mana [Leeched|Leeched]",
+        "translation":{
+          "zh_cn":"魔力[Leeched|偷取]量提高 {0}%",
+          "zh_tw":"增加 {0}% 魔力[Leeched|偷取]量"
+        }
+      },
+      {
+        "original":"[Mark|Mark] Skills have {0}% increased Use Speed",
+        "translation":{
+          "zh_cn":"[Mark|印记]技能的施法速度提高 {0}%",
+          "zh_tw":"增加 {0}% [Mark|印記]技能的施放速度"
+        }
+      },
+      {
+        "original":"[Mark|Mark] Skills have {0}% increased Skill Effect Duration",
+        "translation":{
+          "zh_cn":"[Mark|印记]技能的技能效果持续时间提高 {0}%",
+          "zh_tw":"[Mark|印記]技能增加 {0}% 技能效果持續時間"
+        }
+      },
+      {
+        "original":"{0}% increased [Pin|Pin] Buildup",
+        "translation":{
+          "zh_cn":"[Pin|定身]积蓄值提高 {0}%",
+          "zh_tw":"增加 {0}% [Pin|釘身]累積"
+        }
+      },
+      {
+        "original":"{0}% chance to [Poison|Poison] on [Hit|Hit]",
+        "translation":{
+          "zh_cn":"[Hit|击中]时有 {0}% 的几率使目标[Poison|中毒]",
+          "zh_tw":"[Hit|擊中]時有 {0}% 機率造成[Poison|中毒]"
+        }
+      },
+      {
+        "original":"{0}% increased [Poison|Poison] Duration",
+        "translation":{
+          "zh_cn":"[Poison|中毒]持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% [Poison|中毒]持續時間"
+        }
+      },
+      {
+        "original":"{0}% increased [Freeze|Freeze] Buildup with [Quarterstaves|Quarterstaves]",
+        "translation":{
+          "zh_cn":"[Quarterstaves|节杖]的[Freeze|冻结]积蓄值提高 {0}%",
+          "zh_tw":"增加 {0}% [Quarterstaves|細杖]的[Freeze|冰凍]累積"
+        }
+      },
+      {
+        "original":"{0}% increased [Shock|Shock] Duration",
+        "translation":{
+          "zh_cn":"[Shock|感电]持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% [Shock|感電]持續時間"
+        }
+      },
+      {
+        "original":"{0}% reduced [Slowing|Slowing] Potency of [Debuffs|Debuffs] on You",
+        "translation":{
+          "zh_cn":"你受到的[Debuffs|异常状态]的[Slowing|减速]强度降低 {0}%",
+          "zh_tw":"減少 {0}% 你身上的[Debuffs|減益效果][Slowing|緩速]程度"
+        }
+      },
+      {
+        "original":"{0}% increased [Attack|Attack] Speed with [Spears|Spears]",
+        "translation":{
+          "zh_cn":"[Spears|战矛]的[Attack|攻击]速度提高 {0}%",
+          "zh_tw":"增加 {0}% [Spears|長矛][Attack|攻擊]速度"
+        }
+      },
+      {
+        "original":"{0}% increased [Critical Damage Bonus|Critical Damage Bonus] with [Spears|Spears]",
+        "translation":{
+          "zh_cn":"[Spears|战矛]的[Critical Damage Bonus|暴击伤害加成]提高 {0}%",
+          "zh_tw":"增加 {0}% 使用[Spears|長矛]時[Critical Damage Bonus|暴擊傷害加成]"
+        }
+      },
+      {
+        "original":"{0}% increased [Stun Threshold|Stun Threshold] if you haven't been [Stunned|Stunned] [Recently|Recently]",
+        "translation":{
+          "zh_cn":"若你[Recently|近期]未被[Stunned|晕眩]，[Stun Threshold|晕眩阈值]提高 {0}%",
+          "zh_tw":"若你[Recently|近期]未[Stunned|遭暈眩]，增加 {0}% [Stun Threshold|暈眩門檻]"
+        }
+      },
+      {
+        "original":"{0}% increased [Parried Debuff|Parried Debuff] Duration",
+        "translation":{
+          "zh_cn":"[Parried Debuff|被招架减益状态]的持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% [Parried Debuff|受招架減益效果]持續時間"
+        }
+      },
+      {
+        "original":"{0}% increased [Stun Threshold|Stun Threshold] while [Parrying|Parrying]",
+        "translation":{
+          "zh_cn":"[Parrying|招架]时的[Stun Threshold|晕眩阈值]提高 {0}%",
+          "zh_tw":"[Parrying|招架]期間增加 {0}% [Stun Threshold|暈眩門檻]"
+        }
+      }
+    ]
+  },
+  {
+    "group":[
+      {
+        "original": "{0}% increased chance to inflict [Ailments|Ailments]",
+        "translation": {
+          "zh_cn": "造成[Ailments|异常状态]的几率提高 {0}%",
+          "zh_tw": "增加 {0}% 造成[Ailments|異常狀態]的機率"
+        }
+      },
+      {
+        "original":"{0}% increased [Chill|Chill] Duration on Enemies",
+        "translation":{
+          "zh_cn":"敌人被[Chill|冰缓]的持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% 敵人身上的[Chill|冰緩]持續時間"
+        }
+      },
+      {
+        "original":"{0}% faster [Curse|Curse] Activation",
+        "translation":{
+          "zh_cn":"[Curse|诅咒]激活速度加快 {0}%",
+          "zh_tw":"[Curse|詛咒]啟動速度加快 {0}%"
+        }
+      },
+      {
+        "original":"{0}% increased [Curse|Curse] Duration",
+        "translation":{
+          "zh_cn":"[Curse|诅咒]持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% [Curse|詛咒]持續時間"
+        }
+      },
+      {
+        "original":"{0}% increased [Freeze Threshold|Freeze Threshold]",
+        "translation":{
+          "zh_cn":"[Freeze Threshold|冻结阈值]提高 {0}%",
+          "zh_tw":"增加 {0}% [Freeze Threshold|冰凍門檻]"
+        }
+      },
+      {
+        "original":"Recover {0}% of maximum Life on Kill",
+        "translation":{
+          "zh_cn":"生命在击败敌人时恢复 {0}%",
+          "zh_tw":"擊殺時恢復 {0}% 生命"
+        }
+      },
+      {
+        "original":"Recover {0}% of maximum Mana on Kill",
+        "translation":{
+          "zh_cn":"击败敌人会回复 {0}% 魔力",
+          "zh_tw":"擊殺時恢復 {0}% 魔力"
+        }
+      },
+      {
+        "original":"[Minions|Minions] have {0}% increased [Attack|Attack] and Cast Speed",
+        "translation":{
+          "zh_cn":"[Minions|召唤生物]的[Attack|攻击]和施法速度提高 {0}%",
+          "zh_tw":"[Minions|召喚物]增加 {0}% [Attack|攻擊]和施放速度"
+        }
+      },
+      {
+        "original":"[Minions|Minions] have {0}% to [Chaos|Chaos] [Resistance|Resistance]",
+        "translation":{
+          "zh_cn":"[Minions|召唤生物]有 {0}% [Chaos|混沌][Resistance|抗性]",
+          "zh_tw":"[Minions|召喚物] {0}% [Chaos|混沌][Resistance|抗性]"
+        }
+      },
+      {
+        "original":"[Minions|Minions] have {0}% increased [Critical Hit Chance|Critical Hit Chance]",
+        "translation":{
+          "zh_cn":"[Minions|召唤生物]的[Critical Hit Chance|暴击率]提高 {0}%",
+          "zh_tw":"增加 {0}% [Minions|召喚物]的[Critical Hit Chance|暴擊率]"
+        }
+      },
+      {
+        "original":"[Minions|Minions] have {0}% increased [Critical Damage Bonus|Critical Damage Bonus]",
+        "translation":{
+          "zh_cn":"[Minions|召唤生物]的[Critical Damage Bonus|暴击伤害加成]提高 {0}%",
+          "zh_tw":"[Minions|召喚物]增加 {0}% [Critical Damage Bonus|暴擊傷害加成]"
+        }
+      },
+      {
+        "original":"[Offering|Offering] Skills have {0}% increased Duration",
+        "translation":{
+          "zh_cn":"[Offering|祭品]技能的持续时间提高 {0}%",
+          "zh_tw":"[Offering|奉獻]技能增加 {0}% 持續時間"
+        }
+      },
+      {
+        "original":"Gain additional [Ailment Threshold|Ailment Threshold] equal to {0}% of maximum [Energy Shield|Energy Shield]",
+        "translation":{
+          "zh_cn":"获得额外[Ailment Threshold|异常状态阈值]，相当于最大[Energy Shield|能量护盾]的 {0}%",
+          "zh_tw":"獲得相當於最大[Energy Shield|能量護盾] {0}% 的額外[Ailment Threshold|異常狀態門檻]"
+        }
+      }
+    ]
+  }
+]

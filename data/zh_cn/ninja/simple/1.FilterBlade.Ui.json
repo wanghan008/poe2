@@ -1,0 +1,2040 @@
+{
+  "FAQ":{
+    "zh_cn":"常见问题",
+    "zh_tw":"常見問題"
+  },
+  "Profile":{
+    "zh_cn":"个人资料",
+    "zh_tw":"個人資料"
+  },
+  "Initializing FilterBlade...":{
+    "zh_cn":"初始化过滤器...",
+    "zh_tw":"初始化篩選器..."
+  },
+  "Create new filter":{
+    "zh_cn":"创建新过滤器",
+    "zh_tw":"創建新篩選器"
+  },
+  "Load":{
+    "zh_cn":"加载",
+    "zh_tw":"加載"
+  },
+  "Base Filter: NeverSink SC Uber Strict Normal":{
+    "zh_cn":"基础过滤器: NeverSink 软核 严格 普通",
+    "zh_tw":"基礎篩選器: NeverSink 軟核 嚴格 一般"
+  },
+  "You can also view":{
+    "zh_cn":"您也可以查看",
+    "zh_tw":"您也可以查看"
+  },
+  "other player's filters":{
+    "zh_cn":"其他玩家的过滤器",
+    "zh_tw":"其他玩家的篩選器"
+  },
+  " and ":{
+    "zh_cn":"和",
+    "zh_tw":"和"
+  },
+  "your synced filters":{
+    "zh_cn":"您的同步过滤器",
+    "zh_tw":"您的同步篩選器"
+  },
+  "Load Auto-Save?":{
+    "zh_cn":"加载自动保存的过滤器?",
+    "zh_tw":"加載自動保存的篩選器?"
+  },
+  "Loads the changes from your last FilterBlade session.":{
+    "zh_cn":"加载您最后一次 FilterBlade 会话的更改.",
+    "zh_tw":"加載您最後一次 FilterBlade 會話的更改."
+  },
+  "Reset filter":{
+    "zh_cn":"重置过滤器",
+    "zh_tw":"重置篩選器"
+  },
+  "Back to My Filters":{
+    "zh_cn":"返回我的过滤器",
+    "zh_tw":"返回我的篩選器"
+  },
+  "OVERVIEW":{
+    "zh_cn":"概览",
+    "zh_tw":"概覽"
+  },
+  "Overview_group":[
+    {
+      "NeverSink SC":{
+        "zh_cn":"NeverSink 软核",
+        "zh_tw":"NeverSink 軟核"
+      },
+      "Tiering based on current softcore economy. Updated every 4 hours.":{
+        "zh_cn":"基于当前软核经济的物品分级.每4小时自动更新一次.",
+        "zh_tw":"基於當前軟核經濟的物品分級.每4小時自動更新一次."
+      },
+      "NeverSink stable":{
+        "zh_cn":"NeverSink 稳定",
+        "zh_tw":"NeverSink 穩定"
+      },
+      "Tiering based on last handmade update.":{
+        "zh_cn":"基于最后手动更新的物品分级标准.",
+        "zh_tw":"基於最後手動更新的物品分級標準."
+      },
+      "STRICTNESS - how much the filter hides":{
+        "zh_cn":"严格度 - 过滤器隐藏物品的程度",
+        "zh_tw":"嚴格度 - 篩選器隱藏物品的程度"
+      },
+      "Soft":{
+        "zh_cn":"宽松",
+        "zh_tw":"寬鬆"
+      },
+      "Barely hides anything. Only focuses on highlighting. Not recommended for endgame gameplay.":{
+        "zh_cn":"几乎不隐藏任何物品,仅专注于突出显示.不建议用于终局游戏.",
+        "zh_tw":"幾乎不隱藏任何物品,僅專注於突出顯示.不建議用於終局遊戲."
+      },
+      "Regular":{
+        "zh_cn":"常规",
+        "zh_tw":"一般"
+      },
+      "Low strictness. Shows all rares and crafting bases. Shows too much for higher waystones. Shows anything remotely useable.":{
+        "zh_cn":"低严格度,显示所有稀有物品和制作底材.对高阶引路石显示过多信息,会显示任何可能有用的物品.",
+        "zh_tw":"低嚴格度,顯示所有稀有物品和製作底材.對高階換界石顯示過多資訊,會顯示任何可能有用的物品."
+      },
+      "Semi-Strict":{
+        "zh_cn":"半严格",
+        "zh_tw":"半嚴格"
+      },
+      "Recommended filter-strictness for beginners and league-starters. Shows anything potentially useful, while hiding the worst of drops.":{
+        "zh_cn":"推荐给新手和赛季初期玩家使用.显示所有潜在有用物品,同时隐藏最无价值的掉落物.",
+        "zh_tw":"推薦給新手和賽季初期玩家使用.顯示所有潛在有用物品,同時隱藏最無價值的掉落物."
+      },
+      "Strict":{
+        "zh_cn":"严格",
+        "zh_tw":"嚴格"
+      },
+      "Recommended for waystone early-mid waystone tiers. Hides least effective rares, salvagables and runes in the endgame.":{
+        "zh_cn":"推荐用于引路石游戏中期.在终局阶段会隐藏效果最差的稀有物品、可回收物品和符文.",
+        "zh_tw":"推薦用於換界石遊戲中期.在終局階段會隱藏效果最差的稀有物品、可回收物品和符文."
+      },
+      "Very Strict":{
+        "zh_cn":"非常严格",
+        "zh_tw":"非常嚴格"
+      },
+      "Recommended for endgame waystone farming. Hides most inefficient rares, crafting bases.":{
+        "zh_cn":"推荐用于终局引路石刷怪.隐藏大部分效率低下的稀有物品和制作底材.",
+        "zh_tw":"推薦用於終局換界石刷怪.隱藏大部分效率低下的稀有物品和製作底材."
+      },
+      "Hides regular transmutation and augmentation orbs in the endgame":{
+        "zh_cn":"在终局阶段会隐藏普通的蜕变石和增幅石.",
+        "zh_tw":"在終局階段會隱藏普通的蛻變石和增幅石."
+      },
+      "Uber Strict":{
+        "zh_cn":"极限严格",
+        "zh_tw":"極限嚴格"
+      },
+      "Endgame farming: T14+ waystones only. Focus on pure currencies. Hides most rares. Designed for optimized gameplay.":{
+        "zh_cn":"终局刷怪专用:仅适用于T14+引路石.专注于纯通货掉落,隐藏大部分稀有物品.专为优化游戏体验设计.",
+        "zh_tw":"終局刷怪專用:僅適用於T14+換界石.專注於純通貨掉落,隱藏大部分稀有物品.專為優化遊戲體驗設計."
+      },
+      "Hides lowest tier of currencies. Hides low uniques.":{
+        "zh_cn":"隐藏最低级别的通货和低价值暗金物品.",
+        "zh_tw":"隱藏最低級別的通貨和低價值暗金物品."
+      },
+      "Uber Plus Strict":{
+        "zh_cn":"超级严格Plus",
+        "zh_tw":"超級嚴格Plus"
+      },
+      "Endgame farming: T15+ waystones only. Hides alchemy-grade currencies. Designed for high-juiced gameplay.":{
+        "zh_cn":"终局刷怪专用:仅适用于T15+引路石.隐藏炼金级通货.专为高收益游戏设计.",
+        "zh_tw":"終局刷怪專用:僅適用於T15+換界石.隱藏煉金級通貨.專為高收益遊戲設計."
+      },
+      "WARNING: Hides waystone tiers 1-14. Will hide many boss-drop-uniques to minimize clutter in maps. Check hidden items when bossing. Hides lower currency tiers":{
+        "zh_cn":"警告:隐藏 T1-14 引路石.会隐藏许多BOSS掉落的暗金物品以减少地图杂乱.打BOSS时请检查隐藏物品.隐藏低级别通货.",
+        "zh_tw":"警告:隱藏 T1-14 換界石.會隱藏許多BOSS掉落的暗金物品以減少地圖雜亂.打BOSS時請檢查隱藏物品.隱藏低級別通貨."
+      },
+      "Global Filter Style":{
+        "zh_cn":"全局过滤器样式",
+        "zh_tw":"全局篩選器樣式"
+      },
+      "Change the visual style and sounds of the base filter":{
+        "zh_cn":"改变基本过滤器的可视化样式和音效.",
+        "zh_tw":"改變基本篩選器的視覺樣式和音效."
+      },
+      "STYLE - the looks of the filter":{
+        "zh_cn":"过滤器样式",
+        "zh_tw":"篩選器樣式"
+      },
+      "Normal":{
+        "zh_cn":"普通",
+        "zh_tw":"一般"
+      },
+      "The classic look of NeverSink's filter (finetuned for PoE2). Valuable drops are highlighted with bright hues. All colors, sounds and map icons are grouped and reused carefully with the focus on fun and information.":{
+        "zh_cn":"经典的NeverSink过滤器样式(针对 PoE2 进行了优化).高价值掉落物以鲜艳的色调突出显示.所有颜色、音效和地图图标都被精心分组和重复使用,兼顾趣味性和信息量.",
+        "zh_tw":"經典的NeverSink篩選器樣式(針對 PoE2 進行了最佳化).高價值掉落物以鮮豔的色調突出顯示.所有顏色、音效和地圖圖標都被精心分組和重複使用,兼顧趣味性和資訊量."
+      },
+      "Dark Mode|DarkMode:":{
+        "zh_cn":"暗黑模式|暗黑模式:",
+        "zh_tw":"暗黑模式|暗黑模式:"
+      },
+      "Reuses the logic of the classic style, but focuses on dark backgrounds with high contrast borders and texts. The result is a stylish, gloomy, but still very efficient look.":{
+        "zh_cn":"它沿用了经典风格的逻辑,但着重使用深色背景搭配高对比度的边框和文字.最终呈现出一种时尚,略带阴郁,但依然非常高效的视觉效果.",
+        "zh_tw":"它沿用了經典風格的邏輯,但重點使用深色背景搭配高對比的邊框和文字.最終呈現出一種風格,帶有陰影,但依然非常高效的視覺效果."
+      },
+      "Zen":{
+        "zh_cn":"禅",
+        "zh_tw":"禪"
+      },
+      "Minimal style. Strong highlights only used for the most expenisve items. Everything else is very close to PoE2's original visuals. Great for customizing!":{
+        "zh_cn":"极简风格. 只有最昂贵的物品才使用醒目的高光. 其他一切都非常接近 PoE2 的原始视觉效果. 非常适合自定义!",
+        "zh_tw":"极简風格. 只有最昂貴的物品才使用醒目的高光. 其他一切都非常接近 PoE2 的原始視覺效果. 非常適合自定義!"
+      },
+      "Mythic":{
+        "zh_cn":"神话",
+        "zh_tw":"傳奇"
+      },
+      "Inspired by a certain MMORPGs color tiers, this style focuses on value-tiering of items. Simplifies the color pattern.":{
+        "zh_cn":"受某款大型多人在线角色扮演游戏（MMORPG）的颜色等级系统启发,这种风格注重物品的价值分级.并简化了配色方案.",
+        "zh_tw":"受某款大型多人線上角色扮演遊戲（MMORPG）的顏色等級系統啟發,這種風格注重物品的價值分級.並簡化了配色方案."
+      },
+      "Cobalt":{
+        "zh_cn":"钴",
+        "zh_tw":"钴"
+      },
+      "Bright, vivid style. All items with the same value-tier have the same coloration. Designed for the filter's 10th birthday. ":{
+        "zh_cn":"明亮鲜艳的风格. 同一价位的所有商品采用相同的配色. 专为该滤镜诞生十周年而设计.",
+        "zh_tw":"明亮鮮豔的風格. 同一價位的所有商品採用相同的配色. 專為此濾鏡誕生十週年而設計."
+      },
+      "SOUNDS - the audio of the filter":{
+        "zh_cn":"音效 - 过滤器的音频",
+        "zh_tw":"音效 - 篩選器的音頻"
+      },
+      "Default   Sounds":{
+        "zh_cn":"默认音效",
+        "zh_tw":"默認音效"
+      },
+      "Default Sounds:":{
+        "zh_cn":"默认音效:",
+        "zh_tw":"默認音效:"
+      },
+      "Default PoE sounds picked by NeverSink":{
+        "zh_cn":"默认PoE音效,由NeverSink选择",
+        "zh_tw":"默認PoE音效,由NeverSink選擇"
+      },
+      "Custom   Sounds":{
+        "zh_cn":"自定义音效",
+        "zh_tw":"自定義音效"
+      },
+      "Filter uses a set of placeholder mp3 FILES. Replace them with your own files, but keep the same file-names!":{
+        "zh_cn":"过滤器使用一组占位符 mp3 文件. 用您自己的文件替换它们,但保持文件名相同!",
+        "zh_tw":"篩選器使用一組占位符 mp3 文件. 用您自己的文件替換它們,但保持文件名相同!"
+      },
+      "If you want different filenames, adjust in the style tab, INSTEAD of using this style.":{
+        "zh_cn":"如果您想使用不同的文件名,请在样式选项卡中调整,而不是使用此样式.",
+        "zh_tw":"如果您想使用不同的文件名,請在樣式選項卡中調整,而不是使用此樣式."
+      },
+      "Does NOT work on consoles!":{
+        "zh_cn":"注意: 在游戏主机上无法运行!",
+        "zh_tw":"注意: 在遊戲主機上無法運作!"
+      },
+      "Modules":{
+        "zh_cn":"模块",
+        "zh_tw":"模組"
+      },
+      "Add modular changes that modify the filter appearance, sounds and filtering. Use the customize screen to implement more changes!":{
+        "zh_cn":"添加模块化更改,可以修改过滤器的外观、音效和过滤功能.使用自定义屏幕实现更多更改!",
+        "zh_tw":"添加模組化更改,可以修改篩選器的外觀、音效和篩選功能.使用自定義屏幕實現更多更改!"
+      },
+      "More info":{
+        "zh_cn":"更多信息",
+        "zh_tw":"更多資訊"
+      },
+      "here":{
+        "zh_cn":"在这里",
+        "zh_tw":"在這裡"
+      },
+      "Official":{
+        "zh_cn":"官方",
+        "zh_tw":"官方"
+      },
+      "Public":{
+        "zh_cn":"公共",
+        "zh_tw":"公共"
+      },
+      "My Own":{
+        "zh_cn":"我的自定义",
+        "zh_tw":"我的自定義"
+      },
+      "Currently loaded ({0})":{
+        "zh_cn":"当前加载 ({0})",
+        "zh_tw":"當前加載 ({0})"
+      },
+      "Search...":{
+        "zh_cn":"搜索...",
+        "zh_tw":"搜索..."
+      },
+      "By Author...":{
+        "zh_cn":"按作者...",
+        "zh_tw":"按作者..."
+      },
+      "Minimum views...":{
+        "zh_cn":"最低浏览量...",
+        "zh_tw":"最低瀏覽量..."
+      },
+      "Search":{
+        "zh_cn":"搜索",
+        "zh_tw":"搜索"
+      },
+      "Preset-Type:":{
+        "zh_cn":"预设类型:",
+        "zh_tw":"預設類型:"
+      },
+      "Colors-only":{
+        "zh_cn":"仅颜色",
+        "zh_tw":"僅顏色"
+      },
+      "Soundpack":{
+        "zh_cn":"音效包",
+        "zh_tw":"音效包"
+      },
+      "For Beginners":{
+        "zh_cn":"针对初学者",
+        "zh_tw":"針對初學者"
+      },
+      "High-strictness":{
+        "zh_cn":"高严格性",
+        "zh_tw":"高嚴格性"
+      },
+      "Leveling":{
+        "zh_cn":"升级",
+        "zh_tw":"升级"
+      },
+      "Racing":{
+        "zh_cn":"竞速",
+        "zh_tw":"賽車"
+      },
+      "Ruthless":{
+        "zh_cn":"专家",
+        "zh_tw":"專家"
+      },
+      "SSF":{
+        "zh_cn":"SSF",
+        "zh_tw":"SSF"
+      },
+      "Build-Specific:":{
+        "zh_cn":"针对BD:",
+        "zh_tw":"針對BD:"
+      },
+      "Archer":{
+        "zh_cn":"弓箭手",
+        "zh_tw":"弓箭手"
+      },
+      "Build":{
+        "zh_cn":"Build",
+        "zh_tw":"Build"
+      },
+      "Caster":{
+        "zh_cn":"施法者",
+        "zh_tw":"施法者"
+      },
+      "Summoner":{
+        "zh_cn":"召唤师",
+        "zh_tw":"召唤师"
+      },
+      "Wanderer":{
+        "zh_cn":"流浪者",
+        "zh_tw":"流浪者"
+      },
+      "AUTO-ADJUST":{
+        "zh_cn":"自动调整",
+        "zh_tw":"自動調整"
+      },
+      "FOR BUILD":{
+        "zh_cn":"针对BD",
+        "zh_tw":"針對BD"
+      },
+      "(NEW!)":{
+        "zh_cn":"（新功能！）",
+        "zh_tw":"（新功能！）"
+      },
+      "Auto-Adjust to your class/build":{
+        "zh_cn":"自动调整到您的职业/build.",
+        "zh_tw":"自動調整到您的職業/build."
+      },
+      "Auto-Adjust_group":[
+        {
+          "Campaign":{
+            "zh_cn":"剧情",
+            "zh_tw":"劇情"
+          }
+        },
+        {
+          "Auto-Adjust: Campaign":{
+            "zh_cn":"自动调整: 剧情",
+            "zh_tw":"自動調整: 劇情"
+          }
+        },
+        {
+          "ONLY affects campaign areas.":{
+            "zh_cn":"仅影响剧情区域.",
+            "zh_tw":"僅影響劇情區域."
+          }
+        },
+        {
+          "Finetune the loot for your leveling build.":{
+            "zh_cn":"针对等级构建微调掉落.",
+            "zh_tw":"針對等級構建微調掉落."
+          }
+        },
+        {
+          "Vendor Rares Act{0}":{
+            "zh_cn":"第 {0} 章 供应商稀有物品",
+            "zh_tw":"第 {0} 章 供应商稀有物品"
+          }
+        },
+        {
+          "Vendor Rares Later":{
+            "zh_cn":"后续章节 供应商稀有物品",
+            "zh_tw":"後續章節 供应商稀有物品"
+          }
+        },
+        {
+          "Vendor Magics Act{0}":{
+            "zh_cn":"第 {0} 章 供应商魔法物品",
+            "zh_tw":"第 {0} 章 供应商魔法物品"
+          }
+        },
+        {
+          "Vendor Magics Later":{
+            "zh_cn":"后续章节 供应商魔法物品",
+            "zh_tw":"後續章節 供应商魔法物品"
+          }
+        },
+        {
+          "Endgame":{
+            "zh_cn":"终局",
+            "zh_tw":"終局"
+          }
+        },
+        {
+          "Auto-Adjust: Endgame":{
+            "zh_cn":"自动调整: 终局",
+            "zh_tw":"自動調整: 終局"
+          }
+        },
+        {
+          "ONLY affects endgame areas..":{
+            "zh_cn":"仅影响终局区域.",
+            "zh_tw":"僅影響終局區域."
+          }
+        },
+        {
+          "Adjust loot for your build&trade needs.":{
+            "zh_cn":"针对 BD和交易 需求微调掉落.",
+            "zh_tw":"針對 BD和交易 需求微調掉落."
+          }
+        },
+        {
+          "CORE: Prioritize selected classes":{
+            "zh_cn":"核心: 优先考虑选中的职业",
+            "zh_tw":"核心: 優先考慮選中職業"
+          }
+        },
+        {
+          "Highlight prioritised weapons more":{
+            "zh_cn":"高亮显示优先考虑的武器",
+            "zh_tw":"高亮顯示優先考慮的武器"
+          }
+        },
+        {
+          "Show ANY Tier4 and Tier5 items":{
+            "zh_cn":"显示任何 等阶4 和 等阶5 物品",
+            "zh_tw":"顯示任何 等階4 和 等階5 物品"
+          }
+        },
+        {
+          "Show the best of not-selected classes above":{
+            "zh_cn":"显示未选中职业的最佳物品",
+            "zh_tw":"顯示未選中職業的最佳物品"
+          }
+        },
+        {
+          "Hide crafting bases below level 82":{
+            "zh_cn":"隐藏 82级以下 工艺底材",
+            "zh_tw":"隱藏 82級以下 工藝底材"
+          }
+        },
+        {
+          "Hide all basetypes, except for the very best":{
+            "zh_cn":"隐藏所有底材, 除了非常好的",
+            "zh_tw":"隱藏所有底材, 除了非常好的"
+          }
+        },
+        {
+          "Hide ALL rare items without a tier":{
+            "zh_cn":"隐藏所有,无等阶,稀有物品",
+            "zh_tw":"隱藏所有,無等階,稀有物品"
+          }
+        },
+        {
+          "Hide ALL magic items without a tier":{
+            "zh_cn":"隐藏所有,无等阶,魔法物品",
+            "zh_tw":"隱藏所有,無等階,魔法物品"
+          }
+        }
+      ],
+      "Filter Overview":{
+        "zh_cn":"过滤器概览",
+        "zh_tw":"篩選器概覽"
+      },
+      "Pro tip: You can right-click ANY item to jump directly into its customizer rule!":{
+        "zh_cn":"提示: 您可以右键点击任何物品直接跳转到其自定义规则!",
+        "zh_tw":"提示: 您可以右鍵單擊任何物品直接跳轉到其自定義規則!"
+      },
+      "Switch view":{
+        "zh_cn":"切换视图",
+        "zh_tw":"切換視圖"
+      },
+      "Detailed explanation":{
+        "zh_cn":"规则详情",
+        "zh_tw":"詳細解釋"
+      },
+      "COMMON CURRENCIES":{
+        "zh_cn":"常用通货",
+        "zh_tw":"常用通貨"
+      },
+      "MID-TIER CURRENCY":{
+        "zh_cn":"中等通货",
+        "zh_tw":"中級通貨"
+      },
+      "RARE CURRENCY":{
+        "zh_cn":"稀有通货",
+        "zh_tw":"稀有通貨"
+      },
+      "Notable Drops":{
+        "zh_cn":"显眼的掉落",
+        "zh_tw":"顯著掉落"
+      },
+      "TOP-VALUE ITEMS":{
+        "zh_cn":"顶级物品",
+        "zh_tw":"頂級物品"
+      },
+      "Unique items":{
+        "zh_cn":"传奇物品",
+        "zh_tw":"传奇物品"
+      },
+      "SOMETIMES LUCKY":{
+        "zh_cn":"有时幸运",
+        "zh_tw":"時常幸運"
+      },
+      "Endgame Waystones":{
+        "zh_cn":"终局引路石",
+        "zh_tw":"終局換界石"
+      },
+      "Waystone Upgrades!":{
+        "zh_cn":"稀有引路石!",
+        "zh_tw":"稀有換界石!"
+      },
+      "Rare Items (endgame)":{
+        "zh_cn":"稀有物品 (终局)",
+        "zh_tw":"稀有物品 (終局)"
+      },
+      "Rare Items Progression":{
+        "zh_cn":"高物等-稀有物品",
+        "zh_tw":"高物等-稀有物品"
+      },
+      "Rare Item Ranking":{
+        "zh_cn":"高需求-稀有物品",
+        "zh_tw":"高需求-稀有物品"
+      },
+      "ItemLevel 82":{
+        "zh_cn":"物品等级 82",
+        "zh_tw":"物品等級 82"
+      },
+      "Rare & Magic Items - High Tier":{
+        "zh_cn":"稀有 & 魔法物品 - 高阶级",
+        "zh_tw":"稀有 & 魔法物品 - 高阶级"
+      },
+      "Higher Tier: Rare":{
+        "zh_cn":"高阶级-稀有物品",
+        "zh_tw":"高阶级-稀有物品"
+      },
+      "Higher Tier: Magic":{
+        "zh_cn":"高阶级-魔法物品",
+        "zh_tw":"高阶级-魔法物品"
+      },
+      "Others Bases":{
+        "zh_cn":"其他基础物品",
+        "zh_tw":"其他基礎物品"
+      },
+      "Crafting Bases":{
+        "zh_cn":"底材",
+        "zh_tw":"底材"
+      },
+      "Chancing Bases":{
+        "zh_cn":"机会石底材",
+        "zh_tw":"機會石底材"
+      },
+      "Charms (Endgame)":{
+        "zh_cn":"终局咒符",
+        "zh_tw":"終局護符"
+      },
+      "Flasks (Endgame)":{
+        "zh_cn":"终局药剂",
+        "zh_tw":"終局藥劑"
+      },
+      "Campaign and Leveling":{
+        "zh_cn":"剧情与升级",
+        "zh_tw":"劇情與升級"
+      },
+      "LEVELING CURRENCY":{
+        "zh_cn":"升级通货",
+        "zh_tw":"升級通貨"
+      },
+      "Campaign Specific Rules":{
+        "zh_cn":"剧情特定规则",
+        "zh_tw":"劇情特定規則"
+      },
+      "Leveling Flasks":{
+        "zh_cn":"升级药剂",
+        "zh_tw":"升級藥劑"
+      },
+      "Overleveling Items":{
+        "zh_cn":"超等级物品",
+        "zh_tw":"超級等級物品"
+      }
+    }
+  ],
+  "CUSTOMIZE":{
+    "zh_cn":"自定义",
+    "zh_tw":"自訂"
+  },
+  "Safely":{
+    "zh_cn":"安全",
+    "zh_tw":"安全"
+  },
+  "The customizer is designed to be fail-proof. You don't have to worry about accidentally hiding uniques or 6-links or such.":{
+    "zh_cn":"自定义过滤,有防呆设计. 您不必担心,不小心隐藏了,传奇物品或6链接物品等.",
+    "zh_tw":"自定義過濾,有防呆設計. 您不必擔心,不小心隱藏了,傳奇物品或6連結物品等."
+  },
+  "edit the filter here. See the effects everywhere else on FilterBlade - instantly.":{
+    "zh_cn":"的在这编辑过滤器. 在 FilterBlade 的其他地方,立即查看效果.",
+    "zh_tw":"的在這編輯篩選器. 在 FilterBlade 的其他地方,立即查看效果."
+  },
+  "This rule cannot be toggled for safety reasons.":{
+    "zh_cn":"此规则不能切换,以防止隐藏重要物品.",
+    "zh_tw":"此規則不能切換,以防止隱藏重要物品."
+  },
+  "If you are sure you want to toggle it, go to the Settings and enable all 'SHD' buttons.":{
+    "zh_cn":"如果您确定要切换它,请转到设置并启用所有 'SHD' 按钮.",
+    "zh_tw":"如果您確定要切換它,請到設置並啟用所有 'SHD' 按鈕."
+  },
+  "Customize_group":[
+    {
+      "Basics":{
+        "zh_cn":"基础",
+        "zh_tw":"基礎"
+      }
+    },
+    {
+      "General Currency":{
+        "zh_cn":"常用通货",
+        "zh_tw":"常用通貨"
+      }
+    },
+    {
+      "Change visibility by clicking the checkmark. Expand sections and Drag&Drop items to change tiers.":{
+        "zh_cn":"通过点击勾选标记更改可见性. 展开部分并拖放项目以更改层级.",
+        "zh_tw":"通過點擊勾選標記更改可見性. 展開部分並拖放項目以更改層級."
+      }
+    },
+    {
+      "Special: Expedition Artifacts":{
+        "zh_cn":"特殊: 裂环神器",
+        "zh_tw":"特殊: 破碎之環文物"
+      }
+    },
+    {
+      "Supplies: Magic & Shards":{
+        "zh_cn":"补充: 魔法与碎片",
+        "zh_tw":"补充: 魔法與碎片"
+      }
+    },
+    {
+      "Supplies: Scrolls":{
+        "zh_cn":"补充: 卷轴",
+        "zh_tw":"补充: 卷軸"
+      }
+    },
+    {
+      "Unnamed Custom Rule":{
+        "zh_cn":"未命名自定义规则",
+        "zh_tw":"未命名自定義規則"
+      }
+    },
+    {
+      "Hidden Tier":{
+        "zh_cn":"隐藏层级",
+        "zh_tw":"隱藏層級"
+      }
+    },
+    {
+      "Socketables":{
+        "zh_cn":"增幅器",
+        "zh_tw":"增幅"
+      }
+    },
+    {
+      "Supplies: Lesser Runes":{
+        "zh_cn":"补充: 次级符文",
+        "zh_tw":"补充: 低階符文"
+      }
+    },
+    {
+      "Campaign & Exotics Currencies":{
+        "zh_cn":"剧情&异类通货",
+        "zh_tw":"劇情&異種通貨"
+      }
+    },
+    {
+      "CAMPAIGN: Currency":{
+        "zh_cn":"剧情:通貨",
+        "zh_tw":"劇情:通貨"
+      }
+    },
+    {
+      "Lesser Jeweller's":{
+        "zh_cn":"低等工匠",
+        "zh_tw":"低階工匠"
+      }
+    },
+    {
+      "Regal, Artificers, Essences":{
+        "zh_cn":"富豪, 巧匠, 精华",
+        "zh_tw":"富豪, 巧匠, 精华"
+      }
+    },
+    {
+      "Transmutes+Augments":{
+        "zh_cn":"蜕变+增幅",
+        "zh_tw":"蛻變+增幅"
+      }
+    },
+    {
+      "Wisdom Scrolls (act 1)":{
+        "zh_cn":"知识卷轴 (第 1 章)",
+        "zh_tw":"知識卷軸 (第 1 章)"
+      }
+    },
+    {
+      "Wisdom Scrolls (later acts)":{
+        "zh_cn":"知识卷轴 (后续章节)",
+        "zh_tw":"知識卷軸 (後續章節)"
+      }
+    },
+    {
+      "CAMPAIGN: Socketables":{
+        "zh_cn":"剧情:增幅器",
+        "zh_tw":"劇情:增幅"
+      }
+    },
+    {
+      "Campaign Runes: Resists&Damage":{
+        "zh_cn":"剧情符文: 抗性&伤害",
+        "zh_tw":"劇情符文: 抗性&傷害"
+      }
+    },
+    {
+      "Campaign Runes: Other":{
+        "zh_cn":"剧情符文: 其他",
+        "zh_tw":"劇情符文: 其他"
+      }
+    },
+    {
+      "Emotions (Delirium)":{
+        "zh_cn":"情感(惊悸迷雾)",
+        "zh_tw":"情感(譫妄)"
+      }
+    },
+    {
+      "Catalysts (Breach)":{
+        "zh_cn":"催化剂 (裂隙)",
+        "zh_tw":"催化劑 (裂痕)"
+      }
+    },
+    {
+      "Omen (Ritual)":{
+        "zh_cn":"仪式 (驱灵仪式)",
+        "zh_tw":"仪式 (祭祀)"
+      }
+    },
+    {
+      "Uniques":{
+        "zh_cn":"传奇",
+        "zh_tw":"传奇"
+      }
+    },
+    {
+      "Predictable Tiers":{
+        "zh_cn":"可预测 等阶层级",
+        "zh_tw":"可預測 等階層級"
+      }
+    },
+    {
+      "D Tier - Early League Uniques":{
+        "zh_cn":"D 等阶 - 赛季初期传奇物品",
+        "zh_tw":"D 等階 - 早期联赛传奇物品"
+      }
+    },
+    {
+      "D Tier - Low Value":{
+        "zh_cn":"D 等阶 - 低价值",
+        "zh_tw":"D 等階 - 低價值"
+      }
+    },
+    {
+      "High Variety Tiers":{
+        "zh_cn":"高阶多样等阶",
+        "zh_tw":"高階多樣等階"
+      }
+    },
+    {
+      "High Variety - top multi-bases":{
+        "zh_cn":"高阶多样 - 顶级多底材",
+        "zh_tw":"高階多樣 - 頂級多底材"
+      }
+    },
+    {
+      "High Variety - multi-bases":{
+        "zh_cn":"高阶多样 - 多底材",
+        "zh_tw":"高階多樣 - 多底材"
+      }
+    },
+    {
+      "High Variety - boss-drops":{
+        "zh_cn":"高阶多样 - 首领掉落",
+        "zh_tw":"高階多樣 - 首領掉落"
+      }
+    },
+    {
+      "Chancing":{
+        "zh_cn":"可改变",
+        "zh_tw":"可變化"
+      }
+    },
+    {
+      "Chancing bases Tier S":{
+        "zh_cn":"机会石底材 - 等阶S",
+        "zh_tw":"機會石底材 - 等階S"
+      }
+    },
+    {
+      "Chancing bases Tier A":{
+        "zh_cn":"机会石底材 - 等阶A",
+        "zh_tw":"機會石底材 - 等階A"
+      }
+    },
+    {
+      "Chancing bases":{
+        "zh_cn":"机会石底材",
+        "zh_tw":"機會石底材"
+      }
+    },
+    {
+      "Gems":{
+        "zh_cn":"宝石",
+        "zh_tw":"寶石"
+      }
+    },
+    {
+      "CAMPAIGN: Gems":{
+        "zh_cn":"剧情: 宝石",
+        "zh_tw":"劇情: 寶石"
+      }
+    },
+    {
+      "ENDGAME: Skill Gems":{
+        "zh_cn":"终局游戏: 技能宝石",
+        "zh_tw":"终局遊戲: 技能寶石"
+      }
+    },
+    {
+      "High Level Gems":{
+        "zh_cn":"高等级宝石",
+        "zh_tw":"高級等級寶石"
+      }
+    },
+    {
+      "Skill, Level {0}":{
+        "zh_cn":"技能, 等级 {0}",
+        "zh_tw":"技能, 等級 {0}"
+      }
+    },
+    {
+      "Progression: Best gems Droppable in Waystone Tier":{
+        "zh_cn":"异界进度: 引路石等阶中可掉落的最佳宝石",
+        "zh_tw":"异界进度: 換界石等階中可掉落的最佳寶石"
+      }
+    },
+    {
+      "Skill Gems, Progression, Level {0}  ":{
+        "zh_cn":"技能宝石, 异界进度, 等级 {0}",
+        "zh_tw":"技能寶石, 异界進度, 等級 {0}"
+      }
+    },
+    {
+      "Other Lower Level Skill Gems":{
+        "zh_cn":"其他低等级技能宝石",
+        "zh_tw":"其他低級等級技能寶石"
+      }
+    },
+    {
+      "ENDGAME: Spirit Gems":{
+        "zh_cn":"终局游戏: 精魂宝石",
+        "zh_tw":"终局遊戲: 精魂寶石"
+      }
+    },
+    {
+      "Spirit, Level {0}":{
+        "zh_cn":"精魂, 等级 {0}",
+        "zh_tw":"精魂, 等級 {0}"
+      }
+    },
+    {
+      "Spirit Gems, Progression, Level {0}":{
+        "zh_cn":"精魂宝石, 异界进度, 等级 {0}",
+        "zh_tw":"精魂寶石, 异界進度, 等級 {0}"
+      }
+    },
+    {
+      "Other Lower Level Spirit Gems":{
+        "zh_cn":"其他低等级精魂宝石",
+        "zh_tw":"其他低級等級精魂寶石"
+      }
+    },
+    {
+      "ENDGAME: Support":{
+        "zh_cn":"终局游戏: 辅助",
+        "zh_tw":"终局遊戲: 辅助"
+      }
+    },
+    {
+      "Support Gems in T15+ maps":{
+        "zh_cn":"T15+ 地图中的辅助宝石",
+        "zh_tw":"T15+ 地圖中的輔助寶石"
+      }
+    },
+    {
+      "Support Gems in lower maps":{
+        "zh_cn":"其他低等级辅助宝石",
+        "zh_tw":"其他低級等級輔助寶石"
+      }
+    },
+    {
+      "Lineage Gems":{
+        "zh_cn":"血脉宝石",
+        "zh_tw":"族裔寶石"
+      }
+    },
+    {
+      "More gem tiers and a better visual will be added once more is known about these gems!":{
+        "zh_cn":"一旦对这些宝石有了更多了解，将会增加更多的宝石等级，并且还会提升其视觉效果！",
+        "zh_tw":"一旦對這些寶石有了更多了解，將會增加更多的寶石等級，並且還會提升其視覺效果！"
+      }
+    },
+    {
+      "Gold":{
+        "zh_cn":"金币",
+        "zh_tw":"金幣"
+      }
+    },
+    {
+      "Gold can be hidden and will still be auto-picked up if you walk next to it.":{
+        "zh_cn":"金币可以隐藏起来,只要你走到它旁边,它就会自动被拾取.",
+        "zh_tw":"金幣可以隱藏起來,只要你走到它旁邊,它就會自動被拾取"
+      }
+    },
+    {
+      "Gold Pile: Gigantic":{
+        "zh_cn":"金币堆: 巨型",
+        "zh_tw":"金幣堆: 巨型"
+      }
+    },
+    {
+      "Gold Pile: Large":{
+        "zh_cn":"金币堆: 大型",
+        "zh_tw":"金幣堆: 大型"
+      }
+    },
+    {
+      "Gold Pile: Medium (Endgame)":{
+        "zh_cn":"金币堆: 中型 (终局游戏)",
+        "zh_tw":"金幣堆: 中型 (终局遊戲)"
+      }
+    },
+    {
+      "Gold Pile: Small":{
+        "zh_cn":"金币堆: 小型",
+        "zh_tw":"金幣堆: 小型"
+      }
+    },
+    {
+      "Gold Pile: Medium (Campaign Act 1)":{
+        "zh_cn":"金币堆: 中型 (剧情第1章)",
+        "zh_tw":"金幣堆: 中型 (劇情第1章)"
+      }
+    },
+    {
+      "Gold Pile: Medium (Campaign Act 2-3)":{
+        "zh_cn":"金币堆: 中型 (剧情2-3章)",
+        "zh_tw":"金幣堆: 中型 (劇情2-3章)"
+      }
+    },
+    {
+      "Gold Pile: Medium (Campaign Later Acts)":{
+        "zh_cn":"金币堆: 中型 (剧情后续章节)",
+        "zh_tw":"金幣堆: 中型 (劇情后续章節)"
+      }
+    },
+    {
+      "Current League: {txt}":{
+        "zh_cn":"当前赛季: {txt}",
+        "zh_tw":"當前聯賽: {txt}"
+      }
+    },
+    {
+      "Twice-Corruption Outcomes":{
+        "zh_cn":"双倍腐化结果",
+        "zh_tw":"雙重腐化結果"
+      }
+    },
+    {
+      "twice corrupted rare items":{
+        "zh_cn":"双倍腐化的稀有物品",
+        "zh_tw":"雙重腐化的稀有物品"
+      }
+    },
+    {
+      "twice corrupted magic items":{
+        "zh_cn":"双倍腐化的魔法物品",
+        "zh_tw":"雙重腐化的魔法物品"
+      }
+    },
+    {
+      "twice corrupted uniques":{
+        "zh_cn":"双倍腐化的传奇物品",
+        "zh_tw":"雙重腐化的传奇物品"
+      }
+    },
+    {
+      "twice corrupted gems: 21/23":{
+        "zh_cn":"双倍腐化的宝石: 21/23",
+        "zh_tw":"雙重腐化的寶石: 21/23"
+      }
+    },
+    {
+      "twice corrupted gems":{
+        "zh_cn":"双倍腐化的宝石",
+        "zh_tw":"雙重腐化的寶石"
+      }
+    },
+    {
+      "Vaal-Specific Uniques":{
+        "zh_cn":"瓦尔-特定传奇",
+        "zh_tw":"瓦爾-特定传奇"
+      }
+    },
+    {
+      "uniques with a corrupted vaal mod":{
+        "zh_cn":"带已腐化瓦尔栽培词缀的传奇物品",
+        "zh_tw":"帶已汙染瓦爾栽培詞綴的传奇物品"
+      }
+    },
+    {
+      "vaal-origin uniques":{
+        "zh_cn":"瓦尔-原始传奇",
+        "zh_tw":"瓦爾-原始传奇"
+      }
+    },
+    {
+      "Unhidable Event Outcome items":{
+        "zh_cn":"不可隐藏的事件结果物品",
+        "zh_tw":"不可隱藏的事件結果物品"
+      }
+    },
+    {
+      "All other items have been integrated into their respective tierlists.":{
+        "zh_cn":"所有其他物品都已集成到各自的层级列表中.",
+        "zh_tw":"所有其他物品都已集成到各自的層級列表中."
+      }
+    },
+    {
+      "Highlight specific bases":{
+        "zh_cn":"高亮显示特定底材",
+        "zh_tw":"高亮顯示特定底材"
+      }
+    },
+    {
+      "Quickly highlight bases by adding a custom rule! If you need more power and options, there's a lot more custom rules lower in the customizer":{
+        "zh_cn":"通过添加自定义规则快速高亮显示特定底材! 如果需要更多功能和选项, 请在自定义器中查看更多自定义规则.",
+        "zh_tw":"通過添加自定義規則快速高亮顯示特定底材! 如果需要更多功能和選項, 請在自定義器中查看更多自定義規則."
+      }
+    },
+    {
+      "Endgame Rares & Crafting":{
+        "zh_cn":"终局游戏 稀有 & 制作",
+        "zh_tw":"终局遊戲 稀有 & 制作"
+      }
+    },
+    {
+      "Hide Armour Classes & Weapon Types":{
+        "zh_cn":"隐藏护甲类 & 武器类型",
+        "zh_tw":"隱藏護甲類 & 武器類型"
+      }
+    },
+    {
+      "Normal/Magic":{
+        "zh_cn":"普通/魔法",
+        "zh_tw":"普通/魔法"
+      }
+    },
+    {
+      "Hide: Armour":{
+        "zh_cn":"隐藏: 护甲",
+        "zh_tw":"隱藏: 護甲"
+      }
+    },
+    {
+      "Hide: Evasion":{
+        "zh_cn":"隐藏: 闪避",
+        "zh_tw":"隱藏: 闪避"
+      }
+    },
+    {
+      "Hide: Energy Shield":{
+        "zh_cn":"隐藏: 能量护盾",
+        "zh_tw":"隱藏: 能量护盾"
+      }
+    },
+    {
+      "Hide: Hybrid Armour+Evasion":{
+        "zh_cn":"隐藏: 护甲+闪避",
+        "zh_tw":"隱藏: 護甲+闪避"
+      }
+    },
+    {
+      "Hide: Hybrid Armour+ES":{
+        "zh_cn":"隐藏: 护甲+能量护盾",
+        "zh_tw":"隱藏: 護甲+能量护盾"
+      }
+    },
+    {
+      "Hide: Hybrid Evasion+ES":{
+        "zh_cn":"隐藏: 闪避+能量护盾",
+        "zh_tw":"隱藏: 闪避+能量护盾"
+      }
+    },
+    {
+      "Open the rule and select the weapons you DON'T want. Otherwise it'll hide ALL weapons.":{
+        "zh_cn":"打开规则并选择你不想要的武器. 否则它会隐藏所有武器.",
+        "zh_tw":"打開規則並選擇你不想要的武器. 否則它會隱藏所有武器."
+      }
+    },
+    {
+      "Hide Weapon/Offhand Classes":{
+        "zh_cn":"隐藏武器/副手类",
+        "zh_tw":"隱藏武器/副手類"
+      }
+    },
+    {
+      "Rares":{
+        "zh_cn":"稀有",
+        "zh_tw":"稀有"
+      }
+    },
+    {
+      "Hide: Identified":{
+        "zh_cn":"隐藏: 已鉴定",
+        "zh_tw":"隱藏: 已鉴定"
+      }
+    },
+    {
+      "Hide corrupted rares (no implicit)":{
+        "zh_cn":"隐藏已腐化的稀有物品 (无 基底)",
+        "zh_tw":"隱藏已汙染的稀有物品 (無 基底)"
+      }
+    },
+    {
+      "Add custom Show/Hide rule":{
+        "zh_cn":"添加自定义显示/隐藏规则",
+        "zh_tw":"添加自定義顯示/隱藏規則"
+      }
+    },
+    {
+      "Augment the filter with entirely new rules, such as 'hide all belts', 'highlight all bows in a special color', 'hide all evasion type armors, gloves, shields, and boots' or 'show all corrupted rares'.":{
+        "zh_cn":"使用全新的规则来增强过滤器, 例如 '隐藏所有腰带', '以特殊颜色突出显示所有弓', '隐藏所有闪避类型护甲、手套、盾牌和鞋子' 或 '显示所有已腐化的稀有物品'.",
+        "zh_tw":"使用全新的規則來增強篩選器, 例如 '隱藏所有腰带', '以特殊顏色突出顯示所有弓', '隱藏所有闪避類型護甲、手套、護盾和鞋子' 或 '顯示所有已汙染的稀有物品'."
+      }
+    },
+    {
+      "Highlight rares by Base":{
+        "zh_cn":"根据底材高亮显示稀有物品",
+        "zh_tw":"根據底材高亮顯示稀有物品"
+      }
+    },
+    {
+      "Highlight rares by Armour Type":{
+        "zh_cn":"根据护甲类型高亮显示稀有物品",
+        "zh_tw":"根據護甲類型高亮顯示稀有物品"
+      }
+    },
+    {
+      "Highlight gear by their type, like Evasion or Evasion-EnergyShield items.":{
+        "zh_cn":"根据装备类型高亮显示装备, 如闪避或闪避-能量护盾装备.",
+        "zh_tw":"根據装备類型高亮顯示装备, 如闪避或闪避-能量护盾装备."
+      }
+    },
+    {
+      "Highlight rares by item slot":{
+        "zh_cn":"按物品栏位高亮显示稀有物品",
+        "zh_tw":"依物品欄位高亮顯示稀有物品"
+      }
+    },
+    {
+      "Highlight specific item classes here.":{
+        "zh_cn":"给特定物品类更多高亮显示",
+        "zh_tw":"給特定物品類更多高亮顯示"
+      }
+    },
+    {
+      "Hide rares by Base":{
+        "zh_cn":"根据底材隐藏稀有物品",
+        "zh_tw":"根據底材隱藏稀有物品"
+      }
+    },
+    {
+      "Give specific BaseTypes more highlighting here.":{
+        "zh_cn":"给特定底材更多高亮显示",
+        "zh_tw":"給特定底材更多高亮顯示"
+      }
+    },
+    {
+      "Hide rares by Armour Type":{
+        "zh_cn":"根据护甲类型隐藏稀有物品",
+        "zh_tw":"根據護甲類型隱藏稀有物品"
+      }
+    },
+    {
+      "Hide rares by item slot":{
+        "zh_cn":"按物品栏位隐藏稀有物品",
+        "zh_tw":"依物品欄位隱藏稀有物品"
+      }
+    },
+    {
+      "Hide uninteresting items, such as bows for melee characters or melee weapons for casters.":{
+        "zh_cn":"隐藏不感兴趣的物品, 如近战角色的弓或施法角色的近战武器.",
+        "zh_tw":"隱藏不感兴趣的物品, 如近战角色的弓或施法角色的近战武器."
+      }
+    },
+    {
+      "Decorators (advanced)":{
+        "zh_cn":"装饰器 (高级)",
+        "zh_tw":"裝飾器 (進階)"
+      }
+    },
+    {
+      "Decorators are special rules. They change the APPEARANCE (only) of certain items, without deciding if the item should be hidden or show. They allow highlighting certain properties on gear.":{
+        "zh_cn":"装饰器是特殊规则. 它们只会改变某些物品的外观(而不会决定该物品是显示还是隐藏). 它们允许突出显示装备上的某些属性.",
+        "zh_tw":"裝飾器是特殊規則. 它們僅改變某些物品的外觀(而不是決定物品是否應該隱藏或顯示). 它們允許在裝備上突出顯示某些屬性."
+      }
+    },
+    {
+      "Decorators: Rare Endgame Items":{
+        "zh_cn":"装饰器: 稀有终局物品",
+        "zh_tw":"裝飾器: 稀有終局物品"
+      }
+    },
+    {
+      "If the item is tiny...":{
+        "zh_cn":"如果物品很小...",
+        "zh_tw":"如果物品很小..."
+      }
+    },
+    {
+      "If the ILVL is 82 or higher...":{
+        "zh_cn":"如果物品等级为82或更高...",
+        "zh_tw":"如果物品等級為82或更高..."
+      }
+    },
+    {
+      "If the item is corrupted...":{
+        "zh_cn":"如果物品已腐化...",
+        "zh_tw":"如果物品已汙染..."
+      }
+    },
+    {
+      "if the item has a corrupted mod...":{
+        "zh_cn":"如果物品有已腐化的词缀...",
+        "zh_tw":"如果物品有已汙染的词缀..."
+      }
+    },
+    {
+      "If item is ILVL 81+ caster item...":{
+        "zh_cn":"如果物品等级为81+ 且为施法者物品...",
+        "zh_tw":"如果物品等級為81+ 且為施法者物品..."
+      }
+    },
+    {
+      "if ilvl is 80...":{
+        "zh_cn":"如果物品等级为80...",
+        "zh_tw":"如果物品等級為80..."
+      }
+    },
+    {
+      "If the item is medium-sized...":{
+        "zh_cn":"如果物品为中等大小...",
+        "zh_tw":"如果物品為中等大小..."
+      }
+    },
+    {
+      "If the item is large...":{
+        "zh_cn":"如果物品为大型...",
+        "zh_tw":"如果物品為大型..."
+      }
+    },
+    {
+      "Also Every item...":{
+        "zh_cn":"此外,每件物品...",
+        "zh_tw":"此外,每件物品..."
+      }
+    },
+    {
+      "Decorators: Normal/Magic Items":{
+        "zh_cn":"装饰器: 普通/魔法物品",
+        "zh_tw":"裝飾器: 普通/魔法物品"
+      }
+    },
+    {
+      "If item is ring, belt or amulet...":{
+        "zh_cn":"如果物品为戒指、腰带或项链...",
+        "zh_tw":"如果物品為戒指、腰带或项链..."
+      }
+    },
+    {
+      "If the ILVL is 80 or higher...":{
+        "zh_cn":"如果物品等级为80或更高...",
+        "zh_tw":"如果物品等級為80或更高..."
+      }
+    },
+    {
+      "If the item has 10%+ quality...":{
+        "zh_cn":"如果物品有10%+ 品质...",
+        "zh_tw":"如果物品有10%+ 品質..."
+      }
+    },
+    {
+      "If the item has 1%+ quality...":{
+        "zh_cn":"如果物品有1%+ 品质...",
+        "zh_tw":"如果物品有1%+ 品質..."
+      }
+    },
+    {
+      "Rings, Amulets, Belts":{
+        "zh_cn":"戒指、项链、腰带",
+        "zh_tw":"戒指、项链、腰带"
+      }
+    },
+    {
+    "Control Visibility:":{
+        "zh_cn":"控制可见性:",
+        "zh_tw":"控制可見性:"
+      }
+    },
+    {
+    "RARES":{
+      "zh_cn":"稀有",
+      "zh_tw":"稀有"
+      }
+    },
+    {
+      "RARES: TIER 2+":{
+        "zh_cn":"稀有: 等阶2+",
+        "zh_tw":"稀有: 等阶2+"
+      }
+    },
+    {
+      "MAGICS: Tier 2+":{
+        "zh_cn":"魔法: 等阶2+",
+        "zh_tw":"魔法: 等阶2+"
+      }
+    },
+    {
+      "MAGIC+NORMAL: Endgame Visibility":{
+        "zh_cn":"魔法+普通: 终局可见性",
+        "zh_tw":"魔法+普通: 終局可見性"
+      }
+    },
+    {
+      "Control Tiering:":{
+        "zh_cn":"控制等阶:",
+        "zh_tw":"控制等阶:"
+      }
+    },
+    {
+      "Weapons & Armours":{
+        "zh_cn":"武器&护甲",
+        "zh_tw":"武器&护甲"
+      }
+    },
+    {
+      "Rares: Control Visibility":{
+        "zh_cn":"稀有: 控制可见性",
+        "zh_tw":"稀有: 控制可見性"
+      }
+    },
+    {
+      "NO-TIER RARES: High Waystones":{
+        "zh_cn":"无等阶稀有: 高等级引路石",
+        "zh_tw":"無等階稀有: 高級等級換界石"
+      }
+    },
+    {
+      "NO-TIER RARES: Lower Waystones":{
+        "zh_cn":"无等阶稀有: 低等级引路石",
+        "zh_tw":"無等階稀有: 低級等級換界石"
+      }
+    },
+    {
+      "NORMAL BASES + NO TIER MAGICS":{
+        "zh_cn":"普通基础物品 + 无等阶魔法",
+        "zh_tw":"普通基礎物品 + 無等階魔法"
+      }
+    },
+    {
+      "Exceptional & Identified Rules":{
+        "zh_cn":"卓越物品和已鉴定物品规则",
+        "zh_tw":"卓越物品和已鉴定物品規則"
+      }
+    },
+    {
+      "Exceptional: Quality/Sockets":{
+        "zh_cn":"卓越物品: 品质/插槽",
+        "zh_tw":"卓越物品: 品質/插槽"
+      }
+    },
+    {
+      "Identified Mod Filtering":{
+        "zh_cn":"已鉴定词缀筛选",
+        "zh_tw":"已鉴定詞缀篩選"
+      }
+    },
+    {
+      "Breach rings":{
+        "zh_cn":"裂隙戒指",
+        "zh_tw":"裂痕戒指"
+      }
+    },
+    {
+      "Optional Rules":{
+        "zh_cn":"可选规则",
+        "zh_tw":"可選規則"
+      }
+    },
+    {
+      "Other Endgame Items":{
+        "zh_cn":"其他终局物品",
+        "zh_tw":"其他終局物品"
+      }
+    },
+    {
+      "Flasks & Charms":{
+        "zh_cn":"药剂 & 咒符",
+        "zh_tw":"藥劑 & 護符"
+      }
+    },
+    {
+      "Waystones":{
+        "zh_cn":"引路石",
+        "zh_tw":"換界石"
+      }
+    },
+    {
+      "Tablets and Map-like items":{
+        "zh_cn":"石板和地图类物品",
+        "zh_tw":"碑牌和地圖類物品"
+      }
+    },
+    {
+      "Endgame Salvagable Items":{
+        "zh_cn":"终局可回收物品",
+        "zh_tw":"終局可回收物品"
+      }
+    },
+    {
+      "Add custom Show/Hide rules (campaign)":{
+        "zh_cn":"添加自定义显示/隐藏规则 (剧情)",
+        "zh_tw":"添加自定義顯示/隱藏規則 (剧情)"
+      }
+    },
+    {
+      "Item Progression":{
+        "zh_cn":"物品进阶",
+        "zh_tw":"物品進度"
+      }
+    },
+    {
+      "Campaign Gear":{
+        "zh_cn":"剧情装备",
+        "zh_tw":"剧情裝備"
+      }
+    },
+    {
+      "Campaign Flasks & Charms":{
+        "zh_cn":"剧情药剂 & 咒符",
+        "zh_tw":"剧情藥劑 & 護符"
+      }
+    },
+    {
+      "Campaign Salvagable Items":{
+        "zh_cn":"剧情可回收物品",
+        "zh_tw":"剧情可回收物品"
+      }
+    },
+    {
+      "Misc.":{
+        "zh_cn":"其他.",
+        "zh_tw":"其他."
+      }
+    },
+    {
+      "Add additional Show/Hide rules":{
+        "zh_cn":"添加额外显示/隐藏规则",
+        "zh_tw":"添加額外顯示/隱藏規則"
+      }
+    },
+    {
+      "Jewels":{
+        "zh_cn":"珠宝",
+        "zh_tw":"珠寶"
+      }
+    },
+    {
+      "Special Rules":{
+        "zh_cn":"特殊规则",
+        "zh_tw":"特殊規則"
+      }
+    },
+    {
+      "Relics":{
+        "zh_cn":"遗物",
+        "zh_tw":"遗物"
+      }
+    }
+  ],
+  "SIMULATE":{
+    "zh_cn":"模拟",
+    "zh_tw":"模擬"
+  },
+  "Loot Generator":{
+    "zh_cn":"战利品生成器",
+    "zh_tw":"战利品生成器"
+  },
+  "Import Item from PoE":{
+    "zh_cn":"从POE导入物品",
+    "zh_tw":"從POE導入物品"
+  },
+  "Item Builder":{
+    "zh_cn":"物品构建器",
+    "zh_tw":"物品構建器"
+  },
+  "Generate loot":{
+    "zh_cn":"生成战利品",
+    "zh_tw":"生成战利品"
+  },
+  "Generate valuable loot":{
+    "zh_cn":"生成有价值的战利品",
+    "zh_tw":"生成有價值的战利品"
+  },
+  "Zone Level:":{
+    "zh_cn":"区域等级:",
+    "zh_tw":"區域等級:"
+  },
+  "THEMES":{
+    "zh_cn":"主题",
+    "zh_tw":"主題"
+  },
+  "Change reoccurring colors and sounds of the filter.":{
+    "zh_cn":"更改滤镜中重复出现的颜色和声音.",
+    "zh_tw":"變更濾鏡中重複出現的顏色和聲音."
+  },
+  "If you change a color here, it will affect every entry in the filter that uses that color. Items that have the default appearance won't be listed here and can't be changed using the Style Editor.":{
+    "zh_cn":"如果在此处更改颜色, 将会影响筛选器中使用该颜色的所有条目. 具有默认外观的项目不会在此处列出, 也无法使用样式编辑器进行更改.",
+    "zh_tw":"如果在此處變更顏色, 將會影響篩選器中使用該顏色的所有條目. 具有預設外觀的項目不會在此處列出, 也無法使用樣式編輯器進行變更."
+  },
+  "Global Filter Themes":{
+    "zh_cn":"全局筛选器主题",
+    "zh_tw":"全局篩選器主題"
+  },
+  "Legacy Global Color&Sound Editors":{
+    "zh_cn":"传统全局颜色和声音编辑器",
+    "zh_tw":"傳統全局顏色和聲音編輯器"
+  },
+  "Global Visual Edits":{
+    "zh_cn":"全局可视化编辑",
+    "zh_tw":"全局視覺化編輯"
+  },
+  "Showcase Item":{
+    "zh_cn":"展示物品",
+    "zh_tw":"展示物品"
+  },
+  "ADVANCED":{
+    "zh_cn":"高级",
+    "zh_tw":"進階"
+  },
+  "Additional means to edit the filter. These are designed for experienced filterblade-users, developers and filter authors.":{
+    "zh_cn":"其他编辑筛选器的方法. 这些方法专为有经验的筛选器用户、开发人员和筛选器作者设计.",
+    "zh_tw":"其他編輯篩選器的方法. 這些方法专为有經驗的篩選器用戶、開發人員和篩選器作者設計."
+  },
+  "Only use these tools if you know what you are doing.":{
+    "zh_cn":"只有在您清楚自己在做什么的情况下才能使用这些工具.",
+    "zh_tw":"只有在您清楚自己在做什麼的情況下才能使用這些工具."
+  },
+  "Most users won't need to use any of them.":{
+    "zh_cn":"大多数用户都不需要使用这些功能.",
+    "zh_tw":"大多數用戶都不需要使用這些功能."
+  },
+  "My Modules":{
+    "zh_cn":"我的模块",
+    "zh_tw":"我的模組"
+  },
+  "Review changes":{
+    "zh_cn":"查看更改",
+    "zh_tw":"查看更改"
+  },
+  "About the filter":{
+    "zh_cn":"关于过滤器",
+    "zh_tw":"關於過濾器"
+  },
+  "Filter Line Translator":{
+    "zh_cn":"过滤器滤镜颜色样式",
+    "zh_tw":"過濾器濾鏡顏色樣式"
+  },
+  "Filter Structure":{
+    "zh_cn":"过滤器结构",
+    "zh_tw":"過濾器結構"
+  },
+  "Test Local Filter":{
+    "zh_cn":"测试本地过滤器",
+    "zh_tw":"測試本地過濾器"
+  },
+  "EXPORT TO POE":{
+    "zh_cn":"导出到POE",
+    "zh_tw":"匯出到POE"
+  },
+  "Right-Click for more options.":{
+    "zh_cn":"右键点击更多选项.",
+    "zh_tw":"右鍵單擊更多選項."
+  },
+  "Hold Shift for all stats.":{
+    "zh_cn":"按住 Shift 显示所有属性.",
+    "zh_tw":"按住 Shift 顯示所有屬性."
+  },
+  "Jump to rule":{
+    "zh_cn":"跳转到规则",
+    "zh_tw":"跳轉到規則"
+  },
+  "Show priority":{
+    "zh_cn":"显示优先级",
+    "zh_tw":"顯示優先級"
+  },
+  "Copy URL":{
+    "zh_cn":"复制URL",
+    "zh_tw":"複製URL"
+  },
+  "Copy item":{
+    "zh_cn":"复制物品",
+    "zh_tw":"複製物品"
+  },
+  "Import in ItemBuilder":{
+    "zh_cn":"导入到物品构建器",
+    "zh_tw":"導入到物品構建器"
+  },
+  "Minimize all":{
+    "zh_cn":"折叠所有",
+    "zh_tw":"摺疊所有"
+  },
+  "Maximize all":{
+    "zh_cn":"展开所有",
+    "zh_tw":"展開所有"
+  },
+  "Minimize all rules":{
+    "zh_cn":"折叠所有规则",
+    "zh_tw":"摺疊所有規則"
+  },
+  "Maximize all rules":{
+    "zh_cn":"展开所有规则",
+    "zh_tw":"展開所有規則"
+  },
+  "No options available.":{
+    "zh_cn":"无可用选项.",
+    "zh_tw":"無可用選項."
+  },
+  "Show advanced toolbar":{
+    "zh_cn":"显示高级工具栏",
+    "zh_tw":"顯示高級工具列"
+  },
+  "Add tier":{
+    "zh_cn":"添加层级",
+    "zh_tw":"添加層級"
+  },
+  "Add rule":{
+    "zh_cn":"添加规则",
+    "zh_tw":"添加規則"
+  },
+  "UI-Filter":{
+    "zh_cn":"UI 筛选器",
+    "zh_tw":"UI 篩選器"
+  },
+  "Expand all rules":{
+    "zh_cn":"展开所有规则",
+    "zh_tw":"展開所有規則"
+  },
+  "Collapse all rules":{
+    "zh_cn":"折叠所有规则",
+    "zh_tw":"摺疊所有規則"
+  },
+  "Tx":{
+    "zh_cn":"文字",
+    "zh_tw":"文字"
+  },
+  "Bd":{
+    "zh_cn":"边框",
+    "zh_tw":"邊框"
+  },
+  "BG":{
+    "zh_cn":"背景",
+    "zh_tw":"背景"
+  },
+  "Copy":{
+    "zh_cn":"复制",
+    "zh_tw":"複製"
+  },
+  "Paste":{
+    "zh_cn":"粘贴",
+    "zh_tw":"貼上"
+  },
+  "RESET":{
+    "zh_cn":"重置",
+    "zh_tw":"重置"
+  },
+  "Enter BaseType":{
+    "zh_cn":"输入基础类型",
+    "zh_tw":"輸入基礎類型"
+  },
+  "No Sound":{
+    "zh_cn":"无音效",
+    "zh_tw":"無音效"
+  },
+  "Positional":{
+    "zh_cn":"Positional",
+    "zh_tw":"Positional"
+  },
+  "Custom":{
+    "zh_cn":"自定义",
+    "zh_tw":"自定義"
+  },
+  "Game & Community Sounds":{
+    "zh_cn":"游戏与社区音效",
+    "zh_tw":"遊戲與社區音效"
+  },
+  "Add":{
+    "zh_cn":"添加",
+    "zh_tw":"添加"
+  },
+  "Apply":{
+    "zh_cn":"应用",
+    "zh_tw":"應用"
+  },
+  "Cancel":{
+    "zh_cn":"取消",
+    "zh_tw":"取消"
+  },
+  "Show":{
+    "zh_cn":"显示",
+    "zh_tw":"顯示"
+  },
+  "Hide":{
+    "zh_cn":"隐藏",
+    "zh_tw":"隱藏"
+  },
+  "Disable":{
+    "zh_cn":"禁用",
+    "zh_tw":"禁用"
+  },
+  "Rule Disabled! Click on Show/Hide to enable this rule!":{
+    "zh_cn":"规则已禁用! 点击 显示/隐藏 启用此规则!",
+    "zh_tw":"規則已禁用! 點擊 顯示/隱藏 啟用此規則!"
+  },
+  "< lower than":{
+    "zh_cn":"< 小于",
+    "zh_tw":"< 小於"
+  },
+  "> higher than":{
+    "zh_cn":"> 大于",
+    "zh_tw":"> 大於"
+  },
+  "<= at most":{
+    "zh_cn":"<= 小于等于",
+    "zh_tw":"<= 小於等於"
+  },
+  ">= at least":{
+    "zh_cn":">= 大于等于",
+    "zh_tw":">= 大於等於"
+  },
+  "any":{
+    "zh_cn":"任意",
+    "zh_tw":"任意"
+  },
+  "= equal to":{
+    "zh_cn":"= 等于",
+    "zh_tw":"= 等於"
+  },
+  "range":{
+    "zh_cn":"范围",
+    "zh_tw":"範圍"
+  },
+  "Typ_group":[
+    {
+      "Class":{
+        "zh_cn":"类型",
+        "zh_tw":"類型"
+      }
+    },
+    {
+      "BaseType":{
+        "zh_cn":"基础类型",
+        "zh_tw":"基礎類型"
+      }
+    },
+    {
+      "AreaLevel":{
+        "zh_cn":"AreaLevel",
+        "zh_tw":"AreaLevel"
+      }
+    },
+    {
+      "Price":{
+        "zh_cn":"价格",
+        "zh_tw":"價格"
+      }
+    },
+    {
+      "AR/EV":{
+        "zh_cn":"护甲/闪避",
+        "zh_tw":"护甲/閃避"
+      }
+    },
+    {
+      "AR/ES":{
+        "zh_cn":"护甲/护盾",
+        "zh_tw":"护甲/護盾"
+      }
+    },
+    {
+      "EV/ES":{
+        "zh_cn":"闪避/护盾",
+        "zh_tw":"閃避/護盾"
+      }
+    }
+  ],
+  "supplemented_group":[
+    {
+      "Tier {0}":{
+        "zh_cn":"等阶 {0}",
+        "zh_tw":"等階 {0}"
+      }
+    },
+    {
+      "S Tier":{
+        "zh_cn":"S 等阶",
+        "zh_tw":"S 等階"
+      }
+    },
+    {
+      "A Tier":{
+        "zh_cn":"A 等阶",
+        "zh_tw":"A 等階"
+      }
+    },
+    {
+      "B Tier":{
+        "zh_cn":"B 等阶",
+        "zh_tw":"B 等階"
+      }
+    },
+    {
+      "C Tier":{
+        "zh_cn":"C 等阶",
+        "zh_tw":"C 等階"
+      }
+    },
+    {
+      "B+C Tier":{
+        "zh_cn":"B+C 等阶",
+        "zh_tw":"B+C 等階"
+      }
+    },
+    {
+      "D Tier":{
+        "zh_cn":"D 等阶",
+        "zh_tw":"D 等階"
+      }
+    },
+    {
+      "E Tier":{
+        "zh_cn":"E 等阶",
+        "zh_tw":"E 等階"
+      }
+    },
+    {
+      "• BaseType:":{
+        "zh_cn":"• 基础类型:",
+        "zh_tw":"• 基礎類型:"
+      }
+    },
+    {
+      "• StackSize:":{
+        "zh_cn":"• 栈大小:",
+        "zh_tw":"• 堆疊大小:"
+      }
+    },
+    {
+      "• ItemLevel:":{
+        "zh_cn":"• 物品等级:",
+        "zh_tw":"• 物品等級:"
+      }
+    },
+    {
+      "• AreaLevel:":{
+        "zh_cn":"• 区域等级:",
+        "zh_tw":"• 地區等級:"
+      }
+    },
+    {
+      "change|changes":{
+        "zh_cn":"项变更",
+        "zh_tw":"項變更"
+      }
+    },
+    {
+      "Rule inactive":{
+        "zh_cn":"规则无效",
+        "zh_tw":"規則無效"
+      }
+    },
+    {
+      "{0}x Gold":{
+        "zh_cn":"{0}x 金币",
+        "zh_tw":"{0}x 金幣"
+      }
+    },
+    {
+      "Skill":{
+        "zh_cn":"技能",
+        "zh_tw":"技能"
+      }
+    },
+    {
+      "Uncut Skill Gem":{
+        "zh_cn":"未切割的技能宝石",
+        "zh_tw":"未切割的技能寶石"
+      }
+    },
+    {
+      "Uncut Skill Gem (Level {0})":{
+        "zh_cn":"未切割的技能宝石 (等级 {0})",
+        "zh_tw":"未切割的技能寶石 (等級 {0})"
+      }
+    },
+    {
+      "Support":{
+        "zh_cn":"辅助",
+        "zh_tw":"輔助"
+      }
+    },
+    {
+      "Uncut Support Gem":{
+        "zh_cn":"未切割的辅助宝石",
+        "zh_tw":"未切割的輔助寶石"
+      }
+    },
+    {
+      "Uncut Support Gem (Level {0})":{
+        "zh_cn":"未切割的辅助宝石 (等级 {0})",
+        "zh_tw":"未切割的輔助寶石 (等級 {0})"
+      }
+    },
+    {
+      "Spirit":{
+        "zh_cn":"精魂",
+        "zh_tw":"精魂"
+      }
+    },
+    {
+      "Uncut Spirit Gem":{
+        "zh_cn":"未切割的精魂宝石",
+        "zh_tw":"未切割的精魂寶石"
+      }
+    },
+    {
+      "Uncut Spirit Gem (Level {0})":{
+        "zh_cn":"未切割的精魂宝石 (等级 {0})",
+        "zh_tw":"未切割的精魂寶石 (等級 {0})"
+      }
+    },
+    {
+      "Cut Gems":{
+        "zh_cn":"已切割宝石",
+        "zh_tw":"已切割寶石"
+      }
+    },
+    {
+      "Blight":{
+        "zh_cn":"枯萎",
+        "zh_tw":"萎滅"
+      }
+    },
+    {
+      "Example Item":{
+        "zh_cn":"示例物品",
+        "zh_tw":"示例物品"
+      }
+    },
+    {
+      "{0} day ago":{
+        "zh_cn":"{0} 天前",
+        "zh_tw":"{0} 天前"
+      }
+    },
+    {
+      "Name: {txt}":{
+        "zh_cn":"名字: {txt}",
+        "zh_tw":"名稱: {txt}"
+      }
+    },
+    {
+      "{txt} ({0} changes)":{
+        "zh_cn":"{txt} ({0} 项变更)",
+        "zh_tw":"{txt} ({0} 項變更)"
+      }
+    },
+    {
+      "Created {0} day ago":{
+        "zh_cn":"创建于 {0} 天前",
+        "zh_tw":"創建於 {0} 天前"
+      }
+    },
+    {
+      "{0}x Breach Splinter":{
+        "zh_cn":"{0}x 裂隙碎片",
+        "zh_tw":"{0}x 裂痕裂片"
+      }
+    }
+  ]
+}

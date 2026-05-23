@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Ingenuity",
+    "zh_cn": "奇思妙想",
+    "zh_tw": "獨創",
+    "FlavourText": {
+      "original": "Experiments with geomancy taught\nthe Maji more than they ever expected.",
+      "zh_cn": "众贤尝试地术，\n收获远超预想。",
+      "zh_tw": "對地占術的實驗教會了\n聖賢始料未及的結果。"
+    },
+    "img": "Widowmaker.png",
+    "group": [
+        {
+          "original": "{0}% reduced [Charm|Charm] Charges gained",
+          "translation": {
+            "zh_cn": "获得的[Charm|咒符]充能降低 {0}%",
+            "zh_tw": "減少 {0}% [Charm|護符]充能獲取"
+          }
+        },
+        {
+          "original": "{0}% increased [Charm|Charm] Charges used",
+          "translation": {
+            "zh_cn": "使用的[Charm|咒符]充能提高 {0}%",
+            "zh_tw": "增加 {0}% [Charm|護符]充能使用"
+          }
+        },
+        {
+          "original": "{0}% increased bonuses gained from left Equipped Ring",
+          "translation": {
+            "zh_cn": "装备左边戒指获得的加成提高 {0}%",
+            "zh_tw": "增加 {0}% 自已裝備左手戒指獲得的加成"
+          }
+        },
+        {
+          "original": "{0}% increased bonuses gained from right Equipped Ring",
+          "translation": {
+            "zh_cn": "装备右边戒指获得的加成提高 {0}%",
+            "zh_tw": "增加 {0}% 自已裝備右手戒指獲得的加成"
+          }
+        }
+    ]
+  }
+]

@@ -1,0 +1,206 @@
+{
+  "Modifiers": {
+    "zh_cn": "词缀",
+    "zh_tw": "詞綴"
+  },
+  "Desecrated Modifiers": {
+    "zh_cn": "亵渎词缀",
+    "zh_tw": "褻瀆詞綴"
+  },
+  "Crafting": {
+    "zh_cn": "工艺",
+    "zh_tw": "工藝"
+  },
+  "Gloves(str)|Gloves(dex)|Gloves(int)|Gloves(str_dex)|Gloves(str_int)|Gloves(dex_int)": {
+    "zh_cn": "手套(力)|手套(敏)|手套(智)|手套(力敏)|手套(力智)|手套(敏智)",
+    "zh_tw": "手套(力)|手套(敏)|手套(智)|手套(力敏)|手套(力智)|手套(敏智)"
+  },
+  "Boots(str)|Boots(dex)|Boots(int)|Boots(str_dex)|Boots(str_int)|Boots(dex_int)": {
+    "zh_cn": "鞋子(力)|鞋子(敏)|鞋子(智)|鞋子(力敏)|鞋子(力智)|鞋子(敏智)",
+    "zh_tw": "鞋子(力)|鞋子(敏)|鞋子(智)|鞋子(力敏)|鞋子(力智)|鞋子(敏智)"
+  },
+  "Body Armours(str)|Body Armours(dex)|Body Armours(int)|Body Armours(str_dex)|Body Armours(str_int)|Body Armours(dex_int)": {
+    "zh_cn": "胸甲(力)|胸甲(敏)|胸甲(智)|胸甲(力敏)|胸甲(力智)|胸甲(敏智)",
+    "zh_tw": "胸甲(力)|胸甲(敏)|胸甲(智)|胸甲(力敏)|胸甲(力智)|胸甲(敏智)"
+  },
+  "Helmets(str)|Helmets(dex)|Helmets(int)|Helmets(str_dex)|Helmets(str_int)|Helmets(dex_int)": {
+    "zh_cn": "头部(力)|头部(敏)|头部(智)|头部(力敏)|头部(力智)|头部(敏智)",
+    "zh_tw": "頭部(力)|頭部(敏)|頭部(智)|頭部(力敏)|頭部(力智)|頭部(敏智)"
+  },
+  "Shields(str)|Shields(str_dex)|Shields(str_int)": {
+    "zh_cn": "盾牌(力)|盾牌(力敏)|盾牌(力智)",
+    "zh_tw": "盾(力)|盾(力敏)|盾(力智)"
+  },
+  "Ruby|Emerald|Sapphire|Time-Lost Ruby|Time-Lost Emerald|Time-Lost Sapphire": {
+    "zh_cn": "红玉|翡翠|蓝宝石|失落的红玉|失落的翡翠|失落的蓝宝石",
+    "zh_tw": "紅玉|翠綠碧雲|藍玉|時迭紅寶石|時迭綠寶石|時迭藍寶石"
+  },
+  "Urn Relic|Amphora Relic|Vase Relic|Seal Relic|Coffer Relic|Tapestry Relic|Incense Relic": {
+    "zh_cn": "壶瓮遗物|土罐遗物|花瓶遗物|封印遗物|匣柜遗物|挂毯遗物|熏香遗物",
+    "zh_tw": "古甕聖物|陶罐聖物|器皿聖物|草紙聖物|寶箱聖物|聖經聖物|香爐聖物"
+  },
+  "Waystones(Low)|Waystones(Mid)|Waystones(Top)": {
+    "zh_cn": "引路石(低阶)|引路石(中阶)|引路石(高阶)",
+    "zh_tw": "換界石(低階)|換界石(中階)|換界石(高階)"
+  },
+  "Check wiki for optional modifiers": {
+    "zh_cn": "请查看 Wiki 了解可选词缀",
+    "zh_tw": "請查看 Wiki 以了解可選詞綴"
+  },
+  "Stack Size": {
+    "zh_cn": "堆叠数量",
+    "zh_tw": "堆疊數量"
+  },
+  "Requires": {
+    "zh_cn": "需求",
+    "zh_tw": "需求"
+  },
+  "Level": {
+    "zh_cn": "等级",
+    "zh_tw": "等級"
+  },
+  "Item Level": {
+    "zh_cn": "物品等级",
+    "zh_tw": "物品等級"
+  },
+  "Attributes": {
+      "zh_cn": "属性",
+      "zh_tw": "能力"
+  },
+  "Movement Speed": {
+    "zh_cn": "移动速度",
+    "zh_tw": "移動速度"
+  },
+  "Endurance": {
+    "zh_cn": "耐力",
+    "zh_tw": "耐力"
+  },
+  "Endurance charges": {
+    "zh_cn": "耐力球最大数量",
+    "zh_tw": "耐力球最大數量"
+  },
+  "Frenzy": {
+    "zh_cn": "狂怒",
+    "zh_tw": "狂怒"
+  },
+  "Frenzy charges": {
+    "zh_cn": "狂怒球最大数量",
+    "zh_tw": "狂怒球最大數量"
+  },
+  "Power": {
+    "zh_cn": "暴击",
+    "zh_tw": "暴擊"
+  },
+  "Power charges": {
+    "zh_cn": "暴击球最大数量",
+    "zh_tw": "暴擊球最大數量"
+  },
+    "Life": {
+    "zh_cn": "生命",
+    "zh_tw": "生命"
+  },
+  "Mana": {
+    "zh_cn": "魔力",
+    "zh_tw": "魔力"
+  },
+  "Spirit": {
+    "zh_cn": "精魂",
+    "zh_tw": "精魂"
+  },
+  "Physical taken as|Physical Taken As": {
+    "zh_cn": "物理承伤转化比例",
+    "zh_tw": "物理承傷轉換比例"
+  },
+  "Taken as Physical": {
+    "zh_cn": "转化为物理伤害比例",
+    "zh_tw": "轉換為物理傷害比例"
+  },
+  "Taken as Fire": {
+    "zh_cn": "转化为火焰伤害比例",
+    "zh_tw": "轉換為火焰傷害比例"
+  },
+  "Taken as Cold": {
+    "zh_cn": "转化为冰霜伤害比例",
+    "zh_tw": "轉換為冰冷傷害比例"
+  },
+  "Taken as Lightning": {
+    "zh_cn": "转化为闪电伤害比例",
+    "zh_tw": "轉換為閃電傷害比例"
+  },
+  "Taken as Chaos": {
+    "zh_cn": "转化为混沌伤害比例",
+    "zh_tw": "轉換為混沌傷害比例"
+  },
+  "Effective Health Pool": {
+    "zh_cn": "有效生命池",
+    "zh_tw": "有效生命池"
+  },
+  "Max Hit": {
+    "zh_cn": "击中承伤上限",
+    "zh_tw": "擊中承傷上限"
+  },
+  "Physical Max Hit": {
+    "zh_cn": "物理击中承伤上限",
+    "zh_tw": "物理擊中承傷上限"
+  },
+  "Fire Max Hit": {
+    "zh_cn": "火焰击中承伤上限",
+    "zh_tw": "火焰擊中承傷上限"
+  },
+  "Cold Max Hit": {
+    "zh_cn": "冰霜击中承伤上限",
+    "zh_tw": "冰冷擊中承傷上限"
+  },
+  "Lightning Max Hit": {
+    "zh_cn": "闪电击中承伤上限",
+    "zh_tw": "閃電擊中承傷上限"
+  },
+  "Chaos Max Hit": {
+    "zh_cn": "混沌击中承伤上限",
+    "zh_tw": "混沌擊中承傷上限"
+  },
+  "Lowest Max Hit": {
+    "zh_cn": "最低击中承伤上限",
+    "zh_tw": "最低擊中承傷上限"
+  },
+  "Damage Over Time": {
+    "zh_cn": "持续伤害",
+    "zh_tw": "持續傷害"
+  },
+  "Average Hit": {
+    "zh_cn": "平均击中伤害",
+    "zh_tw": "平均擊中傷害"
+  },
+  "Damage types": {
+    "zh_cn": "伤害类型",
+    "zh_tw": "傷害類型"
+  },
+  "(trigger)": {
+    "zh_cn": "(触发)",
+    "zh_tw": "(觸發)"
+  },
+  "Spell Block": {
+    "zh_cn": "法术格挡",
+    "zh_tw": "法術格擋"
+  },
+  "Spell Dodge": {
+    "zh_cn": "法术闪避",
+    "zh_tw": "法術闪避"
+  },
+  "Spell Suppression": {
+    "zh_cn": "法术压制",
+    "zh_tw": "法術壓抑"
+  },
+  "Mirrored": {
+    "zh_cn": "已复制",
+    "zh_tw": "已複製"
+  },
+  "Corrupted": {
+    "zh_cn": "已腐化",
+    "zh_tw": "已汙染"
+  },
+  "Twice Corrupted": {
+    "zh_cn": "双倍腐化",
+    "zh_tw": "雙重腐化"
+  }
+}

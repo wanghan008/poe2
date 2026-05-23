@@ -1,0 +1,156 @@
+[
+  {
+    "original":"{0}% chance for [Spell|Spell] Skills to fire {1} additional [Projectiles|Projectiles]",
+    "translation":{
+      "zh_cn":"[Spell|法术]技能有 {0}% 的几率发射 {1} 个额外[Projectiles|投射物]",
+      "zh_tw":"[Spell|法術]技能有 {0}% 機率發射額外 {1} 個[Projectiles|投射物]"
+    }
+  },
+  {
+    "original":"{0}% increased [DesecratedModifier|Desecrated Modifier] magnitudes",
+    "translation":{
+      "zh_cn":"[DesecratedModifier|亵渎词缀]强度提高 {0}%",
+      "zh_tw":"增加 {0}% [DesecratedModifier|褻瀆詞綴]幅度"
+    }
+  },
+  {
+    "original":"{0}% increased [Spell|Spell] Damage with [Spells|Spells] that cost Life",
+    "translation":{
+      "zh_cn":"消耗生命的[Spells|法术]造成的[Spell|法术]伤害提高 {0}%",
+      "zh_tw":"消耗生命的[Spells|法術]增加 {0}% [Spell|法術]傷害"
+    }
+  },
+  {
+    "original":"{0}% increased [Spirit|Spirit] [Reservation|Reservation] [Efficiency|Efficiency] of Skills",
+    "translation":{
+      "zh_cn":"技能的[Spirit|精魂][Reservation|保留][Efficiency|效能]提高 {0}%",
+      "zh_tw":"技能增加 {0}% [Spirit|精魂][Reservation|保留][Efficiency|效率]"
+    }
+  },
+  {
+    "original":"{0}% increased [Spell|Spell] Damage per {1} Maximum Life",
+    "translation":{
+      "zh_cn":"每 {1} 点生命上限使[Spell|法术]伤害提高 {0}%",
+      "zh_tw":"每 {1} 最大生命增加 {0}% [Spell|法術]傷害"
+    }
+  },
+  {
+    "original":"{0}% increased [Spell|Spell] Damage per {1} Maximum Mana",
+    "translation":{
+      "zh_cn":"每 {1} 点魔力上限使[Spell|法术]伤害提高 {0}%",
+      "zh_tw":"每 {1} 最大魔力增加 {0}% [Spell|法術]傷害"
+    }
+  },
+  {
+    "original":"{0}% increased [Magnitude|Magnitude] of [UnholyMight|Unholy Might] buffs you grant",
+    "translation":{
+      "zh_cn":"你提供的[UnholyMight|不洁之力]增益状态的[Magnitude|强度]提高 {0}%",
+      "zh_tw":"增加 {0}% 你所賦予的[UnholyMight|不潔之力]增益效果[Magnitude|幅度]"
+    }
+  },
+  {
+    "original":"You have [UnholyMight|Unholy Might]",
+    "translation":{
+      "zh_cn":"你拥有[UnholyMight|不洁之力]",
+      "zh_tw":"你具有[UnholyMight|不潔之力]"
+    }
+  },
+  {
+    "original":"{0}% increased [Chaos|Chaos] Damage",
+    "translation":{
+      "zh_cn":"[Chaos|混沌]伤害提高 {0}%",
+      "zh_tw":"增加 {0}% [Chaos|混沌]傷害"
+    }
+  },
+  {
+    "original":"Enemies you [Curse|Curse] have {0}% to [Chaos|Chaos] [Resistance|Resistance]",
+    "translation":{
+      "zh_cn":"受到你[Curse|诅咒]的敌人 {0}% [Chaos|混沌][Resistance|抗性]",
+      "zh_tw":"你所[Curse|诅咒]的敵人 {0}% [Chaos|混沌][Resistance|抗性]"
+    }
+  },
+  {
+    "original":"{0}% of [Spell|Spell] Mana Cost [Converted|Converted] to Life Cost",
+    "translation":{
+      "zh_cn":"[Spell|法术]魔力消耗的 {0}% [Converted|转化]为生命消耗",
+      "zh_tw":"{0}% [Spell|法術]魔力消耗[Converted|轉換]為生命消耗"
+    }
+  },
+  {
+    "original":"{0}% chance to Gain [Arcane Surge|Arcane Surge] when you deal a [Critical Hit|Critical Hit]",
+    "translation":{
+      "zh_cn":"当你造成[Critical Hit|暴击]时有 {0}% 的几率获得[Arcane Surge|秘术增强]",
+      "zh_tw":"當你[Critical Hit|暴擊]時，有 {0}% 機率獲得[Arcane Surge|秘能波動]"
+    }
+  },
+  {
+    "original":"{0}% of [Armour|Armour] also applies to [Chaos Damage|Chaos Damage]",
+    "translation":{
+      "zh_cn":"{0}% 的[Armour|护甲]同样作用于[Chaos Damage|混沌伤害]",
+      "zh_tw":"{0}% 的[Armour|護甲值]也會套用至[Chaos Damage|混沌傷害]"
+    }
+  },
+  {
+    "original":"{0}% of [Elemental Damage|Elemental Damage] taken [Recouped|Recouped] as [Energy Shield|Energy Shield]",
+    "translation":{
+      "zh_cn":"将所受[Elemental Damage|元素伤害]的 {0}% [Recouped|吸纳]为[Energy Shield|能量护盾]",
+      "zh_tw":"承受[Elemental Damage|元素傷害]的 {0}% [Recouped|補償]為[Energy Shield|能量護盾]"
+    }
+  },
+  {
+    "original":"[Companions|Companions] have {0}% increased [Attack|Attack] Speed",
+    "translation":{
+      "zh_cn":"[Companions|伙伴]的[Attack|攻击]速度提高 {0}%",
+      "zh_tw":"增加 {0}% [Companions|盟友的[Attack|攻擊]速度"
+    }
+  },
+  {
+    "original":"{0}% increased Cast Speed while on Full Mana",
+    "translation":{
+      "zh_cn":"满魔时施法速度提高 {0}%",
+      "zh_tw":"滿魔力時，增加 {0}% 施放速度"
+    }
+  },
+  {
+    "original":"{0}% to Lightning and Chaos Resistances",
+    "translation":{
+      "zh_cn":"{0}% 闪电与混沌抗性",
+      "zh_tw":"{0}% 閃電和混沌抗性"
+    }
+  },
+  {
+    "original":"{0}% to Fire and Chaos Resistances",
+    "translation":{
+      "zh_cn":"{0}% 火焰与混沌抗性",
+      "zh_tw":"{0}% 火焰和混沌抗性"
+    }
+  },
+  {
+    "original":"{0}% to Cold and Chaos Resistances",
+    "translation":{
+      "zh_cn":"{0}% 冰霜与混沌抗性",
+      "zh_tw":"{0}% 冰冷和混沌抗性"
+    }
+  },
+      {
+        "original":"{0}% increased Global [Defences|Defences]",
+        "translation":{
+          "zh_cn":"全局[Defences|防御]提高 {0}%",
+          "zh_tw":"增加 {0}% 全域[Defences|防禦]"
+        }
+      },
+      {
+        "original": "{0}% increased [Energy Shield|Energy Shield] from Equipped Body Armour",
+        "translation": {
+          "zh_cn": "装备身体护甲的[Energy Shield|能量护盾]提高 {0}%",
+          "zh_tw": "增加 {0}% 已裝備身體護甲的[Energy Shield|能量護盾]"
+        }
+      },
+      {
+        "original":"{0}% increased [Spell|Spell] Damage while on Full [Energy Shield|Energy Shield]",
+        "translation":{
+          "zh_cn":"[Energy Shield|能量护盾]全满时，[Spell|法术]伤害提高 {0}%",
+          "zh_tw":"滿[Energy Shield|能量護盾]時，增加 {0}% [Spell|法術]傷害"
+        }
+      }
+]

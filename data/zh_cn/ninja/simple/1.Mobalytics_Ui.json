@@ -1,0 +1,262 @@
+{
+  "1.Mobalytics_Ui_group": [
+    {
+      "Home": {
+        "zh_cn": "首页",
+        "zh_tw": "首頁"
+      },
+      "Profile": {
+        "zh_cn": "个人资料",
+        "zh_tw": "個人資料"
+      },
+      "Build Planner": {
+        "zh_cn": "Build模拟器",
+        "zh_tw": "Build模擬器"
+      },
+      "Tier List": {
+        "zh_cn": "角色强度榜",
+        "zh_tw": "角色強度榜"
+      },
+      "Starter Builds": {
+        "zh_cn": "开荒Build",
+        "zh_tw": "开荒Build"
+      },
+      "Builds": {
+        "zh_cn": "Build",
+        "zh_tw": "Build"
+      },
+      "Verified Builds": {
+        "zh_cn": "已验证Build",
+        "zh_tw": "已驗證Build"
+      },
+      "Featured Builds": {
+        "zh_cn": "特色Build",
+        "zh_tw": "特色Build"
+      },
+      "Creator Builds": {
+        "zh_cn": "创作者Build",
+        "zh_tw": "創作者Build"
+      },
+      "Featured Creator Builds": {
+        "zh_cn": "特色创作者Build",
+        "zh_tw": "特色創作者Build"
+      },
+      "Community Builds": {
+        "zh_cn": "社区Build",
+        "zh_tw": "社區Build"
+      },
+      "Class": {
+        "zh_cn": "职业",
+        "zh_tw": "職業"
+      },
+      "Ascendancy": {
+        "zh_cn": "升华",
+        "zh_tw": "昇華"
+      },
+      "Starter": {
+        "zh_cn": "开荒",
+        "zh_tw": "开荒"
+      },
+      "End Game": {
+        "zh_cn": "终局",
+        "zh_tw": "終局"
+      },
+      "Endgame": {
+        "zh_cn": "终局",
+        "zh_tw": "終局"
+      },
+      "Leveling": {
+        "zh_cn": "开荒",
+        "zh_tw": "开荒"
+      },
+      "Speed Leveling": {
+        "zh_cn": "快速升级",
+        "zh_tw": "快速升級"
+      },
+      "Expensive Uber Endgame": {
+        "zh_cn": "昂贵的终极终局",
+        "zh_tw": "昂贵的终极終局"
+      },
+      "Trending": {
+        "zh_cn": "热门",
+        "zh_tw": "熱門"
+      },
+      "Top": {
+        "zh_cn": "Top",
+        "zh_tw": "Top"
+      },
+      "New": {
+        "zh_cn": "新的",
+        "zh_tw": "新的"
+      },
+      "Today": {
+        "zh_cn": "今日",
+        "zh_tw": "今日"
+      },
+      "This week": {
+        "zh_cn": "本周",
+        "zh_tw": "本周"
+      },
+      "This month": {
+        "zh_cn": "本月",
+        "zh_tw": "本月"
+      },
+      "All time": {
+        "zh_cn": "全部时间",
+        "zh_tw": "全部時間"
+      },
+      "Verified": {
+        "zh_cn": "已验证",
+        "zh_tw": "已驗證"
+      },
+      "By": {
+        "zh_cn": "作者",
+        "zh_tw": "作者"
+      },
+      "Updated on": {
+        "zh_cn": "更新于",
+        "zh_tw": "更新於"
+      },
+      "Share": {
+        "zh_cn": "分享",
+        "zh_tw": "分享"
+      },
+      "Duplicate": {
+        "zh_cn": "复制",
+        "zh_tw": "複製"
+      },
+      "Show more": {
+        "zh_cn": "显示更多",
+        "zh_tw": "顯示更多"
+      },
+      "All Class and Ascendancy Builds": {
+        "zh_cn": "所有职业和升华 Build",
+        "zh_tw": "所有職業和昇華 Build"
+      },
+      "Latest Guides": {
+        "zh_cn": "最新攻略",
+        "zh_tw": "最新攻略"
+      },
+      "Creators": {
+        "zh_cn": "创作者",
+        "zh_tw": "創作者"
+      },
+      "Guides": {
+        "zh_cn": "攻略",
+        "zh_tw": "指南"
+      },
+      "Download app": {
+        "zh_cn": "下载应用(应用无汉化)",
+        "zh_tw": "下載應用(應用無漢化)"
+      },
+      "Community": {
+        "zh_cn": "社区",
+        "zh_tw": "社區"
+      },
+      "Join Discord": {
+        "zh_cn": "加入 Discord",
+        "zh_tw": "加入 Discord"
+      },
+      "Partners Program": {
+        "zh_cn": "合作伙伴计划",
+        "zh_tw": "合作伙伴計劃"
+      },
+      "Giveaways": {
+        "zh_cn": "赠品",
+        "zh_tw": "赠品"
+      },
+      "News": {
+        "zh_cn": "消息",
+        "zh_tw": "消息"
+      },
+      "Build Overview": {
+        "zh_cn": "Build概览",
+        "zh_tw": "Build概覽"
+      },
+      "Path of Building Code": {
+        "zh_cn": "PoB 代码",
+        "zh_tw": "PoB 代碼"
+      },
+      "Copy Code": {
+        "zh_cn": "复制代码",
+        "zh_tw": "複製代碼"
+      },
+      "Video Guide": {
+        "zh_cn": "视频攻略",
+        "zh_tw": "視頻攻略"
+      },
+      "Table of Contents": {
+        "zh_cn": "目录",
+        "zh_tw": "目錄"
+      },
+      "Strengths and Weaknesses": {
+        "zh_cn": "优势与劣势",
+        "zh_tw": "优势與劣势"
+      },
+      "Build Variants": {
+        "zh_cn": "Build变体",
+        "zh_tw": "Build變體"
+      },
+      "Equipment": {
+        "zh_cn": "装备",
+        "zh_tw": "裝備"
+      },
+      "Support Gem Requirements": {
+        "zh_cn": "辅助宝石需求",
+        "zh_tw": "輔助寶石需求"
+      },
+      "Expand all": {
+        "zh_cn": "展开所有",
+        "zh_tw": "展開所有"
+      },
+      "Collapse all": {
+        "zh_cn": "收起所有",
+        "zh_tw": "收起所有"
+      },
+      "Gem Priority": {
+        "zh_cn": "宝石优先级",
+        "zh_tw": "寶石優先級"
+      },
+      "Show All": {
+        "zh_cn": "显示全部",
+        "zh_tw": "顯示全部"
+      },
+      "Hide Priority": {
+        "zh_cn": "隐藏优先级",
+        "zh_tw": "隱藏優先級"
+      },
+      "Passive Tree": {
+        "zh_cn": "天赋树",
+        "zh_tw": "天赋樹"
+      },
+      "Notable Priority": {
+        "zh_cn": "重点优先级",
+        "zh_tw": "重點優先級"
+      },
+      "Ascendancy Priority": {
+        "zh_cn": "升华优先级",
+        "zh_tw": "昇華優先級"
+      },
+      "Atlas Tree": {
+        "zh_cn": "异界天赋树",
+        "zh_tw": "輿圖天賦樹"
+      },
+      "How it Works": {
+        "zh_cn": "工作原理",
+        "zh_tw": "工作原理"
+      },
+      "Changelog": {
+        "zh_cn": "更新日志",
+        "zh_tw": "更新日誌"
+      },
+      "Back to top": {
+        "zh_cn": "返回顶部",
+        "zh_tw": "返回頂部"
+      },
+      "Find on PoE2 Trade": {
+        "zh_cn": "在 PoE2 国际服市集查找",
+        "zh_tw": "在 PoE2 國際服市集查找"
+      }
+    }
+  ]
+}

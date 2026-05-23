@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Atziri's Acuity",
+    "zh_cn": "阿兹里的捷思",
+    "zh_tw": "阿茲里的捷思",
+    "FlavourText": {
+      "original": "\"The heart is the herald.\nIt will tell me when it is best to strike.\"\n- Atziri, Queen of the Vaal",
+      "zh_cn": "“心脏是最佳传令官，\n让我知道何时该出击迎战。”\n- 瓦尔女王阿兹里",
+      "zh_tw": "「心臟是最佳傳令官，\n讓我知道何時該出擊迎戰。」\n- 瓦爾女王阿茲里"
+    },
+    "img": "AtzirisAcuity.png",
+    "group": [
+        {
+          "original": "[Leech|Leech] from [Critical Hits|Critical Hits] is instant",
+          "translation": {
+            "zh_cn": "[Critical Hits|暴击]的[Leech|偷取]立即生效",
+            "zh_tw": "[Critical Hits|暴擊]的[Leech|偷取]立即生效"
+          }
+        },
+        {
+          "original": "{0}% increased [Critical Hit Chance|Critical Hit Chance] if you haven't dealt a Critical Hit [Recently|Recently]",
+          "translation": {
+            "zh_cn": "若你[Recently|近期]内没有打出暴击，则[Critical Hit Chance|暴击率]提高 {0}%",
+            "zh_tw": "若你[Recently|近期]未造成暴擊，增加 {0}% [Critical Hit Chance|暴擊率]"
+          }
+        }
+    ]
+  }
+]

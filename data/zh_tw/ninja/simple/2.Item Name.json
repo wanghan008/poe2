@@ -1,0 +1,4214 @@
+{
+  "Claws Item /13":{
+    "zh_cn":"爪 物品 /13",
+    "zh_tw":"爪 物品 /13"
+  },
+  "Claws Item_group":[
+    {
+      "Crude Claw":{
+        "zh_cn":"粗制利爪",
+        "zh_tw":"簡陋爪"
+      },
+      "Pict Claw":{
+        "zh_cn":"绘彩利爪",
+        "zh_tw":"皮克特爪"
+      },
+      "Wolfbone Claw":{
+        "zh_cn":"狼骨利爪",
+        "zh_tw":"狼骨爪"
+      },
+      "Forked Claw":{
+        "zh_cn":"分叉利爪",
+        "zh_tw":"叉狀爪"
+      },
+      "Plated Claw":{
+        "zh_cn":"护板利爪",
+        "zh_tw":"華麗爪"
+      },
+      "Edged Claw":{
+        "zh_cn":"锋刃利爪",
+        "zh_tw":"鋒利爪"
+      },
+      "Arced Claw":{
+        "zh_cn":"弧形利爪",
+        "zh_tw":"弧形爪"
+      },
+      "Hooked Claw":{
+        "zh_cn":"钩齿利爪",
+        "zh_tw":"鉤爪"
+      },
+      "Razorglass Claw":{
+        "zh_cn":"琉锋利爪",
+        "zh_tw":"剃刀玻璃爪"
+      },
+      "Sharktooth Claw":{
+        "zh_cn":"鲨颚爪",
+        "zh_tw":"鯊顎爪"
+      },
+      "Armoured Claw":{
+        "zh_cn":"重装利爪",
+        "zh_tw":"裝甲爪"
+      },
+      "Piercing Claw":{
+        "zh_cn":"洞穿利爪",
+        "zh_tw":"穿刺爪"
+      },
+      "Talon Claw":{
+        "zh_cn":"猛禽利爪",
+        "zh_tw":"猛禽爪"
+      }
+    }
+  ],
+  "Daggers Item /14":{
+    "zh_cn":"匕首 物品 /14",
+    "zh_tw":"匕首 物品 /14"
+  },
+  "Daggers Item_group":[
+    {
+      "Ethereal Blade":{
+        "zh_cn":"虚空飞刃",
+        "zh_tw":"虛空刀刃"
+      },
+      "Glass Shank":{
+        "zh_cn":"玻璃利片",
+        "zh_tw":"玻璃利片"
+      },
+      "Crone Knife":{
+        "zh_cn":"巫妪小刀",
+        "zh_tw":"巫婆小刀"
+      },
+      "Simple Dagger":{
+        "zh_cn":"朴实匕首",
+        "zh_tw":"簡易匕首"
+      },
+      "Skinning Knife":{
+        "zh_cn":"剥皮刀",
+        "zh_tw":"剝皮刀"
+      },
+      "Moon Dagger":{
+        "zh_cn":"月刃匕首",
+        "zh_tw":"月之匕首"
+      },
+      "Engraved Knife":{
+        "zh_cn":"雕纹小刀",
+        "zh_tw":"紋刻小刀"
+      },
+      "Obsidian Dagger":{
+        "zh_cn":"黑曜石匕首",
+        "zh_tw":"黑曜石匕首"
+      },
+      "Bloodletting Dagger":{
+        "zh_cn":"放血匕首",
+        "zh_tw":"出血匕首"
+      },
+      "Mail Breaker":{
+        "zh_cn":"拆信刀",
+        "zh_tw":"鎖甲破壞者"
+      },
+      "Kris Knife":{
+        "zh_cn":"波刃小刀",
+        "zh_tw":"波刃刀"
+      },
+      "Parrying Dagger":{
+        "zh_cn":"格挡匕首",
+        "zh_tw":"格擋匕首"
+      },
+      "Arcane Dirk":{
+        "zh_cn":"秘术短匕",
+        "zh_tw":"奧術短刀"
+      },
+      "Cinquedea":{
+        "zh_cn":"五指剑",
+        "zh_tw":"五指短劍"
+      }
+    }
+  ],
+  "Wands Item /13":{
+    "zh_cn":"法杖 物品 /13",
+    "zh_tw":"法杖 物品 /13"
+  },
+  "Wands Item_group":[
+    {
+      "Withered Wand":{
+        "zh_cn":"凋零法杖",
+        "zh_tw":"凋零法杖"
+      },
+      "Bone Wand":{
+        "zh_cn":"钙石法杖",
+        "zh_tw":"骸骨法杖"
+      },
+      "Attuned Wand":{
+        "zh_cn":"调谐法杖",
+        "zh_tw":"調和法杖"
+      },
+      "Siphoning Wand":{
+        "zh_cn":"虹吸法杖",
+        "zh_tw":"虹吸法杖"
+      },
+      "Volatile Wand":{
+        "zh_cn":"易变法杖",
+        "zh_tw":"失衡法杖"
+      },
+      "Galvanic Wand":{
+        "zh_cn":"电流法杖",
+        "zh_tw":"電能法杖"
+      },
+      "Acrid Wand":{
+        "zh_cn":"刻薄法杖",
+        "zh_tw":"刺鼻法杖"
+      },
+      "Offering Wand":{
+        "zh_cn":"供奉法杖",
+        "zh_tw":"奉獻法杖"
+      },
+      "Frigid Wand":{
+        "zh_cn":"严寒法杖",
+        "zh_tw":"冰冷法杖"
+      },
+      "Torture Wand":{
+        "zh_cn":"煎熬法杖",
+        "zh_tw":"暴虐法杖"
+      },
+      "Critical Wand":{
+        "zh_cn":"批判法杖",
+        "zh_tw":"致命法杖"
+      },
+      "Primordial Wand":{
+        "zh_cn":"始源法杖",
+        "zh_tw":"原始法杖"
+      },
+      "Dueling Wand":{
+        "zh_cn":"决斗法杖",
+        "zh_tw":"單挑法杖"
+      }
+    }
+  ],
+  "One Hand Swords Item /16":{
+    "zh_cn":"单手剑 物品 /16",
+    "zh_tw":"單手劍 物品 /16"
+  },
+  "One Hand Swords Item_group":[
+    {
+      "Golden Blade":{
+        "zh_cn":"金色之刃",
+        "zh_tw":"黃金之刃"
+      },
+      "Energy Blade":{
+        "zh_cn":"能量之刃",
+        "zh_tw":"能量之刃"
+      },
+      "Shortsword":{
+        "zh_cn":"短剑",
+        "zh_tw":"短劍"
+      },
+      "Broadsword":{
+        "zh_cn":"阔剑",
+        "zh_tw":"闊劍"
+      },
+      "Vampiric Blade":{
+        "zh_cn":"喋血之刃",
+        "zh_tw":"嗜血之刃"
+      },
+      "Scimitar":{
+        "zh_cn":"弯刀",
+        "zh_tw":"彎刀"
+      },
+      "Charred Shortsword":{
+        "zh_cn":"焦痕短剑",
+        "zh_tw":"焦黑短劍"
+      },
+      "Sickle Sword":{
+        "zh_cn":"镰刃剑",
+        "zh_tw":"鐮劍"
+      },
+      "Falchion":{
+        "zh_cn":"弯刃大刀",
+        "zh_tw":"彎刃劍"
+      },
+      "Treasured Blade":{
+        "zh_cn":"珍奇之刃",
+        "zh_tw":"貴重刀刃"
+      },
+      "Cutlass":{
+        "zh_cn":"军用长刀",
+        "zh_tw":"軍用長刃"
+      },
+      "Runic Shortsword":{
+        "zh_cn":"符文短剑",
+        "zh_tw":"符文短劍"
+      },
+      "Messer":{
+        "zh_cn":"大砍刀",
+        "zh_tw":"單手刀"
+      },
+      "Commander Sword":{
+        "zh_cn":"统帅利剑",
+        "zh_tw":"指揮官劍"
+      },
+      "Dark Blade":{
+        "zh_cn":"黑暗之锋",
+        "zh_tw":"黑暗之刃"
+      }
+    }
+  ],
+  "One Hand Axes Item /13":{
+    "zh_cn":"单手斧 物品 /13",
+    "zh_tw":"單手斧 物品 /13"
+  },
+  "One Hand Axes Item_group":[
+    {
+      "Dull Hatchet":{
+        "zh_cn":"钝锋手斧",
+        "zh_tw":"鈍斧"
+      },
+      "Hook Axe":{
+        "zh_cn":"钩斧",
+        "zh_tw":"鉤斧"
+      },
+      "Bearded Axe":{
+        "zh_cn":"钩刃斧",
+        "zh_tw":"鉤刺斧"
+      },
+      "Extended Cleaver":{
+        "zh_cn":"长柄战斧",
+        "zh_tw":"加長砍斧"
+      },
+      "Bandit Hatchet":{
+        "zh_cn":"盗匪手斧",
+        "zh_tw":"強盜斧"
+      },
+      "Crescent Axe":{
+        "zh_cn":"月牙斧",
+        "zh_tw":"新月斧"
+      },
+      "Carving Hatchet":{
+        "zh_cn":"刨肉手斧",
+        "zh_tw":"雕刻斧"
+      },
+      "Sacrificial Axe":{
+        "zh_cn":"奉献之斧",
+        "zh_tw":"獻祭斧"
+      },
+      "Boarding Hatchet":{
+        "zh_cn":"跳帮手斧",
+        "zh_tw":"登船斧"
+      },
+      "Fury Cleaver":{
+        "zh_cn":"暴怒战斧",
+        "zh_tw":"狂怒砍斧"
+      },
+      "Battle Axe":{
+        "zh_cn":"鏖战之斧",
+        "zh_tw":"戰斧"
+      },
+      "Profane Cleaver":{
+        "zh_cn":"亵渎战斧",
+        "zh_tw":"粗劣砍斧"
+      },
+      "Dread Hatchet":{
+        "zh_cn":"恐惧手斧",
+        "zh_tw":"驚懼符文"
+      }
+    }
+  ],
+  "One Hand Maces Item /27":{
+    "zh_cn":"单手锤 物品 /27",
+    "zh_tw":"單手錘 物品 /27"
+  },
+  "One Hand Maces Item_group":[
+    {
+      "Wooden Club":{
+        "zh_cn":"木棒",
+        "zh_tw":"木製棍棒"
+      },
+      "Smithing Hammer":{
+        "zh_cn":"锻铸之锤",
+        "zh_tw":"鍛造錘"
+      },
+      "Slim Mace":{
+        "zh_cn":"细柄钉锤",
+        "zh_tw":"纖細之錘"
+      },
+      "Spiked Club":{
+        "zh_cn":"钝钉木棒",
+        "zh_tw":"鈍釘木棒"
+      },
+      "Warpick":{
+        "zh_cn":"战镐",
+        "zh_tw":"戰鎬"
+      },
+      "Plated Mace":{
+        "zh_cn":"板锤",
+        "zh_tw":"華麗之錘"
+      },
+      "Brigand Mace":{
+        "zh_cn":"强盗之锤",
+        "zh_tw":"強盜之錘"
+      },
+      "Construct Hammer":{
+        "zh_cn":"施工锤",
+        "zh_tw":"建造錘"
+      },
+      "Morning Star":{
+        "zh_cn":"流星锤",
+        "zh_tw":"晨星"
+      },
+      "Jade Club":{
+        "zh_cn":"翠玉战棒",
+        "zh_tw":"玉製棍棒"
+      },
+      "Lumen Mace":{
+        "zh_cn":"流明之锤",
+        "zh_tw":"流明之錘"
+      },
+      "Execratus Hammer":{
+        "zh_cn":"秽咒之锤",
+        "zh_tw":"詛咒之錘"
+      },
+      "Torment Club":{
+        "zh_cn":"劫难战棒",
+        "zh_tw":"磨難棍棒"
+      },
+      "Kalguuran Forgehammer":{
+        "zh_cn":"卡古兰锻造锤",
+        "zh_tw":"卡爾葛鍛造錘"
+      },
+      "Calescent Hammer":{
+        "zh_cn":"升温之锤",
+        "zh_tw":"升溫之錘"
+      },
+      "Flared Mace":{
+        "zh_cn":"耀焰之锤",
+        "zh_tw":"閃光之錘"
+      },
+      "Battle Pick":{
+        "zh_cn":"战镐",
+        "zh_tw":"戰鬥鎬"
+      },
+      "Marching Mace":{
+        "zh_cn":"行军之锤",
+        "zh_tw":"行軍之錘"
+      },
+      "Bandit Mace":{
+        "zh_cn":"强盗之锤",
+        "zh_tw":"盜賊之錘"
+      },
+      "Structured Hammer":{
+        "zh_cn":"构造之锤",
+        "zh_tw":"建構之錘"
+      },
+      "Flanged Mace":{
+        "zh_cn":"钉头锤",
+        "zh_tw":"輪緣之錘"
+      },
+      "Crown Mace":{
+        "zh_cn":"冠首之锤",
+        "zh_tw":"皇冠之錘"
+      },
+      "Molten Hammer":{
+        "zh_cn":"熔火之锤",
+        "zh_tw":"熔火之錘"
+      },
+      "Strife Pick":{
+        "zh_cn":"纷争之镐",
+        "zh_tw":"鬥爭鎬"
+      },
+      "Fortified Hammer":{
+        "zh_cn":"强固之锤",
+        "zh_tw":"強化之錘"
+      },
+      "Marauding Mace":{
+        "zh_cn":"劫掠之锤",
+        "zh_tw":"劫掠之錘"
+      },
+      "Akoyan Club":{
+        "zh_cn":"阿科扬战棒",
+        "zh_tw":"艾古亞棍棒"
+      }
+    }
+  ],
+  "Sceptres Item /16":{
+    "zh_cn":"短杖 物品 /16",
+    "zh_tw":"權杖 物品 /16"
+  },
+  "Sceptres Item_group":[
+    {
+      "Rattling Sceptre":{
+        "zh_cn":"罪孽短杖",
+        "zh_tw":"雜響權杖"
+      },
+      "Stoic Sceptre":{
+        "zh_cn":"克己短杖",
+        "zh_tw":"魔道權杖"
+      },
+      "Lupine Sceptre":{
+        "zh_cn":"幽狼短杖",
+        "zh_tw":"兇殘權杖"
+      },
+      "Omen Sceptre":{
+        "zh_cn":"预兆短杖",
+        "zh_tw":"徵兆權杖"
+      },
+      "Ochre Sceptre":{
+        "zh_cn":"赤色短杖",
+        "zh_tw":"赤色權杖"
+      },
+      "Shrine Sceptre":{
+        "zh_cn":"圣地短杖",
+        "zh_tw":"神殿權杖"
+      },
+      "Devouring Sceptre":{
+        "zh_cn":"吞噬短杖",
+        "zh_tw":"吞噬權杖"
+      },
+      "Clasped Sceptre":{
+        "zh_cn":"握扣短杖",
+        "zh_tw":"握扣權杖"
+      },
+      "Devotional Sceptre":{
+        "zh_cn":"虔诚短杖",
+        "zh_tw":"虔誠權杖"
+      },
+      "Wrath Sceptre":{
+        "zh_cn":"愤怒短杖",
+        "zh_tw":"暴怒權杖"
+      },
+      "Aromatic Sceptre":{
+        "zh_cn":"芳香短杖",
+        "zh_tw":"芳香權杖"
+      },
+      "Pious Sceptre":{
+        "zh_cn":"虔信短杖",
+        "zh_tw":"敬神權杖"
+      },
+      "Hallowed Sceptre":{
+        "zh_cn":"崇圣短杖",
+        "zh_tw":"聖潔權杖"
+      }
+    }
+  ],
+  "Spears Item /28":{
+    "zh_cn":"战矛 物品 /28",
+    "zh_tw":"長矛 物品 /28"
+  },
+  "Spears Item_group":[
+    {
+      "Hardwood Spear":{
+        "zh_cn":"硬木长矛",
+        "zh_tw":"硬木長矛"
+      },
+      "Ironhead Spear":{
+        "zh_cn":"铁头长矛",
+        "zh_tw":"鐵木長矛"
+      },
+      "Hunting Spear":{
+        "zh_cn":"狩猎长矛",
+        "zh_tw":"狩獵長矛"
+      },
+      "Winged Spear":{
+        "zh_cn":"飞翼长矛",
+        "zh_tw":"羽翅長矛"
+      },
+      "War Spear":{
+        "zh_cn":"历战长矛",
+        "zh_tw":"戰爭長矛"
+      },
+      "Forked Spear":{
+        "zh_cn":"分叉长矛",
+        "zh_tw":"叉狀長矛"
+      },
+      "Barbed Spear":{
+        "zh_cn":"倒刺长矛",
+        "zh_tw":"鉤刺長矛"
+      },
+      "Broad Spear":{
+        "zh_cn":"宽首长矛",
+        "zh_tw":"闊刃長矛"
+      },
+      "Crossblade Spear":{
+        "zh_cn":"十字长矛",
+        "zh_tw":"十字刃長矛"
+      },
+      "Seaglass Spear":{
+        "zh_cn":"海琉长矛",
+        "zh_tw":"海玻璃長矛"
+      },
+      "Sword Spear":{
+        "zh_cn":"剑刃长矛",
+        "zh_tw":"劍刃長矛"
+      },
+      "Striking Spear":{
+        "zh_cn":"精标长矛",
+        "zh_tw":"突擊長矛"
+      },
+      "Helix Spear":{
+        "zh_cn":"螺旋长矛",
+        "zh_tw":"螺旋長矛"
+      },
+      "Steelhead Spear":{
+        "zh_cn":"钢头战矛",
+        "zh_tw":"鋼尖長矛"
+      },
+      "Coursing Spear":{
+        "zh_cn":"追击战矛",
+        "zh_tw":"追獵長矛"
+      },
+      "Swift Spear":{
+        "zh_cn":"迅捷战矛",
+        "zh_tw":"迅疾長矛"
+      },
+      "Branched Spear":{
+        "zh_cn":"分叉战矛",
+        "zh_tw":"分支長矛"
+      },
+      "Jagged Spear":{
+        "zh_cn":"锯齿战矛",
+        "zh_tw":"鋸齒長矛"
+      },
+      "Massive Spear":{
+        "zh_cn":"重型战矛",
+        "zh_tw":"巨型長矛"
+      },
+      "Orichalcum Spear":{
+        "zh_cn":"奥利哈刚战矛",
+        "zh_tw":"山銅長矛"
+      },
+      "Soaring Spear":{
+        "zh_cn":"翱翔战矛",
+        "zh_tw":"翱翔長矛"
+      },
+      "Pronged Spear":{
+        "zh_cn":"叉尖战矛",
+        "zh_tw":"尖叉長矛"
+      },
+      "Stalking Spear":{
+        "zh_cn":"潜行战矛",
+        "zh_tw":"潛獵長矛"
+      },
+      "Flying Spear":{
+        "zh_cn":"飞行战矛",
+        "zh_tw":"翱翔長矛"
+      },
+      "Grand Spear":{
+        "zh_cn":"宏伟战矛",
+        "zh_tw":"宏偉長矛"
+      },
+      "Spiked Spear":{
+        "zh_cn":"尖刺战矛",
+        "zh_tw":"尖刺長矛"
+      },
+      "Guardian Spear":{
+        "zh_cn":"守护者战矛",
+        "zh_tw":"衛者長矛"
+      },
+      "Akoyan Spear":{
+        "zh_cn":"阿科扬战矛",
+        "zh_tw":"艾古亞長矛"
+      }
+    }
+  ],
+  "Flails Item /13":{
+    "zh_cn":"连枷 物品 /13",
+    "zh_tw":"鏈錘 物品 /13"
+  },
+  "Flails Item_group":[
+    {
+      "Splintered Flail":{
+        "zh_cn":"碎裂连枷",
+        "zh_tw":"分裂鏈錘"
+      },
+      "Chain Flail":{
+        "zh_cn":"精索连枷",
+        "zh_tw":"鎖鏈鏈錘"
+      },
+      "Holy Flail":{
+        "zh_cn":"神祝连枷",
+        "zh_tw":"神聖鏈錘"
+      },
+      "Iron Flail":{
+        "zh_cn":"钢铁连枷",
+        "zh_tw":"鋼鐵鏈錘"
+      },
+      "Twin Flail":{
+        "zh_cn":"双首连枷",
+        "zh_tw":"雙生鏈錘"
+      },
+      "Slender Flail":{
+        "zh_cn":"长鞭连枷",
+        "zh_tw":"纖細鏈錘"
+      },
+      "Stone Flail":{
+        "zh_cn":"巨石连枷",
+        "zh_tw":"岩石鏈錘"
+      },
+      "Ring Flail":{
+        "zh_cn":"环锁连枷",
+        "zh_tw":"圓環鏈錘"
+      },
+      "Guarded Flail":{
+        "zh_cn":"卫甲连枷",
+        "zh_tw":"警惕鏈錘"
+      },
+      "Icicle Flail":{
+        "zh_cn":"冰刺连枷",
+        "zh_tw":"冰錐鏈錘"
+      },
+      "Tearing Flail":{
+        "zh_cn":"碎肉连枷",
+        "zh_tw":"撕裂鏈錘"
+      },
+      "Great Flail":{
+        "zh_cn":"巨型连枷",
+        "zh_tw":"大型鏈錘"
+      },
+      "Abyssal Flail":{
+        "zh_cn":"深渊连枷",
+        "zh_tw":"深淵鏈錘"
+      }
+    }
+  ],
+  "Bows Item /26":{
+    "zh_cn":"弓 物品 /26",
+    "zh_tw":"弓 物品 /26"
+  },
+  "Bows Item_group":[
+    {
+      "Crude Bow":{
+        "zh_cn":"粗制弓",
+        "zh_tw":"粗製弓"
+      },
+      "Shortbow":{
+        "zh_cn":"短弓",
+        "zh_tw":"短弓"
+      },
+      "Warden Bow":{
+        "zh_cn":"监守弓",
+        "zh_tw":"守護者之弓"
+      },
+      "Recurve Bow":{
+        "zh_cn":"反曲弓",
+        "zh_tw":"反曲弓"
+      },
+      "Composite Bow":{
+        "zh_cn":"复合弓",
+        "zh_tw":"合成弓"
+      },
+      "Dualstring Bow":{
+        "zh_cn":"双弦弓",
+        "zh_tw":"雙弦弓"
+      },
+      "Cultist Bow":{
+        "zh_cn":"教徒弓",
+        "zh_tw":"教徒之弓"
+      },
+      "Zealot Bow":{
+        "zh_cn":"狂热弓",
+        "zh_tw":"狂熱者之弓"
+      },
+      "Artillery Bow":{
+        "zh_cn":"轰击弓",
+        "zh_tw":"砲火弓"
+      },
+      "Tribal Bow":{
+        "zh_cn":"部族弓",
+        "zh_tw":"部落弓"
+      },
+      "Greatbow":{
+        "zh_cn":"巨弓",
+        "zh_tw":"巨弓"
+      },
+      "Double Limb Bow":{
+        "zh_cn":"双臂弓",
+        "zh_tw":"雙肢弓"
+      },
+      "Heavy Bow":{
+        "zh_cn":"重装强弓",
+        "zh_tw":"重弓"
+      },
+      "Snakewood Shortbow":{
+        "zh_cn":"蛇纹短弓",
+        "zh_tw":"蛇木短弓"
+      },
+      "Protector Bow":{
+        "zh_cn":"保护者之弓",
+        "zh_tw":"保衛者之弓"
+      },
+      "Rider Bow":{
+        "zh_cn":"骑射之弓",
+        "zh_tw":"騎士之弓"
+      },
+      "Twin Bow":{
+        "zh_cn":"双生之弓",
+        "zh_tw":"雙生之弓"
+      },
+      "Adherent Bow":{
+        "zh_cn":"联排之弓",
+        "zh_tw":"信徒之弓"
+      },
+      "Militant Bow":{
+        "zh_cn":"军用战弓",
+        "zh_tw":"好戰者之弓"
+      },
+      "Ironwood Shortbow":{
+        "zh_cn":"铁木短弓",
+        "zh_tw":"鐵木短弓"
+      },
+      "Cavalry Bow":{
+        "zh_cn":"骑兵之弓",
+        "zh_tw":"騎兵之弓"
+      },
+      "Guardian Bow":{
+        "zh_cn":"守护者之弓",
+        "zh_tw":"防衛者之弓"
+      },
+      "Gemini Bow":{
+        "zh_cn":"双子之弓",
+        "zh_tw":"雙子之弓"
+      },
+      "Fanatic Bow":{
+        "zh_cn":"狂热之弓",
+        "zh_tw":"盲信之弓"
+      },
+      "Warmonger Bow":{
+        "zh_cn":"寻战之弓",
+        "zh_tw":"狂戰者之弓"
+      },
+      "Obliterator Bow":{
+        "zh_cn":"毁灭者之弓",
+        "zh_tw":"毀滅者之弓"
+      }
+    }
+  ],
+  "Staves Item /16":{
+    "zh_cn":"长杖 物品 /16",
+    "zh_tw":"長杖 物品 /16"
+  },
+  "Staves Item_group":[
+    {
+      "Ashen Staff":{
+        "zh_cn":"枯灰长杖",
+        "zh_tw":"灰燼長杖"
+      },
+      "Gelid Staff":{
+        "zh_cn":"冰寒长杖",
+        "zh_tw":"極寒長杖"
+      },
+      "Voltaic Staff":{
+        "zh_cn":"雷霆长杖",
+        "zh_tw":"電流長杖"
+      },
+      "Spriggan Staff":{
+        "zh_cn":"鬼灵长杖",
+        "zh_tw":"狡詐長杖"
+      },
+      "Pyrophyte Staff":{
+        "zh_cn":"耐火长杖",
+        "zh_tw":"炎植長杖"
+      },
+      "Chiming Staff":{
+        "zh_cn":"鸣谐长杖",
+        "zh_tw":"鳴響長杖"
+      },
+      "Rending Staff":{
+        "zh_cn":"撕裂长杖",
+        "zh_tw":"撕裂長杖"
+      },
+      "Reaping Staff":{
+        "zh_cn":"收割长杖",
+        "zh_tw":"死神長杖"
+      },
+      "Icicle Staff":{
+        "zh_cn":"冰柱长杖",
+        "zh_tw":"冰錐長杖"
+      },
+      "Roaring Staff":{
+        "zh_cn":"咆哮长杖",
+        "zh_tw":"咆哮長杖"
+      },
+      "Paralysing Staff":{
+        "zh_cn":"麻痹长杖",
+        "zh_tw":"麻木長杖"
+      },
+      "Sanctified Staff":{
+        "zh_cn":"神圣长杖",
+        "zh_tw":"神化長杖"
+      },
+      "Dark Staff":{
+        "zh_cn":"暗黑长杖",
+        "zh_tw":"黑暗長杖"
+      },
+      "Ravenous Staff":{
+        "zh_cn":"饕餮法杖",
+        "zh_tw":"貪婪長杖"
+      },
+      "Permafrost Staff":{
+        "zh_cn":"永霜法杖",
+        "zh_tw":"永凍長杖"
+      },
+      "Reflecting Staff":{
+        "zh_cn":"反射长杖",
+        "zh_tw":"映像之杖"
+      }
+    }
+  ],
+  "Two Hand Swords Item /14":{
+    "zh_cn":"双手剑 物品 /14",
+    "zh_tw":"雙手劍 物品 /14"
+  },
+  "Two Hand Swords Item_group":[
+    {
+      "Energy Blade":{
+        "zh_cn":"能量之刃",
+        "zh_tw":"能量之刃"
+      },
+      "Corroded Longsword":{
+        "zh_cn":"锈斑长剑",
+        "zh_tw":"腐蝕長劍"
+      },
+      "Iron Greatsword":{
+        "zh_cn":"钢铁巨剑",
+        "zh_tw":"鍛鐵巨劍"
+      },
+      "Blessed Claymore":{
+        "zh_cn":"蒙福大剑",
+        "zh_tw":"祝福大劍"
+      },
+      "Broad Greatsword":{
+        "zh_cn":"阔刃巨剑",
+        "zh_tw":"闊刃巨劍"
+      },
+      "Rippled Greatsword":{
+        "zh_cn":"波纹巨剑",
+        "zh_tw":"波紋巨劍"
+      },
+      "Arced Longsword":{
+        "zh_cn":"弧刃长剑",
+        "zh_tw":"弧形長劍"
+      },
+      "Stone Greatsword":{
+        "zh_cn":"磐石巨剑",
+        "zh_tw":"岩石巨劍"
+      },
+      "Obsidian Greatsword":{
+        "zh_cn":"黑曜巨剑",
+        "zh_tw":"黑曜石巨劍"
+      },
+      "Keen Greatsword":{
+        "zh_cn":"寒芒巨剑",
+        "zh_tw":"鋒利巨劍"
+      },
+      "Ancient Greatblade":{
+        "zh_cn":"上古巨剑",
+        "zh_tw":"遠古巨刃"
+      },
+      "Flanged Greatblade":{
+        "zh_cn":"焰刃巨剑",
+        "zh_tw":"凸緣巨刃"
+      },
+      "Regalia Longsword":{
+        "zh_cn":"君威长剑",
+        "zh_tw":"王權長劍"
+      },
+      "Ultra Greatsword":{
+        "zh_cn":"超凡巨剑",
+        "zh_tw":"終極巨劍"
+      }
+    }
+  ],
+  "Two Hand Axes Item /13":{
+    "zh_cn":"双手斧 物品 /13",
+    "zh_tw":"雙手斧 物品 /13"
+  },
+  "Two Hand Axes Item_group":[
+    {
+      "Splitting Greataxe":{
+        "zh_cn":"裂刃大斧",
+        "zh_tw":"分裂巨斧"
+      },
+      "Light Halberd":{
+        "zh_cn":"轻装戟斧",
+        "zh_tw":"輕巧斧槍"
+      },
+      "Executioner Greataxe":{
+        "zh_cn":"惩罚者大斧",
+        "zh_tw":"處刑者巨斧"
+      },
+      "Arched Greataxe":{
+        "zh_cn":"弧刃大斧",
+        "zh_tw":"拱形巨斧"
+      },
+      "Elegant Glaive":{
+        "zh_cn":"典雅战刃",
+        "zh_tw":"優雅長柄刀"
+      },
+      "Savage Greataxe":{
+        "zh_cn":"狂放大斧",
+        "zh_tw":"野蠻巨斧"
+      },
+      "Rending Halberd":{
+        "zh_cn":"裂肉戟斧",
+        "zh_tw":"撕扯斧槍"
+      },
+      "Jagged Greataxe":{
+        "zh_cn":"锯齿大斧",
+        "zh_tw":"鋸齒巨斧"
+      },
+      "Reaver Glaive":{
+        "zh_cn":"掠夺者战刃",
+        "zh_tw":"收割者長柄刀"
+      },
+      "Ember Greataxe":{
+        "zh_cn":"飞烬大斧",
+        "zh_tw":"餘燼巨斧"
+      },
+      "Ceremonial Halberd":{
+        "zh_cn":"祭仪长戟",
+        "zh_tw":"儀式斧槍"
+      },
+      "Monument Greataxe":{
+        "zh_cn":"丰碑大斧",
+        "zh_tw":"豐碑巨斧"
+      },
+      "Vile Greataxe":{
+        "zh_cn":"厄难大斧",
+        "zh_tw":"邪惡巨斧"
+      }
+    }
+  ],
+  "Two Hand Maces Item /26":{
+    "zh_cn":"双手锤 物品 /26",
+    "zh_tw":"雙手錘 物品 /26"
+  },
+  "Two Hand Maces Item_group":[
+    {
+      "Felled Greatclub":{
+        "zh_cn":"伐采巨棍",
+        "zh_tw":"墮落巨棍棒"
+      },
+      "Oak Greathammer":{
+        "zh_cn":"橡木大锤",
+        "zh_tw":"橡木巨錘"
+      },
+      "Forge Maul":{
+        "zh_cn":"锻炉巨锤",
+        "zh_tw":"鍛造重錘"
+      },
+      "Studded Greatclub":{
+        "zh_cn":"镶钉巨棍",
+        "zh_tw":"鑲釘巨棍棒"
+      },
+      "Cultist Greathammer":{
+        "zh_cn":"教徒大锤",
+        "zh_tw":"教徒巨錘"
+      },
+      "Temple Maul":{
+        "zh_cn":"神殿巨锤",
+        "zh_tw":"神殿重錘"
+      },
+      "Leaden Greathammer":{
+        "zh_cn":"灌铅大锤",
+        "zh_tw":"麻木巨錘"
+      },
+      "Crumbling Maul":{
+        "zh_cn":"摧枯巨锤",
+        "zh_tw":"崩毀重錘"
+      },
+      "Pointed Maul":{
+        "zh_cn":"钉头巨锤",
+        "zh_tw":"尖銳重錘"
+      },
+      "Totemic Greatclub":{
+        "zh_cn":"图腾巨棍",
+        "zh_tw":"圖騰巨棍棒"
+      },
+      "Greatmace":{
+        "zh_cn":"狼牙巨锤",
+        "zh_tw":"巨釘錘"
+      },
+      "Precise Greathammer":{
+        "zh_cn":"精准大锤",
+        "zh_tw":"精準巨錘"
+      },
+      "Giant Maul":{
+        "zh_cn":"伟岸巨锤",
+        "zh_tw":"巨型重錘"
+      },
+      "Snakewood Greathammer":{
+        "zh_cn":"蛇纹大锤",
+        "zh_tw":"蛇木巨錘"
+      },
+      "Blacksmith Maul":{
+        "zh_cn":"锻造巨锤",
+        "zh_tw":"鐵匠重錘"
+      },
+      "Zealot Greathammer":{
+        "zh_cn":"狂热大锤",
+        "zh_tw":"狂熱巨錘"
+      },
+      "Solemn Maul":{
+        "zh_cn":"肃穆巨锤",
+        "zh_tw":"莊嚴重錘"
+      },
+      "Heavy Greathammer":{
+        "zh_cn":"沉重大锤",
+        "zh_tw":"重型巨錘"
+      },
+      "Disintegrating Maul":{
+        "zh_cn":"破军巨锤",
+        "zh_tw":"崩解重錘"
+      },
+      "Anvil Maul":{
+        "zh_cn":"铁砧巨锤",
+        "zh_tw":"鐵砧重錘"
+      },
+      "Sacred Maul":{
+        "zh_cn":"神圣巨锤",
+        "zh_tw":"神聖重錘"
+      },
+      "Ironwood Greathammer":{
+        "zh_cn":"铁木大锤",
+        "zh_tw":"鐵木巨錘"
+      },
+      "Fanatic Greathammer":{
+        "zh_cn":"狂乱大锤",
+        "zh_tw":"盲信巨錘"
+      },
+      "Ruination Maul":{
+        "zh_cn":"毁灭巨锤",
+        "zh_tw":"毀滅重錘"
+      },
+      "Massive Greathammer":{
+        "zh_cn":"庞然大锤",
+        "zh_tw":"巨型巨錘"
+      },
+      "Tawhoan Greatclub":{
+        "zh_cn":"塔赫亚巨棍",
+        "zh_tw":"塔赫亞巨棍棒"
+      }
+    }
+  ],
+  "Quarterstaves Item /27":{
+    "zh_cn":"节杖 物品 /27",
+    "zh_tw":"細杖 物品 /27"
+  },
+  "Quarterstaves Item_group":[
+    {
+      "Wrapped Quarterstaff":{
+        "zh_cn":"裹布节杖",
+        "zh_tw":"纏繞細杖"
+      },
+      "Long Quarterstaff":{
+        "zh_cn":"长柄节杖",
+        "zh_tw":"加長細杖"
+      },
+      "Gothic Quarterstaff":{
+        "zh_cn":"哥特节杖",
+        "zh_tw":"歌德細杖"
+      },
+      "Crackling Quarterstaff":{
+        "zh_cn":"霹雳节杖",
+        "zh_tw":"裂紋細杖"
+      },
+      "Crescent Quarterstaff":{
+        "zh_cn":"月牙节杖",
+        "zh_tw":"新月細杖"
+      },
+      "Steelpoint Quarterstaff":{
+        "zh_cn":"钢缘节杖",
+        "zh_tw":"鋼尖細杖"
+      },
+      "Slicing Quarterstaff":{
+        "zh_cn":"锋缘节杖",
+        "zh_tw":"斬割細杖"
+      },
+      "Barrier Quarterstaff":{
+        "zh_cn":"护身节杖",
+        "zh_tw":"屏障細杖"
+      },
+      "Hefty Quarterstaff":{
+        "zh_cn":"沉重节杖",
+        "zh_tw":"堅固細杖"
+      },
+      "Smooth Quarterstaff":{
+        "zh_cn":"优雅节杖",
+        "zh_tw":"平滑細杖"
+      },
+      "Anima Quarterstaff":{
+        "zh_cn":"心能节杖",
+        "zh_tw":"靈魂細杖"
+      },
+      "Graceful Quarterstaff":{
+        "zh_cn":"风雅节杖",
+        "zh_tw":"優雅細杖"
+      },
+      "Wyrm Quarterstaff":{
+        "zh_cn":"腾龙节杖",
+        "zh_tw":"蠕蟲細杖"
+      },
+      "Reaching Quarterstaff":{
+        "zh_cn":"延伸节杖",
+        "zh_tw":"延伸細杖"
+      },
+      "Barbarous Quarterstaff":{
+        "zh_cn":"蛮族节杖",
+        "zh_tw":"野蠻細杖"
+      },
+      "Arcing Quarterstaff":{
+        "zh_cn":"弧影节杖",
+        "zh_tw":"電弧細杖"
+      },
+      "Waxing Quarterstaff":{
+        "zh_cn":"蜡饰节杖",
+        "zh_tw":"白蠟細杖"
+      },
+      "Bladed Quarterstaff":{
+        "zh_cn":"锋刃节杖",
+        "zh_tw":"帶刃細杖"
+      },
+      "Guardian Quarterstaff":{
+        "zh_cn":"守护者节杖",
+        "zh_tw":"守護細杖"
+      },
+      "Sinister Quarterstaff":{
+        "zh_cn":"邪恶节杖",
+        "zh_tw":"邪惡細杖"
+      },
+      "Lunar Quarterstaff":{
+        "zh_cn":"月光节杖",
+        "zh_tw":"月神細杖"
+      },
+      "Striking Quarterstaff":{
+        "zh_cn":"打击节杖",
+        "zh_tw":"打擊細杖"
+      },
+      "Bolting Quarterstaff":{
+        "zh_cn":"霹雳节杖",
+        "zh_tw":"雷霆細杖"
+      },
+      "Aegis Quarterstaff":{
+        "zh_cn":"神盾节杖",
+        "zh_tw":"神禦細杖"
+      },
+      "Razor Quarterstaff":{
+        "zh_cn":"刀锋节杖",
+        "zh_tw":"剃刃細杖"
+      },
+      "Skullcrusher Quarterstaff":{
+        "zh_cn":"碎颅节杖",
+        "zh_tw":"碎顱細杖"
+      },
+      "Dreaming Quarterstaff":{
+        "zh_cn":"梦境节杖",
+        "zh_tw":"夢境細杖"
+      }
+    }
+  ],
+  "Fishing Rods Item /1":{
+    "zh_cn":"鱼竿 物品 /1",
+    "zh_tw":"釣竿 物品 /1"
+  },
+  "Fishing Rods Item_group":[
+    {
+      "Fishing Rod":{
+        "zh_cn":"鱼竿",
+        "zh_tw":"釣竿"
+      }
+    }
+  ],
+  "Crossbows Item /26":{
+    "zh_cn":"战弩 物品 /26",
+    "zh_tw":"十字弓 物品 /26"
+  },
+  "Crossbows Item_group":[
+    {
+      "Makeshift Crossbow":{
+        "zh_cn":"拼凑战弩",
+        "zh_tw":"臨時十字弓"
+      },
+      "Tense Crossbow":{
+        "zh_cn":"紧弦战弩",
+        "zh_tw":"緊繃十字弓"
+      },
+      "Sturdy Crossbow":{
+        "zh_cn":"坚固战弩",
+        "zh_tw":"堅固十字弓"
+      },
+      "Varnished Crossbow":{
+        "zh_cn":"浸漆战弩",
+        "zh_tw":"亮漆十字弓"
+      },
+      "Dyad Crossbow":{
+        "zh_cn":"双联战弩",
+        "zh_tw":"雙生十字弓"
+      },
+      "Alloy Crossbow":{
+        "zh_cn":"合金战弩",
+        "zh_tw":"合金十字弓"
+      },
+      "Bombard Crossbow":{
+        "zh_cn":"轰炸战弩",
+        "zh_tw":"轟擊十字弓"
+      },
+      "Construct Crossbow":{
+        "zh_cn":"构造战弩",
+        "zh_tw":"絕命十字弓"
+      },
+      "Blackfire Crossbow":{
+        "zh_cn":"黯焰战弩",
+        "zh_tw":"黑火十字弓"
+      },
+      "Piercing Crossbow":{
+        "zh_cn":"穿刺战弩",
+        "zh_tw":"穿刺十字弓"
+      },
+      "Cumbrous Crossbow":{
+        "zh_cn":"重装战弩",
+        "zh_tw":"笨重十字弓"
+      },
+      "Dedalian Crossbow":{
+        "zh_cn":"机巧战弩",
+        "zh_tw":"精巧十字弓"
+      },
+      "Esoteric Crossbow":{
+        "zh_cn":"玄奥战弩",
+        "zh_tw":"秘傳十字弓"
+      },
+      "Taut Crossbow":{
+        "zh_cn":"绷紧战弩",
+        "zh_tw":"緊繃十字弓"
+      },
+      "Robust Crossbow":{
+        "zh_cn":"坚固战弩",
+        "zh_tw":"強健十字弓"
+      },
+      "Painted Crossbow":{
+        "zh_cn":"彩绘战弩",
+        "zh_tw":"彩繪十字弓"
+      },
+      "Twin Crossbow":{
+        "zh_cn":"双生战弩",
+        "zh_tw":"成雙十字弓"
+      },
+      "Cannonade Crossbow":{
+        "zh_cn":"轰鸣战弩",
+        "zh_tw":"砲擊十字弓"
+      },
+      "Bleak Crossbow":{
+        "zh_cn":"刺骨战弩",
+        "zh_tw":"無情十字弓"
+      },
+      "Stout Crossbow":{
+        "zh_cn":"粗壮战弩",
+        "zh_tw":"牢固十字弓"
+      },
+      "Engraved Crossbow":{
+        "zh_cn":"雕饰战弩",
+        "zh_tw":"紋刻十字弓"
+      },
+      "Flexed Crossbow":{
+        "zh_cn":"弯曲战弩",
+        "zh_tw":"屈曲十字弓"
+      },
+      "Gemini Crossbow":{
+        "zh_cn":"双灵战弩",
+        "zh_tw":"雙子十字弓"
+      },
+      "Siege Crossbow":{
+        "zh_cn":"摧城弩",
+        "zh_tw":"攻城十字弓"
+      },
+      "Desolate Crossbow":{
+        "zh_cn":"苍凉战弩",
+        "zh_tw":"蒼涼十字弓"
+      },
+      "Elegant Crossbow":{
+        "zh_cn":"典雅战弩",
+        "zh_tw":"優雅十字弓"
+      }
+    }
+  ],
+  "Traps Item /13":{
+    "zh_cn":"陷阱 物品 /13",
+    "zh_tw":"陷阱 物品 /13"
+  },
+  "Traps Item_group":[
+    {
+      "Clay Trap":{
+        "zh_cn":"黏土陷阱",
+        "zh_tw":"黏土陷阱"
+      },
+      "Clamping Trap":{
+        "zh_cn":"铁颚陷阱",
+        "zh_tw":"猛夾陷阱"
+      },
+      "Shrapnel Trap":{
+        "zh_cn":"破片陷阱",
+        "zh_tw":"彈片陷阱"
+      },
+      "Urn Trap":{
+        "zh_cn":"古瓮陷阱",
+        "zh_tw":"甕陷阱"
+      },
+      "Incense Trap":{
+        "zh_cn":"熏香陷阱",
+        "zh_tw":"香爐陷阱"
+      },
+      "Bladed Trap":{
+        "zh_cn":"利刃陷阱",
+        "zh_tw":"刀刃陷阱"
+      },
+      "Dart Trap":{
+        "zh_cn":"飞镖陷阱",
+        "zh_tw":"飛鏢陷阱"
+      },
+      "Spike Trap":{
+        "zh_cn":"尖刺陷阱",
+        "zh_tw":"尖刺陷阱"
+      },
+      "Coiled Trap":{
+        "zh_cn":"盘曲陷阱",
+        "zh_tw":"纏繞陷阱"
+      },
+      "Lead Trap":{
+        "zh_cn":"铅链陷阱",
+        "zh_tw":"誘導陷阱"
+      },
+      "Medallion Trap":{
+        "zh_cn":"纹章陷阱",
+        "zh_tw":"獎章陷阱"
+      },
+      "Intricate Trap":{
+        "zh_cn":"巧妙陷阱",
+        "zh_tw":"複雜陷阱"
+      },
+      "Refined Trap":{
+        "zh_cn":"精工陷阱",
+        "zh_tw":"精製陷阱"
+      }
+    }
+  ],
+  "Talisman Item /25":{
+    "zh_cn":"魔符 物品 /25",
+    "zh_tw":"魔符 物品 /25"
+  },
+  "Talisman Item_group":[
+    {
+      "Changeling Talisman":{
+        "zh_cn":"易形魔符",
+        "zh_tw":"變形魔符"
+      },
+      "Nettle Talisman":{
+        "zh_cn":"荨麻魔符",
+        "zh_tw":"蕁麻魔符"
+      },
+      "Cinderbark Talisman":{
+        "zh_cn":"烬皮魔符",
+        "zh_tw":"灰樹皮魔符"
+      },
+      "Familial Talisman":{
+        "zh_cn":"血亲魔符",
+        "zh_tw":"家族魔符"
+      },
+      "Frenzied Talisman":{
+        "zh_cn":"狂怒魔符",
+        "zh_tw":"狂亂魔符"
+      },
+      "Primal Talisman":{
+        "zh_cn":"原初魔符",
+        "zh_tw":"原始魔符"
+      },
+      "Rabid Talisman":{
+        "zh_cn":"狂犬魔符",
+        "zh_tw":"狂暴魔符"
+      },
+      "Vicious Talisman":{
+        "zh_cn":"凶恶魔符",
+        "zh_tw":"惡毒魔符"
+      },
+      "Voltfang Talisman":{
+        "zh_cn":"电牙魔符",
+        "zh_tw":"伏特之牙魔符"
+      },
+      "Lumbering Talisman":{
+        "zh_cn":"蹒跚魔符",
+        "zh_tw":"笨重魔符"
+      },
+      "Roaring Talisman":{
+        "zh_cn":"怒嚎魔符",
+        "zh_tw":"咆哮魔符"
+      },
+      "Wingbeat Talisman":{
+        "zh_cn":"翼振魔符",
+        "zh_tw":"振翼魔符"
+      },
+      "Condemned Talisman":{
+        "zh_cn":"罪孽魔符",
+        "zh_tw":"譴責魔符"
+      },
+      "Howling Talisman":{
+        "zh_cn":"怒嚎魔符",
+        "zh_tw":"狂嚎魔符"
+      },
+      "Fury Talisman":{
+        "zh_cn":"狂怒魔符",
+        "zh_tw":"怒火魔符"
+      },
+      "Cruel Talisman":{
+        "zh_cn":"残酷魔符",
+        "zh_tw":"殘酷魔符"
+      },
+      "Spiny Talisman":{
+        "zh_cn":"荆刺魔符",
+        "zh_tw":"尖錐魔符"
+      },
+      "Ashbark Talisman":{
+        "zh_cn":"灰烬树皮魔符",
+        "zh_tw":"燼木魔符"
+      },
+      "Fang Talisman":{
+        "zh_cn":"利齿魔符",
+        "zh_tw":"銳爪魔符"
+      },
+      "Fungal Talisman":{
+        "zh_cn":"真菌魔符",
+        "zh_tw":"真菌魔符"
+      },
+      "Alpha Talisman":{
+        "zh_cn":"首领魔符",
+        "zh_tw":"統領魔符"
+      },
+      "Maji Talisman":{
+        "zh_cn":"众神魔符",
+        "zh_tw":"聖賢魔符"
+      },
+      "Wildwood Talisman":{
+        "zh_cn":"荒林魔符",
+        "zh_tw":"荒林魔符"
+      },
+      "Thunder Talisman":{
+        "zh_cn":"雷霆魔符",
+        "zh_tw":"天雷魔符"
+      },
+      "Jade Talisman":{
+        "zh_cn":"翡翠魔符",
+        "zh_tw":"翠玉魔符"
+      }
+    }
+  ],
+  "Quivers Item /11":{
+    "zh_cn":"箭袋 物品 /11",
+    "zh_tw":"箭袋 物品 /11"
+  },
+  "Quivers Item_group":[
+    {
+      "Broadhead Quiver":{
+        "zh_cn":"宽矢箭袋",
+        "zh_tw":"寬頭箭袋"
+      },
+      "Fire Quiver":{
+        "zh_cn":"火灵箭袋",
+        "zh_tw":"火焰箭袋"
+      },
+      "Sacral Quiver":{
+        "zh_cn":"圣骨箭袋",
+        "zh_tw":"聖禮箭袋"
+      },
+      "Two-Point Quiver":{
+        "zh_cn":"双锋箭袋",
+        "zh_tw":"雙尖箭袋"
+      },
+      "Blunt Quiver":{
+        "zh_cn":"钝矢箭袋",
+        "zh_tw":"鈍箭袋"
+      },
+      "Toxic Quiver":{
+        "zh_cn":"淬毒箭袋",
+        "zh_tw":"劇毒箭袋"
+      },
+      "Serrated Quiver":{
+        "zh_cn":"锯齿箭袋",
+        "zh_tw":"鋸齒箭袋"
+      },
+      "Primed Quiver":{
+        "zh_cn":"精工箭袋",
+        "zh_tw":"灌注箭袋"
+      },
+      "Penetrating Quiver":{
+        "zh_cn":"穿射箭袋",
+        "zh_tw":"穿透箭袋"
+      },
+      "Volant Quiver":{
+        "zh_cn":"飞矢箭袋",
+        "zh_tw":"速射箭袋"
+      },
+      "Visceral Quiver":{
+        "zh_cn":"贯心箭袋",
+        "zh_tw":"內臟箭袋"
+      }
+    }
+  ],
+  "Shields Item /67":{
+    "zh_cn":"盾牌 物品 /67",
+    "zh_tw":"盾 物品 /67"
+  },
+  "Shields Item_group":[
+    {
+      "Golden Flame":{
+        "zh_cn":"黄金圣炎",
+        "zh_tw":"黃金聖炎"
+      },
+      "Splintered Tower Shield":{
+        "zh_cn":"朽木塔盾",
+        "zh_tw":"朽木塔盾"
+      },
+      "Painted Tower Shield":{
+        "zh_cn":"彩绘塔盾",
+        "zh_tw":"彩繪塔盾"
+      },
+      "Braced Tower Shield":{
+        "zh_cn":"加固塔盾",
+        "zh_tw":"加固塔盾"
+      },
+      "Barricade Tower Shield":{
+        "zh_cn":"障壁塔盾",
+        "zh_tw":"障壁塔盾"
+      },
+      "Effigial Tower Shield":{
+        "zh_cn":"塑像塔盾",
+        "zh_tw":"靈像塔盾"
+      },
+      "Rampart Tower Shield":{
+        "zh_cn":"壁垒塔盾",
+        "zh_tw":"壁壘塔盾"
+      },
+      "Heraldric Tower Shield":{
+        "zh_cn":"徽纹塔盾",
+        "zh_tw":"紋章塔盾"
+      },
+      "Stone Tower Shield":{
+        "zh_cn":"坚石塔盾",
+        "zh_tw":"岩石塔盾"
+      },
+      "Crucible Tower Shield":{
+        "zh_cn":"熔铸塔盾",
+        "zh_tw":"磨煉塔盾"
+      },
+      "Ancestor Tower Shield":{
+        "zh_cn":"先祖塔盾",
+        "zh_tw":"先祖塔盾"
+      },
+      "Phalanx Tower Shield":{
+        "zh_cn":"方阵塔盾",
+        "zh_tw":"方陣塔盾"
+      },
+      "Defiant Tower Shield":{
+        "zh_cn":"无畏塔盾",
+        "zh_tw":"忤逆塔盾"
+      },
+      "Blacksteel Tower Shield":{
+        "zh_cn":"黑钢塔盾",
+        "zh_tw":"黑鋼塔盾"
+      },
+      "Hardwood Targe":{
+        "zh_cn":"硬木圆盾",
+        "zh_tw":"硬木圓盾"
+      },
+      "Pelage Targe":{
+        "zh_cn":"毛皮圆盾",
+        "zh_tw":"毛皮圓盾"
+      },
+      "Studded Targe":{
+        "zh_cn":"镶钉圆盾",
+        "zh_tw":"鑲釘圓盾"
+      },
+      "Crescent Targe":{
+        "zh_cn":"新月圆盾",
+        "zh_tw":"新月圓盾"
+      },
+      "Chiseled Targe":{
+        "zh_cn":"镌凿圆盾",
+        "zh_tw":"鑿刻圓盾"
+      },
+      "Feathered Targe":{
+        "zh_cn":"羽饰圆盾",
+        "zh_tw":"羽毛圓盾"
+      },
+      "Stratified Targe":{
+        "zh_cn":"分层圆盾",
+        "zh_tw":"分層圓盾"
+      },
+      "Carved Targe":{
+        "zh_cn":"雕纹圆盾",
+        "zh_tw":"雕刻圓盾"
+      },
+      "Mosaic Targe":{
+        "zh_cn":"厚装圆盾",
+        "zh_tw":"鑲嵌圓盾"
+      },
+      "Aureate Targe":{
+        "zh_cn":"金辉圆盾",
+        "zh_tw":"鍍金圓盾"
+      },
+      "Grand Targe":{
+        "zh_cn":"华丽圆盾",
+        "zh_tw":"宏偉圓盾"
+      },
+      "Blazon Crest Shield":{
+        "zh_cn":"饰印纹章盾",
+        "zh_tw":"家徽紋章盾"
+      },
+      "Sigil Crest Shield":{
+        "zh_cn":"魔印纹章盾",
+        "zh_tw":"符印紋章盾"
+      },
+      "Emblem Crest Shield":{
+        "zh_cn":"圣徽纹章盾",
+        "zh_tw":"徽印紋章盾"
+      },
+      "Jingling Crest Shield":{
+        "zh_cn":"铃鸣纹章盾",
+        "zh_tw":"響聲紋章盾"
+      },
+      "Sectarian Crest Shield":{
+        "zh_cn":"宗室纹章盾",
+        "zh_tw":"宗派紋章盾"
+      },
+      "Omen Crest Shield":{
+        "zh_cn":"噩兆纹章盾",
+        "zh_tw":"預兆紋章盾"
+      },
+      "Wayward Crest Shield":{
+        "zh_cn":"无定纹章盾",
+        "zh_tw":"剛愎紋章盾"
+      },
+      "Seer Crest Shield":{
+        "zh_cn":"先知纹章盾",
+        "zh_tw":"先知紋章盾"
+      },
+      "Stoic Crest Shield":{
+        "zh_cn":"清修纹章盾",
+        "zh_tw":"堅忍紋章盾"
+      },
+      "Empyreal Crest Shield":{
+        "zh_cn":"苍穹纹章盾",
+        "zh_tw":"蒼天紋章盾"
+      },
+      "Deified Crest Shield":{
+        "zh_cn":"神尊纹章盾",
+        "zh_tw":"神化紋章盾"
+      },
+      "Golden Shield":{
+        "zh_cn":"金辉盾牌",
+        "zh_tw":"黃金盾牌"
+      },
+      "Aged Tower Shield":{
+        "zh_cn":"陈旧塔盾",
+        "zh_tw":"陳舊塔盾"
+      },
+      "Metalworked Tower Shield":{
+        "zh_cn":"匠工塔盾",
+        "zh_tw":"金屬塔盾"
+      },
+      "Cultist Tower Shield":{
+        "zh_cn":"密会塔盾",
+        "zh_tw":"教徒塔盾"
+      },
+      "Bulwark Tower Shield":{
+        "zh_cn":"堡垒塔盾",
+        "zh_tw":"守護塔盾"
+      },
+      "Noble Tower Shield":{
+        "zh_cn":"贵族塔盾",
+        "zh_tw":"高貴塔盾"
+      },
+      "Goldworked Tower Shield":{
+        "zh_cn":"金工塔盾",
+        "zh_tw":"黃金塔盾"
+      },
+      "Ironwood Targe":{
+        "zh_cn":"铁木圆盾",
+        "zh_tw":"鐵木圓盾"
+      },
+      "Fur-lined Targe":{
+        "zh_cn":"毛皮衬里圆盾",
+        "zh_tw":"皮襯圓盾"
+      },
+      "Mercenary Targe":{
+        "zh_cn":"佣兵圆盾",
+        "zh_tw":"傭兵圓盾"
+      },
+      "Polished Targe":{
+        "zh_cn":"抛光圆盾",
+        "zh_tw":"拋光圓盾"
+      },
+      "Stone Targe":{
+        "zh_cn":"石制圆盾",
+        "zh_tw":"岩石圓盾"
+      },
+      "Avian Targe":{
+        "zh_cn":"飞羽圆盾",
+        "zh_tw":"飛羽圓盾"
+      },
+      "Painted Crest Shield":{
+        "zh_cn":"彩绘纹章盾",
+        "zh_tw":"彩繪紋章盾"
+      },
+      "Engraved Crest Shield":{
+        "zh_cn":"雕饰纹章盾",
+        "zh_tw":"紋刻紋章盾"
+      },
+      "Descry Crest Shield":{
+        "zh_cn":"圣印纹章盾",
+        "zh_tw":"遠見紋章盾"
+      },
+      "Dekharan Crest Shield":{
+        "zh_cn":"德卡拉纹章盾",
+        "zh_tw":"部下紋章盾"
+      },
+      "Quartered Crest Shield":{
+        "zh_cn":"四分纹章盾",
+        "zh_tw":"四分紋章盾"
+      },
+      "Glowering Crest Shield":{
+        "zh_cn":"怒视纹章盾",
+        "zh_tw":"怒視紋章盾"
+      },
+      "Royal Tower Shield":{
+        "zh_cn":"皇家塔盾",
+        "zh_tw":"皇族塔盾"
+      },
+      "Fortress Tower Shield":{
+        "zh_cn":"要塞塔盾",
+        "zh_tw":"要塞塔盾"
+      },
+      "Vaal Tower Shield":{
+        "zh_cn":"瓦尔塔盾",
+        "zh_tw":"瓦爾塔盾"
+      },
+      "Tawhoan Tower Shield":{
+        "zh_cn":"塔赫亚塔盾",
+        "zh_tw":"塔赫亞塔盾"
+      },
+      "Mammoth Targe":{
+        "zh_cn":"猛犸圆盾",
+        "zh_tw":"猛獁圓盾"
+      },
+      "Baroque Targe":{
+        "zh_cn":"巴洛克圆盾",
+        "zh_tw":"巴洛克圓盾"
+      },
+      "Soaring Targe":{
+        "zh_cn":"翱翔圆盾",
+        "zh_tw":"翱翔圓盾"
+      },
+      "Golden Targe":{
+        "zh_cn":"耀金圆盾",
+        "zh_tw":"耀金圓盾"
+      },
+      "Intricate Crest Shield":{
+        "zh_cn":"精巧纹章盾",
+        "zh_tw":"錯綜紋章盾"
+      },
+      "Sekheman Crest Shield":{
+        "zh_cn":"丝克玛纹章盾",
+        "zh_tw":"絲克瑪紋章盾"
+      },
+      "Vaal Crest Shield":{
+        "zh_cn":"瓦尔纹章盾",
+        "zh_tw":"瓦爾紋章盾"
+      },
+      "Blacksteel Crest Shield":{
+        "zh_cn":"黑钢纹章盾",
+        "zh_tw":"烏鋼紋章盾"
+      }
+    }
+  ],
+  "Bucklers Item /23":{
+    "zh_cn":"轻盾物品 22/23",
+    "zh_tw":"輕盾物品 22/23"
+  },
+  "Bucklers Item_group":[
+    {
+      "Leather Buckler":{
+        "zh_cn":"皮制轻盾",
+        "zh_tw":"皮革輕盾"
+      },
+      "Wooden Buckler":{
+        "zh_cn":"木制轻盾",
+        "zh_tw":"木頭輕盾"
+      },
+      "Plated Buckler":{
+        "zh_cn":"嵌板轻盾",
+        "zh_tw":"鋼板輕盾"
+      },
+      "Iron Buckler":{
+        "zh_cn":"锻铁轻盾",
+        "zh_tw":"鍛鐵輕盾"
+      },
+      "Ridged Buckler":{
+        "zh_cn":"凸脊轻盾",
+        "zh_tw":"脊狀輕盾"
+      },
+      "Spiked Buckler":{
+        "zh_cn":"尖刺轻盾",
+        "zh_tw":"尖刺輕盾"
+      },
+      "Ringed Buckler":{
+        "zh_cn":"环锁轻盾",
+        "zh_tw":"環紋輕盾"
+      },
+      "Edged Buckler":{
+        "zh_cn":"锋缘轻盾",
+        "zh_tw":"刃緣輕盾"
+      },
+      "Laminate Buckler":{
+        "zh_cn":"合板轻盾",
+        "zh_tw":"層壓輕盾"
+      },
+      "Pearl Buckler":{
+        "zh_cn":"珠光轻盾",
+        "zh_tw":"珍珠輕盾"
+      },
+      "Ornate Buckler":{
+        "zh_cn":"华丽轻盾",
+        "zh_tw":"華麗輕盾"
+      },
+      "Array Buckler":{
+        "zh_cn":"阵列轻盾",
+        "zh_tw":"排列輕盾"
+      },
+      "Aegis Buckler":{
+        "zh_cn":"神佑轻盾",
+        "zh_tw":"神禦輕盾"
+      },
+      "Oak Buckler":{
+        "zh_cn":"橡木轻盾",
+        "zh_tw":"橡木輕盾"
+      },
+      "Painted Buckler":{
+        "zh_cn":"彩绘轻盾",
+        "zh_tw":"彩繪輕盾"
+      },
+      "Coiled Buckler":{
+        "zh_cn":"盘曲轻盾",
+        "zh_tw":"盤繞輕盾"
+      },
+      "Spikeward Buckler":{
+        "zh_cn":"尖刺守护轻盾",
+        "zh_tw":"尖衛輕盾"
+      },
+      "Jingling Buckler":{
+        "zh_cn":"铃鸣轻盾",
+        "zh_tw":"響聲輕盾"
+      },
+      "Bladeguard Buckler":{
+        "zh_cn":"刀刃守护轻盾",
+        "zh_tw":"刃衛輕盾"
+      },
+      "Gutspike Buckler":{
+        "zh_cn":"肠刺轻盾",
+        "zh_tw":"挑腸輕盾"
+      },
+      "Ancient Buckler":{
+        "zh_cn":"远古轻盾",
+        "zh_tw":"遠古輕盾"
+      },
+      "Desert Buckler":{
+        "zh_cn":"沙漠轻盾",
+        "zh_tw":"沙漠輕盾"
+      }
+    }
+  ],
+  "Foci Item /23":{
+    "zh_cn":"法器 物品 /23",
+    "zh_tw":"法器 物品 /23"
+  },
+  "Foci Item_group":[
+    {
+      "Twig Focus":{
+        "zh_cn":"枝条法器",
+        "zh_tw":"枝條法器"
+      },
+      "Woven Focus":{
+        "zh_cn":"织造法器",
+        "zh_tw":"編織法器"
+      },
+      "Antler Focus":{
+        "zh_cn":"鹿角法器",
+        "zh_tw":"靈鹿法器"
+      },
+      "Engraved Focus":{
+        "zh_cn":"铭刻法器",
+        "zh_tw":"紋刻法器"
+      },
+      "Tonal Focus":{
+        "zh_cn":"音调法器",
+        "zh_tw":"音調法器"
+      },
+      "Crystal Focus":{
+        "zh_cn":"水晶法器",
+        "zh_tw":"水晶法器"
+      },
+      "Voodoo Focus":{
+        "zh_cn":"巫毒法器",
+        "zh_tw":"巫毒法器"
+      },
+      "Plumed Focus":{
+        "zh_cn":"彩羽法器",
+        "zh_tw":"羽飾法器"
+      },
+      "Runed Focus":{
+        "zh_cn":"符文法器",
+        "zh_tw":"符文法器"
+      },
+      "Whorl Focus":{
+        "zh_cn":"涡旋法器",
+        "zh_tw":"螺旋法器"
+      },
+      "Elegant Focus":{
+        "zh_cn":"优雅法器",
+        "zh_tw":"高雅法器"
+      },
+      "Attuned Focus":{
+        "zh_cn":"协调法器",
+        "zh_tw":"調和法器"
+      },
+      "Magus Focus":{
+        "zh_cn":"术士法器",
+        "zh_tw":"瑪格思法器"
+      },
+      "Wreath Focus":{
+        "zh_cn":"花环法器",
+        "zh_tw":"花環法器"
+      },
+      "Staghorn Focus":{
+        "zh_cn":"鹿角法器",
+        "zh_tw":"鹿角法器"
+      },
+      "Jingling Focus":{
+        "zh_cn":"铃鸣法器",
+        "zh_tw":"響聲法器"
+      },
+      "Arrayed Focus":{
+        "zh_cn":"排列法器",
+        "zh_tw":"陣列法器"
+      },
+      "Cultist Focus":{
+        "zh_cn":"密会法器",
+        "zh_tw":"教徒法器"
+      },
+      "Hallowed Focus":{
+        "zh_cn":"神圣法器",
+        "zh_tw":"聖潔法器"
+      },
+      "Druidic Focus":{
+        "zh_cn":"德鲁伊法器",
+        "zh_tw":"德魯伊法器"
+      },
+      "Leyline Focus":{
+        "zh_cn":"荒凉原野法器",
+        "zh_tw":"地脈法器"
+      },
+      "Sacred Focus":{
+        "zh_cn":"圣洁法器",
+        "zh_tw":"神聖法器"
+      },
+      "Tasalian Focus":{
+        "zh_cn":"塔萨里奥法器",
+        "zh_tw":"塔薩里安法器"
+      }
+    }
+  ],
+  "Gloves Item /90":{
+    "zh_cn":"手套物品 89/90",
+    "zh_tw":"手套物品 89/90"
+  },
+  "Gloves Item_group":[
+    {
+      "Golden Bracers":{
+        "zh_cn":"黄金臂甲",
+        "zh_tw":"黃金臂甲"
+      },
+      "Stocky Mitts":{
+        "zh_cn":"敦实护手",
+        "zh_tw":"結實長手套"
+      },
+      "Riveted Mitts":{
+        "zh_cn":"铆接护手",
+        "zh_tw":"鉚接長手套"
+      },
+      "Tempered Mitts":{
+        "zh_cn":"淬炼护手",
+        "zh_tw":"淬鍊長手套"
+      },
+      "Bolstered Mitts":{
+        "zh_cn":"增固护手",
+        "zh_tw":"加固長手套"
+      },
+      "Moulded Mitts":{
+        "zh_cn":"铸锻护手",
+        "zh_tw":"鑄模長手套"
+      },
+      "Detailed Mitts":{
+        "zh_cn":"精工护手",
+        "zh_tw":"精細長手套"
+      },
+      "Titan Mitts":{
+        "zh_cn":"泰坦护手",
+        "zh_tw":"泰坦長手套"
+      },
+      "Grand Mitts":{
+        "zh_cn":"堂皇护手",
+        "zh_tw":"宏偉長手套"
+      },
+      "Suede Bracers":{
+        "zh_cn":"绒皮护腕",
+        "zh_tw":"麂皮護腕"
+      },
+      "Firm Bracers":{
+        "zh_cn":"牢固护腕",
+        "zh_tw":"穩固護腕"
+      },
+      "Bound Bracers":{
+        "zh_cn":"缚革护腕",
+        "zh_tw":"緊縛護腕"
+      },
+      "Sectioned Bracers":{
+        "zh_cn":"截片护腕",
+        "zh_tw":"分段護腕"
+      },
+      "Spined Bracers":{
+        "zh_cn":"精纺护腕",
+        "zh_tw":"棘刺護腕"
+      },
+      "Fine Bracers":{
+        "zh_cn":"精工护腕",
+        "zh_tw":"精良護腕"
+      },
+      "Hardened Bracers":{
+        "zh_cn":"硬化护腕",
+        "zh_tw":"硬化護腕"
+      },
+      "Engraved Bracers":{
+        "zh_cn":"雕饰护腕",
+        "zh_tw":"紋刻護腕"
+      },
+      "Torn Gloves":{
+        "zh_cn":"破碎手套",
+        "zh_tw":"撕裂手套"
+      },
+      "Sombre Gloves":{
+        "zh_cn":"肃穆手套",
+        "zh_tw":"暗淡手套"
+      },
+      "Stitched Gloves":{
+        "zh_cn":"缝合手套",
+        "zh_tw":"縫合手套"
+      },
+      "Jewelled Gloves":{
+        "zh_cn":"宝石手套",
+        "zh_tw":"寶石手套"
+      },
+      "Intricate Gloves":{
+        "zh_cn":"精致手套",
+        "zh_tw":"精妙手套"
+      },
+      "Pauascale Gloves":{
+        "zh_cn":"海灵鳞缀手套",
+        "zh_tw":"海靈鱗手套"
+      },
+      "Embroidered Gloves":{
+        "zh_cn":"刺绣手套",
+        "zh_tw":"刺繡手套"
+      },
+      "Adorned Gloves":{
+        "zh_cn":"华饰手套",
+        "zh_tw":"奢華手套"
+      },
+      "Ringmail Gauntlets":{
+        "zh_cn":"环锁手甲",
+        "zh_tw":"環鎖護手"
+      },
+      "Layered Gauntlets":{
+        "zh_cn":"垫层护手",
+        "zh_tw":"層板護手"
+      },
+      "Doubled Gauntlets":{
+        "zh_cn":"合钢手甲",
+        "zh_tw":"雙層護手"
+      },
+      "Plate Gauntlets":{
+        "zh_cn":"铁板护手",
+        "zh_tw":"鎧甲護手"
+      },
+      "Burnished Gauntlets":{
+        "zh_cn":"冷芒手甲",
+        "zh_tw":"拋光護手"
+      },
+      "Ornate Gauntlets":{
+        "zh_cn":"华贵护手",
+        "zh_tw":"華麗護手"
+      },
+      "Rope Cuffs":{
+        "zh_cn":"绳索袖带",
+        "zh_tw":"繩索腕帶"
+      },
+      "Aged Cuffs":{
+        "zh_cn":"风霜袖带",
+        "zh_tw":"陳舊腕帶"
+      },
+      "Goldcast Cuffs":{
+        "zh_cn":"金索袖带",
+        "zh_tw":"金鑄腕帶"
+      },
+      "Verisium Cuffs":{
+        "zh_cn":"维金袖带",
+        "zh_tw":"維里西姆腕帶"
+      },
+      "Righteous Cuffs":{
+        "zh_cn":"正义袖带",
+        "zh_tw":"正義腕帶"
+      },
+      "Signet Cuffs":{
+        "zh_cn":"纹饰袖带",
+        "zh_tw":"徽印腕帶"
+      },
+      "Gauze Wraps":{
+        "zh_cn":"薄纱裹手",
+        "zh_tw":"紗布裹手"
+      },
+      "Linen Wraps":{
+        "zh_cn":"亚麻裹手",
+        "zh_tw":"麻布裹手"
+      },
+      "Spiral Wraps":{
+        "zh_cn":"螺旋裹手",
+        "zh_tw":"盤繞裹手"
+      },
+      "Buckled Wraps":{
+        "zh_cn":"扣带裹手",
+        "zh_tw":"帶扣裹手"
+      },
+      "Furtive Wraps":{
+        "zh_cn":"鬼祟裹手",
+        "zh_tw":"隱秘裹手"
+      },
+      "Utility Wraps":{
+        "zh_cn":"万用裹手",
+        "zh_tw":"實用裹手"
+      },
+      "Grand Manchettes":{
+        "zh_cn":"恢弘袖口",
+        "zh_tw":"宏偉手鐲"
+      },
+      "Plated Mitts":{
+        "zh_cn":"坚铁护手",
+        "zh_tw":"鎧甲長手套"
+      },
+      "Elegant Mitts":{
+        "zh_cn":"优雅护手",
+        "zh_tw":"優雅長手套"
+      },
+      "Ancient Mitts":{
+        "zh_cn":"远古护手",
+        "zh_tw":"遠古長手套"
+      },
+      "Feathered Mitts":{
+        "zh_cn":"羽饰护手",
+        "zh_tw":"羽毛長手套"
+      },
+      "Hunting Bracers":{
+        "zh_cn":"狩猎护腕",
+        "zh_tw":"狩獵護腕"
+      },
+      "Swift Bracers":{
+        "zh_cn":"迅捷护腕",
+        "zh_tw":"迅疾護腕"
+      },
+      "Refined Bracers":{
+        "zh_cn":"精制护腕",
+        "zh_tw":"精製護腕"
+      },
+      "Spiked Bracers":{
+        "zh_cn":"尖刺护腕",
+        "zh_tw":"尖刺護腕"
+      },
+      "Ominous Gloves":{
+        "zh_cn":"噩兆手套",
+        "zh_tw":"惡兆手套"
+      },
+      "Embellished Gloves":{
+        "zh_cn":"华饰手套",
+        "zh_tw":"點綴手套"
+      },
+      "Baroque Gloves":{
+        "zh_cn":"巴洛克手套",
+        "zh_tw":"巴洛克手套"
+      },
+      "Gold Gloves":{
+        "zh_cn":"黄金手套",
+        "zh_tw":"黃金手套"
+      },
+      "Ironmail Gauntlets":{
+        "zh_cn":"铁甲手套",
+        "zh_tw":"鐵鎖護手"
+      },
+      "Captain Gauntlets":{
+        "zh_cn":"队长手套",
+        "zh_tw":"隊長護手"
+      },
+      "Zealot Gauntlets":{
+        "zh_cn":"狂热者手套",
+        "zh_tw":"狂熱護手"
+      },
+      "Braided Cuffs":{
+        "zh_cn":"编织袖带",
+        "zh_tw":"編織腕帶"
+      },
+      "Heirloom Cuffs":{
+        "zh_cn":"传家袖带",
+        "zh_tw":"家傳腕帶"
+      },
+      "Ornate Cuffs":{
+        "zh_cn":"华丽袖带",
+        "zh_tw":"華麗腕帶"
+      },
+      "Bandage Wraps":{
+        "zh_cn":"绷带裹手",
+        "zh_tw":"繃帶裹手"
+      },
+      "Cambric Wraps":{
+        "zh_cn":"细麻布裹手",
+        "zh_tw":"棉布裹手"
+      },
+      "Adorned Wraps":{
+        "zh_cn":"华饰裹手",
+        "zh_tw":"裝飾裹手"
+      },
+      "Knightly Mitts":{
+        "zh_cn":"骑士护手",
+        "zh_tw":"騎士長手套"
+      },
+      "Ornate Mitts":{
+        "zh_cn":"华丽护手",
+        "zh_tw":"華麗長手套"
+      },
+      "Vaal Mitts":{
+        "zh_cn":"瓦尔护手",
+        "zh_tw":"瓦爾長手套"
+      },
+      "Massive Mitts":{
+        "zh_cn":"巨型护手",
+        "zh_tw":"巨型長手套"
+      },
+      "Stalking Bracers":{
+        "zh_cn":"潜行护腕",
+        "zh_tw":"潛獵護腕"
+      },
+      "Grand Bracers":{
+        "zh_cn":"宏伟护腕",
+        "zh_tw":"宏偉護腕"
+      },
+      "Barbed Bracers":{
+        "zh_cn":"倒刺护腕",
+        "zh_tw":"鉤刺護腕"
+      },
+      "Polished Bracers":{
+        "zh_cn":"闪耀护腕",
+        "zh_tw":"亮澤護腕"
+      },
+      "Grim Gloves":{
+        "zh_cn":"冷酷手套",
+        "zh_tw":"冷酷手套"
+      },
+      "Opulent Gloves":{
+        "zh_cn":"丰裕手套",
+        "zh_tw":"奢靡手套"
+      },
+      "Vaal Gloves":{
+        "zh_cn":"瓦尔手套",
+        "zh_tw":"瓦爾手套"
+      },
+      "Sirenscale Gloves":{
+        "zh_cn":"海妖之鳞手套",
+        "zh_tw":"海妖鱗手套"
+      },
+      "Steelmail Gauntlets":{
+        "zh_cn":"钢甲手甲",
+        "zh_tw":"鋼鎖護手"
+      },
+      "Commander Gauntlets":{
+        "zh_cn":"军官手甲",
+        "zh_tw":"指揮官護手"
+      },
+      "Cultist Gauntlets":{
+        "zh_cn":"密会手甲",
+        "zh_tw":"教徒護手"
+      },
+      "Blacksteel Gauntlets":{
+        "zh_cn":"黑钢手甲",
+        "zh_tw":"烏鐵護手"
+      },
+      "Bound Cuffs":{
+        "zh_cn":"缚革袖带",
+        "zh_tw":"綑綁腕帶"
+      },
+      "Ancient Cuffs":{
+        "zh_cn":"远古袖带",
+        "zh_tw":"遠古腕帶"
+      },
+      "Gleaming Cuffs":{
+        "zh_cn":"闪亮袖带",
+        "zh_tw":"輝光腕帶"
+      },
+      "Adherent Cuffs":{
+        "zh_cn":"信徒袖带",
+        "zh_tw":"追隨者腕帶"
+      },
+      "War Wraps":{
+        "zh_cn":"战争裹手",
+        "zh_tw":"戰爭裹手"
+      },
+      "Elegant Wraps":{
+        "zh_cn":"雅致裹手",
+        "zh_tw":"優雅裹手"
+      },
+      "Vaal Wraps":{
+        "zh_cn":"瓦尔裹手",
+        "zh_tw":"瓦爾裹手"
+      },
+      "Secured Wraps":{
+        "zh_cn":"坚固裹手",
+        "zh_tw":"牢固裹手"
+      }
+    }
+  ],
+  "Boots Item /90":{
+    "zh_cn":"鞋子 物品 /90",
+    "zh_tw":"鞋子 物品 /90"
+  },
+  "Boots Item_group":[
+    {
+      "Golden Caligae":{
+        "zh_cn":"黄金缠鞋",
+        "zh_tw":"黃金纏鞋"
+      },
+      "Rough Greaves":{
+        "zh_cn":"粗制胫甲",
+        "zh_tw":"粗糙脛甲"
+      },
+      "Iron Greaves":{
+        "zh_cn":"铁锻胫甲",
+        "zh_tw":"鐵鍛脛甲"
+      },
+      "Bronze Greaves":{
+        "zh_cn":"青铜胫甲",
+        "zh_tw":"青銅脛甲"
+      },
+      "Trimmed Greaves":{
+        "zh_cn":"镶边胫甲",
+        "zh_tw":"鑲邊脛甲"
+      },
+      "Stone Greaves":{
+        "zh_cn":"坚石胫甲",
+        "zh_tw":"岩石脛甲"
+      },
+      "Reefsteel Greaves":{
+        "zh_cn":"卷钢胫甲",
+        "zh_tw":"礁鋼脛甲"
+      },
+      "Monument Greaves":{
+        "zh_cn":"典范胫甲",
+        "zh_tw":"豐碑脛甲"
+      },
+      "Totemic Greaves":{
+        "zh_cn":"图腾胫甲",
+        "zh_tw":"圖騰脛甲"
+      },
+      "Rawhide Boots":{
+        "zh_cn":"生皮短靴",
+        "zh_tw":"生皮長靴"
+      },
+      "Laced Boots":{
+        "zh_cn":"花边靴",
+        "zh_tw":"飾帶長靴"
+      },
+      "Embossed Boots":{
+        "zh_cn":"浮雕靴",
+        "zh_tw":"浮雕長靴"
+      },
+      "Steeltoe Boots":{
+        "zh_cn":"钢趾靴",
+        "zh_tw":"鐵趾長靴"
+      },
+      "Lizardscale Boots":{
+        "zh_cn":"蜥鳞靴",
+        "zh_tw":"蜥蜴鱗長靴"
+      },
+      "Flared Boots":{
+        "zh_cn":"宽口靴",
+        "zh_tw":"閃耀長靴"
+      },
+      "Leatherplate Boots":{
+        "zh_cn":"覆皮板靴",
+        "zh_tw":"皮甲長靴"
+      },
+      "Embroidered Boots":{
+        "zh_cn":"刺绣靴",
+        "zh_tw":"刺繡長靴"
+      },
+      "Straw Sandals":{
+        "zh_cn":"稻草鞋履",
+        "zh_tw":"乾草便鞋"
+      },
+      "Wrapped Sandals":{
+        "zh_cn":"裹布鞋履",
+        "zh_tw":"裹腳便鞋"
+      },
+      "Lattice Sandals":{
+        "zh_cn":"硬框鞋履",
+        "zh_tw":"格子便鞋"
+      },
+      "Silk Slippers":{
+        "zh_cn":"丝绸便鞋",
+        "zh_tw":"絲綢便鞋"
+      },
+      "Feathered Sandals":{
+        "zh_cn":"羽饰鞋履",
+        "zh_tw":"羽毛便鞋"
+      },
+      "Flax Sandals":{
+        "zh_cn":"麻布鞋履",
+        "zh_tw":"亞麻便鞋"
+      },
+      "Studded Sandals":{
+        "zh_cn":"镶钉鞋履",
+        "zh_tw":"鑲釘便鞋"
+      },
+      "Elaborate Sandals":{
+        "zh_cn":"精美鞋履",
+        "zh_tw":"精美便鞋"
+      },
+      "Mail Sabatons":{
+        "zh_cn":"锁链战靴",
+        "zh_tw":"鎖甲鎧靴"
+      },
+      "Braced Sabatons":{
+        "zh_cn":"加固战靴",
+        "zh_tw":"加固鎧靴"
+      },
+      "Stacked Sabatons":{
+        "zh_cn":"层钢战靴",
+        "zh_tw":"疊層鎧靴"
+      },
+      "Covered Sabatons":{
+        "zh_cn":"掩护战靴",
+        "zh_tw":"遮蓋鎧靴"
+      },
+      "Flexile Sabatons":{
+        "zh_cn":"灵便战靴",
+        "zh_tw":"易曲鎧靴"
+      },
+      "Bold Sabatons":{
+        "zh_cn":"光鲜战靴",
+        "zh_tw":"醒目鎧靴"
+      },
+      "Padded Leggings":{
+        "zh_cn":"衬垫绑腿",
+        "zh_tw":"襯墊護腿"
+      },
+      "Secured Leggings":{
+        "zh_cn":"牢靠绑腿",
+        "zh_tw":"牢固護腿"
+      },
+      "Pelt Leggings":{
+        "zh_cn":"毛皮绑腿",
+        "zh_tw":"堅皮護腿"
+      },
+      "Weaver Leggings":{
+        "zh_cn":"织履绑腿",
+        "zh_tw":"編織者護腿"
+      },
+      "Gilt Leggings":{
+        "zh_cn":"镀金护腿",
+        "zh_tw":"鍍金護腿"
+      },
+      "Pious Leggings":{
+        "zh_cn":"虔信护腿",
+        "zh_tw":"虔誠護腿"
+      },
+      "Frayed Shoes":{
+        "zh_cn":"磨损便鞋",
+        "zh_tw":"磨損輕鞋"
+      },
+      "Threaded Shoes":{
+        "zh_cn":"线缝便鞋",
+        "zh_tw":"縫紉輕鞋"
+      },
+      "Hunting Shoes":{
+        "zh_cn":"狩猎便鞋",
+        "zh_tw":"狩獵輕鞋"
+      },
+      "Steelpoint Shoes":{
+        "zh_cn":"钢缘便鞋",
+        "zh_tw":"鋼尖輕鞋"
+      },
+      "Velour Shoes":{
+        "zh_cn":"鹅绒便鞋",
+        "zh_tw":"絲絨輕鞋"
+      },
+      "Bladed Shoes":{
+        "zh_cn":"嵌刃便鞋",
+        "zh_tw":"片狀輕鞋"
+      },
+      "Grand Cuisses":{
+        "zh_cn":"恢弘腿甲",
+        "zh_tw":"宏偉腿甲"
+      },
+      "Golden Greaves":{
+        "zh_cn":"金色护胫",
+        "zh_tw":"黃金脛甲"
+      },
+      "Plated Greaves":{
+        "zh_cn":"坚铁胫甲",
+        "zh_tw":"鎧甲脛甲"
+      },
+      "Lionheart Greaves":{
+        "zh_cn":"狮心胫甲",
+        "zh_tw":"獅心脛甲"
+      },
+      "Elegant Greaves":{
+        "zh_cn":"雅致胫甲",
+        "zh_tw":"優雅脛甲"
+      },
+      "Carved Greaves":{
+        "zh_cn":"雕饰胫甲",
+        "zh_tw":"雕刻脛甲"
+      },
+      "Bound Boots":{
+        "zh_cn":"缚革长靴",
+        "zh_tw":"綑綁長靴"
+      },
+      "Sleek Boots":{
+        "zh_cn":"滑布长靴",
+        "zh_tw":"光滑長靴"
+      },
+      "Studded Boots":{
+        "zh_cn":"镶钉长靴",
+        "zh_tw":"鑲釘長靴"
+      },
+      "Serpentscale Boots":{
+        "zh_cn":"蛇鳞长靴",
+        "zh_tw":"蛇鱗長靴"
+      },
+      "Laced Sandals":{
+        "zh_cn":"花边鞋履",
+        "zh_tw":"飾帶便鞋"
+      },
+      "Bangled Sandals":{
+        "zh_cn":"手镯鞋履",
+        "zh_tw":"鐲子便鞋"
+      },
+      "Elegant Slippers":{
+        "zh_cn":"雅致便鞋",
+        "zh_tw":"優雅便鞋"
+      },
+      "Dunerunner Sandals":{
+        "zh_cn":"沙丘行者鞋履",
+        "zh_tw":"沙丘行者便鞋"
+      },
+      "Soldiering Sabatons":{
+        "zh_cn":"士兵战靴",
+        "zh_tw":"軍旅鎧靴"
+      },
+      "Goldwork Sabatons":{
+        "zh_cn":"金工战靴",
+        "zh_tw":"金刺繡鎧靴"
+      },
+      "Bastion Sabatons":{
+        "zh_cn":"坚城壁垒战靴",
+        "zh_tw":"堅堡鎧靴"
+      },
+      "Adherent Leggings":{
+        "zh_cn":"联排绑腿",
+        "zh_tw":"信徒護腿"
+      },
+      "Bound Leggings":{
+        "zh_cn":"缚革绑腿",
+        "zh_tw":"綑綁護腿"
+      },
+      "Shamanistic Leggings":{
+        "zh_cn":"萨满绑腿",
+        "zh_tw":"薩滿護腿"
+      },
+      "Wayfarer Shoes":{
+        "zh_cn":"远行者便鞋",
+        "zh_tw":"旅行者輕鞋"
+      },
+      "Silverbuckled Shoes":{
+        "zh_cn":"银扣便鞋",
+        "zh_tw":"銀扣輕鞋"
+      },
+      "Treerunner Shoes":{
+        "zh_cn":"林奔者便鞋",
+        "zh_tw":"樹行者輕鞋"
+      },
+      "Bulwark Greaves":{
+        "zh_cn":"堡垒胫甲",
+        "zh_tw":"壁壘脛甲"
+      },
+      "Ornate Greaves":{
+        "zh_cn":"华丽胫甲",
+        "zh_tw":"華麗脛甲"
+      },
+      "Vaal Greaves":{
+        "zh_cn":"瓦尔胫甲",
+        "zh_tw":"瓦爾脛甲"
+      },
+      "Tasalian Greaves":{
+        "zh_cn":"塔萨里奥胫甲",
+        "zh_tw":"塔薩里安脛甲"
+      },
+      "Cinched Boots":{
+        "zh_cn":"束带长靴",
+        "zh_tw":"繫帶長靴"
+      },
+      "Cavalry Boots":{
+        "zh_cn":"骑兵长靴",
+        "zh_tw":"騎兵長靴"
+      },
+      "Dragonscale Boots":{
+        "zh_cn":"龙鳞长靴",
+        "zh_tw":"龍鱗長靴"
+      },
+      "Drakeskin Boots":{
+        "zh_cn":"龙皮长靴",
+        "zh_tw":"龍膚長靴"
+      },
+      "Bound Sandals":{
+        "zh_cn":"缚革鞋履",
+        "zh_tw":"綑綁便鞋"
+      },
+      "Luxurious Slippers":{
+        "zh_cn":"奢华便鞋",
+        "zh_tw":"奢華便鞋"
+      },
+      "Sandsworn Sandals":{
+        "zh_cn":"沙誓鞋履",
+        "zh_tw":"沙誓便鞋"
+      },
+      "Sekhema Sandals":{
+        "zh_cn":"丝克玛便鞋",
+        "zh_tw":"絲克瑪便鞋"
+      },
+      "Veteran Sabatons":{
+        "zh_cn":"老兵战靴",
+        "zh_tw":"老兵鎧靴"
+      },
+      "Noble Sabatons":{
+        "zh_cn":"贵族战靴",
+        "zh_tw":"高貴鎧靴"
+      },
+      "Fortress Sabatons":{
+        "zh_cn":"要塞战靴",
+        "zh_tw":"要塞鎧靴"
+      },
+      "Blacksteel Sabatons":{
+        "zh_cn":"黑钢战靴",
+        "zh_tw":"烏鋼鎧靴"
+      },
+      "Faithful Leggings":{
+        "zh_cn":"信仰护腿",
+        "zh_tw":"信仰護腿"
+      },
+      "Apostle Leggings":{
+        "zh_cn":"使徒护腿",
+        "zh_tw":"使徒護腿"
+      },
+      "Warlock Leggings":{
+        "zh_cn":"术士护腿",
+        "zh_tw":"術士護腿"
+      },
+      "Cryptic Leggings":{
+        "zh_cn":"隐秘绑腿",
+        "zh_tw":"隱祕護腿"
+      },
+      "Wanderer Shoes":{
+        "zh_cn":"游荡者便鞋",
+        "zh_tw":"漫遊者輕鞋"
+      },
+      "Charmed Shoes":{
+        "zh_cn":"魅力便鞋",
+        "zh_tw":"護符輕鞋"
+      },
+      "Quickslip Shoes":{
+        "zh_cn":"急迅便鞋",
+        "zh_tw":"速行輕鞋"
+      },
+      "Daggerfoot Shoes":{
+        "zh_cn":"捷足便鞋",
+        "zh_tw":"捷足輕鞋"
+      }
+    }
+  ],
+  "Body Armours Item /152":{
+    "zh_cn":"胸甲物品 148/152",
+    "zh_tw":"胸甲物品 148/152"
+  },
+  "Body Armours Item_group":[
+    {
+      "Golden Mantle":{
+        "zh_cn":"黄金战甲",
+        "zh_tw":"黃金戰甲"
+      },
+      "Rusted Cuirass":{
+        "zh_cn":"锈蚀胸甲",
+        "zh_tw":"生鏽胸甲"
+      },
+      "Fur Plate":{
+        "zh_cn":"覆皮之铠",
+        "zh_tw":"毛皮鎧甲"
+      },
+      "Iron Cuirass":{
+        "zh_cn":"铁锻胸甲",
+        "zh_tw":"鍛鐵胸甲"
+      },
+      "Raider Plate":{
+        "zh_cn":"劫掠之铠",
+        "zh_tw":"俠客鎧甲"
+      },
+      "Maraketh Cuirass":{
+        "zh_cn":"马拉克斯胸甲",
+        "zh_tw":"馬拉克斯胸甲"
+      },
+      "Steel Plate":{
+        "zh_cn":"冷钢之铠",
+        "zh_tw":"堅鋼鎧甲"
+      },
+      "Full Plate":{
+        "zh_cn":"连身铠甲",
+        "zh_tw":"連身鎧甲"
+      },
+      "Vaal Cuirass":{
+        "zh_cn":"瓦尔胸甲",
+        "zh_tw":"瓦爾胸甲"
+      },
+      "Juggernaut Plate":{
+        "zh_cn":"巨灵之铠",
+        "zh_tw":"勇士鎧甲"
+      },
+      "Chieftain Cuirass":{
+        "zh_cn":"酋长胸甲",
+        "zh_tw":"酋長胸甲"
+      },
+      "Colosseum Plate":{
+        "zh_cn":"决斗之铠",
+        "zh_tw":"決鬥之鎧"
+      },
+      "Champion Cuirass":{
+        "zh_cn":"冠军胸甲",
+        "zh_tw":"冠軍胸甲"
+      },
+      "Glorious Plate":{
+        "zh_cn":"荣耀战铠",
+        "zh_tw":"榮耀戰鎧"
+      },
+      "Conqueror Plate":{
+        "zh_cn":"霸王战铠",
+        "zh_tw":"征服者鎧甲"
+      },
+      "Abyssal Cuirass":{
+        "zh_cn":"深渊胸甲",
+        "zh_tw":"深淵胸甲"
+      },
+      "Leather Vest":{
+        "zh_cn":"皮革背心",
+        "zh_tw":"皮革背心"
+      },
+      "Quilted Vest":{
+        "zh_cn":"菱纹背心",
+        "zh_tw":"襯墊背心"
+      },
+      "Pathfinder Coat":{
+        "zh_cn":"寻路者外套",
+        "zh_tw":"追獵者外套"
+      },
+      "Shrouded Vest":{
+        "zh_cn":"蔽影背心",
+        "zh_tw":"籠罩背心"
+      },
+      "Rhoahide Coat":{
+        "zh_cn":"恐喙鸟皮外套",
+        "zh_tw":"恐喙鳥皮外套"
+      },
+      "Studded Vest":{
+        "zh_cn":"嵌饰背心",
+        "zh_tw":"鑲釘背心"
+      },
+      "Scout's Vest":{
+        "zh_cn":"斥候背心",
+        "zh_tw":"斥侯背心"
+      },
+      "Serpentscale Coat":{
+        "zh_cn":"蛇鳞外套",
+        "zh_tw":"蛇鱗外套"
+      },
+      "Corsair Vest":{
+        "zh_cn":"海贼背心",
+        "zh_tw":"海盜背心"
+      },
+      "Smuggler Coat":{
+        "zh_cn":"走私者外套",
+        "zh_tw":"走私者外套"
+      },
+      "Strider Vest":{
+        "zh_cn":"疾行者背心",
+        "zh_tw":"疾行者背心"
+      },
+      "Hardleather Coat":{
+        "zh_cn":"硬皮外套",
+        "zh_tw":"硬皮外套"
+      },
+      "Exquisite Vest":{
+        "zh_cn":"浮华背心",
+        "zh_tw":"精美背心"
+      },
+      "Mail Coat":{
+        "zh_cn":"锁环外套",
+        "zh_tw":"鎖甲外套"
+      },
+      "Armoured Vest":{
+        "zh_cn":"铠装背心",
+        "zh_tw":"裝甲背心"
+      },
+      "Tattered Robe":{
+        "zh_cn":"破烂长袍",
+        "zh_tw":"殘破長袍"
+      },
+      "Feathered Robe":{
+        "zh_cn":"羽饰长袍",
+        "zh_tw":"羽毛長袍"
+      },
+      "Hexer's Robe":{
+        "zh_cn":"魔蛊长袍",
+        "zh_tw":"咒術師長袍"
+      },
+      "Bone Raiment":{
+        "zh_cn":"坠饰之衣",
+        "zh_tw":"骸骨之衣"
+      },
+      "Silk Robe":{
+        "zh_cn":"丝质之袍",
+        "zh_tw":"絲質之袍"
+      },
+      "Keth Raiment":{
+        "zh_cn":"克斯之衣",
+        "zh_tw":"凱斯之衣"
+      },
+      "Votive Raiment":{
+        "zh_cn":"奉愿之衣",
+        "zh_tw":"還願之衣"
+      },
+      "Altar Robe":{
+        "zh_cn":"祭坛长袍",
+        "zh_tw":"祭壇長袍"
+      },
+      "Elementalist Robe":{
+        "zh_cn":"元素使长袍",
+        "zh_tw":"元素使長袍"
+      },
+      "Mystic Raiment":{
+        "zh_cn":"密士之衣",
+        "zh_tw":"神秘之衣"
+      },
+      "Imperial Robe":{
+        "zh_cn":"帝国长袍",
+        "zh_tw":"帝國長袍"
+      },
+      "Plated Raiment":{
+        "zh_cn":"嵌板之衣",
+        "zh_tw":"鎧甲之衣"
+      },
+      "Havoc Raiment":{
+        "zh_cn":"劫难之衣",
+        "zh_tw":"禍害之衣"
+      },
+      "Enlightened Robe":{
+        "zh_cn":"启迪长袍",
+        "zh_tw":"啟蒙長袍"
+      },
+      "Arcane Raiment":{
+        "zh_cn":"秘法之衣",
+        "zh_tw":"奧術之衣"
+      },
+      "Chain Mail":{
+        "zh_cn":"环锁甲",
+        "zh_tw":"鎖鍊鎖甲"
+      },
+      "Rogue Armour":{
+        "zh_cn":"盗贼护甲",
+        "zh_tw":"盜賊護甲"
+      },
+      "Vagabond Armour":{
+        "zh_cn":"漂泊者护甲",
+        "zh_tw":"流浪者護甲"
+      },
+      "Cloaked Mail":{
+        "zh_cn":"披风锁甲",
+        "zh_tw":"斗篷鎖甲"
+      },
+      "Explorer Armour":{
+        "zh_cn":"探索者护甲",
+        "zh_tw":"探索者護甲"
+      },
+      "Scale Mail":{
+        "zh_cn":"嵌鳞锁甲",
+        "zh_tw":"鱗片鎖甲"
+      },
+      "Knight Armour":{
+        "zh_cn":"骑士护甲",
+        "zh_tw":"騎士護甲"
+      },
+      "Ancestral Mail":{
+        "zh_cn":"先祖锁甲",
+        "zh_tw":"先祖鎖甲"
+      },
+      "Lamellar Mail":{
+        "zh_cn":"层叠锁甲",
+        "zh_tw":"分層鎖甲"
+      },
+      "Gladiator Armour":{
+        "zh_cn":"角斗士护甲",
+        "zh_tw":"衛士護甲"
+      },
+      "Heroic Armour":{
+        "zh_cn":"英武护甲",
+        "zh_tw":"英雄護甲"
+      },
+      "Tournament Mail":{
+        "zh_cn":"演武锁甲",
+        "zh_tw":"競技鎖甲"
+      },
+      "Slayer Armour":{
+        "zh_cn":"惩罚者护甲",
+        "zh_tw":"處刑者護甲"
+      },
+      "Pilgrim Vestments":{
+        "zh_cn":"朝圣者长衣",
+        "zh_tw":"朝聖者法衣"
+      },
+      "Pelt Mantle":{
+        "zh_cn":"毛皮斗篷",
+        "zh_tw":"堅皮披肩"
+      },
+      "Mail Vestments":{
+        "zh_cn":"锁子长衣",
+        "zh_tw":"鎖甲法衣"
+      },
+      "Shaman Mantle":{
+        "zh_cn":"萨满斗篷",
+        "zh_tw":"薩滿披肩"
+      },
+      "Ironclad Vestments":{
+        "zh_cn":"武装长衣",
+        "zh_tw":"鐵甲法衣"
+      },
+      "Sacrificial Mantle":{
+        "zh_cn":"献祭斗篷",
+        "zh_tw":"獻祭披肩"
+      },
+      "Cleric Vestments":{
+        "zh_cn":"圣徒长衣",
+        "zh_tw":"教士法衣"
+      },
+      "Tideseer Mantle":{
+        "zh_cn":"潮贤斗篷",
+        "zh_tw":"潮汐先知披肩"
+      },
+      "Gilded Vestments":{
+        "zh_cn":"鎏金长衣",
+        "zh_tw":"鍍金法衣"
+      },
+      "Venerated Mantle":{
+        "zh_cn":"崇圣斗篷",
+        "zh_tw":"崇敬披肩"
+      },
+      "Revered Vestments":{
+        "zh_cn":"崇礼长衣",
+        "zh_tw":"尊敬法衣"
+      },
+      "Corvus Mantle":{
+        "zh_cn":"灵鸦斗篷",
+        "zh_tw":"烏鴉披肩"
+      },
+      "Zenith Vestments":{
+        "zh_cn":"天顶长衣",
+        "zh_tw":"極盛法衣"
+      },
+      "Hermit Garb":{
+        "zh_cn":"隐士束衣",
+        "zh_tw":"隱士裝束"
+      },
+      "Waxed Jacket":{
+        "zh_cn":"防水外衣",
+        "zh_tw":"打蠟外衣"
+      },
+      "Marabout Garb":{
+        "zh_cn":"遁世束衣",
+        "zh_tw":"修士裝束"
+      },
+      "Wayfarer Jacket":{
+        "zh_cn":"远行者外衣",
+        "zh_tw":"旅人外衣"
+      },
+      "Anchorite Garb":{
+        "zh_cn":"隐士束衣",
+        "zh_tw":"隱者裝束"
+      },
+      "Scalper's Jacket":{
+        "zh_cn":"猎头者外衣",
+        "zh_tw":"投機者外衣"
+      },
+      "Scoundrel Jacket":{
+        "zh_cn":"流贼外衣",
+        "zh_tw":"流氓外衣"
+      },
+      "Ascetic Garb":{
+        "zh_cn":"苦修束衣",
+        "zh_tw":"苦行者裝束"
+      },
+      "Clandestine Jacket":{
+        "zh_cn":"无影外衣",
+        "zh_tw":"隱蔽外衣"
+      },
+      "Monastic Garb":{
+        "zh_cn":"修行束衣",
+        "zh_tw":"僧侶裝束"
+      },
+      "Torment Jacket":{
+        "zh_cn":"磨难外衣",
+        "zh_tw":"苦難外衣"
+      },
+      "Devout Garb":{
+        "zh_cn":"虔心束衣",
+        "zh_tw":"虔誠裝束"
+      },
+      "Assassin Garb":{
+        "zh_cn":"暗影束衣",
+        "zh_tw":"刺客裝束"
+      },
+      "Garment":{
+        "zh_cn":"华服装束",
+        "zh_tw":"服裝"
+      },
+      "Grand Regalia":{
+        "zh_cn":"恢弘盛装",
+        "zh_tw":"宏偉華服"
+      },
+      "Sacrificial Regalia":{
+        "zh_cn":"献祭盛装",
+        "zh_tw":"獻祭法衣"
+      },
+      "Golden Plate":{
+        "zh_cn":"金耀之铠",
+        "zh_tw":"黃金鎧甲"
+      },
+      "Barbarian Plate":{
+        "zh_cn":"野蛮人战铠",
+        "zh_tw":"野蠻人鎧甲"
+      },
+      "Rugged Cuirass":{
+        "zh_cn":"粗糙胸甲",
+        "zh_tw":"堅實胸甲"
+      },
+      "Sandsworn Cuirass":{
+        "zh_cn":"沙誓胸甲",
+        "zh_tw":"沙誓胸甲"
+      },
+      "Elegant Plate":{
+        "zh_cn":"优雅战铠",
+        "zh_tw":"優雅鎧甲"
+      },
+      "Heavy Plate":{
+        "zh_cn":"重型战铠",
+        "zh_tw":"重型鎧甲"
+      },
+      "Stone Cuirass":{
+        "zh_cn":"石制胸甲",
+        "zh_tw":"岩石胸甲"
+      },
+      "Patchwork Vest":{
+        "zh_cn":"拼接背心",
+        "zh_tw":"拼湊背心"
+      },
+      "Hunting Coat":{
+        "zh_cn":"狩猎外套",
+        "zh_tw":"狩獵外套"
+      },
+      "Riding Coat":{
+        "zh_cn":"骑行外套",
+        "zh_tw":"騎乘外套"
+      },
+      "Layered Vest":{
+        "zh_cn":"分层背心",
+        "zh_tw":"分層背心"
+      },
+      "Runner Vest":{
+        "zh_cn":"跑者背心",
+        "zh_tw":"奔走者背心"
+      },
+      "Lizardscale Coat":{
+        "zh_cn":"蜥鳞外套",
+        "zh_tw":"蜥蜴鱗外套"
+      },
+      "Avian Robe":{
+        "zh_cn":"飞羽长袍",
+        "zh_tw":"飛羽長袍"
+      },
+      "Cursespeaker's Robe":{
+        "zh_cn":"诅咒术士长袍",
+        "zh_tw":"詛咒語者長袍"
+      },
+      "Luxurious Robe":{
+        "zh_cn":"奢华长袍",
+        "zh_tw":"奢華長袍"
+      },
+      "River Raiment":{
+        "zh_cn":"河流之衣",
+        "zh_tw":"河流之衣"
+      },
+      "Adherent's Raiment":{
+        "zh_cn":"信徒之衣",
+        "zh_tw":"信徒之衣"
+      },
+      "Ceremonial Robe":{
+        "zh_cn":"仪式长袍",
+        "zh_tw":"儀式長袍"
+      },
+      "Ring Mail":{
+        "zh_cn":"锁环甲",
+        "zh_tw":"鐵環鎖甲"
+      },
+      "Scoundrel Armour":{
+        "zh_cn":"恶棍护甲",
+        "zh_tw":"惡棍護甲"
+      },
+      "Wanderer Armour":{
+        "zh_cn":"流浪者护甲",
+        "zh_tw":"漫遊者護甲"
+      },
+      "Mantled Mail":{
+        "zh_cn":"斗篷锁甲",
+        "zh_tw":"披風鎖甲"
+      },
+      "Trailblazer Armour":{
+        "zh_cn":"开拓者护甲",
+        "zh_tw":"開拓者護甲"
+      },
+      "Golden Mail":{
+        "zh_cn":"黄金锁甲",
+        "zh_tw":"耀金鎖甲"
+      },
+      "Templar Vestments":{
+        "zh_cn":"圣堂武僧长衣",
+        "zh_tw":"聖騎士法衣"
+      },
+      "Bearskin Mantle":{
+        "zh_cn":"熊皮斗篷",
+        "zh_tw":"熊皮披肩"
+      },
+      "Chain Vestments":{
+        "zh_cn":"链甲长衣",
+        "zh_tw":"鎖鏈法衣"
+      },
+      "Occultist Mantle":{
+        "zh_cn":"秘术家斗篷",
+        "zh_tw":"秘術披肩"
+      },
+      "Plated Vestments":{
+        "zh_cn":"嵌板长衣",
+        "zh_tw":"鎧甲法衣"
+      },
+      "Heartcarver Mantle":{
+        "zh_cn":"刻心斗篷",
+        "zh_tw":"雕心者披肩"
+      },
+      "Oiled Jacket":{
+        "zh_cn":"油蜡外衣",
+        "zh_tw":"上油外衣"
+      },
+      "Evangelist Garb":{
+        "zh_cn":"传道士束衣",
+        "zh_tw":"傳道者裝束"
+      },
+      "Itinerant Jacket":{
+        "zh_cn":"流浪外衣",
+        "zh_tw":"遊歷者外衣"
+      },
+      "Hatungo Garb":{
+        "zh_cn":"哈图纳格斯束衣",
+        "zh_tw":"靈語者裝束"
+      },
+      "Hawker's Jacket":{
+        "zh_cn":"小贩外衣",
+        "zh_tw":"飼鷹者外衣"
+      },
+      "Soldier Cuirass":{
+        "zh_cn":"士兵胸甲",
+        "zh_tw":"士兵胸甲"
+      },
+      "Ornate Plate":{
+        "zh_cn":"华丽战铠",
+        "zh_tw":"華麗鎧甲"
+      },
+      "Utzaal Cuirass":{
+        "zh_cn":"乌扎尔胸甲",
+        "zh_tw":"奧札爾胸甲"
+      },
+      "Warlord Cuirass":{
+        "zh_cn":"督军胸甲",
+        "zh_tw":"總督胸甲"
+      },
+      "Swiftstalker Coat":{
+        "zh_cn":"迅捷潜行者外套",
+        "zh_tw":"迅疾潛獵者外套"
+      },
+      "Slipstrike Vest":{
+        "zh_cn":"滑击背心",
+        "zh_tw":"快速打擊背心"
+      },
+      "Wyrmscale Coat":{
+        "zh_cn":"巨龙鳞外套",
+        "zh_tw":"龍鱗外套"
+      },
+      "Corsair Coat":{
+        "zh_cn":"海盗外套",
+        "zh_tw":"海盜外套"
+      },
+      "Vile Robe":{
+        "zh_cn":"邪恶束衣",
+        "zh_tw":"惡毒長袍"
+      },
+      "Flowing Raiment":{
+        "zh_cn":"飘逸之衣",
+        "zh_tw":"奔流之衣"
+      },
+      "Sacramental Robe":{
+        "zh_cn":"圣礼束衣",
+        "zh_tw":"聖禮長袍"
+      },
+      "Feathered Raiment":{
+        "zh_cn":"羽饰之衣",
+        "zh_tw":"羽絨之衣"
+      },
+      "Dastard Armour":{
+        "zh_cn":"懦夫护甲",
+        "zh_tw":"惡徒護甲"
+      },
+      "Shrouded Mail":{
+        "zh_cn":"蔽影锁甲",
+        "zh_tw":"遮蔽鎖甲"
+      },
+      "Death Mail":{
+        "zh_cn":"死亡锁甲",
+        "zh_tw":"死亡鎖甲"
+      },
+      "Thane Mail":{
+        "zh_cn":"领主锁甲",
+        "zh_tw":"領主鎖甲"
+      },
+      "Wolfskin Mantle":{
+        "zh_cn":"狼皮斗篷",
+        "zh_tw":"狼皮披肩"
+      },
+      "Conjurer Mantle":{
+        "zh_cn":"咒者斗篷",
+        "zh_tw":"巫術師披肩"
+      },
+      "Death Mantle":{
+        "zh_cn":"死亡斗篷",
+        "zh_tw":"死亡披肩"
+      },
+      "Seastorm Mantle":{
+        "zh_cn":"海洋风暴斗篷",
+        "zh_tw":"海洋風暴披肩"
+      },
+      "Sleek Jacket":{
+        "zh_cn":"滑布外衣",
+        "zh_tw":"光滑外衣"
+      },
+      "Rambler Jacket":{
+        "zh_cn":"漫步者外衣",
+        "zh_tw":"漫步者外衣"
+      },
+      "Falconer's Jacket":{
+        "zh_cn":"猎鹰师外衣",
+        "zh_tw":"訓鷹者外衣"
+      },
+      "Austere Garb":{
+        "zh_cn":"简朴束衣",
+        "zh_tw":"樸素裝束"
+      }
+    }
+  ],
+  "Helmets Item /115":{
+    "zh_cn":"头盔物品 114/115",
+    "zh_tw":"頭盔物品 114/115"
+  },
+  "Helmets Item_group":[
+    {
+      "Golden Wreath":{
+        "zh_cn":"金黄花环",
+        "zh_tw":"金黃花環"
+      },
+      "Golden Visage":{
+        "zh_cn":"金色面具",
+        "zh_tw":"黃金面紗"
+      },
+      "Rusted Greathelm":{
+        "zh_cn":"锈蚀巨盔",
+        "zh_tw":"鏽蝕巨盔"
+      },
+      "Soldier Greathelm":{
+        "zh_cn":"兵卒巨盔",
+        "zh_tw":"士兵巨盔"
+      },
+      "Wrapped Greathelm":{
+        "zh_cn":"裹布巨盔",
+        "zh_tw":"纏繞巨盔"
+      },
+      "Spired Greathelm":{
+        "zh_cn":"螺旋巨盔",
+        "zh_tw":"尖頂巨盔"
+      },
+      "Elite Greathelm":{
+        "zh_cn":"精锐巨盔",
+        "zh_tw":"菁英巨盔"
+      },
+      "Warrior Greathelm":{
+        "zh_cn":"战士巨盔",
+        "zh_tw":"戰士巨盔"
+      },
+      "Commander Greathelm":{
+        "zh_cn":"军官巨盔",
+        "zh_tw":"指揮官巨盔"
+      },
+      "Fierce Greathelm":{
+        "zh_cn":"刚烈巨盔",
+        "zh_tw":"兇猛巨盔"
+      },
+      "Sentinel Greathelm":{
+        "zh_cn":"哨卫巨盔",
+        "zh_tw":"守望巨盔"
+      },
+      "Goliath Greathelm":{
+        "zh_cn":"歌利亚巨盔",
+        "zh_tw":"巨靈巨盔"
+      },
+      "Guardian Greathelm":{
+        "zh_cn":"守护者巨盔",
+        "zh_tw":"守護者巨盔"
+      },
+      "Shabby Hood":{
+        "zh_cn":"破旧兜帽",
+        "zh_tw":"破舊兜帽"
+      },
+      "Felt Cap":{
+        "zh_cn":"毛毡帽",
+        "zh_tw":"毛氈便帽"
+      },
+      "Lace Hood":{
+        "zh_cn":"花边兜帽",
+        "zh_tw":"綁帶兜帽"
+      },
+      "Swathed Cap":{
+        "zh_cn":"缠丝帽",
+        "zh_tw":"裹頭便帽"
+      },
+      "Hunter Hood":{
+        "zh_cn":"猎者兜帽",
+        "zh_tw":"獵者之兜"
+      },
+      "Viper Cap":{
+        "zh_cn":"毒蝰帽",
+        "zh_tw":"毒蛇便帽"
+      },
+      "Corsair Cap":{
+        "zh_cn":"海贼帽",
+        "zh_tw":"海盜便帽"
+      },
+      "Leatherbound Hood":{
+        "zh_cn":"皮缚兜帽",
+        "zh_tw":"皮革兜帽"
+      },
+      "Velvet Cap":{
+        "zh_cn":"丝绒帽",
+        "zh_tw":"天鵝絨便帽"
+      },
+      "Covert Hood":{
+        "zh_cn":"匿踪兜帽",
+        "zh_tw":"隱蔽兜帽"
+      },
+      "Armoured Cap":{
+        "zh_cn":"覆甲帽",
+        "zh_tw":"裝甲便帽"
+      },
+      "Twig Circlet":{
+        "zh_cn":"细枝头冠",
+        "zh_tw":"嫩枝頭環"
+      },
+      "Wicker Tiara":{
+        "zh_cn":"柳枝冠冕",
+        "zh_tw":"枝條頭冠"
+      },
+      "Beaded Circlet":{
+        "zh_cn":"珠饰头冠",
+        "zh_tw":"串珠頭環"
+      },
+      "Chain Tiara":{
+        "zh_cn":"锁链冠冕",
+        "zh_tw":"鎖鍊頭冠"
+      },
+      "Feathered Tiara":{
+        "zh_cn":"羽饰冠冕",
+        "zh_tw":"羽毛頭冠"
+      },
+      "Gold Circlet":{
+        "zh_cn":"烁金头冠",
+        "zh_tw":"黃金頭環"
+      },
+      "Vermeil Circlet":{
+        "zh_cn":"朱砂头冠",
+        "zh_tw":"鍍金頭環"
+      },
+      "Jade Tiara":{
+        "zh_cn":"翠玉冠冕",
+        "zh_tw":"翠玉頭冠"
+      },
+      "Noble Circlet":{
+        "zh_cn":"贵族头冠",
+        "zh_tw":"貴族頭環"
+      },
+      "Twilight Tiara":{
+        "zh_cn":"暮光冠冕",
+        "zh_tw":"暮光頭冠"
+      },
+      "Magus Tiara":{
+        "zh_cn":"术士冠冕",
+        "zh_tw":"瑪格思頭冠"
+      },
+      "Brimmed Helm":{
+        "zh_cn":"宽沿之盔",
+        "zh_tw":"邊緣之盔"
+      },
+      "Guarded Helm":{
+        "zh_cn":"守护之盔",
+        "zh_tw":"警惕之盔"
+      },
+      "Visored Helm":{
+        "zh_cn":"护面之盔",
+        "zh_tw":"假面之盔"
+      },
+      "Cowled Helm":{
+        "zh_cn":"掩面之盔",
+        "zh_tw":"斗篷之盔"
+      },
+      "Shielded Helm":{
+        "zh_cn":"卫护之盔",
+        "zh_tw":"庇護之盔"
+      },
+      "Closed Helm":{
+        "zh_cn":"封闭之盔",
+        "zh_tw":"緊閉之盔"
+      },
+      "Decorated Helm":{
+        "zh_cn":"华饰之盔",
+        "zh_tw":"裝飾之盔"
+      },
+      "Gallant Helm":{
+        "zh_cn":"英武之盔",
+        "zh_tw":"無畏之盔"
+      },
+      "Iron Crown":{
+        "zh_cn":"铁锻王冠",
+        "zh_tw":"鍛鐵之冠"
+      },
+      "Horned Crown":{
+        "zh_cn":"犄角王冠",
+        "zh_tw":"犄角之冠"
+      },
+      "Cultist Crown":{
+        "zh_cn":"密教头冠",
+        "zh_tw":"教徒之冠"
+      },
+      "Martyr Crown":{
+        "zh_cn":"英烈之冠",
+        "zh_tw":"殉難之冠"
+      },
+      "Heavy Crown":{
+        "zh_cn":"沉重王冠",
+        "zh_tw":"沉重之冠"
+      },
+      "Spiritbone Crown":{
+        "zh_cn":"灵骨王冠",
+        "zh_tw":"魂骨之冠"
+      },
+      "Lavish Crown":{
+        "zh_cn":"奢华王冠",
+        "zh_tw":"奢華之冠"
+      },
+      "Archon Crown":{
+        "zh_cn":"执政官王冠",
+        "zh_tw":"統治者之冠"
+      },
+      "Hewn Mask":{
+        "zh_cn":"凿制之面",
+        "zh_tw":"粗製之面"
+      },
+      "Face Mask":{
+        "zh_cn":"覆颜面具",
+        "zh_tw":"護臉之面"
+      },
+      "Hooded Mask":{
+        "zh_cn":"兜帽之面",
+        "zh_tw":"風帽之面"
+      },
+      "Veiled Mask":{
+        "zh_cn":"蒙纱之面",
+        "zh_tw":"隱匿之面"
+      },
+      "Tribal Mask":{
+        "zh_cn":"部族之面",
+        "zh_tw":"部落之面"
+      },
+      "Solid Mask":{
+        "zh_cn":"坚固之面",
+        "zh_tw":"堅固之面"
+      },
+      "Shaded Mask":{
+        "zh_cn":"影蔽之面",
+        "zh_tw":"陰影之面"
+      },
+      "Death Mask":{
+        "zh_cn":"死神之面",
+        "zh_tw":"死亡之面"
+      },
+      "Grand Visage":{
+        "zh_cn":"恢弘面罩",
+        "zh_tw":"宏偉面紗"
+      },
+      "Corroded Greathelm":{
+        "zh_cn":"腐蚀巨盔",
+        "zh_tw":"腐蝕巨盔"
+      },
+      "Mercenary Greathelm":{
+        "zh_cn":"佣兵巨盔",
+        "zh_tw":"傭兵巨盔"
+      },
+      "Homeguard Greathelm":{
+        "zh_cn":"族卫巨盔",
+        "zh_tw":"家園守衛巨盔"
+      },
+      "Elegant Greathelm":{
+        "zh_cn":"雅致巨盔",
+        "zh_tw":"優雅巨盔"
+      },
+      "Noble Greathelm":{
+        "zh_cn":"贵族巨盔",
+        "zh_tw":"高貴巨盔"
+      },
+      "Rotted Hood":{
+        "zh_cn":"腐烂兜帽",
+        "zh_tw":"破爛兜帽"
+      },
+      "Wool Cap":{
+        "zh_cn":"羊毛帽",
+        "zh_tw":"羊毛便帽"
+      },
+      "Narrow Hood":{
+        "zh_cn":"窄型兜帽",
+        "zh_tw":"狹窄兜帽"
+      },
+      "Wrapped Cap":{
+        "zh_cn":"包裹帽",
+        "zh_tw":"纏繞便帽"
+      },
+      "Deerstalker Hood":{
+        "zh_cn":"猎踪兜帽",
+        "zh_tw":"獵鹿者之兜"
+      },
+      "Druidic Circlet":{
+        "zh_cn":"德鲁伊头冠",
+        "zh_tw":"德魯伊頭環"
+      },
+      "Avian Tiara":{
+        "zh_cn":"飞羽冠冕",
+        "zh_tw":"飛羽頭冠"
+      },
+      "Desert Circlet":{
+        "zh_cn":"沙漠头冠",
+        "zh_tw":"沙漠頭環"
+      },
+      "Sandsworn Tiara":{
+        "zh_cn":"沙誓冠冕",
+        "zh_tw":"沙誓頭冠"
+      },
+      "Jungle Tiara":{
+        "zh_cn":"丛林冠冕",
+        "zh_tw":"叢林頭冠"
+      },
+      "Domed Helm":{
+        "zh_cn":"圆顶头盔",
+        "zh_tw":"圓頂之盔"
+      },
+      "Engraved Helm":{
+        "zh_cn":"雕饰头盔",
+        "zh_tw":"紋刻之盔"
+      },
+      "Soldier Helm":{
+        "zh_cn":"士兵头盔",
+        "zh_tw":"士兵之盔"
+      },
+      "Cabalist Helm":{
+        "zh_cn":"秘法家头盔",
+        "zh_tw":"秘術師之盔"
+      },
+      "Gladiatoral Helm":{
+        "zh_cn":"角斗士头盔",
+        "zh_tw":"衛士之盔"
+      },
+      "Mailed Crown":{
+        "zh_cn":"锁甲王冠",
+        "zh_tw":"鎖甲之冠"
+      },
+      "Forest Crown":{
+        "zh_cn":"森林王冠",
+        "zh_tw":"森林之冠"
+      },
+      "Zealot Crown":{
+        "zh_cn":"狂热者王冠",
+        "zh_tw":"狂熱之冠"
+      },
+      "Hallowed Crown":{
+        "zh_cn":"神圣王冠",
+        "zh_tw":"聖潔之冠"
+      },
+      "Inquisitor Crown":{
+        "zh_cn":"判官王冠",
+        "zh_tw":"判官之冠"
+      },
+      "Oak Mask":{
+        "zh_cn":"欧克面具",
+        "zh_tw":"橡木之面"
+      },
+      "Bandit Mask":{
+        "zh_cn":"盗贼面具",
+        "zh_tw":"盜賊之面"
+      },
+      "Skulking Mask":{
+        "zh_cn":"潜行面具",
+        "zh_tw":"潛伏之面"
+      },
+      "Pariah Mask":{
+        "zh_cn":"贱民面具",
+        "zh_tw":"輕蔑之面"
+      },
+      "Avian Mask":{
+        "zh_cn":"飞羽面具",
+        "zh_tw":"飛羽之面"
+      },
+      "Warmonger Greathelm":{
+        "zh_cn":"好战者巨盔",
+        "zh_tw":"狂戰者巨盔"
+      },
+      "Masked Greathelm":{
+        "zh_cn":"蒙面巨盔",
+        "zh_tw":"假面巨盔"
+      },
+      "Paragon Greathelm":{
+        "zh_cn":"典范巨盔",
+        "zh_tw":"楷模巨盔"
+      },
+      "Imperial Greathelm":{
+        "zh_cn":"帝国巨盔",
+        "zh_tw":"帝國巨盔"
+      },
+      "Woven Cap":{
+        "zh_cn":"编织帽",
+        "zh_tw":"編織便帽"
+      },
+      "Desert Cap":{
+        "zh_cn":"沙漠帽",
+        "zh_tw":"沙漠便帽"
+      },
+      "Trapper Hood":{
+        "zh_cn":"猎人兜帽",
+        "zh_tw":"捕獵者之兜"
+      },
+      "Freebooter Cap":{
+        "zh_cn":"劫掠者之帽",
+        "zh_tw":"劫掠者便帽"
+      },
+      "Skycrown Tiara":{
+        "zh_cn":"天冠冠冕",
+        "zh_tw":"天冠頭冠"
+      },
+      "Sorcerous Tiara":{
+        "zh_cn":"法术冠冕",
+        "zh_tw":"巫術頭冠"
+      },
+      "Kamasan Tiara":{
+        "zh_cn":"卡马萨冠冕",
+        "zh_tw":"卡瑪薩頭冠"
+      },
+      "Ancestral Tiara":{
+        "zh_cn":"先祖冠冕",
+        "zh_tw":"先祖頭冠"
+      },
+      "Warded Helm":{
+        "zh_cn":"掩蔽头盔",
+        "zh_tw":"保衛之盔"
+      },
+      "Cryptic Helm":{
+        "zh_cn":"神秘头盔",
+        "zh_tw":"隱秘之盔"
+      },
+      "Champion Helm":{
+        "zh_cn":"勇士头盔",
+        "zh_tw":"勇士之盔"
+      },
+      "Gladiatorial Helm":{
+        "zh_cn":"角斗士头盔",
+        "zh_tw":"衛士之盔"
+      },
+      "Druidic Crown":{
+        "zh_cn":"德鲁伊王冠",
+        "zh_tw":"德魯伊之冠"
+      },
+      "Saintly Crown":{
+        "zh_cn":"圣洁王冠",
+        "zh_tw":"聖徒之冠"
+      },
+      "Divine Crown":{
+        "zh_cn":"神礼王冠",
+        "zh_tw":"神聖之冠"
+      },
+      "Cryptic Crown":{
+        "zh_cn":"隐秘之冠",
+        "zh_tw":"隱祕之冠"
+      },
+      "Brigand Mask":{
+        "zh_cn":"驱灵面具",
+        "zh_tw":"強盜之面"
+      },
+      "Faridun Mask":{
+        "zh_cn":"法里顿面具",
+        "zh_tw":"法里登之面"
+      },
+      "Soaring Mask":{
+        "zh_cn":"翱翔面具",
+        "zh_tw":"翱翔之面"
+      },
+      "Grinning Mask":{
+        "zh_cn":"狞笑面罩",
+        "zh_tw":"獰笑之面"
+      }
+    }
+  ],
+  "Amulets Item /16":{
+    "zh_cn":"项链 物品 /16",
+    "zh_tw":"項鍊 物品 /16"
+  },
+  "Amulets Item_group":[
+    {
+      "Crimson Amulet":{
+        "zh_cn":"赤红护身符",
+        "zh_tw":"赤紅項鍊"
+      },
+      "Azure Amulet":{
+        "zh_cn":"碧蓝护身符",
+        "zh_tw":"蒼藍項鍊"
+      },
+      "Amber Amulet":{
+        "zh_cn":"琥珀护身符",
+        "zh_tw":"琥珀護身符"
+      },
+      "Jade Amulet":{
+        "zh_cn":"翠玉护身符",
+        "zh_tw":"翠玉護身符"
+      },
+      "Lapis Amulet":{
+        "zh_cn":"海玉护身符",
+        "zh_tw":"海玉護身符"
+      },
+      "Lunar Amulet":{
+        "zh_cn":"月影护身符",
+        "zh_tw":"月神項鍊"
+      },
+      "Bloodstone Amulet":{
+        "zh_cn":"血岩护身符",
+        "zh_tw":"血石項鍊"
+      },
+      "Stellar Amulet":{
+        "zh_cn":"星辉护身符",
+        "zh_tw":"恆星項鍊"
+      },
+      "Solar Amulet":{
+        "zh_cn":"日曜护身符",
+        "zh_tw":"日耀項鍊"
+      },
+      "Gold Amulet":{
+        "zh_cn":"帝金护身符",
+        "zh_tw":"帝金護身符"
+      },
+      "Pearlescent Amulet":{
+        "zh_cn":"珠光项链",
+        "zh_tw":"珠光項鍊"
+      },
+      "Dusk Amulet":{
+        "zh_cn":"暮色护身符",
+        "zh_tw":"幽暗項鍊"
+      },
+      "Gloam Amulet":{
+        "zh_cn":"薄暮护身符",
+        "zh_tw":"黃昏項鍊"
+      },
+      "Penumbra Amulet":{
+        "zh_cn":"半影护身符",
+        "zh_tw":"半影項鍊"
+      },
+      "Tenebrous Amulet":{
+        "zh_cn":"暗黑护身符",
+        "zh_tw":"黑暗項鍊"
+      },
+      "Distorted Amulet":{
+        "zh_cn":"扭曲项链",
+        "zh_tw":"歪曲項鍊"
+      }
+    }
+  ],
+  "Rings Item /19":{
+    "zh_cn":"戒指 物品 /19",
+    "zh_tw":"戒指 物品 /19"
+  },
+  "Rings Item_group":[
+    {
+      "Golden Hoop":{
+        "zh_cn":"金环",
+        "zh_tw":"金環"
+      },
+      "Iron Ring":{
+        "zh_cn":"锻铁戒指",
+        "zh_tw":"鍛鐵戒指"
+      },
+      "Lazuli Ring":{
+        "zh_cn":"青金戒指",
+        "zh_tw":"青金石戒指"
+      },
+      "Ruby Ring":{
+        "zh_cn":"红玉戒指",
+        "zh_tw":"紅玉戒指"
+      },
+      "Sapphire Ring":{
+        "zh_cn":"蓝玉戒指",
+        "zh_tw":"藍玉戒指"
+      },
+      "Topaz Ring":{
+        "zh_cn":"黄玉戒指",
+        "zh_tw":"黃玉戒指"
+      },
+      "Amethyst Ring":{
+        "zh_cn":"紫晶戒指",
+        "zh_tw":"紫晶戒指"
+      },
+      "Emerald Ring":{
+        "zh_cn":"翡翠戒指",
+        "zh_tw":"綠寶石戒指"
+      },
+      "Pearl Ring":{
+        "zh_cn":"珠玉戒指",
+        "zh_tw":"珍珠戒指"
+      },
+      "Prismatic Ring":{
+        "zh_cn":"三相戒指",
+        "zh_tw":"三相戒指"
+      },
+      "Gold Ring":{
+        "zh_cn":"金光戒指",
+        "zh_tw":"金光戒指"
+      },
+      "Unset Ring":{
+        "zh_cn":"潜能之戒",
+        "zh_tw":"潛能之戒"
+      },
+      "Abyssal Signet":{
+        "zh_cn":"深渊印戒",
+        "zh_tw":"深淵之記"
+      },
+      "Ring":{
+        "zh_cn":"戒指",
+        "zh_tw":"戒指"
+      },
+      "Dusk Ring":{
+        "zh_cn":"暮色戒指",
+        "zh_tw":"幽暗戒指"
+      },
+      "Gloam Ring":{
+        "zh_cn":"薄暮戒指",
+        "zh_tw":"黃昏戒指"
+      },
+      "Penumbra Ring":{
+        "zh_cn":"半影戒指",
+        "zh_tw":"半影戒指"
+      },
+      "Tenebrous Ring":{
+        "zh_cn":"暗黑戒指",
+        "zh_tw":"黑暗戒指"
+      },
+      "Breach Ring":{
+        "zh_cn":"裂隙戒指",
+        "zh_tw":"裂痕戒指"
+      }
+    }
+  ],
+  "Belts Item /12":{
+    "zh_cn":"腰带 物品 /12",
+    "zh_tw":"腰带 物品 /12"
+  },
+  "Belts Item_group":[
+    {
+      "Golden Obi":{
+        "zh_cn":"金羽腰带",
+        "zh_tw":"金羽腰帶"
+      },
+      "Rawhide Belt":{
+        "zh_cn":"生皮腰带",
+        "zh_tw":"生皮腰帶"
+      },
+      "Linen Belt":{
+        "zh_cn":"亚麻腰带",
+        "zh_tw":"麻布腰帶"
+      },
+      "Wide Belt":{
+        "zh_cn":"宽大腰带",
+        "zh_tw":"寬大腰帶"
+      },
+      "Long Belt":{
+        "zh_cn":"加长腰带",
+        "zh_tw":"長腰帶"
+      },
+      "Plate Belt":{
+        "zh_cn":"嵌板腰带",
+        "zh_tw":"板甲腰帶"
+      },
+      "Ornate Belt":{
+        "zh_cn":"华丽腰带",
+        "zh_tw":"華麗腰帶"
+      },
+      "Mail Belt":{
+        "zh_cn":"环锁腰带",
+        "zh_tw":"鎖甲腰帶"
+      },
+      "Double Belt":{
+        "zh_cn":"双重腰带",
+        "zh_tw":"雙層腰帶"
+      },
+      "Heavy Belt":{
+        "zh_cn":"重革腰带",
+        "zh_tw":"重革腰帶"
+      },
+      "Utility Belt":{
+        "zh_cn":"万用腰带",
+        "zh_tw":"實用腰帶"
+      },
+      "Fine Belt":{
+        "zh_cn":"精致腰带",
+        "zh_tw":"精良腰帶"
+      }
+    }
+  ],
+  "Flask /18":{
+    "zh_cn":"药剂 物品 /18",
+    "zh_tw":"藥劑 物品 /18"
+  },
+  "Flask Item_group":[
+    {
+      "Lesser Life Flask":{
+        "zh_cn":"次级生命药剂",
+        "zh_tw":"低階生命藥劑"
+      },
+      "Medium Life Flask":{
+        "zh_cn":"中型生命药剂",
+        "zh_tw":"中型生命藥劑"
+      },
+      "Greater Life Flask":{
+        "zh_cn":"良质生命药剂",
+        "zh_tw":"良質生命藥劑"
+      },
+      "Grand Life Flask":{
+        "zh_cn":"优质生命药剂",
+        "zh_tw":"優質生命藥劑"
+      },
+      "Giant Life Flask":{
+        "zh_cn":"巨型生命药剂",
+        "zh_tw":"巨型生命藥劑"
+      },
+      "Colossal Life Flask":{
+        "zh_cn":"高阶生命药剂",
+        "zh_tw":"高階生命藥劑"
+      },
+      "Gargantuan Life Flask":{
+        "zh_cn":"恢弘生命药剂",
+        "zh_tw":"巨大生命藥劑"
+      },
+      "Transcendent Life Flask":{
+        "zh_cn":"非凡生命药剂",
+        "zh_tw":"卓越生命藥劑"
+      },
+      "Ultimate Life Flask":{
+        "zh_cn":"终极生命药剂",
+        "zh_tw":"終極生命藥劑"
+      },
+      "Lesser Mana Flask":{
+        "zh_cn":"次级魔力药剂",
+        "zh_tw":"低階魔力藥劑"
+      },
+      "Medium Mana Flask":{
+        "zh_cn":"中型魔力药剂",
+        "zh_tw":"中型魔力藥劑"
+      },
+      "Greater Mana Flask":{
+        "zh_cn":"良质魔力药剂",
+        "zh_tw":"良質魔力藥劑"
+      },
+      "Grand Mana Flask":{
+        "zh_cn":"优质魔力药剂",
+        "zh_tw":"優質魔力藥劑"
+      },
+      "Giant Mana Flask":{
+        "zh_cn":"巨型魔力药剂",
+        "zh_tw":"巨型魔力藥劑"
+      },
+      "Colossal Mana Flask":{
+        "zh_cn":"高阶魔力药剂",
+        "zh_tw":"高階魔力藥劑"
+      },
+      "Gargantuan Mana Flask":{
+        "zh_cn":"恢弘魔力药剂",
+        "zh_tw":"巨大魔力藥劑"
+      },
+      "Transcendent Mana Flask":{
+        "zh_cn":"非凡魔力药剂",
+        "zh_tw":"卓越魔力藥劑"
+      },
+      "Ultimate Mana Flask":{
+        "zh_cn":"终极魔力药剂",
+        "zh_tw":"終極魔力藥劑"
+      }
+    }
+  ],
+  "Charms Item /13":{
+    "zh_cn":"咒符 物品 /13",
+    "zh_tw":"護符 物品 /13"
+  },
+  "Charms Item_group":[
+    {
+      "Thawing Charm":{
+        "zh_cn":"融冰咒符",
+        "zh_tw":"解凍護符"
+      },
+      "Staunching Charm":{
+        "zh_cn":"止血咒符",
+        "zh_tw":"止血護符"
+      },
+      "Antidote Charm":{
+        "zh_cn":"抗毒咒符",
+        "zh_tw":"解毒護符"
+      },
+      "Dousing Charm":{
+        "zh_cn":"浸润咒符",
+        "zh_tw":"滅火護符"
+      },
+      "Grounding Charm":{
+        "zh_cn":"根基咒符",
+        "zh_tw":"接地護符"
+      },
+      "Stone Charm":{
+        "zh_cn":"磐石咒符",
+        "zh_tw":"岩石護符"
+      },
+      "Silver Charm":{
+        "zh_cn":"真银咒符",
+        "zh_tw":"白銀護符"
+      },
+      "Ruby Charm":{
+        "zh_cn":"红玉咒符",
+        "zh_tw":"紅玉護符"
+      },
+      "Sapphire Charm":{
+        "zh_cn":"蓝宝石咒符",
+        "zh_tw":"藍玉護符"
+      },
+      "Topaz Charm":{
+        "zh_cn":"黄玉咒符",
+        "zh_tw":"黃玉護符"
+      },
+      "Amethyst Charm":{
+        "zh_cn":"紫晶咒符",
+        "zh_tw":"紫晶護符"
+      },
+      "Golden Charm":{
+        "zh_cn":"黄金咒符",
+        "zh_tw":"黃金護符"
+      },
+      "Cleansing Charm":{
+        "zh_cn":"净化咒符",
+        "zh_tw":"淨化護符"
+      }
+    }
+  ],
+  "Jewels Item /9":{
+    "zh_cn":"珠宝 物品 /9",
+    "zh_tw":"珠寶 物品 /9"
+  },
+  "Jewels Item_group":[
+    {
+      "Timeless Jewel":{
+        "zh_cn":"永恒珠宝",
+        "zh_tw":"永恆珠寶"
+      },
+      "Ruby":{
+        "zh_cn":"红玉",
+        "zh_tw":"紅玉"
+      },
+      "Emerald":{
+        "zh_cn":"翡翠",
+        "zh_tw":"翠綠碧雲"
+      },
+      "Sapphire":{
+        "zh_cn":"蓝宝石",
+        "zh_tw":"藍玉"
+      },
+      "Diamond":{
+        "zh_cn":"宝钻",
+        "zh_tw":"鑽石"
+      },
+      "Time-Lost Ruby":{
+        "zh_cn":"失落的红玉",
+        "zh_tw":"時迭紅寶石"
+      },
+      "Time-Lost Emerald":{
+        "zh_cn":"失落的翡翠",
+        "zh_tw":"時迭綠寶石"
+      },
+      "Time-Lost Sapphire":{
+        "zh_cn":"失落的蓝宝石",
+        "zh_tw":"時迭藍寶石"
+      },
+      "Time-Lost Diamond":{
+        "zh_cn":"失落的宝钻",
+        "zh_tw":"時迭鑽石"
+      }
+    }
+  ]
+}

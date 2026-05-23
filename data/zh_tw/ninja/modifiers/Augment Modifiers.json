@@ -1,0 +1,2225 @@
+[
+  {
+    "original":"Place into an empty Rune Socket in a Weapon or Armour to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other socketable items.",
+    "translation":{
+      "zh_cn":"放入武器或护甲的一个空的增幅器插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他符文物品替换。",
+      "zh_tw":"放入武器或護甲的一個空白增幅插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的符文物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Weapon or Armour to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入武器或护甲的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入武器或護甲的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Wand or a Staff to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入法杖或长杖的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入法杖或長杖的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Weapon to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入武器的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入武器的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Helmet to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入头部的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入頭部的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Martial Weapon to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入战斗武器的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入軍用武器的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Body Armour to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入胸甲的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入胸甲的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty Augment Socket in a pair of Gloves to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other Augment items.",
+    "translation":{
+      "zh_cn":"放入手套的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入手套的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Bow to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入弓的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入弓的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a pair of Boots to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入鞋子的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入鞋子的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Body Armour or Sceptre to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入胸甲或短杖的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入胸甲或權杖的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Helmet or Sceptre to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入头部或短杖的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入頭部或權杖的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Focus or a Sceptre to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入法器或短杖的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入法器或權杖的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in Gloves or a Sceptre to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入手套或短杖的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入手套或權杖的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Shield or a Sceptre to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入盾牌或短杖的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入盾或權杖的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in any Equipment to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入任意装备的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入任意装备的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in an Armour to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入护甲的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入護甲的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Body Armour or a Focus to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入胸甲或法器的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入胸甲或法器的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a pair of Boots or a Helmet to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入鞋子或头部的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入鞋子或頭部的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Weapon or a Body Armour to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入武器或胸甲的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入武器或胸甲的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Weapon or a Helmet to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入武器或头部的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入武器或頭部的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Weapon or a pair of Gloves to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入武器或手套的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入武器或手套的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Weapon or a pair of Boots to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入武器或鞋子的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入武器或鞋子的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Weapon, a Body Armour or a Shield to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入武器,胸甲或盾牌的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入武器,胸甲或盾的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Place into an empty [Augment|Augment] Socket in a Wand, a Staff or a Sceptre to apply its effect to that item. Once socketed it cannot be retrieved but can be replaced by other [Augment|Augment] items.",
+    "translation":{
+      "zh_cn":"放入法杖或长杖或短杖的一个空的[Augment|增幅器]插槽中，即可将其效果应用于此物品。一旦放入插槽，无法再被移除，但可以被其他[Augment|增幅器]物品替换。",
+      "zh_tw":"放入法杖或長杖或權杖的一個空白[Augment|增幅]插槽，將其效果套用至該物品。放入插槽後將無法取出，但可以使用其他的[Augment|增幅]物品取代。"
+    }
+  },
+  {
+    "original":"Armour (Bonded): {0} to maximum Life",
+    "translation":{
+      "zh_cn":"护甲 (羁绊): {0} 最大生命",
+      "zh_tw":"護甲 (命定): {0} 最大生命"
+    }
+  },
+  {
+    "original":"Armour (Bonded): {0} to maximum Mana",
+    "translation":{
+      "zh_cn":"护甲 (羁绊): {0} 最大魔力",
+      "zh_tw":"護甲 (命定): {0} 最大魔力"
+    }
+  },
+  {
+    "original":"Armour (Bonded): {0} to maximum Life, {0} to maximum Mana",
+    "translation":{
+      "zh_cn":"护甲 (羁绊): {0} 最大生命, {0} 最大魔力",
+      "zh_tw":"護甲 (命定): {0} 最大生命, {0} 最大魔力"
+    }
+  },
+  {
+    "names":"Desert Rune|Lesser Desert Rune|Greater Desert Rune|Thane Myrk's Rune of Summer",
+    "zh_cn":"沙漠符文|次级沙漠符文|高级沙漠符文|默克领主的仲夏符文",
+    "zh_tw":"沙漠符文|低階沙漠符文|高階沙漠符文|爵士邁爾克的盛夏符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: Adds {0} to {1} [Fire|Fire] Damage",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 附加 {0} - {1} [Fire|火焰]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器]: 附加 {0} 至 {1} [Fire|火焰]傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff: [Gain|Gain] {0}% of Damage as Extra [Fire|Fire] Damage",
+        "translation":{
+          "zh_cn":"法杖或长杖: [Gain|获得]相当于伤害 {0}% 的额外[Fire|火焰]伤害",
+          "zh_tw":"法杖或長杖: [Gain|獲得]相當於傷害 {0}% 的額外[Fire|火焰]傷害"
+        }
+      },
+      {
+        "original":"Armour: {0}% to [Fire Resistance|Fire Resistance]",
+        "translation":{
+          "zh_cn":"护甲: [Fire Resistance|火焰抗性] {0}%",
+          "zh_tw":"護甲: {0}% [Fire Resistance|火焰抗性]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% increased [Ignite|Ignite] [Magnitude|Magnitude]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Ignite|点燃][Magnitude|强度]提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 增加 {0}% [Ignite|點燃][Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0}% increased [Ignite|Ignite] [Magnitude|Magnitude]",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): [Ignite|点燃][Magnitude|强度]提高 {0}%",
+          "zh_tw":"法杖或長杖 (命定): 增加 {0}% [Ignite|點燃][Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% to [Maximum Fire Resistance|Maximum Fire Resistance]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): {0}% [Maximum Fire Resistance|火焰抗性上限]",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): {0}% [Maximum Fire Resistance|最大火焰抗性]"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Glacial Rune|Lesser Glacial Rune|Greater Glacial Rune|Lady Hestra's Rune of Winter",
+    "zh_cn":"冰川符文|次级冰川符文|高级冰川符文|赫丝特拉女士的寒冬符文",
+    "zh_tw":"冰川符文|低階冰川符文|高階冰川符文|赫絲緹菈的寒冬符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: Adds {0} to {1} [Cold|Cold] Damage",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 附加 {0} - {1} [Cold|冰霜]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器]: 附加 {0} 至 {1} [Cold|冰冷]傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff: [Gain|Gain] {0}% of Damage as Extra [Cold|Cold] Damage",
+        "translation":{
+          "zh_cn":"法杖或长杖: [Gain|获得]相当于伤害 {0}% 的额外[Cold|冰霜]伤害",
+          "zh_tw":"法杖或長杖: [Gain|獲得]相當於傷害 {0}% 的額外[Cold|冰冷]傷害"
+        }
+      },
+      {
+        "original":"Armour: {0}% to [Cold Resistance|Cold Resistance]",
+        "translation":{
+          "zh_cn":"护甲: [Cold Resistance|冰霜抗性] {0}%",
+          "zh_tw":"護甲: {0}% [Cold Resistance|冰冷抗性]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% increased [Freeze|Freeze] Buildup",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Freeze|冻结]积蓄值提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 增加 {0}% [Freeze|冰凍]累積"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0}% increased [Freeze|Freeze] Buildup",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): [Freeze|冻结]积蓄值提高 {0}%",
+          "zh_tw":"法杖或長杖 (命定): 增加 {0}% [Freeze|冰凍]累積"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% to [Maximum Cold Resistance|Maximum Cold Resistance]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): {0}% [Maximum Cold Resistance|冰霜抗性上限]",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): {0}% [Maximum Cold Resistance|最大冰冷抗性]"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Storm Rune|Lesser Storm Rune|Greater Storm Rune|Thane Leld's Rune of Spring",
+    "zh_cn":"风暴符文|次级风暴符文|高级风暴符文|雷尔德领主的春光符文",
+    "zh_tw":"暴風符文|低階暴風符文|高階暴風符文|爵士勒爾德的暖春符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: Adds {0} to {1} [Lightning|Lightning] Damage",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 附加 {0} - {1} [Lightning|闪电]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器]: 附加 {0} 至 {1} [Lightning|閃電]傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff: [Gain|Gain] {0}% of Damage as Extra [Lightning|Lightning] Damage",
+        "translation":{
+          "zh_cn":"法杖或长杖: [Gain|获得]相当于伤害 {0}% 的额外[Lightning|闪电]伤害",
+          "zh_tw":"法杖或長杖: [Gain|獲得]相當於傷害 {0}% 的額外[Lightning|閃電]傷害"
+        }
+      },
+      {
+        "original":"Armour: {0}% to [Lightning Resistance|Lightning Resistance]",
+        "translation":{
+          "zh_cn":"护甲: [Lightning Resistance|闪电抗性] {0}%",
+          "zh_tw":"護甲: {0}% [Lightning Resistance|閃電抗性]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% increased [Magnitude|Magnitude] of [Shock|Shock] you inflict",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): 你造成的[Shock|感电][Magnitude|强度]提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 增加 {0}% 你所施加之[Shock|感電]的[Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0}% increased [Magnitude|Magnitude] of [Shock|Shock] you inflict",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): 你造成的[Shock|感电][Magnitude|强度]提高 {0}%",
+          "zh_tw":"法杖或長杖 (命定): 增加 {0}% 你所施加之[Shock|感電]的[Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% to [Maximum Lightning Resistance|Maximum Lightning Resistance]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): {0}% [Maximum Lightning Resistance|闪电抗性上限]",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): {0}% [Maximum Lightning Resistance|最大閃電抗性]"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Iron Rune|Lesser Iron Rune|Greater Iron Rune",
+    "zh_cn":"钢铁符文|次级钢铁符文|高级钢铁符文",
+    "zh_tw":"鍛鐵符文|低階鍛鐵符文|高階鍛鐵符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% increased [Physical|Physical] Damage",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Physical|物理]伤害提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 增加 {0}% [Physical|物理]傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff: {0}% increased [Spell|Spell] Damage",
+        "translation":{
+          "zh_cn":"法杖或长杖: [Spell|法术]伤害提高 {0}%",
+          "zh_tw":"法杖或長杖: 增加 {0}% [Spell|法術]傷害"
+        }
+      },
+      {
+        "original":"Armour: {0}% increased [Armour|Armour], [Evasion|Evasion] and [Energy Shield|Energy Shield]",
+        "translation":{
+          "zh_cn":"护甲: 该装备的[Armour|护甲]、[Evasion|闪避]和[Energy Shield|能量护盾]提高 {0}%",
+          "zh_tw":"護甲: 增加 {0}% [Armour|護甲值]、[Evasion|閃避]和[Energy Shield|能量護盾]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% increased effect of [Fully Broken Armour|Fully Broken Armour]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Fully Broken Armour|护甲完全破损]效果提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 增加 {0}% [Fully Broken Armour|完全破甲]的效果"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): [Break|Break] [Armour|Armour] on [Critical Hit|Critical Hit] with [Spells|Spells] equal to {0}% of [Physical|Physical] Damage dealt",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): [Spells|法术][Critical Hit|暴击]会[Break|粉碎][Armour|护甲]，相当于造成[Physical|物理]伤害的 {0}%",
+          "zh_tw":"法杖或長杖 (命定): [Spells|法術][Critical Hit|暴擊]時，[Break|破壞]等同於 {0}% 造成的[Physical|物理]傷害的[Armour|護甲]"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Body Rune|Lesser Body Rune|Greater Body Rune",
+    "zh_cn":"身躯符文|次级身躯符文|高级身躯符文",
+    "zh_tw":"肉體符文|低階肉體符文|高階肉體符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Leeches|Leeches] {0}% of [Physical|Physical] Damage as Life",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Physical|物理]伤害的 {0}% 转化为生命[Leeches|偷取]",
+          "zh_tw":"[Martial Weapon|軍用武器]: 以 {0}% [Physical|物理]傷害[Leeches|偷取]生命"
+        }
+      },
+      {
+        "original":"Wand or Staff: {0} to maximum [Energy Shield|Energy Shield]",
+        "translation":{
+          "zh_cn":"法杖或长杖: {0} 最大[Energy Shield|能量护盾]",
+          "zh_tw":"法杖或長杖: {0} 最大[Energy Shield|能量護盾]"
+        }
+      },
+      {
+        "original":"Armour: {0} to maximum Life",
+        "translation":{
+          "zh_cn":"护甲: {0} 最大生命",
+          "zh_tw":"護甲: {0} 最大生命"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% increased maximum Life",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): 生命上限提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 增加 {0}% 最大生命"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0}% increased maximum Life",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): 生命上限提高 {0}%",
+          "zh_tw":"法杖或長杖 (命定): 增加 {0}% 最大生命"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Mind Rune|Lesser Mind Rune|Greater Mind Rune",
+    "zh_cn":"心灵符文|次级心灵符文|高级心灵符文",
+    "zh_tw":"心靈符文|低階心靈符文|高階心靈符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Leeches|Leeches] {0}% of [Physical|Physical] Damage as Mana",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Physical|物理]伤害的 {0}% 转化为魔力[Leeches|偷取]",
+          "zh_tw":"[Martial Weapon|軍用武器]: 以 {0}% [Physical|物理]傷害[Leeches|偷取]魔力"
+        }
+      },
+      {
+        "original":"Wand or Staff: {0} to maximum Mana",
+        "translation":{
+          "zh_cn":"法杖或长杖: {0} 最大魔力",
+          "zh_tw":"法杖或長杖: {0} 最大魔力"
+        }
+      },
+      {
+        "original":"Armour: {0} to maximum Mana",
+        "translation":{
+          "zh_cn":"护甲: {0} 最大魔力",
+          "zh_tw":"護甲: {0} 最大魔力"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% increased maximum Mana",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): 魔力上限提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 增加 {0}% 最大魔力"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0}% increased maximum Mana",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): 魔力上限提高 {0}%",
+          "zh_tw":"法杖或長杖 (命定): 增加 {0}% 最大魔力"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Rebirth Rune|Lesser Rebirth Rune|Greater Rebirth Rune",
+    "zh_cn":"重生符文|次级重生符文|高级重生符文",
+    "zh_tw":"重生符文|低階重生符文|高階重生符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: Gain {0} Life per enemy killed",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 每击败一名敌人获得 {0} 点生命",
+          "zh_tw":"[Martial Weapon|軍用武器]: 每個被擊殺的敵人，獲得 {0} 生命"
+        }
+      },
+      {
+        "original":"Wand or Staff: {0}% increased [Energy Shield Recharge Rate|Energy Shield Recharge Rate]",
+        "translation":{
+          "zh_cn":"法杖或长杖: [Energy Shield Recharge Rate|能量护盾充能率]提高 {0}%",
+          "zh_tw":"法杖或長杖: 增加 {0}% [Energy Shield Recharge Rate|能量護盾充能率]"
+        }
+      },
+      {
+        "original":"Armour: Regenerate {0}% of maximum Life per second",
+        "translation":{
+          "zh_cn":"护甲: 生命每秒再生 {0}%",
+          "zh_tw":"護甲: 每秒回復 {0}% 生命"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): Regenerate {0}% of maximum Life per second",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): 生命每秒再生 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 每秒回復 {0}% 生命"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0}% of Damage taken [Recouped|Recouped] as Life",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): 将所受伤害的 {0}% [Recouped|吸纳]为生命",
+          "zh_tw":"法杖或長杖 (命定): 承受的 {0}% 傷害[Recouped|補償]為生命"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Inspiration Rune|Lesser Inspiration Rune|Greater Inspiration Rune",
+    "zh_cn":"启迪符文|次级启迪符文|高级启迪符文",
+    "zh_tw":"啟發符文|低階啟發符文|高階啟發符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: Gain {0} Mana per enemy killed",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 每击败一名敌人获得 {0} 点魔力",
+          "zh_tw":"[Martial Weapon|軍用武器]: 每個被擊殺的敵人，獲得 {0} 魔力"
+        }
+      },
+      {
+        "original":"Wand or Staff: {0}% increased Mana Regeneration Rate",
+        "translation":{
+          "zh_cn":"法杖或长杖: 魔力再生率提高 {0}%",
+          "zh_tw":"法杖或長杖: 增加 {0}% 魔力回復率"
+        }
+      },
+      {
+        "original":"Armour: {0}% increased Mana Regeneration Rate",
+        "translation":{
+          "zh_cn":"护甲: 魔力再生率提高 {0}%",
+          "zh_tw":"護甲: 增加 {0}% 魔力回復率"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% of Skill Mana Costs [Converted|Converted] to Life Costs",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): 技能的魔力消耗的 {0}% [Converted|转化]为生命消耗",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): {0}% 技能魔力消耗[Converted|轉換]為生命消耗"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0}% increased Mana Cost [Efficiency|Efficiency]",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): 魔力消耗[Efficiency|效能]提高 {0}%",
+          "zh_tw":"法杖或長杖 (命定): 增加 {0}% 魔力消耗[Efficiency|效率]"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Stone Rune|Lesser Stone Rune|Greater Stone Rune",
+    "zh_cn":"磐石符文|次级磐石符文|高级磐石符文",
+    "zh_tw":"岩石符文|低階岩石符文|高階岩石符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: Causes {0}% increased [Stun|Stun] Buildup",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 造成的[Stun|晕眩]积蓄值提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 增加 {0}% [Stun|暈眩]累積"
+        }
+      },
+      {
+        "original":"Wand or Staff: Gain additional [Stun Threshold|Stun Threshold] equal to {0}% of maximum [Energy Shield|Energy Shield]",
+        "translation":{
+          "zh_cn":"法杖或长杖: 获得相当于[Energy Shield|能量护盾]上限 {0}% 的[Stun Threshold|晕眩阈值]",
+          "zh_tw":"法杖或長杖: 獲得相當於最大[Energy Shield|能量護盾] {0}% 的額外[Stun Threshold|暈眩門檻]"
+        }
+      },
+      {
+        "original":"Armour: {0} to [Stun Threshold|Stun Threshold]",
+        "translation":{
+          "zh_cn":"护甲: {0} [Stun Threshold|晕眩阈值]",
+          "zh_tw":"護甲: [Stun Threshold|暈眩門檻] {0}"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% increased Damage against [Immobilised|Immobilised] Enemies",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): 对[Immobilised|不可移动]敌人的伤害提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 增加 {0}% 對[Immobilised|受禁錮]敵人的傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0}% increased [Immobilisation|Immobilisation] buildup",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): [Immobilised|不可移动]积蓄提高 {0}%",
+          "zh_tw":"法杖或長杖 (命定): 增加 {0}% [Immobilised|禁錮]累積"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Vision Rune|Lesser Vision Rune|Greater Vision Rune",
+    "zh_cn":"幻象符文|次级幻象符文|高级幻象符文",
+    "zh_tw":"遠見符文|低階遠見符文|高階遠見符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0} to [Accuracy|Accuracy] Rating",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: {0} [Accuracy|命中]值",
+          "zh_tw":"[Martial Weapon|軍用武器]: {0} [Accuracy|命中]值"
+        }
+      },
+      {
+        "original":"Wand or Staff: {0}% increased [Critical Hit Chance|Critical Hit Chance] for [Spells|Spells]",
+        "translation":{
+          "zh_cn":"法杖或长杖: [Spells|法术][Critical Hit Chance|暴击率]提高 {0}%",
+          "zh_tw":"法杖或長杖: 增加 {0}% [Spells|法術][Critical Hit Chance|暴擊率]"
+        }
+      },
+      {
+        "original":"Armour: {0}% increased Life and Mana Recovery from [Flasks|Flasks]",
+        "translation":{
+          "zh_cn":"护甲: [Flasks|药剂]的生命和魔力回复提高 {0}%",
+          "zh_tw":"護甲: 增加 {0}% [Flasks|藥劑]的生命和魔力恢復"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): [Attacks|Attacks] have {0}% to [Critical Hit Chance|Critical Hit Chance]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Attacks|攻击]的[Critical Hit Chance|暴击几率] {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): {0}% [Attacks|攻擊]的[Critical Hit Chance|暴擊機率]"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0}% increased [Critical Damage Bonus|Critical Damage Bonus]",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): [Critical Damage Bonus|暴击伤害加成]提高 {0}%",
+          "zh_tw":"法杖或長杖 (命定): 增加 {0}% [Critical Damage Bonus|暴擊傷害加成]"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Robust Rune|Lesser Robust Rune|Greater Robust Rune",
+    "zh_cn":"健壮符文|次级健壮符文|高級健壮符文",
+    "zh_tw":"堅實符文|低階堅實符文|高階堅實符文",
+    "group":[
+      {
+        "original":"All Equipment: {0} to [Strength|Strength]",
+        "translation":{
+          "zh_cn":"所有装备: {0} [Strength|力量]",
+          "zh_tw":"所有裝備: {0} 點[Strength|力量]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): Adds {0} to {1} [Physical|Physical] Damage to [Attacks|Attacks]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Attacks|攻击]附加 {0} - {1} [Physical|物理]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): [Attacks|攻擊]附加 {0} 至 {1} [Physical|物理]傷害"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): Adds {0} to {1} [Fire|Fire] damage to [Attacks|Attacks]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Attacks|攻击]附加 {0} - {1} 基础[Fire|火焰]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): [Attacks|攻擊]附加 {0} 至 {1} [Fire|火焰]傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0} to [Armour|Armour]",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): {0} [Armour|护甲]",
+          "zh_tw":"法杖或長杖 (命定): {0} [Armour|護甲值]"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Adept Rune|Lesser Adept Rune|Greater Adept Rune",
+    "zh_cn":"行家符文|次级行家符文|高级行家符文",
+    "zh_tw":"嫻熟符文|低階嫻熟符文|高階嫻熟符文",
+    "group":[
+      {
+        "original":"All Equipment: {0} to [Dexterity|Dexterity]",
+        "translation":{
+          "zh_cn":"所有装备: {0} [Dexterity|敏捷]",
+          "zh_tw":"所有裝備: {0} 點[Dexterity|敏捷]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): Adds {0} to {1} [Physical|Physical] Damage to [Attacks|Attacks]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Attacks|攻击]附加 {0} - {1} [Physical|物理]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): [Attacks|攻擊]附加 {0} 至 {1} [Physical|物理]傷害"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): Adds {0} to {1} [Lightning|Lightning] damage to [Attacks|Attacks]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Attacks|攻击]附加 {0} - {1} 基础[Lightning|闪电]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): [Attacks|攻擊]附加 {0} 至 {1} [Lightning|閃電]傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0} to [Evasion|Evasion] Rating",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): {0} 点[Evasion|闪避]值",
+          "zh_tw":"法杖或長杖 (命定): {0} [Evasion|閃避]值"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Resolve Rune|Lesser Resolve Rune|Greater Resolve Rune",
+    "zh_cn":"坚毅符文|次级坚毅符文|高级坚毅符文",
+    "zh_tw":"決心符文|低階決心符文|高階決心符文",
+    "group":[
+      {
+        "original":"All Equipment: {0} to [Intelligence|Intelligence]",
+        "translation":{
+          "zh_cn":"所有装备: {0} [Intelligence|智慧]",
+          "zh_tw":"所有裝備: {0} 點[Intelligence|智慧]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): Adds {0} to {1} [Cold|Cold] damage to [Attacks|Attacks]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Attacks|攻击]附加 {0} - {1} 基础[Cold|冰霜]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): [Attacks|攻擊]附加 {0} 至 {1} [Cold|冰冷]傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0} to maximum [Energy Shield|Energy Shield]",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): {0} 最大[Energy Shield|能量护盾]",
+          "zh_tw":"法杖或長杖 (命定): {0} 最大[Energy Shield|能量護盾]"
+        }
+      }
+    ]
+  },
+  {
+    "names":"Greater Rune of Leadership|Greater Rune of Tithing|Greater Rune of Alacrity|Greater Rune of Nobility",
+    "zh_cn":"高级领袖符文|高级奉纳符文|高级迅捷符文|高级尊贵符文",
+    "zh_tw":"高階領導符文|高階奉獻符文|高階迅捷符文|高階崇高符文",
+    "group":[
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Minions|Minions] gain {0}% of their [Physical|Physical] Damage as Extra [Lightning|Lightning] Damage",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Minions|召唤生物]获得相当于[Physical|物理]伤害 {0}% 的额外[Lightning|闪电]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器]: [Minions|召喚物]獲得相當於其[Physical|物理]傷害 {0}% 的額外[Lightning|閃電]傷害"
+        }
+      },
+      {
+        "original":"Armour: Minions take {0}% of [Physical|Physical] Damage as [Lightning|Lightning] Damage",
+        "translation":{
+          "zh_cn":"护甲: 召唤生物受到[Physical|物理]伤害的 {0}% 转化为[Lightning|闪电]伤害",
+          "zh_tw":"護甲: 召喚物受到的 {0}% [Physical|物理]傷害會承受為[Lightning|閃電]傷害"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): [Minions|Minions] deal {0}% increased Damage",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Minions|召唤生物]的伤害提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 增加 {0}% [Minions|召喚物]造成的傷害"
+        }
+      },
+      {
+        "original":"Armour (Bonded): [Minions|Minions] have {0}% to all Elemental [Resistances|Resistances]",
+        "translation":{
+          "zh_cn":"护甲 (羁绊): [Minions|召唤生物]获得 {0}% 元素[Resistances|抗性]",
+          "zh_tw":"護甲 (命定): [Minions|召喚物] {0}% 全部元素[Resistances|抗性]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Meta|Meta] Skills gain {0}% increased [Energy|Energy]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Meta|非凡]技能获得的[Energy|能量]提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 增加 {0}% [Meta|主要]技能獲得[Energy|能量]"
+        }
+      },
+      {
+        "original":"Armour: {0} to {1} [Lightning|Lightning] [Thorns|Thorns] damage",
+        "translation":{
+          "zh_cn":"护甲: {0} - {1} [Lightning|闪电][Thorns|荆棘]伤害",
+          "zh_tw":"護甲: {0} 至 {1} 點[Lightning|閃電][Thorns|荊棘]傷害"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): [Invocated|Invocated] [Spells|Spells] have {0}% chance to consume half as much [Energy|Energy]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Invocated|祈唤][Spells|法术]有 {0}% 的几率消耗一半[Energy|能量]",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): [Invocated|祈願][Spells|法術]有 {0}% 機率消耗一半的[Energy|能量]"
+        }
+      },
+      {
+        "original":"Armour (Bonded): {0}% increased [Thorns|Thorns] damage",
+        "translation":{
+          "zh_cn":"护甲 (羁绊): [Thorns|荆棘]伤害提高 {0}%",
+          "zh_tw":"護甲 (命定): 增加 {0}% [Thorns|荊棘]傷害"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% increased [Skill|Skill] [Speed|Speed]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Skill|技能][Speed|速度]提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 增加 {0}% [Skill|技能][Speed|速度]"
+        }
+      },
+      {
+        "original":"Armour: [Debuffs|Debuffs] on you expire {0}% faster",
+        "translation":{
+          "zh_cn":"护甲: 你身上的[Debuffs|减益状态]消失速度加快 {0}%",
+          "zh_tw":"護甲: 你身上的[Debuffs|減益效果]加快 {0}% 失效"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% increased [Reservation|Reservation] [Efficiency|Efficiency] of [Herald|Herald] [Skill|Skill]s",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Herald|捷]技能的[Reservation|保留][Efficiency|效用]提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): [Herald|捷光環]技能增加 {0}% [Reservation|保留][Efficiency|效率]"
+        }
+      },
+      {
+        "original":"Armour (Bonded): {0}% increased [Elemental Ailment Threshold|Elemental Ailment Threshold]",
+        "translation":{
+          "zh_cn":"护甲 (羁绊): [Elemental Ailment Threshold|元素异常状态阈值]提高 {0}%",
+          "zh_tw":"護甲 (命定): 增加 {0}% [Elemental Ailment Threshold|元素異常狀態門檻]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Attacks|Attacks] with this Weapon have {0}% chance to inflict [Exposure|Exposure]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 使用该武器[Attacks|攻击]时有 {0}% 的几率造成[Exposure|曝露]",
+          "zh_tw":"[Martial Weapon|軍用武器]: 此武器的[Attacks|攻擊]有 {0}% 機率造成[Exposure|曝曬]"
+        }
+      },
+      {
+        "original":"Armour: {0}% reduced [effect|effect] of [Shock|Shock] on you",
+        "translation":{
+          "zh_cn":"护甲: 你受到的[Shock|感电][effect|效果]降低 {0}%",
+          "zh_tw":"護甲: 減少 {0}% 你身上的[Shock|感電][effect|效果]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% increased [Exposure|Exposure] Effect",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Exposure|曝露]效果提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 增加 {0}% [Exposure|曝曬]效果"
+        }
+      },
+      {
+        "original":"Armour (Bonded): {0}% reduced [Shock|Shock] duration on you",
+        "translation":{
+          "zh_cn":"护甲 (羁绊): 你被[Shock|感电]的持续时间降低 {0}%",
+          "zh_tw":"護甲 (命定): 減少 {0}% 你身上的[Shock|感電]持續時間"
+        }
+      }
+    ]
+  },
+  {
+    "Runes":{
+      "zh_cn":"增幅器",
+      "zh_tw":"增幅"
+    },
+    "group":[
+      {
+        "original":"Wand or Staff: {0} to Level of all [Spell|Spell] Skills",
+        "translation":{
+          "zh_cn":"法杖或长杖: 所有[Spell|法术]技能等级 {0}",
+          "zh_tw":"法杖或長杖: 全部[Spell|法術]技能等級 {0}"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): [Archon|Archon] recovery period expires {0}% faster",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): [Archon|执政官]间隔期的消减速度加快 {0}%",
+          "zh_tw":"法杖或長杖 (命定): [Archon|統治者]增益效果恢復期加快 {0}%"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Gain|Gain] {0}% of Damage as Extra Damage of all [Elements|Elements]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Gain|获得]相当于伤害 {0}% 的所有[Elements|元素]额外伤害",
+          "zh_tw":"[Martial Weapon|軍用武器]: [Gain|獲得]相當於 {0}% 傷害的全[Elements|元素]額外傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff: [Gain|Gain] {0}% of Damage as Extra Damage of all [Elements|Elements]",
+        "translation":{
+          "zh_cn":"法杖或长杖: [Gain|获得]相当于伤害 {0}% 的所有[Elements|元素]额外伤害",
+          "zh_tw":"法杖或長杖: [Gain|獲得]相當於 {0}% 傷害的全[Elements|元素]額外傷害"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Gain|Gain] {0}% of Damage as Extra [Chaos|Chaos] Damage",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Gain|获得]相当于伤害 {0}% 的额外[Chaos|混沌]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器]: [Gain|獲得]相當於傷害 {0}% 的額外[Chaos|混沌]傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff: [Gain|Gain] {0}% of Damage as Extra [Chaos|Chaos] Damage",
+        "translation":{
+          "zh_cn":"法杖或长杖: [Gain|获得]相当于伤害 {0}% 的额外[Chaos|混沌]伤害",
+          "zh_tw":"法杖或長杖: [Gain|獲得]相當於傷害 {0}% 的額外[Chaos|混沌]傷害"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0}% chance to gain an additional random [Charge|Charge] when you gain a Charge",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): 获得一个能量球时，有 {0}% 的几率随机获得一个额外的[Charge|能量球]",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 當你獲得充能時，有 {0}% 機率獲得額外一顆隨機[Charge|能量球]"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): {0}% chance when collecting an [Elemental Infusion|Elemental Infusion] to gain an additional [Elemental Infusion|Elemental Infusion] of the same type",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): 收集[Elemental Infusion|元素灌注]时有 {0}% 的几率额外获得一个同类型的[Elemental Infusion|元素灌注]",
+          "zh_tw":"法杖或長杖 (命定): 拾取[Elemental Infusion|元素灌注]時，有 {0}% 機率獲得額外一個同類型的[Elemental Infusion|元素灌注]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): [Gain|Gain] {0}% of Damage as Extra [Physical|Physical] Damage",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Gain|获得]相当于伤害 {0}% 的额外[Physical|物理]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): [Gain|獲得]相當於傷害 {0}% 的額外[Physical|物理]傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): [Gain|Gain] {0}% of Damage as Extra [Physical|Physical] Damage",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): [Gain|获得]相当于伤害 {0}% 的额外[Physical|物理]伤害",
+          "zh_tw":"法杖或長杖 (命定): [Gain|獲得]相當於傷害 {0}% 的額外[Physical|物理]傷害"
+        }
+      },
+      {
+        "original":"Boots: {0}% increased [Deflection Rating|Deflection Rating] while moving",
+        "translation":{
+          "zh_cn":"鞋子: 移动时[Deflection Rating|偏转值]提高 {0}%",
+          "zh_tw":"鞋子: 移動時增加 {0}% [Deflection Rating|偏斜率]"
+        }
+      },
+      {
+        "original":"Boots (Bonded): Prevent {0}% of Damage from [Deflected|Deflected] [Hits|Hits]",
+        "translation":{
+          "zh_cn":"鞋子 (羁绊): 阻止 {0}% 的[Deflected|偏转][Hits|击中]伤害",
+          "zh_tw":"鞋子 (命定): 抵禦[Deflected|偏斜][Hits|擊中]的 {0}% 傷害"
+        }
+      },
+      {
+        "original":"Boots: {0}% increased Movement Speed",
+        "translation":{
+          "zh_cn":"鞋子: 移动速度提高 {0}%",
+          "zh_tw":"鞋子: 增加 {0}% 移動速度"
+        }
+      },
+      {
+        "original":"Boots (Bonded): {0}% increased [Cooldown Recovery Rate|Cooldown Recovery Rate]",
+        "translation":{
+          "zh_cn":"鞋子 (羁绊): [Cooldown Recovery Rate|冷却回复速度]提高 {0}%",
+          "zh_tw":"鞋子 (命定): 增加 {0}% [Cooldown Recovery Rate|冷卻時間恢復率]"
+        }
+      },
+      {
+        "original":"Body Armour: {0}% reduced [effect|effect] of [Curses|Curses] on you",
+        "translation":{
+          "zh_cn":"胸甲: 你受到的[Curses|诅咒][effect|效果]降低 {0}%",
+          "zh_tw":"胸甲: 減少 {0}% 你身上的[Curses|詛咒][effect|效果]"
+        }
+      },
+      {
+        "original":"Body Armour (Bonded): {0}% increased [Curse|Curse] [Magnitudes|Magnitudes]",
+        "translation":{
+          "zh_cn":"胸甲 (羁绊): [Curse|诅咒][Magnitudes|强度]提高 {0}%",
+          "zh_tw":"胸甲 (命定): 增加 {0}% [Curse|詛咒][Magnitudes|幅度]"
+        }
+      },
+      {
+        "original":"Helmet: {0}% increased Experience gain",
+        "translation":{
+          "zh_cn":"头部: 获得的经验值提高 {0}%",
+          "zh_tw":"頭部: 增加 {0}% 獲得的經驗"
+        }
+      },
+      {
+        "original":"Helmet (Bonded): {0}% to all [Elemental|Elemental] [Resistances|Resistances]",
+        "translation":{
+          "zh_cn":"头部 (羁绊): 所有[Elemental|元素][Resistances|抗性] {0}%",
+          "zh_tw":"頭部 (命定): {0}% 全[Elemental|元素][Resistances|抗性]"
+        }
+      },
+      {
+        "original":"Helmet: {0}% increased [Exposure|Exposure] Effect",
+        "translation":{
+          "zh_cn":"头部: [Exposure|曝露]效果提高 {0}%",
+          "zh_tw":"頭部: 增加 {0}% [Exposure|曝曬]效果"
+        }
+      },
+      {
+        "original":"Helmet (Bonded): {0}% increased [Magnitude|Magnitude] of [Non-Damaging Ailments|Non-Damaging Ailments] you inflict",
+        "translation":{
+          "zh_cn":"头部 (羁绊): 你造成的[Non-Damaging Ailments|非伤害性异常状态][Magnitude|强度]提高 {0}%",
+          "zh_tw":"頭部 (命定): 增加 {0}% 你所施加之[Non-Damaging Ailments|非傷害型異常狀態]的[Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% increased [Attack|Attack] Damage against [Rare or Unique|Rare or Unique] Enemies",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 对[Rare or Unique|稀有或传奇]敌人的[Attack|攻击]伤害提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 增加 {0}% 對[Rare or Unique|稀有或傳奇]敵人的[Attack|攻擊]傷害"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): {0} to Level of all [Attack|Attack] Skills",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): 所有[Attack|攻击]技能等级 {0}",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): 全部[Attack|攻擊]技能等級 {0}"
+        }
+      },
+      {
+        "original":"Body Armour: {0}% increased [Energy Shield Recharge Rate|Energy Shield Recharge Rate]",
+        "translation":{
+          "zh_cn":"胸甲: [Energy Shield Recharge Rate|能量护盾充能率]提高 {0}%",
+          "zh_tw":"胸甲: 增加 {0}% [Energy Shield Recharge Rate|能量護盾充能率]"
+        }
+      },
+      {
+        "original":"Body Armour (Bonded): {0}% [faster start of Energy Shield Recharge|faster start of Energy Shield Recharge]",
+        "translation":{
+          "zh_cn":"胸甲 (羁绊): [faster start of Energy Shield Recharge|能量护盾充能时间提前] {0}%",
+          "zh_tw":"胸甲 (命定): [faster start of Energy Shield Recharge|能量護盾開始充能速度加快] {0}%"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased [Magnitude|Magnitude] of [Damaging Ailments|Damaging Ailments] you inflict",
+        "translation":{
+          "zh_cn":"手套: 你造成的[Damaging Ailments|伤害性异常状态][Magnitude|强度]提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% 你所施加之[Damaging Ailments|傷害型異常狀態]的[Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): {0}% increased Duration of [Damaging Ailments|Damaging Ailments] on Enemies",
+        "translation":{
+          "zh_cn":"手套 (羁绊): 敌人受到[Damaging Ailments|伤害性异常状态]的持续时间提高 {0}%",
+          "zh_tw":"手套 (命定): 增加 {0}% 敵人身上的[Damaging Ailments|傷害型異常狀態]持續時間"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased [Magnitude|Magnitude] of [Non-Damaging Ailments|Non-Damaging Ailments] you inflict",
+        "translation":{
+          "zh_cn":"手套: 你造成的[Non-Damaging Ailments|非伤害性异常状态][Magnitude|强度]提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% 你所施加之[Non-Damaging Ailments|非傷害型異常狀態]的[Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): {0}% increased Duration of Elemental [Ailments|Ailments] on Enemies",
+        "translation":{
+          "zh_cn":"手套 (羁绊): 敌人受到的元素[Ailments|异常状态]时间提高 {0}%",
+          "zh_tw":"手套 (命定): 增加 {0}% 敵人身上的元素[Ailments|異常狀態]持續時間"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased Cast Speed",
+        "translation":{
+          "zh_cn":"手套: 施法速度提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% 施放速度"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): {0}% increased Mana Cost [Efficiency|Efficiency] while on [Low Mana|Low Mana]",
+        "translation":{
+          "zh_cn":"手套 (羁绊): 在[Low Mana|低魔]时，魔力消耗[Efficiency|效能]提高 {0}%",
+          "zh_tw":"手套 (命定): [Low Mana|貧魔狀態]時，增加 {0}% 魔力消耗[Efficiency|效率]"
+        }
+      },
+      {
+        "original":"Bow: Bow [Attacks|Attacks] fire an additional Arrow",
+        "translation":{
+          "zh_cn":"弓: 弓类[Attacks|攻击]发射一支额外箭矢",
+          "zh_tw":"弓: 弓的[Attacks|攻擊]額外發射 1 支箭矢"
+        }
+      },
+      {
+        "original":"Bow (Bonded): {0}% increased [Projectile|Projectile] Speed",
+        "translation":{
+          "zh_cn":"弓 (羁绊): [Projectile|投射物]速度提高 {0}%",
+          "zh_tw":"弓 (命定): 增加 {0}% [Projectile|投射物]速度"
+        }
+      },
+      {
+        "original":"Wand or Staff: {0}% chance for [Spell|Spell] Skills to fire {1} additional [Projectiles|Projectiles]",
+        "translation":{
+          "zh_cn":"法杖或长杖: [Spell|法术]技能有 {0}% 的几率发射 {1} 个额外[Projectiles|投射物]",
+          "zh_tw":"法杖或長杖: [Spell|法術]技能有 {0}% 機率發射額外 {1} 個[Projectiles|投射物]"
+        }
+      },
+      {
+        "original":"Wand or Staff (Bonded): Every [Rage|Rage] also grants {0}% increased [Spell|Spell] Damage",
+        "translation":{
+          "zh_cn":"法杖或长杖 (羁绊): 每一点[Rage|怒火]还会使[Spell|法术]伤害提高 {0}%",
+          "zh_tw":"法杖或長杖 (命定): 每1[Rage|盛怒]同時增加 {0}% [Spell|法術]傷害"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased [Withered|Withered] [Magnitude|Magnitude]",
+        "translation":{
+          "zh_cn":"手套: [Withered|死亡凋零][Magnitude|强度]提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% [Withered|凋零][Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): {0}% to [Chaos Resistance|Chaos Resistance]",
+        "translation":{
+          "zh_cn":"手套 (羁绊): [Chaos Resistance|混沌抗性] {0}%",
+          "zh_tw":"手套 (命定): {0}% [Chaos Resistance|混沌抗性]"
+        }
+      },
+      {
+        "original":"Gloves: Adds {0} to {1} [Physical|Physical] Damage to [Attacks|Attacks]",
+        "translation":{
+          "zh_cn":"手套: [Attacks|攻击]附加 {0} - {1} [Physical|物理]伤害",
+          "zh_tw":"手套: [Attacks|攻擊]附加 {0} 至 {1} [Physical|物理]傷害"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): Fissure Skills have {0} to [Limit|Limit]",
+        "translation":{
+          "zh_cn":"手套 (羁绊): 裂缝技能的[Limit|上限] {0}",
+          "zh_tw":"手套 (命定): 裂縫技能 {0} [Limit|上限]"
+        }
+      },
+      {
+        "original":"Body Armour: {0}% of Damage is taken from Mana before Life",
+        "translation":{
+          "zh_cn":"胸甲: {0}% 的伤害优先从魔力扣除",
+          "zh_tw":"胸甲: 生命值所受的 {0}% 傷害由魔力扣除"
+        }
+      },
+      {
+        "original":"Body Armour (Bonded): {0}% of Maximum Life [Converted|Converted] to [Energy Shield|Energy Shield]",
+        "translation":{
+          "zh_cn":"胸甲 (羁绊): {0}% 的最大生命[Converted|转化]为[Energy Shield|能量护盾]",
+          "zh_tw":"胸甲 (命定): {0}% 最大生命[Converted|轉換]為[Energy Shield|能量護盾]"
+        }
+      }
+    ]
+  },
+  {
+    "Idols":{
+      "zh_cn":"雕像",
+      "zh_tw":"魔偶"
+    },
+    "group":[
+      {
+        "original":"Helmet: {0}% increased Cost [Efficiency|Efficiency]",
+        "translation":{
+          "zh_cn":"头部: 消耗[Efficiency|效能]提高 {0}%",
+          "zh_tw":"頭部: 增加 {0}% 消耗[Efficiency|效率]"
+        }
+      },
+      {
+        "original":"Helmet (Bonded): [Meta|Meta] Skills have {0}% increased [Reservation|Reservation] [Efficiency|Efficiency]",
+        "translation":{
+          "zh_cn":"头部 (羁绊): [Meta|非凡]技能的[Reservation|保留][Efficiency|效能]提高 {0}%",
+          "zh_tw":"頭部 (命定): [Meta|主要]技能增加 {0}% [Reservation|保留][Efficiency|效率]"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased [Attack|Attack] Speed",
+        "translation":{
+          "zh_cn":"手套: [Attack|攻击]速度提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% [Attack|攻擊]速度"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): {0}% reduced [Slowing|Slowing] Potency of [Debuffs|Debuffs] on You",
+        "translation":{
+          "zh_cn":"手套 (羁绊): 你受到的[Debuffs|异常状态]的[Slowing|减速]强度降低 {0}%",
+          "zh_tw":"手套 (命定): 減少 {0}% 你身上的[Debuffs|減益效果][Slowing|緩速]程度"
+        }
+      },
+      {
+        "original":"Body Armour: {0}% increased [Rarity of Items|Rarity of Items] found",
+        "translation":{
+          "zh_cn":"胸甲: [Rarity of Items|物品稀有度]提高 {0}%",
+          "zh_tw":"胸甲: 增加 {0}% 找到的[Rarity of Items|物品稀有度]"
+        }
+      },
+      {
+        "original":"Sceptre: {0}% increased [Spirit|Spirit]",
+        "translation":{
+          "zh_cn":"短杖: 该装备[Spirit|精魂]提高 {0}%",
+          "zh_tw":"權杖: 增加 {0}% [Spirit|精魂]"
+        }
+      },
+      {
+        "original":"Body Armour (Bonded): {0}% increased Quantity of Gold Dropped by Slain Enemies",
+        "translation":{
+          "zh_cn":"胸甲 (羁绊): 被击败的敌人掉落的金币数量提高 {0}%",
+          "zh_tw":"胸甲 (命定): 增加 {0}% 殺死敵人時掉落的金幣數量"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): [Minions|Minions] have {0}% increased [Cooldown Recovery Rate|Cooldown Recovery Rate] for [Command|Command] Skills",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Minions|召唤生物]的[Command|命令]技能的[Cooldown Recovery Rate|冷却回复速度]提高 {0}%",
+          "zh_tw":"權杖 (命定): [Minions|召喚物]增加 {0}% [Command|號令]技能[Cooldown Recovery Rate|冷卻時間恢復率]"
+        }
+      },
+      {
+        "original":"Body Armour: {0}% to [Quality|Quality] of all Skills",
+        "translation":{
+          "zh_cn":"胸甲: 所有技能[Quality|品质] {0}%",
+          "zh_tw":"胸甲: {0}% 至全部技能的[Quality|品質]"
+        }
+      },
+      {
+        "original":"Sceptre: {0}% increased [Presence|Presence] Area of Effect",
+        "translation":{
+          "zh_cn":"短杖: [Presence|在场]范围提高 {0}%",
+          "zh_tw":"權杖: 增加 {0}% [Presence|存在範圍]的效果範圍"
+        }
+      },
+      {
+        "original":"Body Armour (Bonded): {0} to all [Attributes|Attributes]",
+        "translation":{
+          "zh_cn":"胸甲 (羁绊): {0} 全[Attributes|属性]",
+          "zh_tw":"胸甲 (命定): {0} 點全部[Attributes|能力值]"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): [Minions|Minions] have {0}% increased Area of Effect",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Minions|召唤生物]的效果区域提高 {0}%",
+          "zh_tw":"權杖 (命定): 增加 {0}% [Minions|召喚物]的效果範圍"
+        }
+      },
+      {
+        "original":"Helmet: {0}% increased [Reservation|Reservation] [Efficiency|Efficiency] of [Minion|Minion] Skills",
+        "translation":{
+          "zh_cn":"头部: [Minion|召唤生物]技能的[Reservation|保留][Efficiency|效能]提高 {0}%",
+          "zh_tw":"頭部: [Minion|召喚物]技能增加 {0}% [Reservation|保留][Efficiency|效率]"
+        }
+      },
+      {
+        "original":"Helmet (Bonded): [Minions|Minions] [Revive|Revive] {0}% faster",
+        "translation":{
+          "zh_cn":"头部 (羁绊): [Minions|召唤生物]的[Revive|复活]速度加快 {0}%",
+          "zh_tw":"頭部 (命定): [Minions|召喚物]的[Revive|復甦]速度加快 {0}%"
+        }
+      },
+      {
+        "original":"Helmet: Enemies you [Curse|Curse] take {0}% increased Damage",
+        "translation":{
+          "zh_cn":"头部: 受到你[Curse|诅咒]的敌人承受的伤害提高 {0}%",
+          "zh_tw":"頭部: 增加 {0}% 你[Curse|詛咒]的敵人所承受傷害"
+        }
+      },
+      {
+        "original":"Helmet (Bonded): {0}% increased Area of Effect of [Curses|Curses]",
+        "translation":{
+          "zh_cn":"头部 (羁绊): [Curses|诅咒]的效果范围提高 {0}%",
+          "zh_tw":"頭部 (命定): 增加 {0}% [Curses|詛咒]效果範圍"
+        }
+      },
+      {
+        "original":"Helmet: [Minions|Minions] have {0}% increased maximum Life",
+        "translation":{
+          "zh_cn":"头部: [Minions|召唤生物]的最大生命提高 {0}%",
+          "zh_tw":"頭部: [Minions|召喚物]增加 {0}% 最大生命"
+        }
+      },
+      {
+        "original":"Sceptre: [Allies|Allies] in your [Presence|Presence] deal {0}% increased Damage",
+        "translation":{
+          "zh_cn":"短杖: [Presence|在场]的[Allies|友军]造成的伤害提高 {0}%",
+          "zh_tw":"權杖: 增加 {0}% 處於你[Presence|存在範圍]中的[Allies|友方]所造成的傷害"
+        }
+      },
+      {
+        "original":"Helmet (Bonded): [Remnants|Remnants] can be collected from {0}% further away",
+        "translation":{
+          "zh_cn":"头部 (羁绊): [Remnants|残片]收集距离延长 {0}%",
+          "zh_tw":"頭部 (命定): [Remnants|痕跡]可從 {0}% 更遠距離撿拾"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): {0}% increased Damage while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Shapeshifted|变形]时伤害提高 {0}%",
+          "zh_tw":"權杖 (命定): [Shapeshifted|變形]期間增加 {0}% 傷害"
+        }
+      },
+      {
+        "original":"Focus: {0}% increased [Cooldown Recovery Rate|Cooldown Recovery Rate]",
+        "translation":{
+          "zh_cn":"法器: [Cooldown Recovery Rate|冷却回复速度]提高 {0}%",
+          "zh_tw":"法器: 增加 {0}% [Cooldown Recovery Rate|冷卻時間恢復率]"
+        }
+      },
+      {
+        "original":"Sceptre: [Allies|Allies] in your [Presence|Presence] have {0}% increased Cast Speed",
+        "translation":{
+          "zh_cn":"短杖: [Presence|在场]的[Allies|友军]的施法速度提高 {0}%",
+          "zh_tw":"權杖: 處於你[Presence|存在範圍]中的[Allies|友方]增加 {0}% 施放速度"
+        }
+      },
+      {
+        "original":"Focus (Bonded): {0}% increased effect of [Archon|Archon] [Buffs|Buffs] on you",
+        "translation":{
+          "zh_cn":"法器 (羁绊): 你身上的[Archon|执政官][Buffs|增益状态]效果提高 {0}%",
+          "zh_tw":"法器 (命定): 增加 {0}% 你的[Archon|統治者][Buffs|增益效果]"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): {0}% increased [Skill Speed|Skill Speed] while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Shapeshifted|变形]时，[Skill Speed|技能速度]提高 {0}%",
+          "zh_tw":"權杖 (命定): 你[Shapeshifted|變形]期間，增加 {0}% [Skill Speed|技能速度]"
+        }
+      },
+      {
+        "original":"Body Armour: {0} [Charm|Charm] Slot",
+        "translation":{
+          "zh_cn":"胸甲: [Charm|咒符]栏 {0}",
+          "zh_tw":"胸甲: {0} [Charm|護符]欄位"
+        }
+      },
+      {
+        "original":"Body Armour (Bonded): [Storm|Storm] Skills have {0} to [Limit|Limit]",
+        "translation":{
+          "zh_cn":"胸甲 (羁绊): [Storm|风暴]技能的[Limit|上限] {0}",
+          "zh_tw":"胸甲 (命定): [Storm|風暴]技能[Limit|上限] {0}"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased [Magnitude|Magnitude] of [Bleeding|Bleeding] you inflict",
+        "translation":{
+          "zh_cn":"手套: 你造成的[Bleeding|流血][Magnitude|强度]提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% 你所施加之[Bleeding|流血]的[Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"Sceptre: [Allies|Allies] in your [Presence|Presence] have {0}% increased [Critical Damage Bonus|Critical Damage Bonus]",
+        "translation":{
+          "zh_cn":"短杖: [Presence|在场]的[Allies|友军]的[Critical Damage Bonus|暴击伤害加成]提高 {0}%",
+          "zh_tw":"權杖: 處於你[Presence|存在範圍]中的[Allies|友方]增加 {0}% [Critical Damage Bonus|暴擊傷害加成]"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): {0}% reduced [Magnitude|Magnitude] of [Bleeding|Bleeding] on You",
+        "translation":{
+          "zh_cn":"手套 (羁绊): 你身上的[Bleeding|流血][Magnitude|强度]降低 {0}%",
+          "zh_tw":"手套 (命定): 減少 {0}% 你身上的[Bleeding|流血][Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): {0}% increased [Critical Hit|Critical Hit] Chance while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Shapeshifted|变形]时，[Critical Hit|暴击]几率提高 {0}%",
+          "zh_tw":"權杖 (命定): [Shapeshifted|變形]期間增加 {0}% [Critical Hit|暴擊]機率"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: Targets can be affected by {0} of your [Poisons|Poisons] at the same time",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 目标可以同时受到你造成的 {0} 个[Poisons|中毒]效果影响",
+          "zh_tw":"[Martial Weapon|軍用武器]: 目標可同時受到你的 {0} 個[Poisons|中毒]影響"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% reduced [Poison|Poison] Duration",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Poison|中毒]持续时间降低 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 減少 {0}% [Poison|中毒]持續時間"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon] (Bonded): [Gain|Gain] {0}% of Elemental Damage as Extra Chaos Damage",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器] (羁绊): [Gain|获得]额外混沌伤害，其数值等同于元素伤害的 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器] (命定): [Gain|獲得]相當於 {0}% 元素傷害的額外混沌傷害"
+        }
+      },
+      {
+        "original":"Helmet: {0}% increased Area of Effect",
+        "translation":{
+          "zh_cn":"头部: 效果区域提高 {0}%",
+          "zh_tw":"頭部: 增加 {0}% 範圍效果"
+        }
+      },
+      {
+        "original":"Sceptre: [Allies|Allies] in your [Presence|Presence] deal {0} to {1} added [Attack|Attack] [Physical|Physical] Damage",
+        "translation":{
+          "zh_cn":"短杖: [Presence|在场]的[Allies|友军]附加 {0} - {1} [Attack|攻击][Physical|物理]伤害",
+          "zh_tw":"權杖: 處於你[Presence|存在範圍]中的[Allies|友方]造成 {0} 至 {1} 額外[Attack|攻擊][Physical|物理]傷害"
+        }
+      },
+      {
+        "original":"Helmet (Bonded): {0}% increased [Reservation|Reservation] [Efficiency|Efficiency] of [Companion|Companion] Skills",
+        "translation":{
+          "zh_cn":"头部 (羁绊): [Companion|伙伴]技能的[Reservation|保留][Efficiency|效能]提高 {0}%",
+          "zh_tw":"頭部 (命定): [Companion|盟友]技能增加 {0}% [Reservation|保留][Efficiency|效率]"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): {0}% increased [Attack|Attack] Damage while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Shapeshifted|变形]时[Attack|攻击]伤害提高 {0}%",
+          "zh_tw":"權杖 (命定): [Shapeshifted|變形]期間增加 {0}% [Attack|攻擊]傷害"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased total Power counted by Warcries",
+        "translation":{
+          "zh_cn":"手套: 战吼计入的总威力值提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% 戰吼計算的總強度"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): {0}% increased [Glory|Glory] generation",
+        "translation":{
+          "zh_cn":"手套 (羁绊): [Glory|荣耀]产生速度提高 {0}%",
+          "zh_tw":"手套 (命定): 增加 {0}% 生成的[Glory|榮耀]"
+        }
+      },
+      {
+        "original":"Helmet: {0}% increased [Thorns|Thorns] [Critical Hit|Critical Hit] Chance",
+        "translation":{
+          "zh_cn":"头部: [Thorns|荆棘][Critical Hit|暴击]几率提高 {0}%",
+          "zh_tw":"頭部: 增加 {0}% [Thorns|荊棘][Critical Hit|暴擊]率"
+        }
+      },
+      {
+        "original":"Sceptre: [Allies|Allies] in your [Presence|Presence] deal {0} to {1} added [Attack|Attack] [Lightning|Lightning] Damage",
+        "translation":{
+          "zh_cn":"短杖: [Presence|在场]的[Allies|友军]附加 {0} - {1} [Attack|攻击][Lightning|闪电]伤害",
+          "zh_tw":"權杖: 處於你[Presence|存在範圍]中的[Allies|友方]造成 {0} 至 {1} 額外[Attack|攻擊][Lightning|閃電]傷害"
+        }
+      },
+      {
+        "original":"Helmet (Bonded): [Thorns Damage|Thorns Damage] has {0}% chance to ignore Enemy [Armour|Armour]",
+        "translation":{
+          "zh_cn":"头部 (羁绊): [Thorns Damage|荆棘伤害]有 {0}% 的几率忽略敌人的[Armour|护甲]",
+          "zh_tw":"頭部 (命定): [Thorns Damage|荊棘傷害]有 {0}% 機率無視敵人[Armour|護甲]"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): {0}% increased [Attack|Attack] Damage while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Shapeshifted|变形]时[Attack|攻击]伤害提高 {0}%",
+          "zh_tw":"權杖 (命定): [Shapeshifted|變形]期間增加 {0}% [Attack|攻擊]傷害"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased [Curse|Curse] [Magnitudes|Magnitudes]",
+        "translation":{
+          "zh_cn":"手套: [Curse|诅咒][Magnitudes|强度]提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% [Curse|詛咒][Magnitudes|幅度]"
+        }
+      },
+      {
+        "original":"Sceptre: [Allies|Allies] in your [Presence|Presence] have {0}% increased [Attack|Attack] Speed",
+        "translation":{
+          "zh_cn":"短杖: [Presence|在场]的[Allies|友军]的[Attack|攻击]速度提高 {0}%",
+          "zh_tw":"權杖: 處於你[Presence|存在範圍]中的[Allies|友方]增加 {0}% [Attack|攻擊]速度"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): [Remnants|Remnants] have {0}% increased effect",
+        "translation":{
+          "zh_cn":"手套 (羁绊): [Remnants|残片]效果提高 {0}%",
+          "zh_tw":"手套 (命定): [Remnants|痕跡]增加 {0}% 效果"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): {0}% increased [Skill Speed|Skill Speed] while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Shapeshifted|变形]时，[Skill Speed|技能速度]提高 {0}%",
+          "zh_tw":"權杖 (命定): 你[Shapeshifted|變形]期間，增加 {0}% [Skill Speed|技能速度]"
+        }
+      },
+      {
+        "original":"Shield: {0}% increased [Block|Block] chance",
+        "translation":{
+          "zh_cn":"盾牌: [Block|格挡]几率提高 {0}%",
+          "zh_tw":"盾: 增加 {0}% [Block|格擋]率"
+        }
+      },
+      {
+        "original":"Sceptre: [Allies|Allies] in your [Presence|Presence] have {0}% to all [Elemental|Elemental] [Resistances|Resistances]",
+        "translation":{
+          "zh_cn":"短杖: [Presence|在场]的[Allies|友军]的所有[Elemental|元素][Resistances|抗性] {0}%",
+          "zh_tw":"權杖: {0}% 處於你[Presence|存在範圍]中的[Allies|友方]全[Elemental|元素][Resistances|抗性]"
+        }
+      },
+      {
+        "original":"Shield (Bonded): {0}% chance for Damage of Enemies [Hitting|Hitting] you to be [Unlucky|Unlucky]",
+        "translation":{
+          "zh_cn":"盾牌 (羁绊): 敌人[Hitting|击中]你的伤害有 {0}% 的几率[Unlucky|特别不幸]",
+          "zh_tw":"盾 (命定): 敵人[Hitting|擊中]你的傷害有 {0}% 機率視為[Unlucky|帶來厄運]"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): {0}% of [Armour|Armour] also applies to [Elemental Damage|Elemental Damage] while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Shapeshifted|变形]时，{0}% 的[Armour|护甲]同样作用于[Elemental Damage|元素伤害]",
+          "zh_tw":"權杖 (命定): 當你[Shapeshifted|變形]時，{0}% 的[Armour|護甲]同時套用至[Elemental Damage|元素傷害]"
+        }
+      },
+      {
+        "original":"Gloves: Gain {0} [Rage|Rage] on [Melee|Melee] [Hit|Hit]",
+        "translation":{
+          "zh_cn":"手套: [Melee|近战][Hit|击中]时获得 {0} [Rage|怒火]",
+          "zh_tw":"手套: [Melee|近戰][Hit|擊中]時，獲得 {0} [Rage|盛怒]"
+        }
+      },
+      {
+        "original":"Sceptre: [Allies|Allies] in your [Presence|Presence] Regenerate {0} Life per second",
+        "translation":{
+          "zh_cn":"短杖: [Presence|在场]的[Allies|友军]每秒再生 {0} 点生命",
+          "zh_tw":"權杖: 處於你[Presence|存在範圍]中的[Allies|友方]每秒回復 {0} 生命"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): {0}% increased [Warcry|Warcry] Cooldown Recovery Rate",
+        "translation":{
+          "zh_cn":"手套 (羁绊): [Warcry|战吼]冷却回复速度提高 {0}%",
+          "zh_tw":"手套 (命定): 增加 {0}% [Warcry|戰吼]冷卻時間恢復率"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): {0}% increased Life Regeneration rate while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Shapeshifted|变形]时，生命再生速度提高 {0}%",
+          "zh_tw":"權杖 (命定): 你[Shapeshifted|變形]期間，增加 {0}% 生命回復率"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased [Accuracy|Accuracy] Rating",
+        "translation":{
+          "zh_cn":"手套: [Accuracy|命中]值提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% [Accuracy|命中]值"
+        }
+      },
+      {
+        "original":"Sceptre: [Allies|Allies] in your [Presence|Presence] have {0}% increased [Critical Hit|Critical Hit] Chance",
+        "translation":{
+          "zh_cn":"短杖: [Presence|在场]的[Allies|友军]的[Critical Hit|暴击]几率提高 {0}%",
+          "zh_tw":"權杖: 處於你[Presence|存在範圍]中的[Allies|友方]增加 {0}% [Critical Hit|暴擊率]"
+        }
+      },
+      {
+        "original":"Gloves (Bonded): {0}% increased [Charm|Charm] Charges gained",
+        "translation":{
+          "zh_cn":"手套 (羁绊): 获得的[Charm|咒符]充能提高 {0}%",
+          "zh_tw":"手套 (命定): 增加 {0}% [Charm|護符]充能獲取"
+        }
+      },
+      {
+        "original":"Sceptre (Bonded): {0}% increased [Critical Hit|Critical Hit] Chance while [Shapeshifted|Shapeshifted]",
+        "translation":{
+          "zh_cn":"短杖 (羁绊): [Shapeshifted|变形]时，[Critical Hit|暴击]几率提高 {0}%",
+          "zh_tw":"權杖 (命定): [Shapeshifted|變形]期間增加 {0}% [Critical Hit|暴擊]機率"
+        }
+      }
+    ]
+  },
+  {
+    "Soul Cores":{
+      "zh_cn":"灵核",
+      "zh_tw":"靈魂核心"
+    },
+    "group":[
+      {
+        "original":"Helmet: {0}% of [Armour|Armour] also applies to [Cold Damage|Cold Damage]",
+        "translation":{
+          "zh_cn":"头部: {0}% 的[Armour|护甲]同样作用于[Cold Damage|冰霜伤害]",
+          "zh_tw":"頭部: {0}% 的[Armour|護甲值]也會套用至[Cold Damage|冰冷傷害]"
+        }
+      },
+      {
+        "original":"Boots: {0}% of [Armour|Armour] also applies to [Lightning Damage|Lightning Damage]",
+        "translation":{
+          "zh_cn":"鞋子: {0}% 的[Armour|护甲]同样作用于[Lightning Damage|闪电伤害]",
+          "zh_tw":"鞋子: {0}% 的[Armour|護甲值]也會套用至[Lightning Damage|閃電傷害]"
+        }
+      },
+      {
+        "original":"Gloves: {0}% of [Armour|Armour] also applies to [Fire Damage|Fire Damage]",
+        "translation":{
+          "zh_cn":"手套: {0}% 的[Armour|护甲]同样作用于[Fire Damage|火焰伤害]",
+          "zh_tw":"手套: {0}% 的[Armour|護甲值]也會套用至[Fire Damage|火焰傷害]"
+        }
+      },
+      {
+        "original":"Body Armour: {0}% [faster start of Energy Shield Recharge|faster start of Energy Shield Recharge]",
+        "translation":{
+          "zh_cn":"胸甲: [faster start of Energy Shield Recharge|能量护盾充能时间提前] {0}%",
+          "zh_tw":"胸甲: [faster start of Energy Shield Recharge|能量護盾開始充能速度加快] {0}%"
+        }
+      },
+      {
+        "original":"Focus: {0}% [faster start of Energy Shield Recharge|faster start of Energy Shield Recharge]",
+        "translation":{
+          "zh_cn":"法器: [faster start of Energy Shield Recharge|能量护盾充能时间提前] {0}%",
+          "zh_tw":"法器: [faster start of Energy Shield Recharge|能量護盾開始充能速度加快] {0}%"
+        }
+      },
+      {
+        "original":"Helmet: {0}% increased Skill Effect Duration",
+        "translation":{
+          "zh_cn":"头部: 技能效果持续时间提高 {0}%",
+          "zh_tw":"頭部: 增加 {0}% 技能效果持續時間"
+        }
+      },
+      {
+        "original":"Helmet: {0}% increased [Cooldown Recovery Rate|Cooldown Recovery Rate]",
+        "translation":{
+          "zh_cn":"头部: [Cooldown Recovery Rate|冷却回复速度]提高 {0}%",
+          "zh_tw":"頭部: 增加 {0}% [Cooldown Recovery Rate|冷卻時間恢復率]"
+        }
+      },
+      {
+        "original":"Helmet: {0} to Maximum [Rage|Rage]",
+        "translation":{
+          "zh_cn":"头部: {0}% 最大[Rage|怒火]",
+          "zh_tw":"頭部: {0}% 層最大[Rage|盛怒]"
+        }
+      },
+      {
+        "original":"Boots: {0}% increased [Curse|Curse] Duration",
+        "translation":{
+          "zh_cn":"鞋子: [Curse|诅咒]持续时间提高 {0}%",
+          "zh_tw":"鞋子: 增加 {0}% [Curse|詛咒]持續時間"
+        }
+      },
+      {
+        "original":"Boots: {0}% increased [Poison|Poison] Duration",
+        "translation":{
+          "zh_cn":"鞋子: [Poison|中毒]持续时间提高 {0}%",
+          "zh_tw":"鞋子: 增加 {0}% [Poison|中毒]持續時間"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% chance when you gain a [Frenzy Charge|Frenzy Charge] to gain an additional [Frenzy Charge|Frenzy Charge]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 获得[Frenzy Charge|狂怒球]时有 {0}% 的几率额外获得一个[Frenzy Charge|狂怒球]",
+          "zh_tw":"[Martial Weapon|軍用武器]: 當你獲得一顆[Frenzy Charge|狂怒球]時，有 {0}% 機率獲得一顆額外的[Frenzy Charge|狂怒球]"
+        }
+      },
+      {
+        "original":"Wand or Staff: {0}% chance when you gain a [Frenzy Charge|Frenzy Charge] to gain an additional [Frenzy Charge|Frenzy Charge]",
+        "translation":{
+          "zh_cn":"法杖或长杖: 获得[Frenzy Charge|狂怒球]时有 {0}% 的几率额外获得一个[Frenzy Charge|狂怒球]",
+          "zh_tw":"法杖或長杖: 當你獲得一顆[Frenzy Charge|狂怒球]時，有 {0}% 機率獲得一顆額外的[Frenzy Charge|狂怒球]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% chance when you gain an [Endurance Charge|Endurance Charge] to gain an additional [Endurance Charge|Endurance Charge]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 获得[Endurance Charge|耐力球]时有 {0}% 的几率额外获得一个[Endurance Charge|耐力球]",
+          "zh_tw":"[Martial Weapon|軍用武器]: 當你獲得一顆[Endurance Charge|耐力球]時，有 {0}% 機率獲得一顆額外的[Endurance Charge|耐力球]"
+        }
+      },
+      {
+        "original":"Wand or Staff: {0}% chance when you gain an [Endurance Charge|Endurance Charge] to gain an additional [Endurance Charge|Endurance Charge]",
+        "translation":{
+          "zh_cn":"法杖或长杖: 获得[Endurance Charge|耐力球]时有 {0}% 的几率额外获得一个[Endurance Charge|耐力球]",
+          "zh_tw":"法杖或長杖: 當你獲得一顆[Endurance Charge|耐力球]時，有 {0}% 機率獲得一顆額外的[Endurance Charge|耐力球]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% chance when you gain a [Power Charge|Power Charge] to gain an additional [Power Charge|Power Charge]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 获得[Power Charge|暴击球]时有 {0}% 的几率额外获得一个[Power Charge|暴击球]",
+          "zh_tw":"[Martial Weapon|軍用武器]: 當你獲得一顆[Power Charge|暴擊球]時，有 {0}% 機率獲得一顆額外的[Power Charge|暴擊球]"
+        }
+      },
+      {
+        "original":"Wand or Staff: {0}% chance when you gain a [Power Charge|Power Charge] to gain an additional [Power Charge|Power Charge]",
+        "translation":{
+          "zh_cn":"法杖或长杖: 获得[Power Charge|暴击球]时有 {0}% 的几率额外获得一个[Power Charge|暴击球]",
+          "zh_tw":"法杖或長杖: 當你獲得一顆[Power Charge|暴擊球]時，有 {0}% 機率獲得一顆額外的[Power Charge|暴擊球]"
+        }
+      },
+      {
+        "original":"Boots: {0}% increased speed of [Recoup|Recoup] Effects",
+        "translation":{
+          "zh_cn":"鞋子: [Recoup|吸纳]效果的速度提高 {0}%",
+          "zh_tw":"鞋子: 增加 {0}% [Recoup|補償]效果速度"
+        }
+      },
+      {
+        "original":"Helmet: {0}% of Damage taken [Recouped|Recouped] as Life",
+        "translation":{
+          "zh_cn":"头部: 将所受伤害的 {0}% [Recoup|吸纳]为生命",
+          "zh_tw":"頭部: 承受的 {0}% 傷害[Recoup|補償]為生命"
+        }
+      },
+      {
+        "original":"Helmet: Enemies you [Curse|Curse] have {0}% to Chaos [Resistance|Resistance]",
+        "translation":{
+          "zh_cn":"头部: 受到你[Curse|诅咒]的敌人 {0}% 混沌[Resistance|抗性]",
+          "zh_tw":"頭部: 你所[Curse|詛咒]的敵人 {0}% 混沌[Resistance|抗性]"
+        }
+      },
+      {
+        "original":"[Bow|Bow]: {0}% increased [Projectile|Projectile] Speed",
+        "translation":{
+          "zh_cn":"弓: [Projectile|投射物]速度提高 {0}%",
+          "zh_tw":"弓: 增加 {0}% [Projectile|投射物]速度"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: Adds {0} to {1} [Chaos|Chaos] damage",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 该装备附加 {0} - {1} 基础[Chaos|混沌]伤害",
+          "zh_tw":"[Martial Weapon|軍用武器]: 附加 {0} 至 {1} [Chaos|混沌]傷害"
+        }
+      },
+      {
+        "original":"Wand or Staff: [Minions|Minions] deal {0}% increased Damage with [Command|Command] Skills",
+        "translation":{
+          "zh_cn":"法杖或长杖: [Minions|召唤生物]使用[Command|命令]技能造成的伤害提高 {0}%",
+          "zh_tw":"法杖或長杖: [Minions|召喚物]的[Command|號令]技能增加 {0}% 造成的傷害"
+        }
+      },
+      {
+        "original":"[Sceptre|Sceptre]: [Minions|Minions] deal {0}% increased Damage with [Command|Command] Skills",
+        "translation":{
+          "zh_cn":"[Sceptre|短杖]: [Minions|召唤生物]使用[Command|命令]技能造成的伤害提高 {0}%",
+          "zh_tw":"[Sceptre|權杖]: [Minions|召喚物]的[Command|號令]技能增加 {0}% 造成的傷害"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% chance to [Poison|Poison] on [Hit|Hit] with this weapon",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 此武器[Hit|击中]时有 {0}% 的几率使目标[Poison|中毒]",
+          "zh_tw":"[Martial Weapon|軍用武器]: 用此武器[Hit|擊中]時有 {0}% 機率造成[Poison|中毒]"
+        }
+      },
+      {
+        "original":"Armour: {0}% to [Chaos Resistance|Chaos Resistance]",
+        "translation":{
+          "zh_cn":"护甲: [Chaos Resistance|混沌抗性] {0}%",
+          "zh_tw":"護甲: {0}% [Chaos Resistance|混沌抗性]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% chance to cause [Bleeding|Bleeding] on [Hit|Hit]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Hit|击中]有 {0}% 的几率造成[Bleeding|流血]",
+          "zh_tw":"[Martial Weapon|軍用武器]: [Hit|擊中]時有 {0}% 機率造成[Bleeding|流血]"
+        }
+      },
+      {
+        "original":"Helmet: {0}% increased [Charm|Charm] Charges gained",
+        "translation":{
+          "zh_cn":"头部: 获得的[Charm|咒符]充能提高 {0}%",
+          "zh_tw":"頭部: 增加 {0}% [Charm|護符]充能獲取"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: Recover {0}% of maximum Life on Kill",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 生命在击败敌人时恢复 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 擊殺時恢復 {0}% 生命"
+        }
+      },
+      {
+        "original":"Body Armours: {0}% increased maximum Life",
+        "translation":{
+          "zh_cn":"胸甲: 生命上限提高 {0}%",
+          "zh_tw":"胸甲: 增加 {0}% 最大生命"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: Recover {0}% of maximum Mana on Kill",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 魔力在击败敌人时恢复 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 擊殺時恢復 {0}% 魔力"
+        }
+      },
+      {
+        "original":"Helmet: {0}% increased maximum Mana",
+        "translation":{
+          "zh_cn":"头部: 魔力上限提高 {0}%",
+          "zh_tw":"頭部: 增加 {0}% 最大魔力"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% increased [Elemental|Elemental] Damage with [Attacks|Attacks]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Attacks|攻击]技能的[Elemental|元素]伤害提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 增加 {0}% [Attacks|攻擊][Elemental|元素]傷害"
+        }
+      },
+      {
+        "original":"Armour: {0}% to all [Elemental|Elemental] [Resistances|Resistances]",
+        "translation":{
+          "zh_cn":"护甲: 所有[Elemental|元素][Resistances|抗性] {0}%",
+          "zh_tw":"護甲: {0}% 全[Elemental|元素][Resistances|抗性]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% increased [Flammability|Flammability] [Magnitude|Magnitude]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Flammability|易燃][Magnitude|强度]提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 增加 {0}% [Flammability|易燃][Magnitude|幅度]"
+        }
+      },
+      {
+        "original":"Gloves: {0}% to [Maximum Fire Resistance|Maximum Fire Resistance]",
+        "translation":{
+          "zh_cn":"手套: {0}% [Maximum Fire Resistance|火焰抗性上限]",
+          "zh_tw":"手套: {0}% [Maximum Fire Resistance|最大火焰抗性]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% increased [Freeze|Freeze] Buildup",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Freeze|冻结]积蓄值提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 增加 {0}% [Freeze|冰凍]累積"
+        }
+      },
+      {
+        "original":"Helmet: {0}% to [Maximum Cold Resistance|Maximum Cold Resistance]",
+        "translation":{
+          "zh_cn":"头部: {0}% [Maximum Cold Resistance|冰霜抗性上限]",
+          "zh_tw":"頭部: {0}% [Maximum Cold Resistance|最大冰冷抗性]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% increased chance to [Shock|Shock]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Shock|感电]几率提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 增加 {0}% [Shock|感電]機率"
+        }
+      },
+      {
+        "original":"Boots: {0}% to [Maximum Lightning Resistance|Maximum Lightning Resistance]",
+        "translation":{
+          "zh_cn":"鞋子: {0}% [Maximum Lightning Resistance|闪电抗性上限]",
+          "zh_tw":"鞋子: {0}% [Maximum Lightning Resistance|最大閃電抗性]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0} to [Spirit|Spirit]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: {0} [Spirit|精魂]",
+          "zh_tw":"[Martial Weapon|軍用武器]: {0} [Spirit|精魂]"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased Quantity of Gold Dropped by Slain Enemies",
+        "translation":{
+          "zh_cn":"手套: 被击败的敌人掉落的金币数量提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% 殺死敵人時掉落的金幣數量"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Attacks|Attacks] with this Weapon Penetrate {0}% Elemental Resistances",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 该武器的[Attacks|攻击]穿透 {0}% 的元素抗性",
+          "zh_tw":"[Martial Weapon|軍用武器]: 此武器的[Attacks|攻擊]穿透 {0}% 的元素抗性"
+        }
+      },
+      {
+        "original":"Boots: {0}% increased [Elemental Ailment Threshold|Elemental Ailment Threshold]",
+        "translation":{
+          "zh_cn":"鞋子: [Elemental Ailment Threshold|元素异常状态阈值]提高 {0}%",
+          "zh_tw":"鞋子: 增加 {0}% [Elemental Ailment Threshold|元素異常狀態門檻]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% increased [Attack|Attack] Speed",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: [Attacks|攻击]速度提高 {0}%",
+          "zh_tw":"[Martial Weapon|軍用武器]: 增加 {0}% [Attack|攻擊]速度"
+        }
+      },
+      {
+        "original":"Boots: {0}% reduced [Slowing|Slowing] Potency of [Debuffs|Debuffs] on You",
+        "translation":{
+          "zh_cn":"鞋子: 你受到的[Debuffs|异常状态]的[Slowing|减速]强度降低 {0}%",
+          "zh_tw":"鞋子: 減少 {0}% 你身上的[Debuffs|減益效果][Slowing|緩速]程度"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: {0}% to [Critical Damage Bonus|Critical Damage Bonus]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: {0}% [Critical Damage Bonus|暴击伤害加成]",
+          "zh_tw":"[Martial Weapon|軍用武器]: {0}% 的[Critical Damage Bonus|暴擊傷害加成]"
+        }
+      },
+      {
+        "original":"Body Armour: Hits against you have {0}% reduced [Critical Damage Bonus|Critical Damage Bonus]",
+        "translation":{
+          "zh_cn":"胸甲: 对你的击中的[Critical Damage Bonus|暴击伤害加成]降低 {0}%",
+          "zh_tw":"胸甲: 對你的擊中減少 {0}% [Critical Damage Bonus|暴擊傷害加成]"
+        }
+      },
+      {
+        "original":"Shield: Hits against you have {0}% reduced [Critical Damage Bonus|Critical Damage Bonus]",
+        "translation":{
+          "zh_cn":"盾牌: 对你的击中的[Critical Damage Bonus|暴击伤害加成]降低 {0}%",
+          "zh_tw":"盾: 對你的擊中減少 {0}% [Critical Damage Bonus|暴擊傷害加成]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Convert|Convert] {0}% of Requirements to [Strength|Strength]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 需求的 {0}% [Convert|转化]为[Strength|力量]",
+          "zh_tw":"[Martial Weapon|軍用武器]: {0}% 需求[Convert|轉換]為[Strength|力量]"
+        }
+      },
+      {
+        "original":"Armour: [Convert|Convert] {0}% of Requirements to [Strength|Strength]",
+        "translation":{
+          "zh_cn":"护甲: 需求的 {0}% [Convert|转化]为[Strength|力量]",
+          "zh_tw":"護甲: {0}% 需求[Convert|轉換]為[Strength|力量]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Convert|Convert] {0}% of Requirements to [Dexterity|Dexterity]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 需求的 {0}% [Convert|转化]为[Dexterity|敏捷]",
+          "zh_tw":"[Martial Weapon|軍用武器]: {0}% 需求[Convert|轉換]為[Dexterity|敏捷]"
+        }
+      },
+      {
+        "original":"Armour: [Convert|Convert] {0}% of Requirements to [Dexterity|Dexterity]",
+        "translation":{
+          "zh_cn":"护甲: 需求的 {0}% [Convert|转化]为[Dexterity|敏捷]",
+          "zh_tw":"護甲: {0}% 需求[Convert|轉換]為[Dexterity|敏捷]"
+        }
+      },
+      {
+        "original":"[Martial Weapon|Martial Weapon]: [Convert|Convert] {0}% of Requirements to [Intelligence|Intelligence]",
+        "translation":{
+          "zh_cn":"[Martial Weapon|战斗武器]: 需求的 {0}% [Convert|转化]为[Intelligence|智慧]",
+          "zh_tw":"[Martial Weapon|軍用武器]: {0}% 需求[Convert|轉換]為[Intelligence|智慧]"
+        }
+      },
+      {
+        "original":"Armour: [Convert|Convert] {0}% of Requirements to [Intelligence|Intelligence]",
+        "translation":{
+          "zh_cn":"护甲: 需求的 {0}% [Convert|转化]为[Intelligence|智慧]",
+          "zh_tw":"護甲: {0}% 需求[Convert|轉換]為[Intelligence|智慧]"
+        }
+      },
+      {
+        "original":"Helmet: Gain [Armour|Armour] equal to {0}% of Life Lost from [Hits|Hits] in the past {1} seconds",
+        "translation":{
+          "zh_cn":"头部: 在过去 {1} 秒内被[Hits|击中]时，根据损失的生命值获得相当于 {0}% 的[Armour|护甲]",
+          "zh_tw":"頭部: 獲得等同於在過去 {1} 秒內由於[Hits|擊中]所損失生命 {0}% 的[Armour|護甲]"
+        }
+      },
+      {
+        "original":"Body Armour: {0}% of Physical Damage prevented [Recouped|Recouped] as Life",
+        "translation":{
+          "zh_cn":"胸甲: 阻挡的物理伤害的 {0}% [Recouped|吸纳]为生命",
+          "zh_tw":"胸甲: 抵禦物理傷害時，其 {0}% [Recouped|補償]為生命"
+        }
+      },
+      {
+        "original":"Boots: Lose {0}% of maximum Life per second while Sprinting",
+        "translation":{
+          "zh_cn":"鞋子: 奔跑时，每秒损失 {0}% 最大生命值",
+          "zh_tw":"鞋子: 衝刺時每秒損失 {0}% 最大生命"
+        }
+      },
+      {
+        "original":"Boots: {0}% increased Movement Speed while Sprinting",
+        "translation":{
+          "zh_cn":"鞋子: 奔跑时移动速度提高 {0}%",
+          "zh_tw":"鞋子: 衝刺時增加 {0}% 移動速度"
+        }
+      },
+      {
+        "original":"\"We are nothing but flesh. Blood. If we are to\nascend, we must empower that flesh.\"",
+        "translation":{
+          "zh_cn":"“吾等不过血肉之躯。若想登临至高，\n便需重塑这具皮囊。”",
+          "zh_tw":"「我們不過是血肉之下的造物。\n若想昇華，就必須強化這副軀殼。」"
+        }
+      },
+      {
+        "original":"Body Armour: You [Recoup|Recoup] {0}% of Damage taken by your [Offerings|Offerings] as Life",
+        "translation":{
+          "zh_cn":"胸甲: 将你的[Offerings|祭品]所承受的 {0}% 伤害[Recoup|吸纳]为生命",
+          "zh_tw":"胸甲: 你[Recoup|補償] {0}% 你的[Offerings|奉獻]召喚物所承受的傷害為生命"
+        }
+      },
+      {
+        "original":"Gloves: One of your [Persistent|Persistent] [Minions|Minions] revives when an [Offering|Offering] expires",
+        "translation":{
+          "zh_cn":"手套: 当一个[Offering|祭品]消失时，你的[Persistent|持续][Minions|召唤生物]之一会复活",
+          "zh_tw":"手套: 當一個[Offering|奉獻]效果持續時間結束時，復活你的一名[Persistent|永久][Minions|召喚物]"
+        }
+      },
+      {
+        "original":"Boots: [Sacrifice|Sacrifice] {0}% of maximum Life to gain that much [Guard|Guard] when you Dodge Roll",
+        "translation":{
+          "zh_cn":"鞋子: 闪避翻滚时，[Sacrifice|牺牲] {0}% 最大生命值以获得同等[Guard|防卫]",
+          "zh_tw":"鞋子: 當你閃避翻滾時，[Sacrifice|犧牲] {0}% 最大生命來獲得等量的[Guard|守護]"
+        }
+      },
+      {
+        "original":"\"Altering reality, even locally, is no simple matter.\nLet us start not with ourselves, but with willing subjects.\"",
+        "translation":{
+          "zh_cn":"“篡改现实——即便只是方寸之地——也非易事。\n何不放过我们自己，从自愿的受试者开始？”",
+          "zh_tw":"「改變現實—即便只是一部份也絕非易事。\n讓我們先別從自身開始，而是從自願的受試者著手。」"
+        }
+      },
+      {
+        "original":"Helmet: {0} to maximum Mana per {1} [Item Energy Shield|Item Energy Shield] on [Equipped|Equipped] Helmet",
+        "translation":{
+          "zh_cn":"头部: [Equipped|装备]的头盔每有 {1} 点[Item Energy Shield|物品能量护盾]，魔力上限 {0}",
+          "zh_tw":"頭部: [Equipped|已裝備]的頭盔每擁有 {1} [Item Energy Shield|物品能量護盾]，{0} 最大魔力"
+        }
+      },
+      {
+        "original":"Gloves: [Energy Shield Recharge|Energy Shield Recharge] starts after spending a total of {0} Mana, no more than once every {1} seconds",
+        "translation":{
+          "zh_cn":"手套: 总共消耗 {0} 点魔力后，[Energy Shield Recharge|能量护盾充能]开始，每 {1} 秒最多触发一次",
+          "zh_tw":"手套: 消耗 {0} 魔力後開始[Energy Shield Recharge|充能能量護盾]，效果每 {1} 秒只能觸發一次"
+        }
+      },
+      {
+        "original":"Boots: Increases and Reductions to Movement Speed also apply to [Energy Shield Recharge Rate|Energy Shield Recharge Rate]",
+        "translation":{
+          "zh_cn":"鞋子: 移动速度的增强与减弱效果也作用于[Energy Shield Recharge Rate|能量护盾充能率]",
+          "zh_tw":"鞋子: 移動速度的增減同時套用到[Energy Shield Recharge Rate|能量護盾充能率]"
+        }
+      },
+      {
+        "original":"\"The soul carries the truth of what we are.\nThat is where we should focus our efforts.\"",
+        "translation":{
+          "zh_cn":"“灵魂承载着吾等存在的本质。\n那才是我们应当倾注心血之处。”",
+          "zh_tw":"「靈魂承載著我們真正的本質。\n那正是我們該集中心力之處。」"
+        }
+      },
+      {
+        "original":"Helmet: A random Skill that requires Glory generates {0}% of its maximum Glory when your [Mark|Mark] [Activates|Activates]",
+        "translation":{
+          "zh_cn":"头部: 你的[Mark|印记][Activates|激活]时，随机一个需要荣耀的技能会再生其荣耀上限的 {0}%",
+          "zh_tw":"頭部: 當你的[Mark|印記][Activates|啟動]時，一個隨機需要榮耀的技能會獲得 {0}% 最大榮耀"
+        }
+      },
+      {
+        "original":"Gloves: Each Runic Inscription from your [Curse|Curse] Skills causes you to Regenerate Mana per second equal to {0}% of that Skill's Mana Cost",
+        "translation":{
+          "zh_cn":"手套: 你每个[Curse|诅咒]技能的符文铭文会使你每秒再生等同于该技能魔力消耗 {0}% 的魔力",
+          "zh_tw":"手套: 每個來自你的[Curse|詛咒]的魔符銘文使你每秒回復等同於 {0}% 該技能魔力消耗的魔力"
+        }
+      },
+      {
+        "original":"Body Armour: {0}% of [Armour|Armour] also applies to [Chaos Damage|Chaos Damage] while on full [Energy Shield|Energy Shield]",
+        "translation":{
+          "zh_cn":"胸甲: [Energy Shield|能量护盾]全满时，{0}% 的[Armour|护甲]同样作用于[Chaos Damage|混沌伤害]",
+          "zh_tw":"胸甲: [Energy Shield|能量護盾]全滿時，{0}% 的[Armour|護甲]同時套用到[Chaos Damage|混沌傷害]"
+        }
+      },
+      {
+        "original":"\"The results prove it. With enough focused Corruption,\nwe can alter the fundamental laws of existence in a\nsmall area... the question now: what do we try first?\"",
+        "translation":{
+          "zh_cn":"“结果足以证明：通过高度集中的腐化，\n我们足以在小范围内改写存在的基本法则\n而今唯一的问题是：先试验什么？”",
+          "zh_tw":"「成果已證明一切。只要施以足夠專注的腐化，\n我們便能在小範圍內改動存在的基本法則……\n現在的問題是：我們首先該嘗試什麼？」"
+        }
+      }
+    ]
+  },
+  {
+    "Abyssal Bones":{
+      "zh_cn":"深渊骨头",
+      "zh_tw":"深淵骨頭"
+    },
+    "group":[
+      {
+        "original":"Something awaits you in the Well.",
+        "translation":{
+          "zh_cn":"某些东西在井中等待着你。",
+          "zh_tw":"井中有什麼東西在等著你。"
+        }
+      },
+      {
+        "original":"[Desecrates|Desecrates] a [Rare|Rare] Amulet, Ring or Belt",
+        "translation":{
+          "zh_cn":"[Desecrates|渎灵]一个[Rare|稀有]项链、戒指或腰带",
+          "zh_tw":"[Desecrates|褻瀆]一件[Rare|稀有]項鍊、戒指或腰帶"
+        }
+      },
+      {
+        "original":"[Desecrates|Desecrates] a [Rare|Rare] Weapon or [Quiver|Quiver]",
+        "translation":{
+          "zh_cn":"[Desecrates|渎灵]一个[Rare|稀有]武器或[Quiver|箭袋]",
+          "zh_tw":"[Desecrates|褻瀆]一件[Rare|稀有]武器或[Quiver|箭袋]"
+        }
+      },
+      {
+        "original":"[Desecrates|Desecrates] a [Rare|Rare] [Armour|Armour]",
+        "translation":{
+          "zh_cn":"[Desecrates|渎灵]一个[Rare|稀有][Armour|护甲]",
+          "zh_tw":"[Desecrates|褻瀆]一件[Rare|稀有][Armour|護甲]"
+        }
+      },
+      {
+        "original":"[Desecrates|Desecrates] a [Rare|Rare] [Jewel|Jewel]",
+        "translation":{
+          "zh_cn":"[Desecrates|渎灵]一个[Rare|稀有][Jewel|珠宝]",
+          "zh_tw":"[Desecrates|褻瀆]一顆[Rare|稀有][Jewel|珠寶]"
+        }
+      },
+      {
+        "original":"Helmet: Remove a [Damaging Ailment|Damaging Ailment] when you use a [Command|Command] Skill",
+        "translation":{
+          "zh_cn":"头部: 使用[Command|命令]技能时移除一个[Damaging Ailment|伤害性异常状态]",
+          "zh_tw":"頭部: 當你使用[Command|號令]技能時，移除一個[Damaging Ailment|傷害型異常狀態]"
+        }
+      },
+      {
+        "original":"Body Armours: {0} to [Armour|Armour] per {1} [Spirit|Spirit]",
+        "translation":{
+          "zh_cn":"胸甲: 每 {1} 点[Spirit|精魂]提供 {0} 点[Armour|护甲]",
+          "zh_tw":"胸甲: 每有 {1} [Spirit|精魂] {0} [Armour|護甲值]"
+        }
+      },
+      {
+        "original":"Boots: {0}% increased Movement Speed per {1} [Spirit|Spirit], up to a maximum of {2}%\nOther Modifiers to Movement Speed except for Sprinting do not apply",
+        "translation":{
+          "zh_cn":"鞋子: 每 {1} 点[Spirit|精魂]使移动速度提高 {0}%，最高 {2}%\n其他除冲刺外的移动速度词缀无法生效",
+          "zh_tw":"鞋子: 每 {1} [Spirit|精魂]增加 {0}% 移動速度 ，上限為 {2}%\n除套用至衝刺的外其他移動速度詞墜將失效"
+        }
+      },
+      {
+        "original":"The Liege of the Lightless seeks dominion for the authority it brings.",
+        "translation":{
+          "zh_cn":"暗光领主追求统治是为了权威的威势。",
+          "zh_tw":"黯光諸侯尋求支配，以造就至高權威。"
+        }
+      },
+      {
+        "original":"Helmet: Increases and Reductions to Life Regeneration Rate also apply to Mana Regeneration Rate",
+        "translation":{
+          "zh_cn":"头部: 生命再生率的增幅与减益也作用于魔力再生率",
+          "zh_tw":"頭部: 生命回復率的增減也套用至魔力回復率"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased [effect|effect] of [Arcane Surge|Arcane Surge] on you",
+        "translation":{
+          "zh_cn":"手套: 你受到的[Arcane Surge|秘术增强][effect|效果]提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% 你身上的[Arcane Surge|秘能波動][effect|效果]"
+        }
+      },
+      {
+        "original":"Boots: {0}% increased Mana Cost [Efficiency|Efficiency] if you haven't Dodge Rolled [Recently|Recently]",
+        "translation":{
+          "zh_cn":"鞋子: 若你[Recently|近期]没有闪避翻滚，魔力消耗[Efficiency|效能]提高 {0}%",
+          "zh_tw":"鞋子: 若你[Recently|近期]沒有閃避翻滾，增加 {0}% 魔力消耗[Efficiency|效率]"
+        }
+      },
+      {
+        "original":"The Blackblooded seeks dominion for its own sake.",
+        "translation":{
+          "zh_cn":"黑血之众追求统治是为了纯粹的霸权。",
+          "zh_tw":"黑血者尋求支配讓自己有一容身之處。"
+        }
+      },
+      {
+        "original":"Body Armours: Regenerate {0}% of maximum Life per second",
+        "translation":{
+          "zh_cn":"胸甲: 生命每秒再生 {0}%",
+          "zh_tw":"胸甲: 每秒回復 {0}% 生命"
+        }
+      },
+      {
+        "original":"Gloves: {0}% increased Life Cost [Efficiency|Efficiency]",
+        "translation":{
+          "zh_cn":"手套: 生命消耗[Efficiency|效能]提高 {0}%",
+          "zh_tw":"手套: 增加 {0}% 生命消耗[Efficiency|效率]"
+        }
+      },
+      {
+        "original":"Boots: {0}% increased Movement Speed when on [Low Life|Low Life]",
+        "translation":{
+          "zh_cn":"鞋子: [Low Life|低血]时移动速度提高 {0}%",
+          "zh_tw":"鞋子: 增加 {0}% [Low Life|貧血狀態]時，移動速度"
+        }
+      },
+      {
+        "original":"The Hated Slave seeks dominion for the revenge it enables.",
+        "translation":{
+          "zh_cn":"憎恨之奴追求统治是为了复仇的快感。",
+          "zh_tw":"憎惡之奴尋求支配以一雪前仇。"
+        }
+      },
+      {
+        "original":"Helmet: {0} to [Accuracy|Accuracy] Rating per {1} [Item Evasion Rating|Item Evasion Rating] on Equipped Helmet",
+        "translation":{
+          "zh_cn":"头部: 装备头盔每有 {1} 点[Item Evasion Rating|物品闪避值]，[Accuracy|命中]值 {0}",
+          "zh_tw":"頭部: 已裝備的頭盔每擁有 {1} [Item Evasion Rating|物品閃避值]，{0} [Accuracy|命中]值"
+        }
+      },
+      {
+        "original":"Gloves: [Critical Hit|Critical Hit] chance is [Lucky|Lucky] against [Parried|Parried] enemies",
+        "translation":{
+          "zh_cn":"手套: 对[Parried|被招架]敌人的[Critical Hit|暴击]几率特别[Lucky|幸运]",
+          "zh_tw":"手套: 對[Parried|受招架]敵人的[Critical Hit|暴擊]率視為[Lucky|帶來幸運]"
+        }
+      },
+      {
+        "original":"Body Armours: Prevent {0}% of Damage from [Deflected|Deflected] [Hits|Hits]",
+        "translation":{
+          "zh_cn":"胸甲: 阻止 {0}% 的[Deflected|偏转][Hits|击中]伤害",
+          "zh_tw":"胸甲: 抵禦[Deflected|偏斜][Hits|擊中]的 {0}% 傷害"
+        }
+      },
+      {
+        "original":"The Sovereign of the Well seeks dominion to banish the Light.",
+        "translation":{
+          "zh_cn":"弱言领主追求统治是为了无尽的黑夜。",
+          "zh_tw":"深井領主尋求支配來除盡一切光芒。"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Plaguefinger",
+    "zh_cn": "毒疫之指",
+    "zh_tw": "瘟疫之指",
+    "FlavourText": {
+      "original": "Ulcers, scabs, and pocks, the third army makes its claim.",
+      "zh_cn": "溃疡、痂痕和痘疹，索命无数的第三方。",
+      "zh_tw": "潰瘍、結痂、膿瘡，第三支軍隊向世界宣揚了自己的存在。"
+    },
+    "img": "Plaguefinger.png",
+    "group": [
+        {
+          "original": "[All Damage|All Damage] from [Hits|Hits] [Contributes|Contributes] to [Poison|Poison] Magnitude",
+          "translation": {
+            "zh_cn": "[Hits|击中]造成的[All Damage|所有伤害][Contributes|作用于][Poison|中毒]强度",
+            "zh_tw": "[Hits|擊中]的[All Damage|所有傷害][Contributes|貢獻]至[Poison|中毒]幅度"
+          }
+        },
+        {
+          "original": "{0}% Global chance to [Blind|Blind] Enemies on [Hit|Hit]",
+          "translation": {
+            "zh_cn": "[Hit|击中]有 {0}% 的全局几率[Blind|致盲]敌人",
+            "zh_tw": "[Hit|擊中]時有 {0}% 全域機率[Blind|致盲]敵人"
+          }
+        },
+        {
+          "original": "{0}% increased Effect of [Poison|Poison] you inflict on targets that are not Poisoned",
+          "translation": {
+            "zh_cn": "你对未中毒的目标造成的[Poison|中毒]的效果提高 {0}%",
+            "zh_tw": "增加 {0}% 你對未中毒敵人施加的[Poison|中毒]效果"
+          }
+        }
+    ]
+  }
+]

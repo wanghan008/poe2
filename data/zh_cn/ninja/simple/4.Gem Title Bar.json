@@ -1,0 +1,138 @@
+{
+  "Skills can be managed in the Skills Panel.": {
+    "zh_cn": "请在游戏内的技能面板中 管理与查看 技能。",
+    "zh_tw": "請在遊戲內的技能面板中 管理與查看 技能。"
+  },
+  "Place into a Skill's Support Gem socket in the Skills Panel to apply its effects to that Skill. You cannot have multiple Support Gems of the same Category socketed within one Skill.": {
+    "zh_cn": "请在游戏内的技能面板中的辅助宝石插槽中 管理与查看 辅助宝石。",
+    "zh_tw": "請在遊戲内的技能面板中的輔助寶石插槽中 管理與查看 輔助寶石。"
+  },
+  "Additional Reservation": {
+    "zh_cn": "额外保留",
+    "zh_tw": "額外保留"
+  },
+  "Reservation": {
+    "zh_cn": "保留",
+    "zh_tw": "保留"
+  },
+  "Category": {
+    "zh_cn": "类别",
+    "zh_tw": "類別"
+  },
+  "Gem Title Bar_group":[
+    {
+  "Support": {
+    "zh_cn": "辅助",
+    "zh_tw": "輔助"
+  },
+  "Spark": {
+    "zh_cn": "火花",
+    "zh_tw": "火花"
+  },
+  "Minion Info": {
+    "zh_cn": "召唤生物信息",
+    "zh_tw": "召喚物資訊"
+  },
+  "Command": {
+    "zh_cn": "命令",
+    "zh_tw": "命令"
+  },
+  "Impact": {
+    "zh_cn": "影响",
+    "zh_tw": "衝擊"
+  },
+  "Poison Cloud": {
+    "zh_cn": "毒云",
+    "zh_tw": "劇毒雲霧"
+  },
+  "Explosion": {
+    "zh_cn": "爆炸",
+    "zh_tw": "爆炸"
+  },
+  "Damage over Time": {
+    "zh_cn": "持续伤害",
+    "zh_tw": "持續傷害"
+  },
+  "Explosive Demise": {
+    "zh_cn": "烈火牺牲",
+    "zh_tw": "爆炸之亡"
+  },
+  "Ice Bomb": {
+    "zh_cn": "寒冰炸弹",
+    "zh_tw": "寒冰炸彈"
+  },
+  "Enrage": {
+    "zh_cn": "激怒",
+    "zh_tw": "暴怒"
+  },
+  "Vile Effusion": {
+    "zh_cn": "恶念倾泻",
+    "zh_tw": "惡劣凝聚"
+  },
+  "Death Storm": {
+    "zh_cn": "陨落风暴",
+    "zh_tw": "死寂風暴"
+  },
+  "Initial Strike": {
+    "zh_cn": "初始打击",
+    "zh_tw": "首次打擊"
+  },
+  "Shockwave": {
+    "zh_cn": "震波",
+    "zh_tw": "震波"
+  },
+  "Revive Skeleton": {
+    "zh_cn": "复活魔侍",
+    "zh_tw": "復甦骷髏"
+  },
+  "Heal": {
+    "zh_cn": "治疗",
+    "zh_tw": "治療"
+  },
+  "Beam": {
+    "zh_cn": "光束",
+    "zh_tw": "射線"
+  },
+  "Ice Fragments": {
+    "zh_cn": "冰霜碎片",
+    "zh_tw": "寒冰碎片"
+  },
+  "Arrow": {
+    "zh_cn": "箭矢",
+    "zh_tw": "箭矢"
+  },
+  "Poison Burst": {
+    "zh_cn": "毒素爆发",
+    "zh_tw": "毒素爆發"
+  },
+  "Bolt": {
+    "zh_cn": "弩箭",
+    "zh_tw": "弩箭"
+  },
+  "Icy Blast": {
+    "zh_cn": "冰爆",
+    "zh_tw": "寒冰爆破"
+  },
+  "Pustules": {
+    "zh_cn": "孢芽",
+    "zh_tw": "膿包"
+  },
+  "Shards": {
+    "zh_cn": "碎片",
+    "zh_tw": "碎片"
+  },
+  "Toxic Bloom": {
+    "zh_cn": "剧毒花群",
+    "zh_tw": "劇毒之花"
+  },
+  "Pustule Explosion": {
+    "zh_cn": "脓疱爆炸",
+    "zh_tw": "膿包爆炸"
+  },
+  "Vines": {
+    "zh_cn": "藤蔓",
+    "zh_tw": "藤蔓"
+      }
+    }
+  ]
+}

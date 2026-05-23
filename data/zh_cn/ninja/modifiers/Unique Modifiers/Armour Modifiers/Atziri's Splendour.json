@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Atziri's Splendour",
+    "zh_cn": "阿兹里的威权",
+    "zh_tw": "阿茲里的威權",
+    "FlavourText": {
+      "original": "\"When you have nothing to hide,\nyou have nothing to fear.\"\n- Atziri, Queen of the Vaal",
+      "zh_cn": "“无愧于心者，\n 何惧之有？”\n——瓦尔女王阿兹里",
+      "zh_tw": "「當你無所隱瞞，\n你便無所畏懼。」\n——瓦爾女王阿茲里"
+    },
+    "img": "AtzirisSplendour.png",
+    "group": [
+      {
+        "original": "{0} to Level of all [Corrupted|Corrupted] Skill Gems",
+        "translation": {
+          "zh_cn": "所有[Corrupted|腐化]技能宝石等级提高 {0}",
+          "zh_tw": "{0} 全部[Corrupted|腐化]技能寶石"
+        }
+      },
+      {
+        "original": "Only [Soul Cores|Soul Cores] can be Socketed in this item",
+        "translation": {
+          "zh_cn": "该物品仅能镶嵌[Soul Cores|灵核]",
+          "zh_tw": "此物品僅可鑲嵌[Soul Cores|靈魂核心]"
+        }
+      },
+      {
+        "original": "Has no [Attribute|Attribute] Requirements",
+        "translation": {
+          "zh_cn": "穿戴对人物[Attribute|属性]无需求",
+          "zh_tw": "無[Attribute|能力值]需求"
+        }
+      },
+      {
+        "original": "Skills from [Corrupted|Corrupted] Gems have {0}% of Mana Costs [Converted|Converted] to Life Costs",
+        "translation": {
+          "zh_cn": "[Corrupted|腐化]宝石的技能将魔力消耗的 {0}% [Converted|转化]为生命消耗",
+          "zh_tw": "來自[Corrupted|腐化]寶石的技能的 {0}% 魔力消耗[Converted|轉換]為生命消耗"
+        }
+      },
+      {
+        "original": "This item gains bonuses from Socketed [Soul Cores|Soul Cores] as though it was also a Helmet",
+        "translation": {
+          "zh_cn":"该物品如同头部装备一样从镶嵌的[Soul Cores|灵核]中获得加成",
+          "zh_tw":"此物品同時獲得鑲嵌的[Soul Cores|靈魂核心]鑲嵌於頭盔的效果"
+        }
+      },
+      {
+        "original": "{0}% increased Cost [Efficiency|Efficiency]",
+        "translation": {
+          "zh_cn": "消耗[Efficiency|效能]提高 {0}%",
+          "zh_tw": "增加 {0}% 消耗[Efficiency|效率]"
+        }
+      },
+      {
+        "original": "{0}% increased effect of Socketed [Soul Cores|Soul Cores]",
+        "translation": {
+          "zh_cn": "镶嵌的[Soul Cores|灵核]效果提高 {0}%",
+          "zh_tw": "增加 {0}% 插槽中的[Soul Cores|靈魂核心]效果"
+        }
+      },
+      {
+        "original": "This item gains bonuses from Socketed [Soul Cores|Soul Cores] as though it was also Gloves",
+        "translation": {
+          "zh_cn":"该物品如同手部装备一样从镶嵌的[Soul Cores|灵核]中获得加成",
+          "zh_tw":"此物品同時獲得鑲嵌的[Soul Cores|靈魂核心]鑲嵌於手套的效果"
+        }
+      },
+      {
+        "original": "This item gains bonuses from Socketed [Soul Cores|Soul Cores] as though it was also Boots",
+        "translation": {
+          "zh_cn":"该物品如同脚部装备一样从镶嵌的[Soul Cores|灵核]中获得加成",
+          "zh_tw":"此物品同時獲得鑲嵌的[Soul Cores|靈魂核心]鑲嵌於鞋子的效果"
+        }
+      },
+      {
+        "original": "This item gains bonuses from Socketed [Soul Cores|Soul Cores] as though it was also a Shield",
+        "translation": {
+          "zh_cn":"该物品如同盾牌一样从镶嵌的[Soul Cores|灵核]中获得加成",
+          "zh_tw":"此物品同時獲得鑲嵌的[Soul Cores|靈魂核心]鑲嵌於盾牌的效果"
+        }
+      }
+    ]
+  }
+]

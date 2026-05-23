@@ -1,0 +1,72 @@
+[
+  {
+    "original":"{0} to maximum Life",
+    "translation":{
+      "zh_cn":"{0} 最大生命",
+      "zh_tw":"{0} 最大生命"
+    }
+  },
+  {
+    "original":"{0}% increased maximum Life",
+    "translation":{
+      "zh_cn":"生命上限提高 {0}%",
+      "zh_tw":"增加 {0}% 最大生命"
+    }
+  },
+  {
+    "original": "[Minions|Minions] have {0}% increased maximum Life",
+    "translation": {
+      "zh_cn": "[Minions|召唤生物]的最大生命提高 {0}%",
+      "zh_tw": "[Minions|召喚物]增加 {0}% 最大生命"
+    }
+  },
+  {
+    "original":"Gain {0} Life per enemy killed",
+    "translation":{
+      "zh_cn":"每击败一名敌人获得 {0} 点生命",
+      "zh_tw":"每個被擊殺的敵人，獲得 {0} 生命"
+    }
+  },
+  {
+    "original": "Grants {0} Life per Enemy [Hit|Hit]",
+    "translation": {
+      "zh_cn": "每[Hit|击中]一名敌人获得 {0} 点生命",
+      "zh_tw": "每[Hit|擊中]一名敵人，獲得 {0} 生命"
+    }
+  },
+  {
+    "original": "Gain {0} Life per Enemy Hit with [Attacks|Attacks]",
+    "translation": {
+      "zh_cn": "[Attacks|攻击]每击中一名敌人获得 {0} 点生命",
+      "zh_tw": "[Attacks|攻擊]每擊中一名敵人，獲得 {0} 生命"
+    }
+  },
+  {
+    "original": "{0} Life Regeneration per second",
+    "translation": {
+      "zh_cn": "生命每秒再生 {0}",
+      "zh_tw": "{0} 每秒生命回復"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] Regenerate {0} Life per second",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]每秒再生 {0} 点生命",
+      "zh_tw": "處於你[Presence|存在範圍]中的[Allies|友方]每秒回復 {0} 生命"
+    }
+  },
+  {
+    "original": "{0}% of Damage taken [Recouped|Recouped] as Life",
+    "translation": {
+      "zh_cn": "将所受伤害的 {0}% [Recouped|吸纳]为生命",
+      "zh_tw": "承受的 {0}% 傷害[Recouped|補償]為生命"
+    }
+  },
+  {
+    "original": "{0}% increased [Flask|Flask] Life Recovery rate",
+    "translation": {
+      "zh_cn": "[Flask|药剂]生命回复速度提高 {0}%",
+      "zh_tw": "增加 {0}% [Flask|藥劑]生命恢復率"
+    }
+  }
+]

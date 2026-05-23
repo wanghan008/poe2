@@ -1,0 +1,22 @@
+[
+  {
+    "name": "From Nothing",
+    "zh_cn": "无根之源",
+    "zh_tw": "從無到有",
+    "FlavourText": {
+      "original": "They clawed their way up from the agonising depths of nonexistence,\nbreathing deep with joy the exquisite light of meaning.",
+      "zh_cn": "它们在不曾存在的深渊中挣扎着爬行，\n为一缕意义的光辉而欢欣鼓舞。",
+      "zh_tw": "敬請期待"
+    },
+    "img": "RitualJewel.png",
+    "group": [
+        {
+          "original": "Passives in Radius of {Passive Skill} can be Allocated without being connected to your tree",
+          "translation": {
+            "zh_cn": "{Passive Skill} 范围内的天赋可以在\n未连结至天赋树的情况下配置",
+            "zh_tw": "範圍 {Passive Skill} 內的天賦可以在沒有連結你的天賦樹下被配置"
+          }
+        }
+    ]
+  }
+]

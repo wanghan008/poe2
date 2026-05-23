@@ -1,0 +1,310 @@
+{
+  "Item Skills": {
+    "zh_cn": "物品技能",
+    "zh_tw": "物品技能"
+  },
+  "Solar Orb": {
+    "zh_cn": "日曜球",
+    "zh_tw": "日曜球"
+  },
+  "Molten Crash": {
+    "zh_cn": "熔岩冲击",
+    "zh_tw": "熔岩破滅"
+  },
+  "Shattering Spite": {
+    "zh_cn": "碎裂恶意",
+    "zh_tw": "憎惡碎綻"
+  },
+  "Volatile Dead": {
+    "zh_cn": "灵体火球",
+    "zh_tw": "致命之息"
+  },
+  "Enervating Nova": {
+    "zh_cn": "衰颓新星",
+    "zh_tw": "超能新星"
+  },
+  "His Vile Intrusion": {
+    "zh_cn": "恶念侵染",
+    "zh_tw": "他的惡毒入侵"
+  },
+  "Power Siphon": {
+    "zh_cn": "力量抽取",
+    "zh_tw": "力量虹吸"
+  },
+  "Discipline": {
+    "zh_cn": "纪律",
+    "zh_tw": "紀律"
+  },
+  "Purity of Fire": {
+    "zh_cn": "火焰净化",
+    "zh_tw": "火焰淨化"
+  },
+  "Purity of Ice": {
+    "zh_cn": "冰霜净化",
+    "zh_tw": "冰霜淨化"
+  },
+  "Purity of Lightning": {
+    "zh_cn": "闪电净化",
+    "zh_tw": "閃電淨化"
+  },
+  "Impurity": {
+    "zh_cn": "不净",
+    "zh_tw": "不淨"
+  },
+  "Wither": {
+    "zh_cn": "死亡凋零",
+    "zh_tw": "死亡凋零"
+  },
+  "Dark Pact": {
+    "zh_cn": "暗夜契约",
+    "zh_tw": "暗夜血契"
+  },
+  "Soulrend": {
+    "zh_cn": "裂魂术",
+    "zh_tw": "靈體撕裂"
+  },
+  "Sigil of Power": {
+    "zh_cn": "威能法印",
+    "zh_tw": "咒符之力"
+  },
+  "Exsanguinate": {
+    "zh_cn": "赤炼魔光",
+    "zh_tw": "抽血"
+  },
+  "Reap": {
+    "zh_cn": "赤炼收割",
+    "zh_tw": "收割"
+  },
+  "Galvanic Field": {
+    "zh_cn": "电流场",
+    "zh_tw": "電光領域"
+  },
+  "Maul": {
+    "zh_cn": "重殴",
+    "zh_tw": "爪擊"
+  },
+  "Rend": {
+    "zh_cn": "龙爪撕裂",
+    "zh_tw": "撕扯"
+  },
+  "Chaos Bolt": {
+    "zh_cn": "混沌箭",
+    "zh_tw": "混沌弩箭"
+  },
+  "Firebolt": {
+    "zh_cn": "火焰弹",
+    "zh_tw": "火彈"
+  },
+  "Consecrate": {
+    "zh_cn": "奉献",
+    "zh_tw": "奉獻"
+  },
+  "His Dark Horizon": {
+    "zh_cn": "幽暗视域",
+    "zh_tw": "他的黑暗視界"
+  },
+  "Cackling Companions": {
+    "zh_cn": "鬣狗同伴",
+    "zh_tw": "奸笑鬣狗群"
+  },
+  "Lightning Bolt": {
+    "zh_cn": "闪电",
+    "zh_tw": "雷彈"
+  },
+  "Phantasmal Arrow": {
+    "zh_cn": "幻灵箭",
+    "zh_tw": "幻影箭矢"
+  },
+  "Raise Shield": {
+    "zh_cn": "架盾",
+    "zh_tw": "展開護盾"
+  },
+  "Freezing Shards": {
+    "zh_cn": "急冻碎片",
+    "zh_tw": "冰凍裂片"
+  },
+  "Decompose": {
+    "zh_cn": "降解",
+    "zh_tw": "分解"
+  },
+  "Skeletal Warrior": {
+    "zh_cn": "魔侍武士",
+    "zh_tw": "骷髏戰士"
+  },
+  "Skeletal Warrior Minion": {
+    "zh_cn": "魔侍武士",
+    "zh_tw": "骷髏戰士"
+  },
+  "Mana Drain": {
+    "zh_cn": "魔力吸取",
+    "zh_tw": "魔力虹吸"
+  },
+  "Bone Blast": {
+    "zh_cn": "针刺爆发",
+    "zh_tw": "骨之爆破"
+  },
+  "Black Powder Blitz": {
+    "zh_cn": "黑火药闪击",
+    "zh_tw": "火藥疾行"
+  },
+  "Malice": {
+    "zh_cn": "怨毒",
+    "zh_tw": "絕滅恨惡"
+  },
+  "His Scattering Calamity": {
+    "zh_cn": "撒播血祸",
+    "zh_tw": "他的散布災禍"
+  },
+  "Punch": {
+    "zh_cn": "拳击",
+    "zh_tw": "正拳"
+  },
+  "Quarterstaff Strike": {
+    "zh_cn": "节杖打击",
+    "zh_tw": "細杖打擊"
+  },
+  "Flail Strike": {
+    "zh_cn": "连枷打击",
+    "zh_tw": "鏈錘打擊"
+  },
+  "Sword Slash": {
+    "zh_cn": "剑挥砍",
+    "zh_tw": "劍刃斬"
+  },
+  "Axe Slash": {
+    "zh_cn": "斧挥砍",
+    "zh_tw": "斧鉞斬"
+  },
+  "Mace Strike": {
+    "zh_cn": "锤打击",
+    "zh_tw": "錘之打擊"
+  },
+  "Claw Stab": {
+    "zh_cn": "爪突刺",
+    "zh_tw": "利爪刺擊"
+  },
+  "Dagger Stab": {
+    "zh_cn": "匕首突刺",
+    "zh_tw": "匕首刺擊"
+  },
+  "Spear Stab": {
+    "zh_cn": "枪突刺",
+    "zh_tw": "長矛刺擊"
+  },
+  "Spear Throw": {
+    "zh_cn": "战矛飞掷",
+    "zh_tw": "長矛投擲"
+  },
+  "Bow Shot": {
+    "zh_cn": "弓射击",
+    "zh_tw": "弓箭射擊"
+  },
+  "Crossbow Shot": {
+    "zh_cn": "战弩射击",
+    "zh_tw": "十字弓射擊"
+  },
+  "Cast on Block": {
+    "zh_cn": "格挡时施放",
+    "zh_tw": "格擋時施放"
+  },
+  "Curse on Block": {
+    "zh_cn": "格挡时施放诅咒",
+    "zh_tw": "格擋時詛咒"
+  },
+  "Parry": {
+    "zh_cn": "招架",
+    "zh_tw": "招架"
+  },
+  "Cast on Charm Use": {
+    "zh_cn": "使用咒符时施放",
+    "zh_tw": "使用護符時施放"
+  },
+  "Chaotic Surge": {
+    "zh_cn": "混沌涌动",
+    "zh_tw": "混沌波動"
+  },
+  "Thundergod's Wrath": {
+    "zh_cn": "雷霆神祇之怒",
+    "zh_tw": "雷神之怒"
+  },
+  "Gemini Surge": {
+    "zh_cn": "双灵涌动",
+    "zh_tw": "雙靈波動"
+  },
+  "Bursting Fen Toad": {
+    "zh_cn": "爆裂沼蟾",
+    "zh_tw": "爆發沼地蟾蜍"
+  },
+  "Shred": {
+    "zh_cn": "狼爪撕裂",
+    "zh_tw": "裂碎"
+  },
+  "Icestorm": {
+    "zh_cn": "冰风暴",
+    "zh_tw": "冰風暴"
+  },
+  "Pinnacle of Power": {
+    "zh_cn": "力量巅峰",
+    "zh_tw": "力量巔峰"
+  },
+  "Requiem": {
+    "zh_cn": "鎮魂曲",
+    "zh_tw": "安魂曲"
+  },
+  "Compose Requiem": {
+    "zh_cn": "谱写镇魂曲",
+    "zh_tw": "安魂之奏"
+  },
+  "Heart of Ice": {
+    "zh_cn": "冰雪之心",
+    "zh_tw": "冰雪之心"
+  },
+  "Fulmination": {
+    "zh_cn": "轰鸣烈焰",
+    "zh_tw": "劇烈爆發"
+  },
+  "Feast of Flesh": {
+    "zh_cn": "血肉盛宴",
+    "zh_tw": "血肉盛宴"
+  },
+  "Spellslinger": {
+    "zh_cn": "法术节魔",
+    "zh_tw": "拋法者"
+  },
+  "Valako's Charge": {
+    "zh_cn": "瓦拉克怒冲",
+    "zh_tw": "瓦拉庫的衝鋒"
+  },
+  "Crackling Palm": {
+    "zh_cn": "霹雳掌",
+    "zh_tw": "閃光掌"
+  },
+  "Future-Past": {
+    "zh_cn": "未来的过去",
+    "zh_tw": "未來昔日"
+  },
+  "Runic Tempering": {
+    "zh_cn": "符文淬炼",
+    "zh_tw": "符文冶鍊"
+  },
+  "His Winnowing Flame": {
+    "zh_cn": "涤荡烈焰",
+    "zh_tw": "他的飛舞烈焰"
+  },
+  "His Foul Emergence": {
+    "zh_cn": "邪恶涌现",
+    "zh_tw": "他的惡臭降臨"
+  },
+  "His Grave Command": {
+    "zh_cn": "坟茔命令",
+    "zh_tw": "他的緊急命令"
+  },
+  "Life Remnants": {
+    "zh_cn": "生命残片",
+    "zh_tw": "生命痕跡"
+  },
+  "Mirror of Refraction": {
+    "zh_cn": "折射之镜",
+    "zh_tw": "鏡面折射"
+  }
+}

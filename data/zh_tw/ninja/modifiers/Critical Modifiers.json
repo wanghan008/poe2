@@ -1,0 +1,65 @@
+[
+  {
+    "original": "{0}% to [Critical Damage Bonus|Critical Damage Bonus]",
+    "translation": {
+      "zh_cn": "{0}% [Critical Damage Bonus|暴击伤害加成]",
+      "zh_tw": "{0}% 的[Critical Damage Bonus|暴擊傷害加成 ]"
+    }
+  },
+  {
+    "original": "{0}% increased [Critical Hit Chance|Critical Hit Chance] for [Attacks|Attacks]",
+    "translation": {
+      "zh_cn": "[Attacks|攻击][Critical Hit Chance|暴击率]提高 {0}%",
+      "zh_tw": "增加 {0}% [Attacks|攻擊][Critical Hit Chance|暴擊率]"
+    }
+  },
+  {
+    "original": "{0}% increased [Critical Damage Bonus|Critical Damage Bonus] for [Attack|Attack] Damage",
+    "translation": {
+      "zh_cn": "[Attacks|攻击]伤害的[Critical Damage Bonus|暴击伤害加成] {0}%",
+      "zh_tw": "增加 {0}% [Attacks|攻擊]傷害的[Critical Damage Bonus|暴擊傷害加成]"
+    }
+  },
+  {
+    "original": "{0}% increased [Critical Hit Chance|Critical Hit Chance] for [Spells|Spells]",
+    "translation": {
+      "zh_cn": "[Spells|法术][Critical Hit Chance|暴击率]提高 {0}%",
+      "zh_tw": "增加 {0}% [Spells|法術][Critical Hit Chance|暴擊率]"
+    }
+  },
+  {
+    "original": "{0}% increased [Critical Spell Damage Bonus|Critical Spell Damage Bonus]",
+    "translation": {
+      "zh_cn": "[Critical Spell Damage Bonus|法术暴击伤害加成]提高 {0}%",
+      "zh_tw": "增加 {0}% [Critical Spell Damage Bonus|法術暴擊傷害加成]"
+    }
+  },
+  {
+    "original": "{0}% increased [Critical Hit|Critical Hit] Chance",
+    "translation": {
+      "zh_cn": "[Critical Hit|暴击]几率提高 {0}%",
+      "zh_tw": "增加 {0}% [Critical Hit|暴擊]率"
+    }
+  },
+  {
+    "original": "{0}% to [Critical Hit|Critical Hit] Chance",
+    "translation": {
+      "zh_cn": "[Critical Hit|暴击]几率 {0}%",
+      "zh_tw": "{0}% [Critical Hit|暴擊]率"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] have {0}% increased [Critical Hit|Critical Hit] Chance",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]的[Critical Hit|暴击]几率提高 {0}%",
+      "zh_tw": "處於你[Presence|存在範圍]中的[Allies|友方]增加 {0}% [Critical Hit|暴擊]率"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] have {0}% increased [Critical Damage Bonus|Critical Damage Bonus]",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]的[Critical Damage Bonus|暴击伤害加成]提高 {0}%",
+      "zh_tw": "處於你[Presence|存在範圍]中的[Allies|友方]增加 {0}% [Critical Damage Bonus|暴擊傷害加成]"
+    }
+  }
+]

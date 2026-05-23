@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Sacred Flame",
+    "zh_cn": "神圣之火",
+    "zh_tw": "神聖烈焰",
+    "FlavourText": {
+      "original": "Fire destroys, but fire also purifies.\nLife always springs anew.",
+      "zh_cn": "烈火带来破坏，火焰送来净化，\n生命也将孕育一新。",
+      "zh_tw": "敬請期待"
+    },
+    "img": "SacredFlame.png",
+    "group": [
+        {
+          "original": "[Allies|Allies] in your [Presence|Presence] Regenerate {0}% of their Maximum Life per second",
+          "translation": {
+            "zh_cn": "[Presence|在场]的[Allies|友军]每秒再生生命上限 {0}% 的生命",
+            "zh_tw": "處於你的[Presence|存在範圍]中的[Allies|友方]每秒回復 {0}% 最大生命"
+          }
+        },
+        {
+          "original": "[Allies|Allies] in your [Presence|Presence] Gain {0}% of Damage as Extra Fire Damage",
+          "translation": {
+            "zh_cn": "[Presence|在场]的[Allies|友军]获得相当于伤害 {0}% 的额外火焰伤害",
+            "zh_tw": "在你[Presence|存在範圍]內的[Allies|友方]獲得相當於 {0}% 傷害的額外火焰傷害"
+          }
+        },
+        {
+          "original": "Enemies in your [Presence|Presence] Resist [Elemental Damage|Elemental Damage] based on their Lowest [Resistance|Resistance]",
+          "translation": {
+            "zh_cn": "[Presence|在场]的敌人根据最低的[Resistance|抗性]抵抗[Elemental Damage|元素伤害]",
+            "zh_tw": "敵人身處你的[Presence|存在範圍]時，其[Elemental Damage|元素傷害]抵抗以最低[Resistance|抗性]為依據"
+          }
+        }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Snakepit",
+    "zh_cn": "蛇穴",
+    "zh_tw": "蛇巢",
+    "FlavourText": {
+      "original": "They wrap around you until your blood turns as cold as theirs.",
+      "zh_cn": "用鲜血灌溉它，让它的残暴更加的嗜血。",
+      "zh_tw": "牠們環繞、緊箍，直到你的熱血不再。"
+    },
+    "img": "Snakepit.png",
+    "group": [
+        {
+          "original": "Left ring slot: [Projectiles|Projectiles] from [Spells|Spells] cannot [Chain|Chain]",
+          "translation": {
+            "zh_cn": "左戒指栏位：[Spells|法术]的[Projectiles|投射物]无法[Chain|连锁]",
+            "zh_tw": "左手戒指欄位：[Spells|法術]的[Projectiles|投射物]無法[Chain|連鎖]"
+          }
+        },
+        {
+          "original": "Left ring slot: [Projectiles|Projectiles] from [Spells|Spells] [Fork|Fork]",
+          "translation": {
+            "zh_cn": "左戒指栏位：[Spells|法术]的[Projectiles|投射物][Fork|分叉]",
+            "zh_tw": "左手戒指欄位：[Spells|法術]的[Projectiles|投射物]會[Fork|分岔]"
+          }
+        },
+        {
+          "original": "Right ring slot: [Projectiles|Projectiles] from [Spells|Spells] [Chain|Chain] {0} times",
+          "translation": {
+            "zh_cn": "右戒指栏位：[Spells|法术]的[Projectiles|投射物]会额外[Chain|连锁] {0} 次",
+            "zh_tw": "右手戒指欄位：[Spells|法術]的[Projectiles|投射物] {0} 次[Chain|連鎖]"
+          }
+        },
+        {
+          "original": "Right ring slot: [Projectiles|Projectiles] from [Spells|Spells] cannot [Fork|Fork]",
+          "translation": {
+            "zh_cn": "右戒指栏位：[Spells|法术]的[Projectiles|投射物]无法[Fork|分叉]",
+            "zh_tw": "右手戒指欄位：[Spells|法術]的[Projectiles|投射物]無法[Fork|分岔]"
+          }
+        },
+        {
+          "original": "[Projectiles|Projectiles] from [Spells|Spells] cannot [Pierce|Pierce]",
+          "translation": {
+            "zh_cn": "[Spells|法术]的[Projectiles|投射物]无法[Pierce|穿透]",
+            "zh_tw": "[Spells|法術]的[Projectiles|投射物]無法[Pierce|穿透]"
+          }
+        },
+        {
+          "original": "{0}% reduced [Projectile|Projectile] Speed for [Spell|Spell] Skills",
+          "translation": {
+            "zh_cn": "[Spells|法术]技能的[Projectiles|投射物]速度降低 {0}%",
+            "zh_tw": "減少 {0}% [Spells|法術]技能的[Projectiles|投射物]速度"
+          }
+        },
+        {
+          "original": "Skills have {0}% chance to not remove [Elemental Infusions|Elemental Infusions] but still count as consuming them",
+          "translation": {
+            "zh_cn": "技能有 {0}% 的几率不移除[Elemental Infusions|元素灌注]，但仍视作消耗了它们",
+            "zh_tw": "技能有 {0}% 機率不會移除[Elemental Infusions|元素灌注]，但仍視為將其消耗"
+          }
+        }
+    ]
+  }
+]

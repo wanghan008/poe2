@@ -1,0 +1,212 @@
+[
+  {
+    "original": "[Physical|Physical] Damage:",
+    "translation": {
+      "zh_cn": "[Physical|物理]伤害:",
+      "zh_tw": "[Physical|物理]傷害:"
+    }
+  },
+  {
+    "original": "[Chaos|Chaos] Damage:",
+    "translation": {
+      "zh_cn": "[Chaos|混沌]伤害:",
+      "zh_tw": "[Chaos|混沌]傷害:"
+    }
+  },
+  {
+    "original": "Fire Damage:",
+    "translation": {
+      "zh_cn": "火焰伤害:",
+      "zh_tw": "火焰傷害:"
+    }
+  },
+  {
+    "original": "Cold Damage:",
+    "translation": {
+      "zh_cn": "冰霜伤害:",
+      "zh_tw": "冰冷傷害:"
+    }
+  },
+  {
+    "original": "Lightning Damage:",
+    "translation": {
+      "zh_cn": "闪电伤害:",
+      "zh_tw": "閃電傷害:"
+    }
+  },
+  {
+    "original": "[Elemental|Elemental] Damage:",
+    "translation": {
+      "zh_cn": "[Elemental|元素]伤害:",
+      "zh_tw": "[Elemental|元素]傷害:"
+    }
+  },
+  {
+    "original": "[Critical Hit|Critical Hit] Chance:",
+    "translation": {
+      "zh_cn": "[Critical Hit|暴击]率:",
+      "zh_tw": "[Critical Hit|暴擊]率:"
+    }
+  },
+  {
+    "original": "Attacks per Second:",
+    "translation": {
+      "zh_cn": "每秒攻击次数:",
+      "zh_tw": "每秒攻擊速度:"
+    }
+  },
+  {
+    "original": "Reload Time:",
+    "translation": {
+      "zh_cn": "装填时间:",
+      "zh_tw": "重新載入時間:"
+    }
+  },
+  {
+    "original": "Recovers {0} Life over {1} Seconds",
+    "translation": {
+      "zh_cn": "{1} 秒内回复 {0} 生命",
+      "zh_tw": "{1} 秒內回復 {0} 生命"
+    }
+  },
+  {
+    "original": "Recovers {0} Mana over {1} Seconds",
+    "translation": {
+      "zh_cn": "{1} 秒内回复 {0} 魔力",
+      "zh_tw": "{1} 秒內回復 {0} 魔力"
+    }
+  },
+  {
+    "original": "Recovers {0} Mana every {1} Seconds",
+    "translation": {
+      "zh_cn": "{1} 秒内回复 {0} 魔力",
+      "zh_tw": "{1} 秒內回復 {0} 魔力"
+    }
+  },
+  {
+    "original": "Lasts {0} Seconds",
+    "translation": {
+      "zh_cn": "持续 {0} 秒",
+      "zh_tw": "持續 {0} 秒"
+    }
+  },
+  {
+    "original": "Lasts {0} Second",
+    "translation": {
+      "zh_cn": "持续 {0} 秒",
+      "zh_tw": "持續 {0} 秒"
+    }
+  },
+  {
+    "original": "Consumes {0} of {1} Charges on use",
+    "translation": {
+      "zh_cn": "每次使用会从 {1} 充能次数中消耗 {0} 次",
+      "zh_tw": "每次使用會從 {1} 充能次數中消耗 {0} 次"
+    }
+  },
+  {
+    "original": "Currently has {0} Charges",
+    "translation": {
+      "zh_cn": "目前有 {0} 充能次数",
+      "zh_tw": "目前有 {0} 充能次數"
+    }
+  },
+  {
+    "original": "Week {0}",
+    "translation": {
+      "zh_cn": "第 {0} 周",
+      "zh_tw": "第 {0} 周"
+    }
+  },
+  {
+    "original": "Hour {0}",
+    "translation": {
+      "zh_cn": "第 {0} 小时",
+      "zh_tw": "第 {0} 小時"
+    }
+  },
+  {
+    "original": "Day {0}",
+    "translation": {
+      "zh_cn": "第 {0} 天",
+      "zh_tw": "第 {0} 天"
+    }
+  },
+  {
+    "original": "{0} days ago",
+    "translation": {
+      "zh_cn": "{0} 天前",
+      "zh_tw": "{0} 天前"
+    }
+  },
+  {
+    "original": "{0} minutes ago",
+    "translation": {
+      "zh_cn": "{0} 分钟前",
+      "zh_tw": "{0} 分鐘前"
+    }
+  },
+  {
+    "original": "{0} hour ago",
+    "translation": {
+      "zh_cn": "{0} 小时前",
+      "zh_tw": "{0} 小時前"
+    }
+  },
+  {
+    "original": "{0} hours ago",
+    "translation": {
+      "zh_cn": "{0} 小时前",
+      "zh_tw": "{0} 小時前"
+    }
+  },
+  {
+    "original": "Found {0} characters.",
+    "translation": {
+      "zh_cn": "发现 {0} 个角色.",
+      "zh_tw": "發現 {0} 個角色."
+    }
+  },
+  {
+    "original": "{0} Favorites",
+    "translation": {
+      "zh_cn": "{0} 收藏",
+      "zh_tw": "{0} 收藏"
+    }
+  },
+  {
+    "original": "{0} K Favorites",
+    "translation": {
+      "zh_cn": "{0}K 收藏",
+      "zh_tw": "{0}K 收藏"
+    }
+  },
+  {
+    "original": "Access expires in {0} days",
+    "translation": {
+      "zh_cn": "访问过期时间为 {0} 天",
+      "zh_tw": "訪問過期時間為 {0} 天"
+    }
+  },
+  {
+    "original": "{0} from levels + {1} from quests",
+    "translation": {
+      "zh_cn": "{0} 来自等级 + {1} 来自任务",
+      "zh_tw": "{0} 來自等級 + {1} 來自任務"
+    }
+  },
+  {
+    "original": "{0} from levels + {1} from quests + {2} from ascendancy",
+    "translation": {
+      "zh_cn": "{0} 来自等级 + {1} 来自任务 + {2} 来自升华",
+      "zh_tw": "{0} 來自等級 + {1} 來自任務 + {2} 來自昇華"
+    }
+  },
+  {
+    "original": "Click to add desired nodes with automatic pathing.",
+    "translation": {
+      "zh_cn": "点击添加 所需 节点，并自动进行路径规划.",
+      "zh_tw": "點擊添加 所需 節點，並自動進行路徑規劃."
+    }
+  }
+]

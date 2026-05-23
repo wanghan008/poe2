@@ -1,0 +1,214 @@
+{
+  "Grim Feast": {
+    "zh_cn": "饕餮飨宴",
+    "zh_tw": "冷酷之宴"
+  },
+  "Withering Presence": {
+    "zh_cn": "凋零姿态",
+    "zh_tw": "凋零光環"
+  },
+  "Ravenous Swarm": {
+    "zh_cn": "饕餮虫群",
+    "zh_tw": "貪婪蟲群"
+  },
+  "Convalescence": {
+    "zh_cn": "康复",
+    "zh_tw": "恢復期"
+  },
+  "Blasphemy": {
+    "zh_cn": "诅咒光环",
+    "zh_tw": "瀆神"
+  },
+  "Barrier Invocation": {
+    "zh_cn": "屏障咒言",
+    "zh_tw": "屏障祈願"
+  },
+  "Cast on Minion Death": {
+    "zh_cn": "召唤生物死亡时施放",
+    "zh_tw": "召喚物死亡時施放"
+  },
+  "Cast on Critical": {
+    "zh_cn": "暴击时施放",
+    "zh_tw": "暴擊時施放"
+  },
+  "Sacrifice": {
+    "zh_cn": "替代牺牲",
+    "zh_tw": "獻祭"
+  },
+  "Herald of Thunder": {
+    "zh_cn": "闪电之捷",
+    "zh_tw": "閃電之捷"
+  },
+  "Plague Bearer": {
+    "zh_cn": "灾难使徒",
+    "zh_tw": "病疫之難"
+  },
+  "Wind Dancer": {
+    "zh_cn": "风舞者",
+    "zh_tw": "風魔舞者"
+  },
+  "Herald of Plague": {
+    "zh_cn": "荒芜之捷",
+    "zh_tw": "瘟疫之捷"
+  },
+  "Mirage Archer": {
+    "zh_cn": "幻影射手",
+    "zh_tw": "幻影射手"
+  },
+  "Combat Frenzy": {
+    "zh_cn": "战斗狂怒",
+    "zh_tw": "戰鬥狂怒"
+  },
+  "Rhoa Mount": {
+    "zh_cn": "恐喙鸟坐骑",
+    "zh_tw": "恐喙鳥坐騎"
+  },
+  "Alchemist's Boon": {
+    "zh_cn": "炼金师的恩典",
+    "zh_tw": "煉金師恩惠"
+  },
+  "Herald of Ash": {
+    "zh_cn": "灰烬之捷",
+    "zh_tw": "灰燼之捷"
+  },
+  "Magma Barrier": {
+    "zh_cn": "岩浆屏障",
+    "zh_tw": "熔岩屏障"
+  },
+  "Scavenged Plating": {
+    "zh_cn": "装甲回收",
+    "zh_tw": "拾荒者護板"
+  },
+  "Iron Ward": {
+    "zh_cn": "钢铁看守",
+    "zh_tw": "鋼鐵守護"
+  },
+  "Time of Need": {
+    "zh_cn": "紧急时刻",
+    "zh_tw": "緊急時刻"
+  },
+  "Overwhelming Presence": {
+    "zh_cn": "压迫气场",
+    "zh_tw": "壓倒性的存在"
+  },
+  "Dread Banner": {
+    "zh_cn": "恐怖之旗",
+    "zh_tw": "恐懼之旗"
+  },
+  "Berserk": {
+    "zh_cn": "盛怒",
+    "zh_tw": "狂戰"
+  },
+  "Arctic Armour": {
+    "zh_cn": "极地装甲",
+    "zh_tw": "極地裝甲"
+  },
+  "Mana Remnants": {
+    "zh_cn": "魔力残片",
+    "zh_tw": "魔力痕跡"
+  },
+  "Raging Spirits": {
+    "zh_cn": "愤怒狂灵",
+    "zh_tw": "憤怒狂靈"
+  },
+  "Blink": {
+    "zh_cn": "闪现",
+    "zh_tw": "閃現"
+  },
+  "Elemental Invocation": {
+    "zh_cn": "元素祈求",
+    "zh_tw": "元素祈願"
+  },
+  "Siphon Elements": {
+    "zh_cn": "汲取元素",
+    "zh_tw": "虹吸元素"
+  },
+  "Cast on Elemental Ailment": {
+    "zh_cn": "元素异常状态时施放",
+    "zh_tw": "元素異常狀態時施放"
+  },
+  "Elemental Conflux": {
+    "zh_cn": "元素汇流",
+    "zh_tw": "元素匯流"
+  },
+  "Archmage": {
+    "zh_cn": "大法师",
+    "zh_tw": "大法師"
+  },
+  "Herald of Blood": {
+    "zh_cn": "赤血之捷",
+    "zh_tw": "鮮血之捷"
+  },
+  "Trail of Caltrops": {
+    "zh_cn": "铁蒺藜之路",
+    "zh_tw": "蒺藜之徑"
+  },
+  "Trinity": {
+    "zh_cn": "三位一体",
+    "zh_tw": "三相"
+  },
+  "War Banner": {
+    "zh_cn": "战旗",
+    "zh_tw": "戰爭之旗"
+  },
+  "Attrition": {
+    "zh_cn": "持久鏖战",
+    "zh_tw": "損耗"
+  },
+  "Defiance Banner": {
+    "zh_cn": "抗争之旗",
+    "zh_tw": "反抗之旗"
+  },
+  "Shard Scavenger": {
+    "zh_cn": "碎片回收",
+    "zh_tw": "碎片清除者"
+  },
+  "Charge Regulation": {
+    "zh_cn": "能量球调节",
+    "zh_tw": "充能調節"
+  },
+  "Herald of Ice": {
+    "zh_cn": "寒冰之捷",
+    "zh_tw": "冰霜之捷"
+  },
+  "Ghost Dance": {
+    "zh_cn": "幽灵舞步",
+    "zh_tw": "鬼魂之舞"
+  },
+  "Lingering Illusion": {
+    "zh_cn": "徘徊幻影",
+    "zh_tw": "殘留幻象"
+  },
+  "Cast on Dodge": {
+    "zh_cn": "躲闪时施放",
+    "zh_tw": "閃避時施放"
+  },
+  "Reaper's Invocation": {
+    "zh_cn": "收割祈求",
+    "zh_tw": "收割者的祈願"
+  },
+  "Briarpatch": {
+    "zh_cn": "荆刺之缚",
+    "zh_tw": "荊棘叢"
+  },
+  "Savage Fury": {
+    "zh_cn": "凶蛮怒火",
+    "zh_tw": "殘猛狂怒"
+  },
+  "Wolf Pack": {
+    "zh_cn": "狼群",
+    "zh_tw": "召喚惡狼"
+  },
+  "Barkskin": {
+    "zh_cn": "树肤术",
+    "zh_tw": "木質外膚"
+  },
+  "Eternal Rage": {
+    "zh_cn": "永恒狂怒",
+    "zh_tw": "無盡怒火"
+  },
+  "Feral Invocation": {
+    "zh_cn": "野性召唤",
+    "zh_tw": "野性祈求"
+  }
+}

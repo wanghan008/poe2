@@ -1,0 +1,146 @@
+{
+  "Ranger": {
+    "zh_cn": "游侠",
+    "zh_tw": "遊俠"
+  },
+  "Deadeye": {
+    "zh_cn": "锐眼",
+    "zh_tw": "銳眼"
+  },
+  "Pathfinder": {
+    "zh_cn": "追猎者",
+    "zh_tw": "追獵者"
+  },
+  "Huntress": {
+    "zh_cn": "女猎手",
+    "zh_tw": "女獵人"
+  },
+  "The Amazon": {
+    "zh_cn": "亚马逊",
+    "zh_tw": "亞馬遜"
+  },
+  "Amazon": {
+    "zh_cn": "亚马逊",
+    "zh_tw": "亞馬遜"
+  },
+  "The Ritualist": {
+    "zh_cn": "仪祭师",
+    "zh_tw": "儀式行者"
+  },
+  "Ritualist": {
+    "zh_cn": "仪祭师",
+    "zh_tw": "儀式行者"
+  },
+  "Shadow": {
+    "zh_cn": "暗影",
+    "zh_tw": "暗影刺客"
+  },
+  "Monk": {
+    "zh_cn": "行者",
+    "zh_tw": "僧侶"
+  },
+  "Invoker": {
+    "zh_cn": "祈求者",
+    "zh_tw": "祈靈者"
+  },
+  "Acolyte": {
+    "zh_cn": "追随者",
+    "zh_tw": "侍僧"
+  },
+  "Acolyte of Chayula": {
+    "zh_cn": "夏乌拉追随者",
+    "zh_tw": "夏烏拉侍僧"
+  },
+  "Witch": {
+    "zh_cn": "女巫",
+    "zh_tw": "女巫"
+  },
+  "Infernalist": {
+    "zh_cn": "驱炎使",
+    "zh_tw": "獄火師"
+  },
+  "Blood Mage": {
+    "zh_cn": "命源法师",
+    "zh_tw": "血法師"
+  },
+  "Lich": {
+    "zh_cn": "巫妖",
+    "zh_tw": "巫妖"
+  },
+  "Abyssal Lich": {
+    "zh_cn": "深渊巫妖",
+    "zh_tw": "深淵妖巫"
+  },
+  "Sorceress": {
+    "zh_cn": "魔巫",
+    "zh_tw": "女術者"
+  },
+  "Stormweaver": {
+    "zh_cn": "风暴编织者",
+    "zh_tw": "風暴編織者"
+  },
+  "Chronomancer": {
+    "zh_cn": "塑时术师",
+    "zh_tw": "時空幻術師"
+  },
+  "Disciple of Varashta": {
+    "zh_cn": "巨灵门徒",
+    "zh_tw": "瓦拉什塔門徒"
+  },
+  "Marauder": {
+    "zh_cn": "野蛮人",
+    "zh_tw": "野蠻人"
+  },
+  "Warrior": {
+    "zh_cn": "战士",
+    "zh_tw": "戰士"
+  },
+  "Titan": {
+    "zh_cn": "泰坦",
+    "zh_tw": "泰坦"
+  },
+  "Warbringer": {
+    "zh_cn": "战争使者",
+    "zh_tw": "戰爭使者"
+  },
+  "Smith of Kitava": {
+    "zh_cn": "奇塔弗匠师",
+    "zh_tw": "奇塔弗工匠"
+  },
+  "Duelist": {
+    "zh_cn": "决斗者",
+    "zh_tw": "決鬥者"
+  },
+  "Mercenary": {
+    "zh_cn": "佣兵",
+    "zh_tw": "傭兵"
+  },
+  "Tactician": {
+    "zh_cn": "战术家",
+    "zh_tw": "智勇軍師"
+  },
+  "Witch hunter|Witch Hunter|Witchhunter": {
+    "zh_cn": "猎巫人",
+    "zh_tw": "女巫獵人"
+  },
+  "Gemling Legionnaire": {
+    "zh_cn": "古灵使徒斗士",
+    "zh_tw": "古靈軍團"
+  },
+  "Templar|TEMPLAR": {
+    "zh_cn": "圣堂武僧",
+    "zh_tw": "聖騎士"
+  },
+  "Druid": {
+    "zh_cn": "德鲁伊",
+    "zh_tw": "德魯伊"
+  },
+  "Shaman": {
+    "zh_cn": "萨满",
+    "zh_tw": "業火薩滿"
+  },
+  "Oracle": {
+    "zh_cn": "神谕者",
+    "zh_tw": "天啟先知"
+  }
+}

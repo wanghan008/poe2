@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Prism of Belief",
+    "zh_cn": "信念的棱镜",
+    "zh_tw": "信仰棱鏡",
+    "FlavourText": {
+      "original": "Entropy can be reversed.",
+      "zh_cn": "熵灭也可逆转。",
+      "zh_tw": "敬請期待"
+    },
+    "img": "SacredFlameJewel.png",
+    "group": [
+        {
+          "original": "{0} to Level of all {Specific Skill} Skills",
+          "translation": {
+            "zh_cn": "所有 {Specific Skill} 技能等级 {0}",
+            "zh_tw": "{0} 至所有 {Specific Skill} 技能的等級 "
+          }
+        }
+    ]
+  }
+]

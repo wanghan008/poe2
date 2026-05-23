@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Controlled Metamorphosis",
+    "zh_cn": "可控变形",
+    "zh_tw": "受控的蛻變",
+    "FlavourText": {
+      "original": "Our world was dying, but we chose to survive.\nWe broke free from the chains within.",
+      "zh_cn": "我们的世界奄奄一息，但我们选择活下去。\n我们挣脱了内心的枷锁。",
+      "zh_tw": "敬請期待"
+    },
+    "img": "BreachJewel.png",
+    "group": [
+        {
+          "original": "Only affects Passives in Medium-Large Ring",
+          "translation": {
+            "zh_cn": "只影响中大环形范围内的天赋",
+            "zh_tw": "只會影響中至大範圍內的天賦"
+          }
+        },
+        {
+          "original": "Only affects Passives in Large Ring",
+          "translation": {
+            "zh_cn": "只影响大环形范围内的天赋",
+            "zh_tw": "只會影響大範圍內的天賦"
+          }
+        },
+        {
+          "original": "Passives in Radius can be Allocated without being connected to your tree",
+          "translation": {
+            "zh_cn": "未连结至天赋树的技能，仍然可以在范围内配置",
+            "zh_tw": "天賦樹中在範圍內未連結的技能仍然可以配置"
+          }
+        }
+    ]
+  }
+]

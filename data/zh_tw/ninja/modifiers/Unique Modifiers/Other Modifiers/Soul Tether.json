@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Soul Tether",
+    "zh_cn": "灵魂羁绊",
+    "zh_tw": "靈魂束縛",
+    "FlavourText": {
+      "original": "Vaal bloodpriests were among the earliest intellectuals on record.\nIt was they who found that a newly freed soul would\ndesperately cling to any other source of life.",
+      "zh_cn": "跪伏于她脚下……否则，就等着领教世间最磨人的死法。瓦尔赤红先师是史料可考的最早的知识分子。、\n他们最先发现刚脱离的躯壳之灵会不顾一切地附身在其他生命形式上。",
+      "zh_tw": "瓦爾血祭師，知識的先驅者。\n 靈魂竭盡其能，依偎於任何生命。\n正是由血祭師們所發現。"
+    },
+    "img": "SoulTether.png",
+    "group": [
+        {
+          "original": "You lose {0}% of maximum [Energy Shield|Energy Shield] per second",
+          "translation": {
+            "zh_cn": "每秒失去 {0}% [Energy Shield|能量护盾]",
+            "zh_tw": "你每秒失去 {0}% 最大[Energy Shield|能量護盾]"
+          }
+        },
+      {
+        "original": "Excess Life Recovery from [Leech|Leech] is applied to [Energy Shield|Energy Shield]",
+        "translation": {
+          "zh_cn": "[Leech|偷取]的溢出生命回复效果作用于[Energy Shield|能量护盾]",
+          "zh_tw": "[Leech|偷取]的多餘生命恢復會套用至[Energy Shield|能量護盾]"
+        }
+      },
+      {
+        "original": "{0}% increased [Energy Shield|Energy Shield] Recovery rate",
+        "translation": {
+          "zh_cn": "[Energy Shield|能量护盾]回复率提高 {0}%",
+          "zh_tw": "增加 {0}% [Energy Shield|能量護盾]恢復率"
+        }
+      },
+      {
+        "original": "[Lose|Lose] {0}% of maximum Life per second",
+        "translation": {
+          "zh_cn": "每秒[Lose|失去] {0}% 生命",
+          "zh_tw": "每秒[Lose|失去] {0}% 最大生命"
+        }
+      },
+      {
+        "original": "[Leech|Leech] Life {0}% slower",
+        "translation": {
+          "zh_cn": "生命[Leech|偷取]速度减慢 {0}%",
+          "zh_tw": "生命[Leech|偷取]速度減慢 {0}%"
+        }
+      },
+      {
+        "original": "[Leech|Leech] Life {0}% faster",
+        "translation": {
+          "zh_cn": "生命[Leech|偷取]速度加快 {0}%",
+          "zh_tw": "生命[Leech|偷取]速度加快 {0}%"
+        }
+      }
+    ]
+  }
+]

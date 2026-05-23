@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Rathpith Globe",
+    "zh_cn": "献祭之心",
+    "zh_tw": "獻祭之心",
+    "FlavourText": {
+      "original": "The Vaal emptied their slaves of beating hearts,\nand left a mountain of twitching dead.",
+      "zh_cn": "瓦尔帝国建立在无数人的血汗之上，\n为之付出的人们如今却已化为尘埃。",
+      "zh_tw": "瓦爾人以奴隸跳動的心臟獻祭，\n以眾多抽搐的死者砌成屍山血海。"
+    },
+    "img": "RathpithGlobe.png",
+    "group": [
+        {
+          "original": "Non-[Channelling|Channelling] [Spells|Spells] cost an additional {0}% of your maximum Life",
+          "translation": {
+            "zh_cn": "非[Channelling|持续吟唱][Spells|法术]额外消耗 {0}% 的生命上限",
+            "zh_tw": "非[Channelling|引導][Spells|法術]額外消耗你的 {0}% 最大生命"
+          }
+        },
+        {
+          "original": "Non-[Channelling|Channelling] [Spells|Spells] have {0}% increased [Critical Hit Chance|Critical Hit Chance] per {1} maximum Life",
+          "translation": {
+            "zh_cn": "每 {1} 生命上限使非[Channelling|吟唱][Spells|法术]的[Critical Hit Chance|暴击率]提高 {0}%",
+            "zh_tw": "每 {1} 最大生命，增加 {0}% 非[Channelling|引導][Spells|法術]的[Critical Hit Chance|暴擊率]"
+          }
+        },
+        {
+          "original": "Non-[Channelling|Channelling] [Spells|Spells] deal {0}% increased Damage per {1} maximum Life",
+          "translation": {
+            "zh_cn": "每 {1} 生命上限使非[Channelling|吟唱][Spells|法术]的伤害提高 {0}%",
+            "zh_tw": "每 {1} 最大生命，增加 {0}% 非[Channelling|引導][Spells|法術]的傷害"
+          }
+        },
+        {
+          "original": "Non-[Channelling|Channelling] [Spells|Spells] have {0}% increased [Magnitude|Magnitude] of [Ailments|Ailments] per {1} maximum Life",
+          "translation": {
+            "zh_cn": "每 {1} 点生命上限使非[Channelling|吟唱][Spells|法术]的[Ailments|异常状态][Magnitude|强度]提高 {0}%",
+            "zh_tw": "每 {1} 最大生命，增加 {0}% 非[Channelling|引導][Spells|法術]的[Ailments|異常狀態][Magnitude|幅度]"
+          }
+        },
+        {
+          "original": "Non-[Channelling|Channelling] [Spells|Spells] have {0}% increased [Critical Hit Chance|Critical Hit Chance] per {1} maximum Mana",
+          "translation": {
+            "zh_cn": "每 {1} 点魔力上限使非[Channelling|吟唱][Spells|法术]的[Critical Hit Chance|暴击几率]提高 {0}%",
+            "zh_tw": "每 {1} 最大魔力，增加 {0}% 非[Channelling|引導][Spells|法術]的[Critical Hit Chance|暴擊率]"
+          }
+        },
+        {
+          "original": "Non-[Channelling|Channelling] [Spells|Spells] deal {0}% increased Damage per {1} maximum Mana",
+          "translation": {
+            "zh_cn": "每 {1} 点魔力上限使非[Channelling|吟唱][Spells|法术]的伤害提高 {0}%",
+            "zh_tw": "每 {1} 最大魔力，增加 {0}% 非[Channelling|引導][Spells|法術]的傷害"
+          }
+        }
+    ]
+  }
+]

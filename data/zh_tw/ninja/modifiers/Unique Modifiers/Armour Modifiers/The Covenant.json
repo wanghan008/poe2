@@ -1,0 +1,43 @@
+[
+  {
+    "name": "The Covenant",
+    "zh_cn": "血誓",
+    "zh_tw": "血誓",
+    "FlavourText": {
+      "original": "My Soul is your Strength\nMy Price is your Blood",
+      "zh_cn": "我的灵魂将引导你勇闯天涯，\n但是必须以命脉做为代价。",
+      "zh_tw": "我的靈魂將引導你勇闖天涯，\n但是必須以鮮血做為代價。"
+    },
+    "img": "TheCovenant.png",
+    "group": [
+      {
+        "original": "{0}% of [Spell|Spell] Damage [Leeched as Life|Leeched as Life]",
+        "translation": {
+          "zh_cn": "[Spell|法术]伤害的 {0}% 转化为[Leeched as Life|生命偷取]",
+          "zh_tw": "[Spell|法術]傷害的 {0}% 轉化為[Leeched as Life|生命偷取]"
+        }
+      },
+      {
+        "original": "Skills gain a Base Life Cost equal to {0}% of Base Mana Cost",
+        "translation": {
+          "zh_cn": "技能获得等于基础魔力消耗 {0}% 的基础生命消耗",
+          "zh_tw": "技能獲得等同 {0}% 基礎魔力消耗的基礎生命消耗"
+        }
+      },
+      {
+        "original": "{0}% increased Life Cost [Efficiency|Efficiency]",
+        "translation": {
+          "zh_cn": "生命消耗[Efficiency|效能]提高 {0}%",
+          "zh_tw": "增加 {0}% 生命消耗[Efficiency|效率]"
+        }
+      },
+      {
+        "original": "Regenerate {0}% of maximum Life per second",
+        "translation": {
+          "zh_cn": "生命每秒再生 {0}%",
+          "zh_tw": "每秒回復 {0}% 生命"
+        }
+      }
+    ]
+  }
+]

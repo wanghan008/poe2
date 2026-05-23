@@ -1,0 +1,93 @@
+[
+    {
+      "original": "{0} to Level of all [Attack|Attack] Skills",
+      "translation": {
+        "zh_cn": "所有[Attack|攻击]技能等级 {0}",
+        "zh_tw": "全部[Attack|攻擊]技能等級 {0}"
+      }
+    },
+  {
+    "original": "{0} to Level of all [Spell|Spell] Skills",
+    "translation": {
+      "zh_cn": "所有[Spell|法术]技能等级 {0}",
+      "zh_tw": "全部[Spell|法術]技能等級 {0}"
+    }
+  },
+  {
+    "original": "{0} to Level of all [Minion|Minion] Skills",
+    "translation": {
+      "zh_cn": "所有[Minion|召唤生物]技能等级 {0}",
+      "zh_tw": "全部[Minion|召喚物]技能等級 {0}"
+    }
+  },
+  {
+    "original": "{0} to Level of all [Melee|Melee] Skills",
+    "translation": {
+      "zh_cn": "所有[Melee|近战]技能等级 {0}",
+      "zh_tw": "全部[Melee|近戰]技能的等級 {0}"
+    }
+  },
+  {
+    "original": "{0} to Level of all [Projectile|Projectile] Skills",
+    "translation": {
+      "zh_cn": "所有[Projectile|投射物]技能等级 {0}",
+      "zh_tw": "全部[Projectile|投射物]技能等級 {0}"
+    }
+  },
+  {
+    "original": "{0} to Level of all [Fire|Fire] [Spell|Spell] Skills",
+    "translation": {
+      "zh_cn": "所有[Fire|火焰][Spell|法术]技能等级 {0}",
+      "zh_tw": "全部[Fire|火焰][Spell|法術]技能等級 {0}"
+    }
+  },
+  {
+    "original": "{0} to Level of all [Cold|Cold] [Spell|Spell] Skills",
+    "translation": {
+      "zh_cn": "所有[Cold|冰霜][Spell|法术]技能等级 {0}",
+      "zh_tw": "全部[Cold|冰冷][Spell|法術]技能等級 {0}"
+    }
+  },
+  {
+    "original": "{0} to Level of all [Lightning|Lightning] [Spell|Spell] Skills",
+    "translation": {
+      "zh_cn": "所有[Lightning|闪电][Spell|法术]技能等级 {0}",
+      "zh_tw": "全部[Lightning|閃電][Spell|法術]技能等級 {0}"
+    }
+  },
+  {
+    "original": "{0} to Level of all [Chaos|Chaos] [Spell|Spell] Skills",
+    "translation": {
+      "zh_cn": "所有[Chaos|混沌][Spell|法术]技能等级 {0}",
+      "zh_tw": "全部[Chaos|混沌][Spell|法術]技能等級 {0}"
+    }
+  },
+  {
+    "original": "{0} to Level of all [Physical|Physical] [Spell|Spell] Skills",
+    "translation": {
+      "zh_cn": "所有[Physical|物理][Spell|法术]技能等级 {0}",
+      "zh_tw": "全部[Physical|物理][Spell|法術]技能等級 {0}"
+    }
+  },
+  {
+    "original": "{0} to Level of all [Chaos|Chaos] Skills",
+    "translation": {
+      "zh_cn": "所有[Chaos|混沌]技能等级 {0}",
+      "zh_tw": "全部[Chaos|混沌]技能等級 {0}"
+    }
+  },
+  {
+    "original": "{0} to Level of all [Corrupted|Corrupted] Skill Gems",
+    "translation": {
+      "zh_cn": "所有[Corrupted|腐化]技能宝石等级提高 {0}",
+      "zh_tw": "{0} 全部[Corrupted|腐化]技能寶石"
+    }
+  },
+  {
+    "original": "{0} to Level of all Skills",
+    "translation": {
+      "zh_cn": "所有技能等级 {0}",
+      "zh_tw": "全部技能寶石等級 {0}"
+    }
+  }
+]

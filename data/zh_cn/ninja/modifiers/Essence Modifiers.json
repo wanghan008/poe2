@@ -1,0 +1,527 @@
+[
+  {
+    "original":"Right click this item then left click a Magic item to apply it.",
+    "translation":{
+      "zh_cn":"右键点击此物品，再左键点击一件魔法物品以使用。",
+      "zh_tw":"右鍵點擊此物品，再左鍵點擊一件魔法物品施用。"
+    }
+  },
+  {
+    "original":"Right click this item then left click a Rare item to apply it.",
+    "translation":{
+      "zh_cn":"右键点击该物品，再左键点击一件稀有物品以使用。",
+      "zh_tw":"右鍵點擊此物品，再左鍵點擊一件稀有物品來施用。"
+    }
+  },
+  {
+    "original":"Upgrades a [Magic|Magic] item to a [Rare|Rare] item, adding a guaranteed modifier",
+    "translation":{
+      "zh_cn":"将一件[Magic|魔法]物品升级为[Rare|稀有]物品，必定增加一项词缀",
+      "zh_tw":"將一件[Magic|魔法]物品升級成[Rare|稀有]物品，且必定新增 1 條詞綴"
+    }
+  },
+  {
+    "original":"Removes a random modifier and augments a [Rare|Rare] item with a new guaranteed modifier",
+    "translation":{
+      "zh_cn":"移除一个随机词缀，并强化一件[Rare|稀有]物品，使其必定获得一个新词缀",
+      "zh_tw":"移除一個隨機詞綴，且必定為一件[Rare|稀有]物品新增一項詞綴"
+    }
+  },
+  {
+    "original":"One Handed [Melee|Melee] [Weapon|Weapon] or [Bow|Bow]: Adds {0} to {1} [Physical|Physical] Damage",
+    "translation":{
+      "zh_cn":"单手[Melee|近战][Weapon|武器]或[Bow|弓类]: 附加 {0} - {1} [Physical|物理]伤害",
+      "zh_tw":"單手[Melee|近戰][Weapon|武器]或[Bow|弓]: 附加 {0} 至 {1} [Physical|物理]傷害"
+    }
+  },
+  {
+    "original":"Two Handed [Melee|Melee] [Weapon|Weapon] or [Crossbow|Crossbow]: Adds {0} to {1} [Physical|Physical] Damage",
+    "translation":{
+      "zh_cn":"双手[Melee|近战][Weapon|武器]或[Crossbow|战弩]: 附加 {0} - {1} [Physical|物理]伤害",
+      "zh_tw":"雙手[Melee|近戰][Weapon|武器]或[Crossbow|十字弓]: 附加 {0} 至 {1} [Physical|物理]傷害"
+    }
+  },
+  {
+    "original":"[Focus|Focus] or [Wand|Wand]: {0}% increased Cast Speed",
+    "translation":{
+      "zh_cn":"[Focus|法器]或[Wand|法杖]: 施法速度提高 {0}%",
+      "zh_tw":"[Focus|法器]或[Wand|法杖]: 增加 {0}% 施放速度"
+    }
+  },
+  {
+    "original":"[Staff|Staff]: {0}% increased Cast Speed",
+    "translation":{
+      "zh_cn":"[Staff|长杖]: 施法速度提高 {0}%",
+      "zh_tw":"[Staff|長杖]: 增加 {0}% 施放速度"
+    }
+  },
+  {
+    "original":"[Martial Weapon|Martial Weapon]: +{0} to [Accuracy|Accuracy] Rating",
+    "translation":{
+      "zh_cn":"[Martial Weapon|战斗武器]: {0} [Accuracy|命中]值",
+      "zh_tw":"[Martial Weapon|軍用武器]: {0} [Accuracy|命中]值"
+    }
+  },
+  {
+    "original":"[Sceptre|Sceptre]: [Allies|Allies] in your [Presence|Presence] deal {0}% increased Damage",
+    "translation":{
+      "zh_cn":"[Sceptre|短杖]: [Presence|在场]的[Allies|友军]造成的伤害提高 {0}%",
+      "zh_tw":"[Sceptre|權杖]: 增加 {0}% 處於你[Presence|存在範圍]中的[Allies|友方]所造成的傷害"
+    }
+  },
+  {
+    "original":"Body Armour: Allocates a random Notable Passive Skill",
+    "translation":{
+      "zh_cn":"胸甲: 分配一个随机的核心天赋",
+      "zh_tw":"身體護甲: 分配一個隨機核心天賦"
+    }
+  },
+  {
+    "original":"One Handed [Melee|Melee] [Weapon|Weapon] or [Bow|Bow]: Adds {0} to {1} [Lightning|Lightning] Damage",
+    "translation":{
+      "zh_cn":"单手[Melee|近战][Weapon|武器]或[Bow|弓类]: 附加 {0} - {1} [Lightning|闪电]伤害",
+      "zh_tw":"單手[Melee|近戰][Weapon|武器]或[Bow|弓]: 附加 {0} 至 {1} [Lightning|閃電]傷害"
+    }
+  },
+  {
+    "original":"Two Handed [Melee|Melee] [Weapon|Weapon] or [Crossbow|Crossbow]: Adds {0} to {1} [Lightning|Lightning] Damage",
+    "translation":{
+      "zh_cn":"双手[Melee|近战][Weapon|武器]或[Crossbow|战弩]: 附加 {0} - {1} [Lightning|闪电]伤害",
+      "zh_tw":"雙手[Melee|近戰][Weapon|武器]或[Crossbow|十字弓]: 附加 {0} 至 {1} [Lightning|閃電]傷害"
+    }
+  },
+  {
+    "original":"One Handed [Melee|Melee] [Weapon|Weapon] or [Bow|Bow]: Adds {0} to {1} [Fire|Fire] Damage",
+    "translation":{
+      "zh_cn":"单手[Melee|近战][Weapon|武器]或[Bow|弓类]: 附加 {0} - {1} [Fire|火焰]伤害",
+      "zh_tw":"單手[Melee|近戰][Weapon|武器]或[Bow|弓]: 附加 {0} 至 {1} [Fire|火焰]傷害"
+    }
+  },
+  {
+    "original":"Two Handed [Melee|Melee] [Weapon|Weapon] or [Crossbow|Crossbow]: Adds {0} to {1} [Fire|Fire] Damage",
+    "translation":{
+      "zh_cn":"双手[Melee|近战][Weapon|武器]或[Crossbow|战弩]: 附加 {0} - {1} [Fire|火焰]伤害",
+      "zh_tw":"雙手[Melee|近戰][Weapon|武器]或[Crossbow|十字弓]: 附加 {0} 至 {1} [Fire|火焰]傷害"
+    }
+  },
+  {
+    "original":"One Handed [Melee|Melee] [Weapon|Weapon] or [Bow|Bow]: Adds {0} to {1} [Cold|Cold] Damage",
+    "translation":{
+      "zh_cn":"单手[Melee|近战][Weapon|武器]或[Bow|弓类]: 附加 {0} - {1} [Cold|冰霜]伤害",
+      "zh_tw":"單手[Melee|近戰][Weapon|武器]或[Bow|弓]: 附加 {0} 至 {1} [Cold|冰冷]傷害"
+    }
+  },
+  {
+    "original":"Two Handed [Melee|Melee] [Weapon|Weapon] or [Crossbow|Crossbow]: Adds {0} to {1} [Cold|Cold] Damage",
+    "translation":{
+      "zh_cn":"双手[Melee|近战][Weapon|武器]或[Crossbow|战弩]: 附加 {0} - {1} [Cold|冰霜]伤害",
+      "zh_tw":"雙手[Melee|近戰][Weapon|武器]或[Crossbow|十字弓]: 附加 {0} 至 {1} [Cold|冰冷]傷害"
+    }
+  },
+  {
+    "original":"[Armour|Armour], Belt or [Jewellery|Jewellery]: +{0}% to [Lightning Resistance|Lightning Resistance]",
+    "translation":{
+      "zh_cn":"[Armour|护甲]、腰带或[Jewellery|饰品]: [Lightning Resistance|闪电抗性] {0}%",
+      "zh_tw":"[Armour|護甲]、腰帶或[Jewellery|飾品]: {0}% [Lightning Resistance|閃電抗性]"
+    }
+  },
+  {
+    "original":"[Armour|Armour], Belt or [Jewellery|Jewellery]: {0}% to [Fire Resistance|Fire Resistance]",
+    "translation":{
+      "zh_cn":"[Armour|护甲]、腰带或[Jewellery|饰品]: [Fire Resistance|火焰抗性] {0}%",
+      "zh_tw":"[Armour|護甲]、腰帶或[Jewellery|飾品]: {0}% [Fire Resistance|火焰抗性]"
+    }
+  },
+  {
+    "original":"[Armour|Armour], Belt or [Jewellery|Jewellery]: {0}% to [Cold|Cold] Resistance",
+    "translation":{
+      "zh_cn":"[Armour|护甲]、腰带或[Jewellery|饰品]: [Cold|冰霜抗性] {0}%",
+      "zh_tw":"[Armour|護甲]、腰帶或[Jewellery|飾品]: {0}% [Cold|冰冷抗性]"
+    }
+  },
+  {
+    "original":"[Armour|Armour], Belt or [Jewellery|Jewellery]: {0}% to [Chaos Resistance|Chaos Resistance]",
+    "translation":{
+      "zh_cn":"[Armour|护甲]、腰带或[Jewellery|饰品]: [Chaos Resistance|混沌抗性] {0}%",
+      "zh_tw":"[Armour|護甲]、腰帶或[Jewellery|飾品]: {0}% [Chaos Resistance|混沌抗性]"
+    }
+  },
+  {
+    "original":"[Melee|Melee] [Weapon|Weapon]: {0}% increased [Attack|Attack] Speed",
+    "translation":{
+      "zh_cn":"[Melee|近战][Weapon|武器]: [Attack|攻击]速度提高 {0}%",
+      "zh_tw":"[Melee|近戰][Weapon|武器]: 增加 {0}% [Attack|攻擊]速度"
+    }
+  },
+  {
+    "original":"[Bow|Bow] or [Crossbow|Crossbow]: {0}% increased [Attack|Attack] Speed",
+    "translation":{
+      "zh_cn":"[Bow|弓箭]或[Crossbow|战弩]: [Attack|攻击]速度提高 {0}%",
+      "zh_tw":"[Bow|弓]或[Crossbow|十字弓]: 增加 {0}% [Attack|攻擊]速度"
+    }
+  },
+  {
+    "original":"Gloves or Boots: {0}% increased effect of Socketed Items",
+    "translation":{
+      "zh_cn":"手套或鞋子: 镶嵌的物品效果提高 {0}%",
+      "zh_tw":"手套或長靴: 鑲嵌的物品增加 {0}% 效果"
+    }
+  },
+  {
+    "original":"Helmet: {0} to Level of all [Minion|Minion] Skills",
+    "translation":{
+      "zh_cn":"头盔: 所有[Minion|召唤生物]技能等级 {0}",
+      "zh_tw":"頭盔: 全部[Minion|召喚物]技能等級 {0}"
+    }
+  },
+  {
+    "original":"Body Armour: {0} to {1} [Physical|Physical] [Thorns|Thorns] damage",
+    "translation":{
+      "zh_cn":"胸甲: {0} - {1} [Physical|物理][Thorns|荆棘]伤害",
+      "zh_tw":"身體護甲: {0} 至 {1} 點[Physical|物理][Thorns|荊棘]傷害"
+    }
+  },
+  {
+    "original":"Gloves: {0}% increased [Critical Damage Bonus|Critical Damage Bonus]",
+    "translation":{
+      "zh_cn":"手套: [Critical Damage Bonus|暴击伤害加成]提高 {0}%",
+      "zh_tw":"手套: 增加 {0}% [Critical Damage Bonus|暴擊傷害加成]"
+    }
+  },
+  {
+    "original":"Boots: {0}% increased Movement Speed",
+    "translation":{
+      "zh_cn":"鞋子: [Movement Speed|移动速度]提高 {0}%",
+      "zh_tw":"長靴: 增加 {0}% [Movement Speed|移動速度]"
+    }
+  },
+  {
+    "original":"Ring: {0}% increased Mana Regeneration Rate",
+    "translation":{
+      "zh_cn":"戒指: 魔力再生率提高 {0}%",
+      "zh_tw":"戒指: 增加 {0}% 魔力回復率"
+    }
+  },
+  {
+    "original":"Amulet: {0}% of Damage taken [Recouped|Recouped] as Life",
+    "translation":{
+      "zh_cn":"项链: 将所受伤害的 {0}% [Recouped|吸纳]为生命",
+      "zh_tw":"項鍊: 承受的 {0}% 傷害[Recouped|補償]為生命"
+    }
+  },
+  {
+    "original":"Belt: {0} to [Stun Threshold|Stun Threshold]",
+    "translation":{
+      "zh_cn":"腰带: {0} [Stun Threshold|晕眩阈值]",
+      "zh_tw":"腰帶: [Stun Threshold|暈眩門檻] {0}"
+    }
+  },
+  {
+    "original":"[Shield|Shield]: {0}% increased [Block|Block] chance",
+    "translation":{
+      "zh_cn":"[Shield|盾牌]: [Block|格挡]几率提高 {0}%",
+      "zh_tw":"[Shield|盾牌]: 增加 {0}% [Block|格擋]率"
+    }
+  },
+  {
+    "original":"[Quiver|Quiver]: {0}% increased Damage with Bow Skills",
+    "translation":{
+      "zh_cn":"[Quiver|箭袋]: 弓类技能伤害提高 {0}%",
+      "zh_tw":"[Quiver|箭袋]: 增加 {0}% 弓技能的傷害"
+    }
+  },
+  {
+    "original":"[Focus|Focus]: {0}% increased [Energy Shield Recharge Rate|Energy Shield Recharge Rate]",
+    "translation":{
+      "zh_cn":"[Focus|法器]: [Energy Shield Recharge Rate|能量护盾充能率]提高 {0}%",
+      "zh_tw":"[Focus|法器]: 增加 {0}% [Energy Shield Recharge Rate|能量護盾充能率]"
+    }
+  },
+  {
+    "original":"Belt: On Corruption, Item gains two Enchantments",
+    "translation":{
+      "zh_cn":"腰带: 被腐化时，物品获得两项附魔",
+      "zh_tw":"腰帶: 物品受腐化時，獲得兩個附魔"
+    }
+  },
+  {
+    "original":"Boots, Gloves, Helmet or [Jewellery|Jewellery]: {0}% increased [Rarity of Items|Rarity of Items] found",
+    "translation":{
+      "zh_cn":"鞋子、手套、头盔或[Jewellery|饰品]: [Rarity of Items|物品稀有度]提高 {0}%",
+      "zh_tw":"長靴、手套、頭盔或[Jewellery|飾品]: 增加 {0}% 找到的[Rarity of Items|物品稀有度]"
+    }
+  },
+  {
+    "original":"[Martial Weapon|Martial Weapon]: {0}% to [Critical Hit|Critical Hit] Chance",
+    "translation":{
+      "zh_cn":"[Martial Weapon|战斗武器]: [Critical Hit|暴击]几率 {0}%",
+      "zh_tw":"[Martial Weapon|軍用武器]: {0}% [Critical Hit|暴擊]率"
+    }
+  },
+  {
+    "original":"[Focus|Focus] or [Wand|Wand]: {0}% increased [Critical Hit Chance|Critical Hit Chance] for [Spells|Spells]",
+    "translation":{
+      "zh_cn":"[Focus|法器]或[Wand|法杖]: [Spells|法术][Critical Hit Chance|暴击率]提高 {0}%",
+      "zh_tw":"[Focus|法器]或[Wand|法杖]: 增加 {0}% [Spells|法術][Critical Hit Chance|暴擊率]"
+    }
+  },
+  {
+    "original":"[Staff|Staff]: {0}% increased [Critical Hit Chance|Critical Hit Chance] for [Spells|Spells]",
+    "translation":{
+      "zh_cn":"[Staff|长杖]: [Spells|法术][Critical Hit Chance|暴击率]提高 {0}%",
+      "zh_tw":"[Staff|長杖]: 增加 {0}% [Spells|法術][Critical Hit Chance|暴擊率]"
+    }
+  },
+  {
+    "original":"[Focus|Focus] or [Wand|Wand]: {0}% increased [Spell|Spell] Damage",
+    "translation":{
+      "zh_cn":"[Focus|法器]或[Wand|法杖]: [Spells|法术]伤害提高 {0}%",
+      "zh_tw":"[Focus|法器]或[Wand|法杖]: 增加 {0}% [Spells|法術]傷害"
+    }
+  },
+  {
+    "original":"[Staff|Staff]: {0}% increased [Spell|Spell] Damage",
+    "translation":{
+      "zh_cn":"[Staff|长杖]: [Spells|法术]伤害提高 {0}%",
+      "zh_tw":"[Staff|長杖]: 增加 {0}% [Spells|法術]傷害"
+    }
+  },
+  {
+    "original":"[Armour|Armour] or Belt: {0} to maximum Life",
+    "translation":{
+      "zh_cn":"[Armour|护甲]或腰带: {0} 最大生命",
+      "zh_tw":"[Armour|護甲]或腰帶: {0} 最大生命"
+    }
+  },
+  {
+    "original":"[Jewellery|Jewellery]: {0} to maximum Life",
+    "translation":{
+      "zh_cn":"[Jewellery|饰品]: {0} 最大生命",
+      "zh_tw":"[Jewellery|飾品]: {0} 最大生命"
+    }
+  },
+  {
+    "original":"Belt, Body Armour, Helmet or [Shield|Shield]: {0} to maximum Life",
+    "translation":{
+      "zh_cn":"腰带、护甲、头盔或[Shield|盾牌]: {0} 最大生命",
+      "zh_tw":"腰帶、身體護甲、頭盔或[Shield|盾牌]: {0} 最大生命"
+    }
+  },
+  {
+    "original":"Amulet, Boots, Gloves or Ring: {0} to maximum Life",
+    "translation":{
+      "zh_cn":"项链、鞋子、手套或戒指: {0} 最大生命",
+      "zh_tw":"項鍊、長靴、手套或戒指: {0} 最大生命"
+    }
+  },
+  {
+    "original":"Amulet, Boots or Gloves: {0} to maximum Life",
+    "translation":{
+      "zh_cn":"项链、鞋子或手套: {0} 最大生命",
+      "zh_tw":"項鍊、長靴或手套: {0} 最大生命"
+    }
+  },
+  {
+    "original":"Belt, Boots, Gloves, Helmet or [Jewellery|Jewellery]: {0} to maximum Mana",
+    "translation":{
+      "zh_cn":"腰带、鞋子、手套、头盔或[Jewellery|饰品]: {0} 最大魔力",
+      "zh_tw":"腰帶、長靴、手套、頭盔或[Jewellery|飾品]: {0} 最大魔力"
+    }
+  },
+  {
+    "original":"Belt, Boots, Gloves or Helmet: {0} to maximum Mana",
+    "translation":{
+      "zh_cn":"腰带、鞋子、手套或头盔: {0} 最大魔力",
+      "zh_tw":"腰帶、長靴、手套或頭盔: {0} 最大魔力"
+    }
+  },
+  {
+    "original":"[Jewellery|Jewellery]: {0} to maximum Mana",
+    "translation":{
+      "zh_cn":"[Jewellery|饰品]: {0} 最大魔力",
+      "zh_tw":"[Jewellery|飾品]: {0} 最大魔力"
+    }
+  },
+  {
+    "original":"One Handed [Melee|Melee] [Weapon|Weapon] or [Bow|Bow]: [Gain|Gain] {0}% of Damage as Extra [Physical|Physical] Damage",
+    "translation":{
+      "zh_cn":"单手[Melee|近战][Weapon|武器]或[Bow|弓类]: [Gain|获得]相当于伤害 {0}% 的额外[Physical|物理]伤害",
+      "zh_tw":"單手[Melee|近戰][Weapon|武器]或[Bow|弓]: [Gain|獲得]相當於傷害 {0}% 的額外[Physical|物理]傷害"
+    }
+  },
+  {
+    "original":"Two Handed [Melee|Melee] [Weapon|Weapon] or [Crossbow|Crossbow]: [Gain|Gain] {0}% of Damage as Extra [Physical|Physical] Damage",
+    "translation":{
+      "zh_cn":"双手[Melee|近战][Weapon|武器]或[Crossbow|战弩]: [Gain|获得]相当于伤害 {0}% 的额外[Physical|物理]伤害",
+      "zh_tw":"雙手[Melee|近戰][Weapon|武器]或[Crossbow|十字弓]: [Gain|獲得]相當於傷害 {0}% 的額外[Physical|物理]傷害"
+    }
+  },
+  {
+    "original":"[Focus|Focus] or [Wand|Wand]: {0}% increased Mana Cost [Efficiency|Efficiency]",
+    "translation":{
+      "zh_cn":"[Focus|法器]或[Wand|法杖]: 魔力消耗[Efficiency|效能]提高 {0}%",
+      "zh_tw":"[Focus|法器]或[Wand|法杖]: 增加 {0}% 魔力消耗[Efficiency|效率]"
+    }
+  },
+  {
+    "original":"[Staff|Staff]: {0}% increased Mana Cost [Efficiency|Efficiency]",
+    "translation":{
+      "zh_cn":"[Staff|长杖]: 魔力消耗[Efficiency|效能]提高 {0}%",
+      "zh_tw":"[Staff|長杖]: 增加 {0}% 魔力消耗[Efficiency|效率]"
+    }
+  },
+  {
+    "original":"One Handed [Melee|Melee] [Weapon|Weapon] or [Bow|Bow]: {0} to Level of all [Attack|Attack] Skills",
+    "translation":{
+      "zh_cn":"单手[Melee|近战][Weapon|武器]或[Bow|弓类]: 所有[Attack|攻击]技能等级 {0}",
+      "zh_tw":"單手[Melee|近戰][Weapon|武器]或[Bow|弓]: 全部[Attack|攻擊]技能等級 {0}"
+    }
+  },
+  {
+    "original":"Two Handed [Melee|Melee] [Weapon|Weapon] or [Crossbow|Crossbow]: {0} to Level of all [Attack|Attack] Skills",
+    "translation":{
+      "zh_cn":"双手[Melee|近战][Weapon|武器]或[Crossbow|战弩]: 所有[Attack|攻击]技能等级 {0}",
+      "zh_tw":"雙手[Melee|近戰][Weapon|武器]或[Crossbow|十字弓]: 全部[Attack|攻擊]技能等級 {0}"
+    }
+  },
+  {
+    "original":"[Wand|Wand]: {0} to Level of all [Spell|Spell] Skills",
+    "translation":{
+      "zh_cn":"[Wand|法杖]: 所有[Spell|法术]技能等级 {0}",
+      "zh_tw":"[Wand|法杖]: 全部[Spell|法術]技能等級 {0}"
+    }
+  },
+  {
+    "original":"[Staff|Staff]: {0} to Level of all [Spell|Spell] Skills",
+    "translation":{
+      "zh_cn":"[Staff|长杖]: 所有[Spell|法术]技能等级 {0}",
+      "zh_tw":"[Staff|長杖]: 全部[Spell|法術]技能等級 {0}"
+    }
+  },
+  {
+    "original":"[Sceptre|Sceptre]: [Aura|Aura] Skills have {0}% increased [Magnitudes|Magnitudes]",
+    "translation":{
+      "zh_cn":"[Sceptre|短杖]: [Aura|光环]技能的[Magnitudes|强度]提高 {0}%",
+      "zh_tw":"[Sceptre|權杖]: [Aura|光環]技能增加 {0}% [Magnitudes|幅度]"
+    }
+  },
+  {
+    "original":"One Handed [Melee|Melee] [Weapon|Weapon] or [Bow|Bow]: [Gain|Gain] {0}% of Damage as Extra [Lightning|Lightning] Damage",
+    "translation":{
+      "zh_cn":"单手[Melee|近战][Weapon|武器]或[Bow|弓类]: [Gain|获得]相当于伤害 {0}% 的额外[Lightning|闪电]伤害",
+      "zh_tw":"單手[Melee|近戰][Weapon|武器]或[Bow|弓]: [Gain|獲得]相當於傷害 {0}% 的額外[Lightning|閃電]傷害"
+    }
+  },
+  {
+    "original":"Two Handed [Melee|Melee] [Weapon|Weapon] or [Crossbow|Crossbow]: [Gain|Gain] {0}% of Damage as Extra [Lightning|Lightning] Damage",
+    "translation":{
+      "zh_cn":"双手[Melee|近战][Weapon|武器]或[Crossbow|战弩]: [Gain|获得]相当于伤害 {0}% 的额外[Lightning|闪电]伤害",
+      "zh_tw":"雙手[Melee|近戰][Weapon|武器]或[Crossbow|十字弓]: [Gain|獲得]相當於傷害 {0}% 的額外[Lightning|閃電]傷害"
+    }
+  },
+  {
+    "original":"One Handed [Melee|Melee] [Weapon|Weapon] or [Bow|Bow]: [Gain|Gain] {0}% of Damage as Extra [Fire|Fire] Damage",
+    "translation":{
+      "zh_cn":"单手[Melee|近战][Weapon|武器]或[Bow|弓类]: [Gain|获得]相当于伤害 {0}% 的额外[Fire|火焰]伤害",
+      "zh_tw":"單手[Melee|近戰][Weapon|武器]或[Bow|弓]: [Gain|獲得]相當於傷害 {0}% 的額外[Fire|火焰]傷害"
+    }
+  },
+  {
+    "original":"Two Handed [Melee|Melee] [Weapon|Weapon] or [Crossbow|Crossbow]: [Gain|Gain] {0}% of Damage as Extra [Fire|Fire] Damage",
+    "translation":{
+      "zh_cn":"双手[Melee|近战][Weapon|武器]或[Crossbow|战弩]: [Gain|获得]相当于伤害 {0}% 的额外[Fire|火焰]伤害",
+      "zh_tw":"雙手[Melee|近戰][Weapon|武器]或[Crossbow|十字弓]: [Gain|獲得]相當於傷害 {0}% 的額外[Fire|火焰]傷害"
+    }
+  },
+  {
+    "original":"One Handed [Melee|Melee] [Weapon|Weapon] or [Bow|Bow]: [Gain|Gain] {0}% of Damage as Extra [Cold|Cold] Damage",
+    "translation":{
+      "zh_cn":"单手[Melee|近战][Weapon|武器]或[Bow|弓类]: [Gain|获得]相当于伤害 {0}% 的额外[Cold|冰霜]伤害",
+      "zh_tw":"單手[Melee|近戰][Weapon|武器]或[Bow|弓]: [Gain|獲得]相當於傷害 {0}% 的額外[Cold|冰冷]傷害"
+    }
+  },
+  {
+    "original":"Two Handed [Melee|Melee] [Weapon|Weapon] or [Crossbow|Crossbow]: [Gain|Gain] {0}% of Damage as Extra [Cold|Cold] Damage",
+    "translation":{
+      "zh_cn":"双手[Melee|近战][Weapon|武器]或[Crossbow|战弩]: [Gain|获得]相当于伤害 {0}% 的额外[Cold|冰霜]伤害",
+      "zh_tw":"雙手[Melee|近戰][Weapon|武器]或[Crossbow|十字弓]: [Gain|獲得]相當於傷害 {0}% 的額外[Cold|冰冷]傷害"
+    }
+  },
+  {
+    "original":"Amulet: {0}% increased Global [Defences|Defences]",
+    "translation":{
+      "zh_cn":"项链: 全局[Defences|防御]提高 {0}%",
+      "zh_tw":"項鍊: 增加 {0}% 全域[Defences|防禦]"
+    }
+  },
+  {
+    "original":"Gloves: {0}% of [Lightning|Lightning] Damage taken [Recouped|Recouped] as Life",
+    "translation":{
+      "zh_cn":"手套: 将承受的[Lightning|闪电]伤害的 {0}% [Recouped|吸纳]为生命",
+      "zh_tw":"手套: 所承受[Lightning|閃電]傷害的 {0}% [Recouped|補償]為生命"
+    }
+  },
+  {
+    "original":"Belt: {0}% of [Fire|Fire] Damage taken [Recouped|Recouped] as Life",
+    "translation":{
+      "zh_cn":"腰带: 将承受的[Fire|火焰]伤害的 {0}% [Recouped|吸纳]为生命",
+      "zh_tw":"腰带: 承受的[Fire|火焰]傷害 {0}% [Recouped|補償]為生命"
+    }
+  },
+  {
+    "original":"Helmet: {0}% of [Cold|Cold] Damage taken [Recouped|Recouped] as Life",
+    "translation":{
+      "zh_cn":"头盔: 将承受的[Cold|冰霜]伤害的 {0}% [Recouped|吸纳]为生命",
+      "zh_tw":"頭盔: 承受的[Cold|冰冷]傷害 {0}% [Recouped|補償]為生命"
+    }
+  },
+  {
+    "original":"Body Armour: {0}% of Physical Damage from Hits taken as Chaos Damage",
+    "translation":{
+      "zh_cn":"胸甲: 受到击中物理伤害的 {0}% 转化为混沌伤害",
+      "zh_tw":"身體護甲: 承受 {0}% 的擊中物理傷害視為混沌傷害"
+    }
+  },
+  {
+    "original":"[Martial Weapon|Martial Weapon]: {0}% chance to gain [Onslaught|Onslaught] on Killing [Hits|Hits] with this Weapon",
+    "translation":{
+      "zh_cn":"[Martial Weapon|战斗武器]: 此武器进行造成最后[Hits|一击]时有 {0}% 的几率获得[Onslaught|猛攻]",
+      "zh_tw":"[Martial Weapon|軍用武器]: 以此武器[Hits|擊中]且為最後一擊時，有 {0}% 機率獲得[Onslaught|猛攻]"
+    }
+  },
+  {
+    "original":"Gloves: {0}% increased Quantity of Gold Dropped by Slain Enemies",
+    "translation":{
+      "zh_cn":"手套: 被击败的敌人掉落的金币数量提高 {0}%",
+      "zh_tw":"手套: 增加 {0}% 殺死敵人時掉落的金幣數量"
+    }
+  },
+  {
+    "original":"Body Armour: Hits against you have {0}% reduced [Critical Damage Bonus|Critical Damage Bonus]",
+    "translation":{
+      "zh_cn":"胸甲: 对你的击中的[Critical Damage Bonus|暴击伤害加成]降低 {0}%",
+      "zh_tw":"身體護甲: 對你的擊中減少 {0}% [Critical Damage Bonus|暴擊傷害加成]"
+    }
+  },
+  {
+    "original":"Body Armour: {0}% increased maximum Life",
+    "translation":{
+      "zh_cn":"胸甲: 生命上限提高 {0}%",
+      "zh_tw":"身體護甲: 增加 {0}% 最大生命"
+    }
+  },
+  {
+    "original":"Ring: {0}% increased maximum Mana",
+    "translation":{
+      "zh_cn":"戒指: 魔力上限提高 {0}%",
+      "zh_tw":"戒指: 增加 {0}% 最大魔力"
+    }
+  },
+  {
+    "original":"[Equipment|Equipment]: [Mark of the Abyssal Lord|Mark of the Abyssal Lord]",
+    "translation":{
+      "zh_cn":"[Equipment|装备]: [Mark of the Abyssal Lord|深渊领主的印记]",
+      "zh_tw":"[Equipment|裝備]: [Mark of the Abyssal Lord|深淵領主印記]"
+    }
+  }
+]

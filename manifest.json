@@ -1,0 +1,121 @@
+{
+    "manifest_version": 3,
+    "name": "POE2 市集&Ninja一条龙汉化",
+    "description": "市集 & Ninja 汉化插件- QQ群：1084591169",
+    "version": "2026.5.22",
+    "author": "",
+    "icons": {
+        "16": "images/icon16.png",
+        "32": "images/icon32.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    },
+    "action": {
+        "default_title": "POE2 市集汉化",
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/icon16.png",
+            "32": "images/icon32.png",
+            "48": "images/icon48.png",
+            "128": "images/icon128.png"
+        }
+    },
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": true
+    },
+    "host_permissions": [
+        "*://www.pathofexile.com/*",
+        "*://poe.game.qq.com/*",
+        "*://pathofexile.tw/*",
+        "*://poe.ninja/*",
+        "*://www.filterblade.xyz/*",
+        "*://mobalytics.gg/*",
+        "*://maxroll.gg/*",
+        "*://poe2db.tw/*",
+        "*://gitee.com/*",
+        "*://jihulab.com/*"
+    ],
+    "permissions": [
+        "storage",
+        "unlimitedStorage",
+        "scripting"
+    ],
+    "background": {
+        "service_worker": "js/background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.pathofexile.com/trade/*",
+                "https://www.pathofexile.com/trade2/*"
+            ],
+            "js": [
+                "js/trade/app.js"
+            ],
+            "run_at": "document_start"
+        },
+        {
+            "matches": [
+                "https://www.pathofexile.com/trade/*",
+                "https://www.pathofexile.com/trade2/*",
+                "https://pathofexile.tw/*"
+            ],
+            "js": [
+                "js/trade/result.js"
+            ],
+            "run_at": "document_end"
+        },
+        {
+            "matches": [
+                "https://poe.ninja/*"
+            ],
+            "js": [
+                "js/config/ninja_config.js",
+                "js/ninja/trade_module.js",
+                "js/ninja/content_Ninja.js"
+            ],
+            "run_at": "document_idle"
+        },
+        {
+            "matches": ["https://www.filterblade.xyz/*"],
+            "js": ["js/other/content_FilterBlade.js"],
+            "run_at": "document_idle"
+        },
+        {
+            "matches": ["https://poe2db.tw/us/*"],
+            "js": ["js/other/content_Poe2db.js"],
+            "run_at": "document_idle"
+        },
+        {
+            "matches": ["https://mobalytics.gg/poe-2/*"],
+            "js": ["js/other/content_Mobalytics.js"],
+            "run_at": "document_idle"
+        },
+        {
+            "matches": ["https://maxroll.gg/poe2/*"],
+            "js": [
+                "data/maxroll/Others.js",
+                "data/maxroll/Skills.js",
+                "data/maxroll/Passives.js",
+                "data/maxroll/legendaryItems.js",
+                "data/maxroll/templateMap.js",
+                "data/maxroll/fixedTextMap.js",
+                "js/other/content_Maxroll.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "js/trade/interface.js",
+                "data/*",
+                "images/*",
+                "font/*",
+                "json/*"
+            ],
+            "matches": ["<all_urls>"]
+        }
+    ]
+}

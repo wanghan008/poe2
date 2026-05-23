@@ -1,0 +1,58 @@
+[
+  {
+    "original": "{0} to [Strength|Strength]",
+    "translation": {
+      "zh_cn": "{0} [Strength|力量]",
+      "zh_tw": "{0} 點[Strength|力量]"
+    }
+  },
+  {
+    "original": "{0} to [Dexterity|Dexterity]",
+    "translation": {
+      "zh_cn": "{0} [Dexterity|敏捷]",
+      "zh_tw": "{0} 點[Dexterity|敏捷]"
+    }
+  },
+  {
+    "original": "{0} to [Intelligence|Intelligence]",
+    "translation": {
+      "zh_cn": "{0} [Intelligence|智慧]",
+      "zh_tw": "{0} 點[Intelligence|智慧]"
+    }
+  },
+  {
+    "original": "{0} to all [Attributes|Attributes]",
+    "translation": {
+      "zh_cn": "{0} 全[Attributes|属性]",
+      "zh_tw": "{0} 點全部[Attributes|能力值]"
+    }
+  },
+  {
+    "original": "{0} to [Strength|Strength] and [Dexterity|Dexterity]",
+    "translation": {
+      "zh_cn": "{0} [Strength|力量]和[Dexterity|敏捷]",
+      "zh_tw": "{0} 點[Strength|力量]與[Dexterity|敏捷]"
+    }
+  },
+  {
+    "original": "{0} to [Strength|Strength] and [Intelligence|Intelligence]",
+    "translation": {
+      "zh_cn": "{0} [Strength|力量]和[Intelligence|智慧]",
+      "zh_tw": "{0} 點[Strength|力量]與[Intelligence|智慧]"
+    }
+  },
+  {
+    "original": "{0} to [Dexterity|Dexterity] and [Intelligence|Intelligence]",
+    "translation": {
+      "zh_cn": "{0} [Dexterity|敏捷]和[Intelligence|智慧]",
+      "zh_tw": "{0} 點[Dexterity|敏捷]與[Intelligence|智慧]"
+    }
+  },
+  {
+    "original": "{0}% reduced [Attributes|Attributes]",
+    "translation": {
+      "zh_cn": "[Attributes|属性]降低 {0}%",
+      "zh_tw": "減少 {0}% [Attributes|能力值]"
+    }
+  }
+]

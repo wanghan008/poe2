@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Against the Darkness",
+    "zh_cn": "抗衡黑暗",
+    "zh_tw": "力抗黑暗",
+    "FlavourText": {
+      "original": "After the fires, in the depths of the Winter of the World, all life in the Vastiri banded together. Whether serpent, hyena, human, or golem, hated enemies clasped hand to claw, built refuge, and fought side by side against the Abyssals. Thus, the Third Pact was born.",
+      "zh_cn": "烈焰熄灭，世界之冬降临，瓦斯提里的众生依偎在一起。毒蛇，土狼，人类和傀儡，彼此憎恨的敌人携手并肩。它们兴建了避难所，共同对抗深渊的力量。第三盟约由此诞生了。",
+      "zh_tw": "敬請期待"
+    },
+    "img": "SanctumJewel.png",
+    "group": [
+        {
+          "original": "Notable Passive Skills in Radius also grant {0}% increased [Dexterity|Dexterity]",
+          "translation": {
+            "zh_cn": "范围内的核心天赋同时提供 [Dexterity|敏捷]提高 {0}%",
+            "zh_tw": "範圍內核心天賦也會賦予 增加 {0}% [Dexterity|敏捷]"
+          }
+        },
+        {
+          "original": "Notable Passive Skills in Radius also grant {0}% increased [Intelligence|Intelligence]",
+          "translation": {
+            "zh_cn": "范围内的核心天赋同时提供 [Intelligence|智慧]提高 {0}%",
+            "zh_tw": "範圍內核心天賦也會賦予 增加 {0}% [Intelligence|智慧]"
+          }
+        },
+        {
+          "original": "Notable Passive Skills in Radius also grant {0}% increased [Strength|Strength]",
+          "translation": {
+            "zh_cn": "范围内的核心天赋同时提供 [Strength|力量]提高 {0}%",
+            "zh_tw": "範圍內核心天賦也會賦予 增加 {0}% [Strength|力量]"
+          }
+        }
+    ]
+  }
+]

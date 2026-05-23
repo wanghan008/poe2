@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Undying Hate",
+    "zh_cn": "不朽之恨",
+    "zh_tw": "不朽恨意",
+    "FlavourText": {
+      "original": "They believed themselves driven by necessity,\nbut that desperation made them monstrous.",
+      "zh_cn": "他们自认为是被逼无奈，\n但正是这种绝望把他们变成了恶魔。",
+      "zh_tw": "他們曾深信自己是逼不得已，\n但那份絕望使他們如狼似虎。"
+    },
+    "img": "UndyingHatred.png",
+    "group": [
+        {
+          "original": "[Historic|Historic]",
+          "translation": {
+            "zh_cn": "[Historic|史实]",
+            "zh_tw": "[Historic|威宏史觀]"
+          }
+        },
+        {
+          "original": "[Desecration makes this item unstable|Desecration makes this item unstable]",
+          "translation": {
+            "zh_cn": "[Desecration makes this item unstable|渎灵会使物品不稳定。]",
+            "zh_tw": "[Desecration makes this item unstable|褻瀆此物品會使其變得不穩定]"
+          }
+        },
+        {
+          "original": "Glorifying the defilement of {0} souls in tribute to Amanamu\nPassives in radius are Conquered by the Abyssals",
+          "translation": {
+            "zh_cn": "赞颂以阿曼娜姆之名亵渎的 {0} 个灵魂，\n范围内的天赋被深渊抑制\n",
+            "zh_tw": "以 {0} 個玷污的靈魂榮耀阿姆納姆之名\n半徑範圍內的天賦受深淵族征服\n"
+          }
+        },
+        {
+          "original": "Conquered Attribute Passive Skills also grant {0} to Tribute",
+          "translation": {
+            "zh_cn": "被抑制的属性天赋技能还会提供 {0} 贡品",
+            "zh_tw": "被征服的能力值天賦技能也會賦予 {0} 貢禮"
+          }
+        }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "original": "{0} to maximum Mana",
+    "translation": {
+      "zh_cn": "{0} 最大魔力",
+      "zh_tw": "{0} 最大魔力"
+    }
+  },
+  {
+    "original": "{0}% increased maximum Mana",
+    "translation": {
+      "zh_cn": "魔力上限提高 {0}%",
+      "zh_tw": "增加 {0}% 最大魔力"
+    }
+  },
+  {
+    "original": "Gain {0} Mana per enemy killed",
+    "translation": {
+      "zh_cn": "每击败一名敌人获得 {0} 点魔力",
+      "zh_tw": "每個被擊殺的敵人，獲得 {0} 魔力"
+    }
+  },
+  {
+    "original": "{0}% increased Mana Regeneration Rate",
+    "translation": {
+      "zh_cn": "魔力再生率提高 {0}%",
+      "zh_tw": "增加 {0}% 魔力回復率"
+    }
+  },
+  {
+    "original": "{0}% of Damage taken [Recouped|Recouped] as Mana",
+    "translation": {
+      "zh_cn": "将所受伤害的 {0}% [Recouped|吸纳]为魔力",
+      "zh_tw": "承受的 {0}% 傷害[Recouped|補償]為魔力"
+    }
+  },
+  {
+    "original": "{0}% increased [Flask|Flask] Mana Recovery rate",
+    "translation": {
+      "zh_cn": "[Flask|药剂]魔力回复速度提高 {0}%",
+      "zh_tw": "增加 {0}% [Flask|藥劑]魔力恢復率"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Defiance of Destiny",
+    "zh_cn": "命运之抗争",
+    "zh_tw": "拒絕命運",
+    "FlavourText": {
+      "original": "The respect of Karui warriors is hard to earn,\nbut lasts a lifetime... and beyond.",
+      "zh_cn": "卡鲁战士的尊重来之不易，\n但会持续一生……乃至身后。",
+      "zh_tw": "敬請期待"
+    },
+    "img": "DefianceOfDestiny.png",
+    "group": [
+        {
+          "original": "{0}% increased Mana Regeneration Rate",
+          "translation": {
+            "zh_cn": "魔力再生率提高 {0}%",
+            "zh_tw": "增加 {0}% 魔力回復率"
+          }
+        },
+        {
+          "original": "Recover {0}% of Missing Life before being [Hit|Hit] by an Enemy",
+          "translation": {
+            "zh_cn": "被敌人[Hit|击中]前回复已损失生命的 {0}%",
+            "zh_tw": "遭敵人[Hit|擊中]前恢復失去生命的 {0}%"
+          }
+        }
+    ]
+  }
+]

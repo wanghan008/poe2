@@ -1,0 +1,302 @@
+{
+  "Weapon Unique /73": {
+    "zh_cn": "武器传奇 /73",
+    "zh_tw": "武器傳奇 /73"
+  },
+  "Weapon Unique_group":[
+      {
+  "Brynhand's Mark": {
+    "zh_cn": "布琳翰德印记",
+    "zh_tw": "布林漢的印記"
+  },
+  "Frostbreath": {
+    "zh_cn": "霜息",
+    "zh_tw": "霜息"
+  },
+  "Trenchtimbre": {
+    "zh_cn": "战壕砥柱",
+    "zh_tw": "壕溝之音"
+  },
+  "Sculpted Suffering": {
+    "zh_cn": "雕琢的苦难",
+    "zh_tw": "雕刻苦難"
+  },
+  "Seeing Stars": {
+    "zh_cn": "迷星之锤",
+    "zh_tw": "見證群星"
+  },
+  "Nebuloch": {
+    "zh_cn": "尼布洛克",
+    "zh_tw": "銀河眾星"
+  },
+  "Mjölner": {
+    "zh_cn": "沉默之雷",
+    "zh_tw": "沉默之雷"
+  },
+  "Olrovasara": {
+    "zh_cn": "欧罗瓦萨拉",
+    "zh_tw": "歐洛瓦沙拉"
+  },
+  "Hoghunt": {
+    "zh_cn": "猎猪大棒",
+    "zh_tw": "獵豬"
+  },
+  "Hrimnor's Hymn": {
+    "zh_cn": "雷姆诺的夺命凶器",
+    "zh_tw": "雷姆諾的奪命樂具"
+  },
+  "Trephina": {
+    "zh_cn": "穿洞奇械",
+    "zh_tw": "崔非那"
+  },
+  "Brain Rattler": {
+    "zh_cn": "脑乱者",
+    "zh_tw": "腦亂者"
+  },
+  "The Empty Roar": {
+    "zh_cn": "空荡怒吼",
+    "zh_tw": "空洞怒吼"
+  },
+  "Shyaba": {
+    "zh_cn": "席亚巴",
+    "zh_tw": "沙阿巴"
+  },
+  "Chober Chaber": {
+    "zh_cn": "忠诚之锤",
+    "zh_tw": "忠誠之錘"
+  },
+  "Quecholli": {
+    "zh_cn": "重击之锤",
+    "zh_tw": "重擊之錘"
+  },
+  "Tidebreaker": {
+    "zh_cn": "局势逆转者",
+    "zh_tw": "破浪者"
+  },
+  "Marohi Erqi": {
+    "zh_cn": "尔奇的巨灵之锤",
+    "zh_tw": "爾奇的巨靈之錘"
+  },
+  "The Hammer of Faith": {
+    "zh_cn": "信仰之锤",
+    "zh_tw": "信仰之錘"
+  },
+  "Splinter of Lorrata": {
+    "zh_cn": "罗瑞塔的破片",
+    "zh_tw": "蘿拉塔裂片"
+  },
+  "Tyranny's Grip": {
+    "zh_cn": "暴政之握",
+    "zh_tw": "暴政之握"
+  },
+  "Chainsting": {
+    "zh_cn": "缚链之针",
+    "zh_tw": "鏈鎖之刺"
+  },
+  "Skysliver": {
+    "zh_cn": "苍穹裂片",
+    "zh_tw": "天銀"
+  },
+  "Daevata's Wind": {
+    "zh_cn": "戴瓦塔的幻风",
+    "zh_tw": "德瓦塔之風"
+  },
+  "Tangletongue": {
+    "zh_cn": "纠缠之舌",
+    "zh_tw": "縛舌"
+  },
+  "Saitha's Spear": {
+    "zh_cn": "赛萨之矛",
+    "zh_tw": "賽塔的長矛"
+  },
+  "Spire of Ire": {
+    "zh_cn": "怨怒塔矛",
+    "zh_tw": "怒火之塔"
+  },
+  "The Blood Thorn": {
+    "zh_cn": "血棘",
+    "zh_tw": "血棘"
+  },
+  "Pillar of the Caged God": {
+    "zh_cn": "囚神杵",
+    "zh_tw": "囚神杵"
+  },
+  "The Sentry": {
+    "zh_cn": "哨望",
+    "zh_tw": "哨兵"
+  },
+  "Matsya": {
+    "zh_cn": "摩蹉",
+    "zh_tw": "摩蹉"
+  },
+  "Nazir's Judgement": {
+    "zh_cn": "纳吉尔的审判",
+    "zh_tw": "納齊爾的審判"
+  },
+  "Collapsing Horizon": {
+    "zh_cn": "崩塌视界",
+    "zh_tw": "崩塌的地平線"
+  },
+  "The Wicked Quill": {
+    "zh_cn": "邪恶之翎",
+    "zh_tw": "邪惡羽毛"
+  },
+  "Sanguine Diviner": {
+    "zh_cn": "赤红占卜师",
+    "zh_tw": "血色聖者"
+  },
+  "Lifesprig": {
+    "zh_cn": "生机之记",
+    "zh_tw": "生機之記"
+  },
+  "Adonia's Ego": {
+    "zh_cn": "阿多尼娅的自我",
+    "zh_tw": "艾多尼亞的自負"
+  },
+  "Enezun's Charge": {
+    "zh_cn": "恩纳尊的职责",
+    "zh_tw": "艾尼尊的衝鋒"
+  },
+  "Cursecarver": {
+    "zh_cn": "刻咒",
+    "zh_tw": "咒刻者"
+  },
+  "Dusk Vigil": {
+    "zh_cn": "暮色守望",
+    "zh_tw": "暗暮守夜"
+  },
+  "Taryn's Shiver": {
+    "zh_cn": "塔林的颤栗之语",
+    "zh_tw": "塔林的顫慄之語"
+  },
+  "Earthbound": {
+    "zh_cn": "地缚杖",
+    "zh_tw": "地縛者"
+  },
+  "The Searing Touch": {
+    "zh_cn": "炽炎之使",
+    "zh_tw": "熾炎之使"
+  },
+  "Sire of Shards": {
+    "zh_cn": "破碎传承者",
+    "zh_tw": "破碎傳承者"
+  },
+  "The Burden of Shadows": {
+    "zh_cn": "暗影的重负",
+    "zh_tw": "暗影重擔"
+  },
+  "The Unborn Lich": {
+    "zh_cn": "未生巫妖",
+    "zh_tw": "未誕生的巫妖"
+  },
+  "The Whispering Ice": {
+    "zh_cn": "冰点低语",
+    "zh_tw": "冰點低語"
+  },
+  "Atziri's Rule": {
+    "zh_cn": "阿兹里的统治",
+    "zh_tw": "阿茲里的統御"
+  },
+  "Widowhail": {
+    "zh_cn": "遗孀之雹",
+    "zh_tw": "鰥寡之托"
+  },
+  "Quill Rain": {
+    "zh_cn": "骤雨之弦",
+    "zh_tw": "驟雨之弦"
+  },
+  "Splinterheart": {
+    "zh_cn": "裂心之弦",
+    "zh_tw": "裂心"
+  },
+  "Doomfletch": {
+    "zh_cn": "灭世",
+    "zh_tw": "滅世"
+  },
+  "Death's Harp": {
+    "zh_cn": "冥使之琴",
+    "zh_tw": "冥使之琴"
+  },
+  "Slivertongue": {
+    "zh_cn": "白银之舌",
+    "zh_tw": "裂舌"
+  },
+  "Fairgraves' Curse": {
+    "zh_cn": "费尔的诅咒",
+    "zh_tw": "費爾的詛咒"
+  },
+  "Lioneye's Glare": {
+    "zh_cn": "狮眼的战弓",
+    "zh_tw": "獅眼的戰弓"
+  },
+  "Mist Whisper": {
+    "zh_cn": "迷雾低语者",
+    "zh_tw": "迷霧低語者"
+  },
+  "Rampart Raptor": {
+    "zh_cn": "要塞的猛禽",
+    "zh_tw": "壁壘猛禽"
+  },
+  "Double Vision": {
+    "zh_cn": "双生视界",
+    "zh_tw": "雙重視界"
+  },
+  "The Dark Defiler": {
+    "zh_cn": "黑暗渎神",
+    "zh_tw": "黑暗玷汙者"
+  },
+  "Font of Power": {
+    "zh_cn": "力量的源泉",
+    "zh_tw": "力量水晶塔"
+  },
+  "Sacred Flame": {
+    "zh_cn": "神圣之火",
+    "zh_tw": "神聖烈焰"
+  },
+  "Guiding Palm of the Heart": {
+    "zh_cn": "心脏之指引之掌",
+    "zh_tw": "引導之掌：心"
+  },
+  "Guiding Palm of the Eye": {
+    "zh_cn": "眼目之指引之掌",
+    "zh_tw": "引導之掌：眼"
+  },
+  "Guiding Palm of the Mind": {
+    "zh_cn": "意念之指引之掌",
+    "zh_tw": "引導之掌：靈"
+  },
+  "Palm of the Dreamer": {
+    "zh_cn": "幻梦者之掌",
+    "zh_tw": "幻夢者之掌"
+  },
+  "Amor Mandragora": {
+    "zh_cn": "爱神曼陀罗",
+    "zh_tw": "阿莫爾．曼德拉戈拉"
+  },
+  "Hysseg's Claw": {
+    "zh_cn": "西赛格之爪",
+    "zh_tw": "希塞格之爪"
+  },
+  "The Flesh Poppet": {
+    "zh_cn": "血肉傀儡",
+    "zh_tw": "血肉傀儡"
+  },
+  "Voltaxic Rift": {
+    "zh_cn": "魔暴之痕",
+    "zh_tw": "魔暴之痕"
+  },
+  "The Last Lament": {
+    "zh_cn": "末后哀歌",
+    "zh_tw": "臨終悲歌"
+  },
+  "Atziri's Contempt": {
+    "zh_cn": "阿兹里的蔑视",
+    "zh_tw": "阿茲里的蔑視"
+  },
+  "Fury of the King": {
+    "zh_cn": "君王之怒",
+    "zh_tw": "帝王之怒"
+      }
+    }
+  ]
+}

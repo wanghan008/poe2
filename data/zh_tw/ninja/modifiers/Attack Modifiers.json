@@ -1,0 +1,184 @@
+[
+  {
+    "original": "Adds {0} to {1} [Physical|Physical] Damage",
+    "translation": {
+      "zh_cn": "附加 {0} - {1} [Physical|物理]伤害",
+      "zh_tw": "附加 {0} 至 {1} [Physical|物理]傷害"
+    }
+  },
+  {
+    "original": "Adds {0} to {1} [Fire|Fire] Damage",
+    "translation": {
+      "zh_cn": "附加 {0} - {1} [Fire|火焰]伤害",
+      "zh_tw": "附加 {0} 至 {1} [Fire|火焰]傷害"
+    }
+  },
+  {
+    "original": "Adds {0} to {1} [Cold|Cold] Damage",
+    "translation": {
+      "zh_cn": "附加 {0} - {1} [Cold|冰霜]伤害",
+      "zh_tw": "附加 {0} 至 {1} [Cold|冰霜]傷害"
+    }
+  },
+  {
+    "original": "Adds {0} to {1} [Lightning|Lightning] Damage",
+    "translation": {
+      "zh_cn": "附加 {0} - {1} [Lightning|闪电]伤害",
+      "zh_tw": "附加 {0} 至 {1} [Lightning|閃電]傷害"
+    }
+  },
+  {
+    "original": "Adds {0} to {1} [Chaos|Chaos] Damage",
+    "translation": {
+      "zh_cn": "附加 {0} - {1} [Chaos|混沌]伤害",
+      "zh_tw": "附加 {0} 至 {1} [Chaos|混沌]傷害"
+    }
+  },
+  {
+    "original": "Adds {0} to {1} [Physical|Physical] Damage to [Attacks|Attacks]",
+    "translation": {
+      "zh_cn": "[Attacks|攻击]附加 {0} - {1} [Physical|物理]伤害",
+      "zh_tw": "[Attacks|攻擊]附加 {0} 至 {1} [Physical|物理]傷害"
+    }
+  },
+  {
+    "original": "Adds {0} to {1} [Fire|Fire] Damage to [Attacks|Attacks]",
+    "translation": {
+      "zh_cn": "[Attacks|攻击]附加 {0} - {1} 基础[Fire|火焰]伤害",
+      "zh_tw": "[Attacks|攻擊]附加 {0} 至 {1} [Fire|火焰]傷害"
+    }
+  },
+  {
+    "original": "Adds {0} to {1} [Cold|Cold] Damage to [Attacks|Attacks]",
+    "translation": {
+      "zh_cn": "[Attacks|攻击]附加 {0} - {1} 基础[Cold|冰霜]伤害",
+      "zh_tw": "[Attacks|攻擊]附加 {0} 至 {1} [Cold|冰冷]傷害"
+    }
+  },
+  {
+    "original": "Adds {0} to {1} [Lightning|Lightning] Damage to [Attacks|Attacks]",
+    "translation": {
+      "zh_cn": "[Attacks|攻击]附加 {0} - {1} 基础[Lightning|闪电]伤害",
+      "zh_tw": "[Attacks|攻擊]附加 {0} 至 {1} [Lightning|閃電]傷害"
+    }
+  },
+  {
+    "original": "Adds {0} to {1} [Chaos|Chaos] Damage to [Attacks|Attacks]",
+    "translation": {
+      "zh_cn": "[Attacks|攻击]附加 {0} - {1} 基础[Chaos|混沌]伤害",
+      "zh_tw": "[Attacks|攻擊]附加 {0} 至 {1} [Chaos|混沌]傷害"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] deal {0} to {1} added [Attack|Attack] [Physical|Physical] Damage",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]附加 {0} - {1} [Attack|攻击][Physical|物理]伤害",
+      "zh_tw": "處於你[Presence|存在範圍]中的[Allies|友方]造成 {0} 至 {1} 額外[Attack|攻擊][Physical|物理]傷害"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] deal {0} to {1} added [Attack|Attack] [Fire|Fire] Damage",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]附加 {0} - {1} [Attack|攻击][Fire|火焰]伤害",
+      "zh_tw": "處於你[Presence|存在範圍]中的[Allies|友方]造成 {0} 至 {1} 額外[Attack|攻擊][Fire|火焰]傷害"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] deal {0} to {1} added [Attack|Attack] [Cold|Cold] Damage",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]附加 {0} - {1} [Attack|攻击][Cold|冰霜]伤害",
+      "zh_tw": "處於你[Presence|存在範圍]中的[Allies|友方]造成 {0} 至 {1} 額外[Attack|攻擊][Cold|冰冷]傷害"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] deal {0} to {1} added [Attack|Attack] [Lightning|Lightning] Damage",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]附加 {0} - {1} [Attack|攻击][Lightning|闪电]伤害",
+      "zh_tw": "處於你[Presence|存在範圍]中的[Allies|友方]造成 {0} 至 {1} 額外[Attack|攻擊][Lightning|閃電]傷害"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] deal {0} to {1} added [Attack|Attack] [Chaos|Chaos] Damage",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]附加 {0} - {1} [Attack|攻击][Chaos|混沌]伤害",
+      "zh_tw": "處於你[Presence|存在範圍]中的[Allies|友方]造成 {0} 至 {1} 額外[Attack|攻擊][Chaos|混沌]傷害"
+    }
+  },
+  {
+    "original": "{0}% increased [Physical|Physical] Damage",
+    "translation": {
+      "zh_cn": "[Physical|物理]伤害提高 {0}%",
+      "zh_tw": "增加 {0}% [Physical|物理]傷害"
+    }
+  },
+  {
+    "original": "{0} to Accuracy Rating",
+    "translation": {
+      "zh_cn": "{0} [Accuracy|命中]值",
+      "zh_tw": "{0} [Accuracy|命中]值"
+    }
+  },
+  {
+    "original": "{0}% increased [Physical|Physical] Damage / +{1} to [Accuracy|Accuracy] Rating",
+    "translation": {
+      "zh_cn": "[Physical|物理]伤害提高 {0}% / +{1} [Accuracy|命中]值",
+      "zh_tw": "增加 {0}% [Physical|物理]傷害 / +{1} [Accuracy|命中]值"
+    }
+  },
+  {
+    "original": "+{0}% [Surpassing|Surpassing] chance to fire an additional Arrow",
+    "translation": {
+      "zh_cn": "+{0}% 的[Surpassing|溢出]几率发射一支额外箭矢",
+      "zh_tw": "+{0}% [Surpassing|滿溢]機率發射額外一枚箭矢"
+    }
+  },
+  {
+    "original": "Loads an additional bolt",
+    "translation": {
+      "zh_cn": "额外装填一支弩箭",
+      "zh_tw": "裝填額外 1 發弩箭"
+    }
+  },
+  {
+    "original": "Loads {0} additional bolts",
+    "translation": {
+      "zh_cn": "额外装填 {0} 支弩箭",
+      "zh_tw": "裝填額外 {0} 發弩箭"
+    }
+  },
+  {
+    "original": "{0}% increased [Elemental|Elemental] Damage with [Attacks|Attacks]",
+    "translation": {
+      "zh_cn": "[Attacks|攻击]技能的[Elemental|元素]伤害提高 {0}%",
+      "zh_tw": "增加 {0}% [Attacks|攻擊][Elemental|元素]傷害"
+    }
+  },
+  {
+    "original": "[Leeches|Leeches] {0}% of [Physical|Physical] Damage as Life",
+    "translation": {
+      "zh_cn": "物理伤害的 {0}% 转化为生命[Leeches|偷取]",
+      "zh_tw": "以 {0}% 物理傷害[Leeches|偷取]生命"
+    }
+  },
+  {
+    "original": "[Leeches|Leeches] {0}% of [Physical|Physical] Damage as Mana",
+    "translation": {
+      "zh_cn": "[Physical|物理]伤害的 {0}% 转化为魔力[Leeches|偷取]",
+      "zh_tw": "以 {0}% [Physical|物理]傷害[Leeches|偷取]魔力"
+    }
+  },
+  {
+    "original": "[Leech|Leech] {0}% of [Physical|Physical] [Attack|Attack] Damage as Life",
+    "translation": {
+      "zh_cn": "[Physical|物理][Attack|攻击]伤害的 {0}% 转化为生命[Leech|偷取]",
+      "zh_tw": "以 {0}% [Physical|物理][Attack|攻擊]傷害[Leech|偷取]生命"
+    }
+  },
+  {
+    "original": "[Leech|Leech] {0}% of [Physical|Physical] [Attack|Attack] Damage as Mana",
+    "translation": {
+      "zh_cn": "[Physical|物理][Attack|攻击]伤害的 {0}% 转化为魔力[Leech|偷取]",
+      "zh_tw": "以 {0}% [Physical|物理][Attack|攻擊]傷害[Leech|偷取]魔力"
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "original": "{0} to [Spirit|Spirit]",
+    "translation": {
+      "zh_cn": "{0} [Spirit|精魂]",
+      "zh_tw": "{0} [Spirit|精魂]"
+    }
+  },
+  {
+    "original": "{0}% increased [Spirit|Spirit]",
+    "translation": {
+      "zh_cn": "[Spirit|精魂]提高 {0}%",
+      "zh_tw": "增加 {0}% [Spirit|精魂]"
+    }
+  },
+  {
+    "original": "{0}% increased [Rarity of Items|Rarity of Items] found",
+    "translation": {
+      "zh_cn": "[Rarity of Items|物品稀有度]提高 {0}%",
+      "zh_tw": "增加 {0}% 找到的[Rarity of Items|物品稀有度]"
+    }
+  },
+  {
+    "original": "{0}% increased [Attribute|Attribute] Requirements",
+    "translation": {
+      "zh_cn": "[Attribute|属性]需求提高 {0}%",
+      "zh_tw": "增加 {0}% [Attribute|能力值]需求"
+    }
+  },
+  {
+    "original": "{0}% reduced [Attribute|Attribute] Requirements",
+    "translation": {
+      "zh_cn": "[Attribute|属性]需求降低 {0}%",
+      "zh_tw": "減少 {0}% [Attribute|能力值]需求"
+    }
+  },
+  {
+    "original": "{0} to [Stun Threshold|Stun Threshold]",
+    "translation": {
+      "zh_cn": "{0} [Stun Threshold|晕眩阈值]",
+      "zh_tw": "[Stun Threshold|暈眩門檻] {0}"
+    }
+  },
+  {
+    "original": "{0}% increased [Light Radius|Light Radius]",
+    "translation": {
+      "zh_cn": "[Light Radius|照亮范围]提高 {0}%",
+      "zh_tw": "增加 {0}% [Light Radius|光線範圍]"
+    }
+  },
+  {
+    "original": "{0}% increased [Presence|Presence] Area of Effect",
+    "translation": {
+      "zh_cn": "[Presence|在场]范围提高 {0}%",
+      "zh_tw": "增加 {0}% [Presence|存在範圍]的效果範圍"
+    }
+  },
+  {
+    "original": "{0}% increased [Stun|Stun] Duration",
+    "translation": {
+      "zh_cn": "[Stun|晕眩]持续时间提高 {0}%",
+      "zh_tw": "增加 {0}% [Stun|暈眩]持續時間"
+    }
+  },
+  {
+    "original": "{0}% increased [Flammability|Flammability] [Magnitude|Magnitude]",
+    "translation": {
+      "zh_cn": "[Flammability|易燃][Magnitude|强度]提高 {0}%",
+      "zh_tw": "增加 {0}% [Flammability|易燃][Magnitude|幅度]"
+    }
+  },
+  {
+    "original": "{0}% increased [Freeze|Freeze] Buildup",
+    "translation": {
+      "zh_cn": "[Freeze|冻结]积蓄值提高 {0}%",
+      "zh_tw": "增加 {0}% [Freeze|冰凍]累積"
+    }
+  },
+  {
+    "original": "{0}% increased chance to [Shock|Shock]",
+    "translation": {
+      "zh_cn": "[Shock|感电]几率提高 {0}%",
+      "zh_tw": "增加 {0}% [Shock|感電]機率"
+    }
+  },
+  {
+    "original": "{0}% reduced [Shock|Shock] duration on you",
+    "translation": {
+      "zh_cn": "你被[Shock|感电]的持续时间降低 {0}%",
+      "zh_tw": "減少 {0}% 你身上的[Shock|感電]持續時間"
+    }
+  },
+  {
+    "original": "{0}% reduced [Chill|Chill] Duration on you",
+    "translation": {
+      "zh_cn": "你被[Chill|冰缓]的持续时间降低 {0}%",
+      "zh_tw": "減少 {0}% 你身上的[Chill|冰緩]持續時間"
+    }
+  },
+  {
+    "original": "{0}% reduced [Freeze|Freeze] Duration on you",
+    "translation": {
+      "zh_cn": "你被[Freeze|冻结]的持续时间降低 {0}%",
+      "zh_tw": "減少 {0}% 你身上的[Freeze|冰凍]持續時間"
+    }
+  },
+  {
+    "original": "{0}% reduced Duration of [Bleeding|Bleeding] on You",
+    "translation": {
+      "zh_cn": "受到[Bleeding|流血]的持续时间降低 {0}%",
+      "zh_tw": "減少 {0}% 你身上的[Bleeding|流血]持續時間"
+    }
+  },
+  {
+    "original": "{0}% reduced [Poison|Poison] Duration on you",
+    "translation": {
+      "zh_cn": "你受到的[Poison|中毒]持续时间降低 {0}%",
+      "zh_tw": "減少 {0}% 你身上的[Poison|中毒]持續時間"
+    }
+  },
+  {
+    "original": "{0}% reduced [Ignite|Ignite] Duration on you",
+    "translation": {
+      "zh_cn": "你被[Ignite|点燃]的持续时间降低 {0}%",
+      "zh_tw": "減少 {0}% 你身上的[Ignite|點燃]持續時間"
+    }
+  },
+  {
+    "original": "{0}% chance to [Pierce|Pierce] an Enemy",
+    "translation": {
+      "zh_cn": "{0}% 的几率[Pierce|穿透]一个敌人",
+      "zh_tw": "有 {0}% 機率[Pierce|穿透]一個敵人"
+    }
+  },
+  {
+    "original": "{0}% increased [Block|Block] chance",
+    "translation": {
+      "zh_cn": "[Block|格挡]几率提高 {0}%",
+      "zh_tw": "增加 {0}% [Block|格擋]率"
+    }
+  },
+  {
+    "original": "[Mark of the Abyssal Lord|Mark of the Abyssal Lord]",
+    "translation": {
+      "zh_cn": "[Mark of the Abyssal Lord|深渊领主的印记]",
+      "zh_tw": "[Mark of the Abyssal Lord|深淵領主印記]"
+    }
+  },
+  {
+    "original": "Bears the [Mark of the Abyssal Lord|Mark of the Abyssal Lord]",
+    "translation": {
+      "zh_cn": "帶有[Mark of the Abyssal Lord|深渊领主的印记]",
+      "zh_tw": "帶有[Mark of the Abyssal Lord|深淵領主印記]"
+    }
+  },
+  {
+    "original": "Has {0} [Charm|Charm] Slots",
+    "translation": {
+      "zh_cn": "具有 {0} 个[Charm|咒符]栏",
+      "zh_tw": "有 {0} 個[Charm|護符]欄位"
+    }
+  },
+  {
+    "original": "Has {0} [Charm|Charm] Slot",
+    "translation": {
+      "zh_cn": "具有 {0} 个[Charm|咒符]栏",
+      "zh_tw": "有 {0} 個[Charm|護符]欄位"
+    }
+  },
+  {
+    "original": "{0}% increased [Flask|Flask] Charges gained",
+    "translation": {
+      "zh_cn": "获得的[Flask|药剂]充能提高 {0}%",
+      "zh_tw": "增加 {0}% [Flask|藥劑]充能獲取"
+    }
+  },
+  {
+    "original": "{0}% reduced [Flask|Flask] Charges used",
+    "translation": {
+      "zh_cn": "使用的[Flask|药剂]充能降低 {0}%",
+      "zh_tw": "減少 {0}% [Flask|藥劑]充能使用"
+    }
+  },
+  {
+    "original": "{0}% increased [Charm|Charm] Charges gained",
+    "translation": {
+      "zh_cn": "获得的[Charm|咒符]充能提高 {0}%",
+      "zh_tw": "增加 {0}% [Charm|護符]充能獲取"
+    }
+  },
+  {
+    "original": "{0}% reduced [Charm|Charm] Charges used",
+    "translation": {
+      "zh_cn": "使用的[Charm|咒符]充能降低 {0}%",
+      "zh_tw": "減少 {0}% [Charm|護符]充能使用"
+    }
+  },
+  {
+    "original": "{0}% reduced [Cooldown Recovery Rate|Cooldown Recovery Rate]",
+    "translation": {
+      "zh_cn": "[Cooldown Recovery Rate|冷却回复速度]降低 {0}%",
+      "zh_tw": "減少 {0}% [Cooldown Recovery Rate|冷卻時間恢復率]"
+    }
+  },
+  {
+    "original": "{0}% increased [Charm|Charm] Effect Duration",
+    "translation": {
+      "zh_cn": "[Charm|咒符]效果的持续时间提高 {0}%",
+      "zh_tw": "增加 {0}% [Charm|護符]效果持續時間"
+    }
+  }
+]

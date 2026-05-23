@@ -1,0 +1,574 @@
+[
+  {
+    "original":"Right click to drink. Can only hold charges while in belt. Refill at [Wells|Wells] or by killing monsters.",
+    "translation":{
+      "zh_cn":"点击右键以喝下药剂。只有装备于腰带上时才会充能。可通过[Wells|水井]或击败怪物补充。",
+      "zh_tw":"右鍵點擊以喝下藥劑。只有裝備於腰帶上時才會充能。在[Wells|水井]或殺死怪物可回復充能次數。"
+    }
+  },
+  {
+    "original":"Used automatically when condition is met. Can only hold charges while in belt. Refill at [Wells|Wells] or by killing monsters.",
+    "translation":{
+      "zh_cn":"满足条件时自动使用。只有装备于腰带上时才会充能。可通过[Wells|水井]或击败怪物补充。",
+      "zh_tw":"達成特定條件時會自動使用。只有裝備於腰帶上時才會充能。可在[Wells|水井]，或是透過擊殺怪物補充。"
+    }
+  },
+  {
+    "original":"Grants Immunity to [Freeze|Freeze]",
+    "translation":{
+      "zh_cn":"可以免疫[Freeze|冻结]",
+      "zh_tw":"賦予[Freeze|冰凍]免疫"
+    }
+  },
+  {
+    "original":"Used when you become [Frozen|Frozen]",
+    "translation":{
+      "zh_cn":"陷入[Frozen|冻结]时自动使用",
+      "zh_tw":"當你被[Frozen|冰凍]時使用"
+    }
+  },
+  {
+    "original":"Grants Immunity to [Bleeding|Bleeding]",
+    "translation":{
+      "zh_cn":"可以免疫[Bleeding|流血]",
+      "zh_tw":"賦予[Bleeding|流血]免疫"
+    }
+  },
+  {
+    "original":"Used when you start [Bleeding|Bleeding]",
+    "translation":{
+      "zh_cn":"你开始[Bleeding|流血]时自动使用",
+      "zh_tw":"當你開始[Bleeding|流血]時使用"
+    }
+  },
+  {
+    "original":"Grants Immunity to [Poison|Poison]",
+    "translation":{
+      "zh_cn":"可以免疫[Poison|中毒]",
+      "zh_tw":"賦予[Poison|中毒]免疫"
+    }
+  },
+  {
+    "original":"Used when you become [Poisoned|Poisoned]",
+    "translation":{
+      "zh_cn":"陷入[Poison|中毒]时自动使用",
+      "zh_tw":"當你被[Poison|中毒]時使用"
+    }
+  },
+  {
+    "original":"Grants Immunity to [Ignite|Ignite]",
+    "translation":{
+      "zh_cn":"可以免疫[Ignite|点燃]",
+      "zh_tw":"賦予[Ignite|點燃]免疫"
+    }
+  },
+  {
+    "original":"Used when you become [Ignited|Ignited]",
+    "translation":{
+      "zh_cn":"被[Ignite|点燃]时自动使用",
+      "zh_tw":"當你被[Ignite|點燃]時使用"
+    }
+  },
+  {
+    "original":"Grants Immunity to [Shock|Shock]",
+    "translation":{
+      "zh_cn":"可以免疫[Shock|感电]",
+      "zh_tw":"賦予[Shock|感電]免疫"
+    }
+  },
+  {
+    "original":"Used when you become [Shocked|Shocked]",
+    "translation":{
+      "zh_cn":"陷入[Shock|感电]时自动使用",
+      "zh_tw":"當你被[Shock|感電]時使用"
+    }
+  },
+  {
+    "original":"Cannot be [Stunned|Stunned]",
+    "translation":{
+      "zh_cn":"免疫[Stunned|晕眩]",
+      "zh_tw":"無法被[Stunned|暈眩]"
+    }
+  },
+  {
+    "original":"Used when you become [Stunned|Stunned]",
+    "translation":{
+      "zh_cn":"当你被[Stunned|晕眩]时使用",
+      "zh_tw":"當你被[Stunned|暈眩]時使用"
+    }
+  },
+  {
+    "original":"Your speed is unaffected by [Slows|Slows]",
+    "translation":{
+      "zh_cn":"你的速度不受[Slows|减速]效果影响",
+      "zh_tw":"你的速度不受[Slows|緩速]影響"
+    }
+  },
+  {
+    "original":"Used when you are affected by a [Slow|Slow]",
+    "translation":{
+      "zh_cn":"当你受到[Slows|减速]影响时使用",
+      "zh_tw":"當你受到[Slows|緩速]效果影響時使用"
+    }
+  },
+  {
+    "original":"Used when you take [Fire|Fire] damage from a [Hit|Hit]",
+    "translation":{
+      "zh_cn":"当你受到[Hit|击中][Fire|火焰]伤害时使用",
+      "zh_tw":"當你被[Fire|火焰]傷害[Hit|擊中]時使用"
+    }
+  },
+  {
+    "original":"Used when you take [Cold|Cold] damage from a [Hit|Hit]",
+    "translation":{
+      "zh_cn":"当你受到[Hit|击中][Cold|冰霜]伤害时使用",
+      "zh_tw":"當你被[Cold|冰冷]傷害[Hit|擊中]時使用"
+    }
+  },
+  {
+    "original":"Used when you take [Lightning|Lightning] damage from a [Hit|Hit]",
+    "translation":{
+      "zh_cn":"当你受到[Hit|击中][Lightning|闪电]伤害时使用",
+      "zh_tw":"當你被[Lightning|閃電]傷害[Hit|擊中]時使用"
+    }
+  },
+  {
+    "original":"Used when you take [Chaos|Chaos] damage from a [Hit|Hit]",
+    "translation":{
+      "zh_cn":"当你受到[Hit|击中][Chaos|混沌]伤害时使用",
+      "zh_tw":"當你被[Chaos|混沌]傷害[Hit|擊中]時使用"
+    }
+  },
+  {
+    "original":"Used when you kill a [Rare|Rare] or [Unique|Unique] enemy",
+    "translation":{
+      "zh_cn":"当你击败[Rare|稀有]或[Unique|传奇]敌人时使用",
+      "zh_tw":"當你擊殺[Rare|稀有]或[Unique|傳奇]敵人時使用"
+    }
+  },
+  {
+    "original":"Grants Immunity to [Curses|Curses]",
+    "translation":{
+      "zh_cn":"免疫[Curses|诅咒]",
+      "zh_tw":"賦予[Curses|詛咒]免疫"
+    }
+  },
+  {
+    "original":"Used when you become [Cursed|Cursed]",
+    "translation":{
+      "zh_cn":"被[Curses|诅咒]时自动使用",
+      "zh_tw":"當你被[Curses|詛咒]時使用"
+    }
+  },
+  {
+    "group":[
+      {
+        "original":"[Energy Shield Recharge|Energy Shield Recharge] starts on use",
+        "translation":{
+          "zh_cn":"使用时开始[Energy Shield Recharge|能量护盾充能]",
+          "zh_tw":"使用時開始[Energy Shield Recharge|能量護盾充能]"
+        }
+      },
+      {
+        "original":"\"Even in the face of the Winter of the World,\nlife found a way. The Spirit always provides.\"",
+        "translation":{
+          "zh_cn":"“即使面对世界之冬，生命也能找到出路。\n万灵始终都在庇佑我们。”",
+          "zh_tw":"「即使面對世界的凜冬，\n靈魂依舊賦予生命的悸動。」"
+        }
+      },
+      {
+        "original":"Creates [Consecrated Ground|Consecrated Ground] on use",
+        "translation":{
+          "zh_cn":"使用时产生[Consecrated Ground|奉献地面]",
+          "zh_tw":"使用時會製造[Consecrated Ground|奉獻地面]"
+        }
+      },
+      {
+        "original":"Wraeclast has known too few true heroes.\nIt remembers those that stood in defiance.",
+        "translation":{
+          "zh_cn":"瓦尔克拉斯从未出过如此多的英雄豪杰。\n这里会铭记那些敢于奋起反抗的勇者。",
+          "zh_tw":"瓦爾克拉斯誕生過多少英雄好漢，\n見證他們在時間的長河中掀起滔天波瀾。"
+        }
+      },
+      {
+        "original":"Recover Life equal to {0}% of Mana [Flask's|Flask's] Recovery Amount when used",
+        "translation":{
+          "zh_cn":"使用时回复等于魔力[Flask's|药剂]回复量的 {0}% 的生命",
+          "zh_tw":"使用時，恢復相當於魔力[Flask's|藥劑]恢復量 {0}% 的生命"
+        }
+      },
+      {
+        "original":"Recover Mana equal to {0}% of Life [Flask's|Flask's] Recovery Amount when used",
+        "translation":{
+          "zh_cn":"使用时回复等于生命[Flask's|药剂]回复量的 {0}% 的魔力",
+          "zh_tw":"使用時，恢復相當於生命[Flask's|藥劑]恢復量 {0}% 的魔力"
+        }
+      },
+      {
+        "original":"Devotees of the Goddess of Lust\nneeded never fear her sting.",
+        "translation":{
+          "zh_cn":"放荡女神的信徒永远无需害怕她的毒刺。",
+          "zh_tw":"慾之女神的虔誠信徒喜迎\n那得天獨厚又錐心刺骨的寵幸。"
+        }
+      },
+      {
+        "original":"Creates [Ignited Ground|Ignited Ground] for {1} seconds when used, [Igniting|Igniting] enemies as though dealing [Fire|Fire] damage equal to {0}% of your maximum Life",
+        "translation":{
+          "zh_cn":"使用时造成持续 {1} 秒的[Ignited Ground|燃烧地面]，地面[Igniting|点燃]敌人时造成等同你最大生命 {0}% 的[Fire|火焰]伤害",
+          "zh_tw":"使用時生成持續 {1} 秒的[Ignited Ground|點燃地面]來[Igniting|點燃]敵人，造成等同於你最大生命 {0}% 的[Fire|火焰]傷害"
+        }
+      },
+      {
+        "original":"They found a crying child tied to a frozen pyre.\nShe was clad in ice, but the village was ash.",
+        "translation":{
+          "zh_cn":"他们在冰封的火堆上发现了嚎哭的孩子。\n她被寒冰紧紧包裹，村庄却已化作燃灰。",
+          "zh_tw":"他們在冰凍的火堆旁找到一個被綁住的哭鬧孩童。\n她渾身覆滿凍霜，但整個村落卻化為灰燼。"
+        }
+      },
+      {
+        "original":"[Lightning|Lightning] Damage of Enemies [Hitting|Hitting] you is [Unlucky|Unlucky] during effect",
+        "translation":{
+          "zh_cn":"效果期间，敌人对你的[Hitting|击中][Lightning|闪电]伤害[Unlucky|特别不幸]",
+          "zh_tw":"在效果期間，敵人[Hitting|擊中]你的[Lightning|閃電]傷害相當[Unlucky|不幸]"
+        }
+      },
+      {
+        "original":"The most beloved member of every Brinerot crew\nis the one that refuses to do any actual work.",
+        "translation":{
+          "zh_cn":"在布琳洛特的每艘船上，\n最讨人喜爱的家伙都是从不干活儿的那个。",
+          "zh_tw":"在布琳洛特集三千寵愛於一身，\n卻不知何謂責任。"
+        }
+      },
+      {
+        "original":"Defend with {0}% of [Armour|Armour] during effect",
+        "translation":{
+          "zh_cn":"效果期间以 {0}% 的[Armour|护甲]防御",
+          "zh_tw":"在效果期間，以 {0}% [Armour|護甲值]防禦"
+        }
+      },
+      {
+        "original":"\"It may be centuries hence, but I still hold utmost faith.\nThe Saviour will rise, and mankind will be free.\"",
+        "translation":{
+          "zh_cn":"“纵使千秋已逝，我仍怀至深信仰。\nT救赎者将会崛起，人类将会自由。”",
+          "zh_tw":"「經歷無數世紀，我依舊堅信\nT救世主將挺身而出，帶領人們迎向自由光明。」"
+        }
+      },
+      {
+        "original":"Grants [Onslaught|Onslaught] during effect",
+        "translation":{
+          "zh_cn":"效果期间获得[Onslaught|猛攻]",
+          "zh_tw":"在效果期間賦予[Onslaught|猛攻]"
+        }
+      },
+      {
+        "original":"\"When the headsman's blade swings,\nyour last moments stretch to eternity.\"\n- Vorm, the Twice-Pardoned",
+        "translation":{
+          "zh_cn":"“处刑者挥起大刀之时，\n最后一刻便永远定格。”\n——被特赦两次的沃尔姆",
+          "zh_tw":"「劊子手的刀刃斬下時，\n無盡的歲月將在眼前消逝。」\n- 逃過死劫兩次的沃姆"
+        }
+      },
+      {
+        "original":"Grants up to your maximum [Rage|Rage] on use",
+        "translation":{
+          "zh_cn":"使用时获得最大[Rage|怒火]",
+          "zh_tw":"使用時賦予你最大[Rage|盛怒]"
+        }
+      },
+      {
+        "original":"Kaom was not known for his restraint.",
+        "translation":{
+          "zh_cn":"冈姆的英名与隐忍毫无关联。",
+          "zh_tw":"岡姆並不因自我克制而為人所知。"
+        }
+      },
+      {
+        "original":"Grants a [Power Charge|Power Charge] on use",
+        "translation":{
+          "zh_cn":"使用时给予一个[Power Charge|能量球]",
+          "zh_tw":"使用時賦予一個[Power Charge|暴擊球]"
+        }
+      },
+      {
+        "original":"\"To scrape the sky,\nto touch the clouds themselves,\nis to know true freedom.\"\n- Mutewind saying",
+        "translation":{
+          "zh_cn":"“翱翔天际，\n触碰流云，\n方知自由为何物。”\n——哑风谚语",
+          "zh_tw":"「擁抱蒼穹、\n駕馭驅使雲霧雷電的勁風，\n方能體認自由的感動。」\n- 啞風之言"
+        }
+      },
+      {
+        "original":"Grants a [Frenzy Charge|Frenzy Charge] on use",
+        "translation":{
+          "zh_cn":"使用时给予一个[Frenzy Charge|狂怒球]",
+          "zh_tw":"使用時賦予一個[Frenzy Charge|狂怒球]"
+        }
+      },
+      {
+        "original":"The sea swells, the sky thunders; two ships tilt at odds.\nFlashes of light show only swinging axes... and a grin.",
+        "translation":{
+          "zh_cn":"海涛汹汹，天雷滚滚，双舸竞斗冲。\n电闪破黑云，刀光映斧影，唯见寒笑森森。",
+          "zh_tw":"浪濤洶湧、電馳雷鳴；百尺之船焉能奈何命運此刻酩酊？\n疾光迅影之間，卻只映照出揮舞的斧頭……還有一抹微笑。"
+        }
+      },
+      {
+        "original":"{0}% of [Chaos|Chaos] damage you prevent when [Hit|Hit] [Recouped|Recouped] as Life and Mana during effect",
+        "translation":{
+          "zh_cn":"效果期间，你被[Hit|击中]时阻挡的[Chaos|混沌]伤害的 {0}% [Recouped|吸纳]为生命和魔力",
+          "zh_tw":"抵禦遭[Hit|擊中]所承受的[Chaos|混沌]傷害時，其 {0}% 會[Recouped|補償]為生命和魔力"
+        }
+      },
+      {
+        "original":"Among the Templars, a secret few ate the sins of others.\nThey bore this burden to empower their hidden Order.",
+        "translation":{
+          "zh_cn":"在圣堂武僧中，少数秘密成员以他人的罪恶为食。\n他们负重前行，只为让他们的隐秘教团发展壮大。",
+          "zh_tw":"聖騎士的行列中，一部分仰賴他人罪惡為生，\n肩負這份重擔讓他們的勢力得以興盛。"
+        }
+      },
+      {
+        "original":"[Possessed|Possessed] by [Spirit Of The Bear|Spirit Of The Bear] for {0} seconds on use",
+        "translation":{
+          "zh_cn":"使用时被[Spirit Of The Bear|巨熊之灵][Possessed|附身] {0} 秒",
+          "zh_tw":"使用時會被[Spirit Of The Bear|熊之魂][Possessed|附身]，持續 {0} 秒"
+        }
+      },
+      {
+        "original":"[Possessed|Possessed] by [Spirit Of The Boar|Spirit Of The Boar] for {0} seconds on use",
+        "translation":{
+          "zh_cn":"使用时被[Spirit Of The Boar|野猪之灵][Possessed|附身] {0} 秒",
+          "zh_tw":"使用時會被[Spirit Of The Boar|野豬之魂][Possessed|附身]，持續 {0} 秒"
+        }
+      },
+      {
+        "original":"[Possessed|Possessed] by [Spirit Of The Cat|Spirit Of The Cat] for {0} seconds on use",
+        "translation":{
+          "zh_cn":"使用时被[Spirit Of The Cat|豹之灵][Possessed|附身] {0} 秒",
+          "zh_tw":"使用時會被[Spirit Of The Cat|貓之魂][Possessed|附身]，持續 {0} 秒"
+        }
+      },
+      {
+        "original":"[Possessed|Possessed] by [Spirit Of The Owl|Spirit Of The Owl] for {0} seconds on use",
+        "translation":{
+          "zh_cn":"使用时被[Spirit Of The Owl|枭之灵][Possessed|附身] {0} 秒",
+          "zh_tw":"使用時會被[Spirit Of The Owl|貓頭鷹之魂][Possessed|附身]，持續 {0} 秒"
+        }
+      },
+      {
+        "original":"[Possessed|Possessed] by [Spirit Of The Ox|Spirit Of The Ox] for {0} seconds on use",
+        "translation":{
+          "zh_cn":"使用时被[Spirit Of The Ox|蛮牛之灵][Possessed|附身] {0} 秒",
+          "zh_tw":"使用時會被[Spirit Of The Ox|公牛之魂][Possessed|附身]，持續 {0} 秒"
+        }
+      },
+      {
+        "original":"[Possessed|Possessed] by [Spirit Of The Primate|Spirit Of The Primate] for {0} seconds on use",
+        "translation":{
+          "zh_cn":"使用时被[Spirit Of The Primate|狂猿之灵][Possessed|附身] {0} 秒",
+          "zh_tw":"使用時會被[Spirit Of The Primate|猿猴之魂][Possessed|附身]，持續 {0} 秒"
+        }
+      },
+      {
+        "original":"Possessed by a random Spirit for {0} seconds on use",
+        "translation":{
+          "zh_cn":"使用时被一个随机灵体附身 {0} 秒",
+          "zh_tw":"使用時，受一個隨機魂靈附身，持續 {0} 秒"
+        }
+      },
+      {
+        "original":"[Possessed|Possessed] by [Spirit Of The Serpent|Spirit Of The Serpent] for {0} seconds on use",
+        "translation":{
+          "zh_cn":"使用时被[Spirit Of The Serpent|蛇之灵][Possessed|附身] {0} 秒",
+          "zh_tw":"使用時會被[Spirit Of The Serpent|蝮蛇之魂][Possessed|附身]，持續 {0} 秒"
+        }
+      },
+      {
+        "original":"[Possessed|Possessed] by [Spirit Of The Stag|Spirit Of The Stag] for {0} seconds on use",
+        "translation":{
+          "zh_cn":"使用时被[Spirit Of The Stag|雄鹿之灵][Possessed|附身] {0} 秒",
+          "zh_tw":"使用時會被[Spirit Of The Stag|公鹿之魂][Possessed|附身]，持續 {0} 秒"
+        }
+      },
+      {
+        "original":"[Possessed|Possessed] by [Spirit Of The Wolf|Spirit Of The Wolf] for {0} seconds on use",
+        "translation":{
+          "zh_cn":"使用时被[Spirit Of The Wolf|头狼之灵][Possessed|附身] {0} 秒",
+          "zh_tw":"使用時會被[Spirit Of The Wolf|狼之魂][Possessed|附身]，持續 {0} 秒"
+        }
+      },
+      {
+        "original":"To become a warrior and a hunter, each young\nAzmeri must prove themselves before the Spirit.",
+        "translation":{
+          "zh_cn":"要想成为战士和猎手，每个年轻的\n阿兹莫里人都必须在万灵面前证明自己。",
+          "zh_tw":"阿茲莫里的年少戰士和獵人面對魂靈，\n必須用盡一切手段證明自身的價值。"
+        }
+      }
+    ]
+  },
+  {
+    "original":"Base Prefix",
+    "translation":{
+      "zh_cn":"基础 前缀",
+      "zh_tw":"基礎 前綴"
+    }
+  },
+  {
+    "group":[
+      {
+        "original":"{0}% increased Life Recovered",
+        "translation":{
+          "zh_cn":"生命回复提高 {0}%",
+          "zh_tw":"增加 {0}% 生命恢復"
+        }
+      },
+      {
+        "original":"{0}% increased Mana Recovered",
+        "translation":{
+          "zh_cn":"魔力回复提高 {0}%",
+          "zh_tw":"增加 {0}% 魔力恢復"
+        }
+      },
+      {
+        "original":"Removes {0}% of Life Recovered from Mana when used",
+        "translation":{
+          "zh_cn":"使用时会移除魔力，等同于生命回复值的 {0}%",
+          "zh_tw":"使用時，會扣除生命恢復值 {0}% 的魔力"
+        }
+      },
+      {
+        "original":"Removes {0}% of Mana Recovered from Life when used",
+        "translation":{
+          "zh_cn":"使用时会移除生命，等同于魔力回复值的 {0}%",
+          "zh_tw":"使用時，會扣除魔力恢復值 {0}% 的生命"
+        }
+      },
+      {
+        "original":"{0}% increased Amount Recovered",
+        "translation":{
+          "zh_cn":"回复量提高 {0}%",
+          "zh_tw":"增加 {0}% 恢復量"
+        }
+      },
+      {
+        "original":"{0}% more Recovery if used while on [Low Life|Low Life]",
+        "translation":{
+          "zh_cn":"恢复效果在[Low Life|低血]状态下使用时总增 {0}%",
+          "zh_tw":"增加 {0}% 若在[Low Life|貧血狀態]下使用，恢復量"
+        }
+      },
+      {
+        "original":"{0}% more Recovery if used while on Low Mana",
+        "translation":{
+          "zh_cn":"回复效果在低魔下使用时总增 {0}%",
+          "zh_tw":"增加 {0}% 貧魔狀態下使用時，回復量"
+        }
+      },
+      {
+        "original":"{0}% reduced Amount Recovered",
+        "translation":{
+          "zh_cn":"回复量降低 {0}%",
+          "zh_tw":"減少 {0}% 恢復量"
+        }
+      },
+      {
+        "original":"Instant Recovery",
+        "translation":{
+          "zh_cn":"立即回复",
+          "zh_tw":"立即恢復"
+        }
+      },
+      {
+        "original":"Grants {0}% of Life Recovery to Minions",
+        "translation":{
+          "zh_cn":"给召唤生物提供 {0}% 生命恢复效果",
+          "zh_tw":"得到 {0}% 召喚物生命恢復"
+        }
+      },
+      {
+        "original":"{0}% increased Recovery rate",
+        "translation":{
+          "zh_cn":"回复速度提高 {0}%",
+          "zh_tw":"增加 {0}% 恢復率"
+        }
+      },
+      {
+        "original":"{0}% of Recovery applied Instantly",
+        "translation":{
+          "zh_cn":"立即回复 {0}% 回复量",
+          "zh_tw":"{0}% 恢復量立即恢復"
+        }
+      },
+      {
+        "original":"Recover {0} Life when Used",
+        "translation":{
+          "zh_cn":"使用时回复 {0} 生命",
+          "zh_tw":"使用後恢復 {0} 生命"
+        }
+      },
+      {
+        "original":"Recover {0} Mana when Used",
+        "translation":{
+          "zh_cn":"使用时回复 {0} 魔力",
+          "zh_tw":"使用後恢復 {0} 魔力"
+        }
+      },
+      {
+        "original":"Also grants {0} [Guard|Guard]",
+        "translation":{
+          "zh_cn":"同时获得 {0} [Guard|防卫]",
+          "zh_tw":"同時賦予 {0} 層[Guard|守護]"
+        }
+      },
+      {
+        "original":"{0}% increased Duration",
+        "translation":{
+          "zh_cn":"持续时间提高 {0}%",
+          "zh_tw":"增加 {0}% 持續時間"
+        }
+      }
+    ]
+  },
+  {
+    "original":"Base Suffix",
+    "translation":{
+      "zh_cn":"基础 后缀",
+      "zh_tw":"基礎 後綴"
+    }
+  },
+  {
+    "group":[
+      {
+        "original":"{0}% Chance to gain a [Charge|Charge] when you kill an enemy",
+        "translation":{
+          "zh_cn":"击败敌人时有 {0}% 的几率获得一个[Charge|能量球]",
+          "zh_tw":"殺死敵人時有 {0}% 機率獲得一顆[Charge|能量球]"
+        }
+      },
+      {
+        "original":"{0}% increased Charges gained",
+        "translation":{
+          "zh_cn":"获得的充能提高 {0}%",
+          "zh_tw":"增加 {0}% 獲得的能量球"
+        }
+      },
+      {
+        "original":"{0}% reduced Charges per use",
+        "translation":{
+          "zh_cn":"每次使用消耗的充能次数降低 {0}%",
+          "zh_tw":"每次使用減少 {0}% 充能"
+        }
+      },
+      {
+        "original":"{0}% increased Charges",
+        "translation":{
+          "zh_cn":"充能提高 {0}%",
+          "zh_tw":"{0}% 額外補充量"
+        }
+      },
+      {
+        "original":"Gains {0} Charges per Second",
+        "translation":{
+          "zh_cn":"每秒获得 {0} 次充能",
+          "zh_tw":"每秒獲得 {0} 充能"
+        }
+      }
+    ]
+  }
+]

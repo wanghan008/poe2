@@ -1,0 +1,2544 @@
+{
+  "Spectre: {0}":{
+    "zh_cn":"灵体: {0}",
+    "zh_tw":"幽魂: {0}"
+  },
+  "Companion: {0}":{
+    "zh_cn":"伙伴: {0}",
+    "zh_tw":"盟友: {0}"
+  },
+  "Spectre: {0} Gems":{
+    "zh_cn":"灵体: {0} 宝石",
+    "zh_tw":"幽魂: {0} 寶石"
+  },
+  "Companion: {0} Gems":{
+    "zh_cn":"伙伴: {0} 宝石",
+    "zh_tw":"盟友: {0} 寶石"
+  },
+  "Map Boss":{
+    "zh_cn":"地图首领",
+    "zh_tw":"地圖頭目"
+  },
+  "Map Boss_Group":[
+    {
+      "The Bloated Miller":{
+        "zh_cn":"浮肿的伐木工",
+        "zh_tw":"浮腫米勒"
+      }
+    },
+    {
+      "Beira":{
+        "zh_cn":"贝拉",
+        "zh_tw":"貝伊拉"
+      }
+    },
+    {
+      "Beira of the Rotten Pack":{
+        "zh_cn":"腐败兽群的贝拉",
+        "zh_tw":"腐敗獸群．貝伊拉"
+      }
+    },
+    {
+      "The Brambleghast":{
+        "zh_cn":"异生荆棘",
+        "zh_tw":"荊棘懼怪"
+      }
+    },
+    {
+      "The Rust King":{
+        "zh_cn":"锈污之王",
+        "zh_tw":"鐵鏽之王"
+      }
+    },
+    {
+      "The Rotten Druid":{
+        "zh_cn":"腐烂的德鲁伊",
+        "zh_tw":"腐敗的德魯伊"
+      }
+    },
+    {
+      "Lachlann of Endless Lament":{
+        "zh_cn":"哀痛欲绝的拉赫兰",
+        "zh_tw":"無盡悲歌的拉克朗"
+      }
+    },
+    {
+      "Draven, the Eternal Praetor":{
+        "zh_cn":"德莱文，永恒执政官",
+        "zh_tw":"永恆政務官．德雷文"
+      }
+    },
+    {
+      "Asinia, the Praetor's Consort":{
+        "zh_cn":"阿辛妮娅，执政官的伴侣",
+        "zh_tw":"政務官配偶．阿席妮雅"
+      }
+    },
+    {
+      "The Crowbell":{
+        "zh_cn":"悬铃巨鸦",
+        "zh_tw":"鴉鈴"
+      }
+    },
+    {
+      "The King in the Mists|King In The Mists":{
+        "zh_cn":"迷雾之王",
+        "zh_tw":"迷霧之王"
+      }
+    },
+    {
+      "The Executioner":{
+        "zh_cn":"惩罚者",
+        "zh_tw":"劊子手"
+      }
+    },
+    {
+      "Candlemass":{
+        "zh_cn":"烛火雕像",
+        "zh_tw":"燭光"
+      }
+    },
+    {
+      "Candlemass, the Living Rite":{
+        "zh_cn":"烛火雕像，活化者",
+        "zh_tw":"存活儀式．燭光"
+      }
+    },
+    {
+      "Count Geonor":{
+        "zh_cn":"吉恩诺伯爵",
+        "zh_tw":"吉恩諾伯爵"
+      }
+    },
+    {
+      "Rathbreaker":{
+        "zh_cn":"摧寨魔",
+        "zh_tw":"撕裂者"
+      }
+    },
+    {
+      "Balbala, the Traitor":{
+        "zh_cn":"叛徒贝尔巴拉",
+        "zh_tw":"叛徒芭芭拉"
+      }
+    },
+    {
+      "Jamanra, the Risen King":{
+        "zh_cn":"亚曼拉，复生之王",
+        "zh_tw":"崛起之王．賈嫚拉"
+      }
+    },
+    {
+      "Kabala, Constrictor Queen":{
+        "zh_cn":"狂蟒女王卡芭菈",
+        "zh_tw":"異界．干擾女王．卡巴拉"
+      }
+    },
+    {
+      "Azarian, the Forsaken Son":{
+        "zh_cn":"阿扎瑞安，忘却之子",
+        "zh_tw":"遺忘之子．阿薩里恩"
+      }
+    },
+    {
+      "Ekbab, Ancient Steed":{
+        "zh_cn":"伊科巴，先古战驹",
+        "zh_tw":"遠古之蹄．埃克巴勃"
+      }
+    },
+    {
+      "Zalmarath, the Colossus":{
+        "zh_cn":"扎尔马拉斯，神威巨像",
+        "zh_tw":"巨像．札爾瑪拉斯"
+      }
+    },
+    {
+      "Tor Gul, the Defiler":{
+        "zh_cn":"托古尔, 污染者",
+        "zh_tw":"玷汙者托爾．谷爾"
+      }
+    },
+    {
+      "Rudja, Dread Engineer":{
+        "zh_cn":"鲁贾，恐怖工程师",
+        "zh_tw":"恐懼工程師．魯賈"
+      }
+    },
+    {
+      "Jamanra, the Abomination":{
+        "zh_cn":"亚曼拉，厌恶之躯",
+        "zh_tw":"憎惡者．賈嫚拉"
+      }
+    },
+    {
+      "Rootdredge":{
+        "zh_cn":"根生污泥",
+        "zh_tw":"根淤"
+      }
+    },
+    {
+      "Mighty Silverfist":{
+        "zh_cn":"威猛银拳",
+        "zh_tw":"神威銀拳"
+      }
+    },
+    {
+      "Xyclucian, the Chimera":{
+        "zh_cn":"奇美拉赛克鲁西安",
+        "zh_tw":"龍蜥．欽路錫安"
+      }
+    },
+    {
+      "Blackjaw, the Remnant":{
+        "zh_cn":"遗世的黑颚",
+        "zh_tw":"遺忘的黑顎"
+      }
+    },
+    {
+      "Zicoatl, Warden of the Core":{
+        "zh_cn":"护核卫士吉柯塔尔",
+        "zh_tw":"核心守衛．茲科亞特"
+      }
+    },
+    {
+      "Ignagduk, the Bog Witch":{
+        "zh_cn":"伊格纳杜克，沼泽老妪",
+        "zh_tw":"沼澤女巫．尹娜杜克"
+      }
+    },
+    {
+      "Mektul, the Forgemaster":{
+        "zh_cn":"梅克图尔，锻造大师",
+        "zh_tw":"冶煉師範．梅克圖"
+      }
+    },
+    {
+      "The Queen of Filth":{
+        "zh_cn":"污秽女王",
+        "zh_tw":"污垢女王"
+      }
+    },
+    {
+      "Ketzuli, High Priest of the Sun":{
+        "zh_cn":"卡阿祖尔，烈阳先师",
+        "zh_tw":"豔陽神聖主教．凱亞祖利"
+      }
+    },
+    {
+      "Viper Napuatzi":{
+        "zh_cn":"蝰蛇娜帕齐",
+        "zh_tw":"邪魔毒蛇納普阿茲"
+      }
+    },
+    {
+      "Doryani, Royal Thaumaturge":{
+        "zh_cn":"多里亚尼，皇家奇术师",
+        "zh_tw":"皇家奇術師．多里亞尼"
+      }
+    },
+    {
+      "Heldra of the Black Pyre":{
+        "zh_cn":"黑镰之海尔德拉",
+        "zh_tw":"漆黑燃焰．希爾德菈"
+      }
+    },
+    {
+      "Isolde of the White Shroud":{
+        "zh_cn":"苍白幽影之伊索德",
+        "zh_tw":"白色幽影．伊索德"
+      }
+    },
+    {
+      "Isolde and Heldra":{
+        "zh_cn":"伊索德和海尔德拉",
+        "zh_tw":"伊索德和希爾德菈"
+      }
+    },
+    {
+      "Siora, Blade of the Mists":{
+        "zh_cn":"西奥拉，迷雾之刃",
+        "zh_tw":"迷霧之刃．希奧拉"
+      }
+    },
+    {
+      "Sigbert of the Sullied Oath":{
+        "zh_cn":"污秽誓言之西格伯特",
+        "zh_tw":"玷污誓言．席格伯特"
+      }
+    },
+    {
+      "Godwin of the Shattered Creed":{
+        "zh_cn":"破碎信条之戈德温",
+        "zh_tw":"破碎教則．戈德溫"
+      }
+    },
+    {
+      "Sigbert and Godwin":{
+        "zh_cn":"西格伯特和戈德温",
+        "zh_tw":"席格伯特和戈德溫"
+      }
+    },
+    {
+      "Oswin, the Dread Warden":{
+        "zh_cn":"奥斯温，恐惧典狱长",
+        "zh_tw":"恐懼典獄長．歐斯溫"
+      }
+    },
+    {
+      "Thane Wulfric":{
+        "zh_cn":"领主乌弗瑞克",
+        "zh_tw":"沃夫里克領主"
+      }
+    },
+    {
+      "Lady Elswyth":{
+        "zh_cn":"艾尔斯威丝女士",
+        "zh_tw":"艾兒薇絲女士"
+      }
+    },
+    {
+      "Thane Wulfric and Lady Elswyth":{
+        "zh_cn":"领主乌弗瑞克和艾尔斯威丝女士",
+        "zh_tw":"沃夫里克領主和艾兒薇絲女士"
+      }
+    },
+    {
+      "Akthi, the Final Sting":{
+        "zh_cn":"阿克西，终命毒刺",
+        "zh_tw":"最終之刺．艾克提"
+      }
+    },
+    {
+      "Anundr, the Sandworm":{
+        "zh_cn":"阿农德，沙虫",
+        "zh_tw":"沙蟲．艾能德"
+      }
+    },
+    {
+      "Akthi and Anundr":{
+        "zh_cn":"阿克西和阿农德",
+        "zh_tw":"艾克提和艾能德"
+      }
+    },
+    {
+      "Elzarah, the Cobra Lord":{
+        "zh_cn":"埃尔扎拉，眼镜蛇领主",
+        "zh_tw":"眼鏡蛇領主．艾爾札拉"
+      }
+    },
+    {
+      "Vornas, the Fell Flame":{
+        "zh_cn":"沃纳斯，堕落烈焰",
+        "zh_tw":"墮炎．沃納斯"
+      }
+    },
+    {
+      "Azmadi, the Faridun Prince":{
+        "zh_cn":"阿兹马迪，法里顿王子",
+        "zh_tw":"法里登王子．亞茲馬迪"
+      }
+    },
+    {
+      "Lythara, the Wayward Spear":{
+        "zh_cn":"利萨拉，歧途长矛",
+        "zh_tw":"迷失長矛．萊塔拉"
+      }
+    },
+    {
+      "Rakkar, the Frozen Talon":{
+        "zh_cn":"拉卡，冰冻利爪",
+        "zh_tw":"凍結之爪．拉卡爾"
+      }
+    },
+    {
+      "The Abominable Yeti":{
+        "zh_cn":"可憎的雪人",
+        "zh_tw":"怪異雪獸"
+      }
+    },
+    {
+      "Stormgore, the Guardian":{
+        "zh_cn":"风暴血魔，守护者",
+        "zh_tw":"守護者．風暴血獸"
+      }
+    },
+    {
+      "Zelina, Blood Priestess":{
+        "zh_cn":"泽琳娜，鲜血女祭",
+        "zh_tw":"鮮血女祭司．澤莉娜"
+      }
+    },
+    {
+      "Zolin, Blood Priest":{
+        "zh_cn":"佐林，鲜血祭司",
+        "zh_tw":"鮮血祭司．佐林"
+      }
+    },
+    {
+      "Zolin and Zelina":{
+        "zh_cn":"佐林和泽琳娜",
+        "zh_tw":"佐林和澤莉娜"
+      }
+    }
+  ],
+  "Monster":{
+    "zh_cn":"怪物",
+    "zh_tw":"怪物"
+  },
+  "Monster_group":[
+    {
+      "Abyss Fish":{
+        "zh_cn":"渊潮之鱼",
+        "zh_tw":"深淵之魚"
+      },
+      "Abyssal Shambler":{
+        "zh_cn":"深渊蹒跚者",
+        "zh_tw":"深淵跛屍"
+      },
+      "Abyssal Strangler":{
+        "zh_cn":"深渊绞杀者",
+        "zh_tw":"深淵扼殺者"
+      },
+      "Abyssal Walker":{
+        "zh_cn":"深渊行者",
+        "zh_tw":"深淵行者"
+      },
+      "Adelina, Guardian of the Pearl":{
+        "zh_cn":"阿德琳娜，珍珠护卫",
+        "zh_tw":"珍珠守護者．艾德莉娜"
+      },
+      "Adorned Beetle":{
+        "zh_cn":"华饰甲虫",
+        "zh_tw":"華麗甲蟲"
+      },
+      "Adorned Miscreation":{
+        "zh_cn":"华饰的畸兽",
+        "zh_tw":"華麗的古靈實驗者"
+      },
+      "Adorned Scarab":{
+        "zh_cn":"华饰圣甲虫",
+        "zh_tw":"華麗聖甲蟲"
+      },
+      "Alpha Primate":{
+        "zh_cn":"灵猿族长",
+        "zh_tw":"靈長類幻獸"
+      },
+      "Amphibious Prowler":{
+        "zh_cn":"两栖徘徊者",
+        "zh_tw":"兩棲徘徊者"
+      },
+      "Ancestral Archer":{
+        "zh_cn":"祖灵弓手",
+        "zh_tw":"先祖弓手"
+      },
+      "Ancestral Channeler":{
+        "zh_cn":"祖灵引导者",
+        "zh_tw":"先祖引導者"
+      },
+      "Ancestral Guardian":{
+        "zh_cn":"祖灵守卫",
+        "zh_tw":"先祖守護者"
+      },
+      "Ancestral Headtaker":{
+        "zh_cn":"祖灵猎头者",
+        "zh_tw":"先祖斬顱者"
+      },
+      "Ancestral Hornbearer":{
+        "zh_cn":"祖灵号角手",
+        "zh_tw":"先祖號角手"
+      },
+      "Ancestral Jade Hulk":{
+        "zh_cn":"先祖青玉巨灵",
+        "zh_tw":"先祖玉獸"
+      },
+      "Ancestral Jadecaster":{
+        "zh_cn":"先祖青玉法师",
+        "zh_tw":"先祖玉法師"
+      },
+      "Ancestral Mask":{
+        "zh_cn":"祖灵面具",
+        "zh_tw":"先祖假面"
+      },
+      "Ancestral Spirit Turtle":{
+        "zh_cn":"先祖之灵巨龟",
+        "zh_tw":"先祖靈龜"
+      },
+      "Ancestral Warhorn":{
+        "zh_cn":"先祖战争号角",
+        "zh_tw":"先祖戰角"
+      },
+      "Ancestral Warrior":{
+        "zh_cn":"祖灵战士",
+        "zh_tw":"先祖戰士"
+      },
+      "Ancient Ezomyte":{
+        "zh_cn":"上古艾兹麦人",
+        "zh_tw":"遠古艾茲麥人"
+      },
+      "Angler Maw":{
+        "zh_cn":"渔夫之喉",
+        "zh_tw":"裂齒鮟鱇魚"
+      },
+      "Animated Weapon":{
+        "zh_cn":"幻灵武器",
+        "zh_tw":"幻化武器"
+      },
+      "Antlion Charger":{
+        "zh_cn":"蚁狮冲锋者",
+        "zh_tw":"蟻蛉衝鋒者"
+      },
+      "Armoured Parasite":{
+        "zh_cn":"铠甲寄生虫",
+        "zh_tw":"裝甲寄生獸"
+      },
+      "Armoured Rhex":{
+        "zh_cn":"装甲凶鸟",
+        "zh_tw":"裝甲雛鳥"
+      },
+      "Azak Brute":{
+        "zh_cn":"阿扎卡蛮兵",
+        "zh_tw":"阿札克野蠻人"
+      },
+      "Azak Fledgling":{
+        "zh_cn":"阿扎卡新兵",
+        "zh_tw":"阿札克幼雛"
+      },
+      "Azak Fleshstabber":{
+        "zh_cn":"阿扎卡屠肉者",
+        "zh_tw":"阿札克穿軀者"
+      },
+      "Azak Mauler":{
+        "zh_cn":"阿扎卡重殴者",
+        "zh_tw":"阿札克重錘手"
+      },
+      "Azak Mongrelmaster":{
+        "zh_cn":"阿扎卡混血主宰",
+        "zh_tw":"阿札克混種大師"
+      },
+      "Azak Shaman":{
+        "zh_cn":"阿扎卡萨满",
+        "zh_tw":"阿札克薩滿"
+      },
+      "Azak Spearthrower":{
+        "zh_cn":"阿扎卡投矛者",
+        "zh_tw":"阿札克擲矛者"
+      },
+      "Azak Stalker":{
+        "zh_cn":"阿扎卡潜伏者",
+        "zh_tw":"阿札克懼靈"
+      },
+      "Azak Throatcutter":{
+        "zh_cn":"阿扎卡割裂者",
+        "zh_tw":"阿札克割喉者"
+      },
+      "Azak Torchbearer":{
+        "zh_cn":"阿扎卡执炬者",
+        "zh_tw":"阿札克持炬者"
+      },
+      "Bane Sapling":{
+        "zh_cn":"灾厄幼苗",
+        "zh_tw":"滅魂樹苗"
+      },
+      "Bannerbearing Zealot":{
+        "zh_cn":"掌旗狂热者",
+        "zh_tw":"持旗狂熱者"
+      },
+      "Bearer of Penitence":{
+        "zh_cn":"忏悔背负者",
+        "zh_tw":"懺悔者"
+      },
+      "Bewitching Serpent":{
+        "zh_cn":"蛊惑巨蛇",
+        "zh_tw":"迷人蝮蛇"
+      },
+      "Black Scythe Arbalist":{
+        "zh_cn":"黑镰劲弩",
+        "zh_tw":"黑鐮弩兵"
+      },
+      "Black Scythe Mercenary":{
+        "zh_cn":"黑镰佣兵",
+        "zh_tw":"黑鐮傭兵"
+      },
+      "Blackbark Demolisher":{
+        "zh_cn":"黑皮破坏者",
+        "zh_tw":"黑木爆破手"
+      },
+      "Blackblood Remnant":{
+        "zh_cn":"黑血残片",
+        "zh_tw":"黑血痕跡"
+      },
+      "Blackblooded Blisterboil":{
+        "zh_cn":"黑血水泡虫",
+        "zh_tw":"黑血者熾泡"
+      },
+      "Blackblooded Cretin":{
+        "zh_cn":"黑血愚人",
+        "zh_tw":"黑血者侏儒"
+      },
+      "Blackblooded Elite":{
+        "zh_cn":"黑血精英",
+        "zh_tw":"黑血者精英"
+      },
+      "Blackblooded Proboscite":{
+        "zh_cn":"黑血长鼻虫",
+        "zh_tw":"黑血者之吻"
+      },
+      "Blackblooded Tarhulk":{
+        "zh_cn":"黑血焦油巨兽",
+        "zh_tw":"黑血者烏油巨人"
+      },
+      "Bladelash Transcendent":{
+        "zh_cn":"飞升鞭刃武士",
+        "zh_tw":"斬刃超凡者"
+      },
+      "Blasting Transcendent":{
+        "zh_cn":"飞升爆破",
+        "zh_tw":"爆破超凡者"
+      },
+      "Blightstalker":{
+        "zh_cn":"凋荒追踪者",
+        "zh_tw":"凋落懼靈"
+      },
+      "Bloated Anchorman":{
+        "zh_cn":"浮肿锚手",
+        "zh_tw":"浮腫錨手"
+      },
+      "Blood Carrier":{
+        "zh_cn":"载血者",
+        "zh_tw":"鮮血負載者"
+      },
+      "Blood Collector":{
+        "zh_cn":"征血者",
+        "zh_tw":"鮮血收集者"
+      },
+      "Blood Cretin":{
+        "zh_cn":"愚血者",
+        "zh_tw":"鮮血侏儒"
+      },
+      "Blood Elemental":{
+        "zh_cn":"血灵",
+        "zh_tw":"血元素"
+      },
+      "Blood Priest":{
+        "zh_cn":"鲜血骨牧",
+        "zh_tw":"血腥祭司"
+      },
+      "Blood Priestess":{
+        "zh_cn":"鲜血女牧",
+        "zh_tw":"鮮血女祭司"
+      },
+      "Blood Zealot":{
+        "zh_cn":"命源狂热者",
+        "zh_tw":"鮮血狂熱者"
+      },
+      "Gelid Zealot":{
+        "zh_cn":"冰寒狂热者",
+        "zh_tw":"極寒狂熱者"
+      },
+      "Blood-fevered Axeman":{
+        "zh_cn":"血热斧手",
+        "zh_tw":"血熱斧鉞士"
+      },
+      "Blood-fevered Brew-breather":{
+        "zh_cn":"血热饮酿者",
+        "zh_tw":"血熱酒息者"
+      },
+      "Blood-fevered Hookman":{
+        "zh_cn":"血热钩镰手",
+        "zh_tw":"血熱鐵鉤手"
+      },
+      "Blood-fevered Maceman":{
+        "zh_cn":"血热锤手",
+        "zh_tw":"血熱錘手"
+      },
+      "Blood-fevered Plaguespreader":{
+        "zh_cn":"血热瘟疫使",
+        "zh_tw":"血熱瘟疫散播者"
+      },
+      "Blood-fevered Spearman":{
+        "zh_cn":"血热长枪兵",
+        "zh_tw":"血熱長矛手"
+      },
+      "Blood-fevered Tuskbeast":{
+        "zh_cn":"血热獠兽",
+        "zh_tw":"血熱牙獸"
+      },
+      "Blood-fevered Warrior":{
+        "zh_cn":"血热战士",
+        "zh_tw":"血熱戰士"
+      },
+      "Blood-fevered Wisewoman":{
+        "zh_cn":"血热智者",
+        "zh_tw":"血熱女智者"
+      },
+      "Bloodbilge":{
+        "zh_cn":"血沼",
+        "zh_tw":"淤積鮮血"
+      },
+      "Bloodgulp":{
+        "zh_cn":"血涌",
+        "zh_tw":"鮮血吞噬"
+      },
+      "Bloodrite Guard":{
+        "zh_cn":"护命守卫",
+        "zh_tw":"血祭軍衛"
+      },
+      "Bloodrite Priest":{
+        "zh_cn":"护命上师",
+        "zh_tw":"血祭牧師"
+      },
+      "Bloodthief Wasp":{
+        "zh_cn":"血匪毒蜂",
+        "zh_tw":"竊血黃蜂"
+      },
+      "Bloom Serpent":{
+        "zh_cn":"绽花盘蛇",
+        "zh_tw":"綻放蝮蛇"
+      },
+      "Bog Hulk":{
+        "zh_cn":"泥沼巨怪",
+        "zh_tw":"沼澤巨獸"
+      },
+      "Bogfelled Commoner":{
+        "zh_cn":"陷沼凡躯",
+        "zh_tw":"沼澤殞命的百姓"
+      },
+      "Bogfelled Slave":{
+        "zh_cn":"陷沼劳工",
+        "zh_tw":"沼澤殞命的奴隸"
+      },
+      "Bone Stalker":{
+        "zh_cn":"白骨潜踪者",
+        "zh_tw":"骷髏之影"
+      },
+      "Bramble Ape":{
+        "zh_cn":"荆棘巨猿",
+        "zh_tw":"刺荊狂猿"
+      },
+      "Bramble Burrower":{
+        "zh_cn":"荆棘腐虫",
+        "zh_tw":"刺荊地穴掘者"
+      },
+      "Bramble Hulk":{
+        "zh_cn":"荆棘巨怪",
+        "zh_tw":"刺荊巨獸"
+      },
+      "Bramble Rhoa":{
+        "zh_cn":"荆棘恐喙鸟",
+        "zh_tw":"刺荊恐喙鳥"
+      },
+      "Brimstone Crab":{
+        "zh_cn":"硫石巨蟹",
+        "zh_tw":"硫石蟹"
+      },
+      "Brine Maiden":{
+        "zh_cn":"惊海侍女",
+        "zh_tw":"鹽風少女"
+      },
+      "Brutal Transcendent":{
+        "zh_cn":"飞升蛮兵",
+        "zh_tw":"殘暴超越者"
+      },
+      "Bulbous Maw":{
+        "zh_cn":"球根之喉",
+        "zh_tw":"球莖裂齒獸"
+      },
+      "Burdened Wretch":{
+        "zh_cn":"疲累劣徒",
+        "zh_tw":"重擔的惡棍"
+      },
+      "Burning Dead":{
+        "zh_cn":"燃焰亡者",
+        "zh_tw":"燃燒亡者"
+      },
+      "Calum, Weeping Child":{
+        "zh_cn":"哀泣之子卡勒姆",
+        "zh_tw":"啼泣的孩子．卡隆"
+      },
+      "Cannon Transcendent":{
+        "zh_cn":"飞升火炮",
+        "zh_tw":"超凡巨砲"
+      },
+      "Captive Stoneback Rhoa":{
+        "zh_cn":"被抓获的岩背恐喙鸟",
+        "zh_tw":"被捕獲的岩背恐喙鳥"
+      },
+      "Captured Soul":{
+        "zh_cn":"捕获的灵魂",
+        "zh_tw":"奪取之魂"
+      },
+      "Carrion Gull":{
+        "zh_cn":"食腐鸥",
+        "zh_tw":"食腐反芻鳥"
+      },
+      "Caustic Crab":{
+        "zh_cn":"侵蚀巨蟹",
+        "zh_tw":"腐蝕之蟹"
+      },
+      "Cerberic Bat":{
+        "zh_cn":"三首巨蝠",
+        "zh_tw":"地獄三頭蝙蝠"
+      },
+      "Chameleon Drake":{
+        "zh_cn":"灵蜥幼龙",
+        "zh_tw":"變色飛龍"
+      },
+      "Chaos Zealot":{
+        "zh_cn":"混沌狂热者",
+        "zh_tw":"混沌狂熱者"
+      },
+      "Chaotic Zealot":{
+        "zh_cn":"混沌狂热者",
+        "zh_tw":"混沌狂熱者"
+      },
+      "Chaw Mongrel":{
+        "zh_cn":"噬肉混血兽",
+        "zh_tw":"啃咬混種獸"
+      },
+      "Chyme Skitterer":{
+        "zh_cn":"糜烂掠行虫",
+        "zh_tw":"食糜沙蛛"
+      },
+      "Clawcrunch":{
+        "zh_cn":"利爪碎击",
+        "zh_tw":"裂爪"
+      },
+      "Coconut Crab":{
+        "zh_cn":"椰子蟹",
+        "zh_tw":"椰香香蟹"
+      },
+      "Constricted Shambler":{
+        "zh_cn":"束缚的蹒跚魔",
+        "zh_tw":"拘束跛屍"
+      },
+      "Constricted Spitter":{
+        "zh_cn":"束缚的喷毒者",
+        "zh_tw":"拘束噴吐者"
+      },
+      "Constructed Monkey":{
+        "zh_cn":"构造体灵猴",
+        "zh_tw":"人造猴子"
+      },
+      "Constructed Monkey Head":{
+        "zh_cn":"构造体猴头",
+        "zh_tw":"人造猴頭"
+      },
+      "Coral-crowned Skeleton":{
+        "zh_cn":"瑚冠亡骸",
+        "zh_tw":"珊瑚冠骷髏"
+      },
+      "Corpse Nest":{
+        "zh_cn":"灵盒之巢",
+        "zh_tw":"屍巢"
+      },
+      "Corrupted Corpse":{
+        "zh_cn":"腐化灵盒",
+        "zh_tw":"受汙染屍體"
+      },
+      "Court Werewolf":{
+        "zh_cn":"奉心狼人",
+        "zh_tw":"渴望狼人"
+      },
+      "Courtesan":{
+        "zh_cn":"花魁",
+        "zh_tw":"花魁"
+      },
+      "Coztic, the Forgehand":{
+        "zh_cn":"科兹提克，锻炉掌焰",
+        "zh_tw":"鋼筋鐵腦．柯斯提克"
+      },
+      "Crag Leaper":{
+        "zh_cn":"峭壁跳虫",
+        "zh_tw":"崖行獸"
+      },
+      "Crawler Sentinel":{
+        "zh_cn":"匍匐护卫",
+        "zh_tw":"潛行守望"
+      },
+      "Crested Behemoth":{
+        "zh_cn":"羽冠巨兽",
+        "zh_tw":"冠毛巨獸"
+      },
+      "Cultist Archer":{
+        "zh_cn":"密教射手",
+        "zh_tw":"邪教射手"
+      },
+      "Cultist Brute":{
+        "zh_cn":"密教蛮兵",
+        "zh_tw":"邪教暴徒"
+      },
+      "Cultist Daggerdancer":{
+        "zh_cn":"密教刃舞者",
+        "zh_tw":"邪教匕首舞者"
+      },
+      "Cultist Warrior":{
+        "zh_cn":"密教战士",
+        "zh_tw":"邪教戰士"
+      },
+      "Cultist Witch":{
+        "zh_cn":"密教女巫",
+        "zh_tw":"邪教女巫"
+      },
+      "Cultivated Grove":{
+        "zh_cn":"栽植妖林",
+        "zh_tw":"培育密園"
+      },
+      "Daemon":{
+        "zh_cn":"恶魔",
+        "zh_tw":"惡魔"
+      },
+      "Death Knight":{
+        "zh_cn":"不朽骑士",
+        "zh_tw":"死亡騎士"
+      },
+      "Decrepit Mercenary":{
+        "zh_cn":"衰朽佣兵",
+        "zh_tw":"衰朽傭兵"
+      },
+      "Demon Beast":{
+        "zh_cn":"兽魔",
+        "zh_tw":"惡魔野獸"
+      },
+      "Demon Ghast":{
+        "zh_cn":"恐魔",
+        "zh_tw":"惡魔鬼魂"
+      },
+      "Demon Harpy":{
+        "zh_cn":"鸟魔",
+        "zh_tw":"惡魔鷹身"
+      },
+      "Demon Herder":{
+        "zh_cn":"牧魔",
+        "zh_tw":"惡魔牧人"
+      },
+      "Demon Imp":{
+        "zh_cn":"劣魔",
+        "zh_tw":"惡魔小鬼"
+      },
+      "Desert Hulk":{
+        "zh_cn":"沙漠巨怪",
+        "zh_tw":"沙漠巨獸"
+      },
+      "Desiccated Lich":{
+        "zh_cn":"干瘪的巫妖",
+        "zh_tw":"乾燥巫妖"
+      },
+      "Diretusk Boar":{
+        "zh_cn":"恐牙野猪",
+        "zh_tw":"恐牙野豬"
+      },
+      "Disgust":{
+        "zh_cn":"恶心",
+        "zh_tw":"厭惡"
+      },
+      "Displaced Brute":{
+        "zh_cn":"流浪蛮兵",
+        "zh_tw":"流浪蠻族"
+      },
+      "Doryani's Elite":{
+        "zh_cn":"多里亚尼的精锐",
+        "zh_tw":"多里亞尼的精英戰士"
+      },
+      "Dread Servant":{
+        "zh_cn":"惊怖仆役",
+        "zh_tw":"恐懼服侍"
+      },
+      "Dredge Fiend":{
+        "zh_cn":"污泥之魔",
+        "zh_tw":"清淤獸"
+      },
+      "Drowned":{
+        "zh_cn":"浮灵",
+        "zh_tw":"浮屍"
+      },
+      "Drowned Bearer":{
+        "zh_cn":"溺毙执掌者",
+        "zh_tw":"搬運者浮屍"
+      },
+      "Drowned Crawler":{
+        "zh_cn":"溺毙的爬行者",
+        "zh_tw":"浮屍食腐蟲"
+      },
+      "Drowned Explorer":{
+        "zh_cn":"溺毙的探险者",
+        "zh_tw":"探索者浮屍"
+      },
+      "Drowned Spectre":{
+        "zh_cn":"溺毙幽魂",
+        "zh_tw":"浮屍幽魂"
+      },
+      "Drudge Osseodon":{
+        "zh_cn":"骸骨苦兽",
+        "zh_tw":"歐席頓苦工"
+      },
+      "Druid of the Broken Circle":{
+        "zh_cn":"裂环祭司",
+        "zh_tw":"破碎環之德魯伊"
+      },
+      "Druidic Familiar":{
+        "zh_cn":"掘出的幼鼠",
+        "zh_tw":"德魯伊近親"
+      },
+      "Dune Lurker":{
+        "zh_cn":"沙丘潜伏者",
+        "zh_tw":"沙丘潛伏者"
+      },
+      "Eaten Rat":{
+        "zh_cn":"被啮咬的耗子",
+        "zh_tw":"遭啃食的鼠屍"
+      },
+      "Elephant Tortoise":{
+        "zh_cn":"犀甲陆象",
+        "zh_tw":"象龜"
+      },
+      "Emal":{
+        "zh_cn":"厄马尔",
+        "zh_tw":"艾瑪爾"
+      },
+      "Entrailhome Shambler":{
+        "zh_cn":"剖心蹒跚魔",
+        "zh_tw":"臟腑跛屍"
+      },
+      "Entwined Hulk":{
+        "zh_cn":"盘缠巨怪",
+        "zh_tw":"纏繞巨獸"
+      },
+      "Eternal Guard":{
+        "zh_cn":"永恒守卫",
+        "zh_tw":"永恆軍衛"
+      },
+      "Eternal Knight":{
+        "zh_cn":"永恒骑士",
+        "zh_tw":"永恆騎士"
+      },
+      "Eternal Prisoner":{
+        "zh_cn":"永恒囚徒",
+        "zh_tw":"永恆牢犯"
+      },
+      "Eternal Torturer":{
+        "zh_cn":"永恒刑徒",
+        "zh_tw":"永恆施刑者"
+      },
+      "Experimental Boar":{
+        "zh_cn":"野猪实验体",
+        "zh_tw":"實驗野豬"
+      },
+      "Experimental Cobra":{
+        "zh_cn":"眼镜蛇实验体",
+        "zh_tw":"實驗眼蛇"
+      },
+      "Experimental Primate":{
+        "zh_cn":"灵长类实验体",
+        "zh_tw":"實驗靈長類"
+      },
+      "Faithful Archer":{
+        "zh_cn":"忠信弓手",
+        "zh_tw":"忠誠的弓箭手"
+      },
+      "Faithful Warrior":{
+        "zh_cn":"忠信战士",
+        "zh_tw":"忠誠的戰士"
+      },
+      "Fallen Quartermaster":{
+        "zh_cn":"堕落军需官",
+        "zh_tw":"墮落軍需官"
+      },
+      "Faridun Bladedancer":{
+        "zh_cn":"法里顿刃舞者",
+        "zh_tw":"法里登舞劍者"
+      },
+      "Faridun Butcher":{
+        "zh_cn":"法里顿屠夫",
+        "zh_tw":"法里登屠斧"
+      },
+      "Faridun Crawler":{
+        "zh_cn":"法里顿爬行者",
+        "zh_tw":"法里登潛伏者"
+      },
+      "Faridun Fledgling":{
+        "zh_cn":"法里顿新兵",
+        "zh_tw":"法里登訓練兵"
+      },
+      "Faridun Heavy Infantry":{
+        "zh_cn":"法里顿重装步兵",
+        "zh_tw":"法里登重步兵"
+      },
+      "Faridun Impaler":{
+        "zh_cn":"法里顿穿刺者",
+        "zh_tw":"法里登穿刺者"
+      },
+      "Faridun Infantry":{
+        "zh_cn":"法里顿步兵",
+        "zh_tw":"法里登步兵"
+      },
+      "Faridun Javelineer":{
+        "zh_cn":"法里顿标枪手",
+        "zh_tw":"法里登標槍士"
+      },
+      "Faridun Neophyte":{
+        "zh_cn":"法里顿新锐",
+        "zh_tw":"法里登新兵"
+      },
+      "Faridun Plaguebringer":{
+        "zh_cn":"法里顿灾疫使",
+        "zh_tw":"法里登疫源"
+      },
+      "Faridun Spearman":{
+        "zh_cn":"法里顿矛兵",
+        "zh_tw":"法里登長矛士"
+      },
+      "Faridun Spearwoman":{
+        "zh_cn":"法里顿女矛兵",
+        "zh_tw":"法里登長矛女士"
+      },
+      "Faridun Swordsman":{
+        "zh_cn":"法里顿剑士",
+        "zh_tw":"法里登劍士"
+      },
+      "Faridun Wind-slicer":{
+        "zh_cn":"法里顿撕风者",
+        "zh_tw":"法里登破風士"
+      },
+      "Feral Bat":{
+        "zh_cn":"狂野蝙蝠",
+        "zh_tw":"野性蝙蝠"
+      },
+      "Feral Kin":{
+        "zh_cn":"狂野族民",
+        "zh_tw":"野性族裔"
+      },
+      "Feral Primate":{
+        "zh_cn":"狂野灵猿",
+        "zh_tw":"野性靈長類"
+      },
+      "Fettered Grasper":{
+        "zh_cn":"束缚之握",
+        "zh_tw":"被束縛的抓奪者"
+      },
+      "Fettered Hook":{
+        "zh_cn":"束缚钩爪",
+        "zh_tw":"被束縛的勾索"
+      },
+      "Fettered Monstrosity":{
+        "zh_cn":"束缚巨兽",
+        "zh_tw":"被束縛的怪物"
+      },
+      "Fettered Scythe":{
+        "zh_cn":"束缚镰刀",
+        "zh_tw":"被束縛的鐮刀"
+      },
+      "Fettered Snake":{
+        "zh_cn":"束缚毒蛇",
+        "zh_tw":"被束縛的蛇"
+      },
+      "Fettered Spider":{
+        "zh_cn":"束缚蜘蛛",
+        "zh_tw":"被束縛的蜘蛛"
+      },
+      "Fettered Writher":{
+        "zh_cn":"束缚蠕动者",
+        "zh_tw":"被束縛的蠕動者"
+      },
+      "Fiery Zealot":{
+        "zh_cn":"炽炎狂热者",
+        "zh_tw":"熾炎狂熱者"
+      },
+      "Filthy Crone":{
+        "zh_cn":"污秽魔妪",
+        "zh_tw":"骯髒的老嫗"
+      },
+      "Filthy First-born":{
+        "zh_cn":"污秽初诞者",
+        "zh_tw":"骯髒的初始之子"
+      },
+      "Filthy Lobber":{
+        "zh_cn":"污秽投手",
+        "zh_tw":"骯髒愚者"
+      },
+      "Firebreather":{
+        "zh_cn":"喷火者",
+        "zh_tw":"吐火人"
+      },
+      "Flame Sentry":{
+        "zh_cn":"烈焰哨兵",
+        "zh_tw":"火炎哨兵"
+      },
+      "Flathead Clubber":{
+        "zh_cn":"呆头棍棒手",
+        "zh_tw":"平頭族持棍者"
+      },
+      "Flathead Warrior":{
+        "zh_cn":"呆头战士",
+        "zh_tw":"平頭族戰士"
+      },
+      "Flathead Youngling":{
+        "zh_cn":"呆头幼体",
+        "zh_tw":"平頭族幼體"
+      },
+      "Flesh Larva":{
+        "zh_cn":"血肉腐化者",
+        "zh_tw":"血肉孵化者"
+      },
+      "Flesh Pup":{
+        "zh_cn":"血肉幼犬",
+        "zh_tw":"人體玩偶"
+      },
+      "Fleshpierce":{
+        "zh_cn":"穿肉",
+        "zh_tw":"血肉穿刺"
+      },
+      "Forael, the Soulkeeper":{
+        "zh_cn":"福拉埃尔，断魂狱主",
+        "zh_tw":"靈魂看守者．弗瑞爾"
+      },
+      "Forgotten Crawler":{
+        "zh_cn":"被忘却的爬行者",
+        "zh_tw":"被遺忘的食腐蟲"
+      },
+      "Forgotten Satyr":{
+        "zh_cn":"被忘却的萨特",
+        "zh_tw":"被遺忘的薩特"
+      },
+      "Forgotten Stag":{
+        "zh_cn":"被忘却的灵鹿",
+        "zh_tw":"被遺忘的靈鹿"
+      },
+      "Forgotten Stalker":{
+        "zh_cn":"被忘却的潜伏者",
+        "zh_tw":"被遺忘的懼靈"
+      },
+      "Forsaken Hulk":{
+        "zh_cn":"被遗忘的巨怪",
+        "zh_tw":"遺忘巨獸"
+      },
+      "Forsaken Miner":{
+        "zh_cn":"被忘却的矿工",
+        "zh_tw":"遺落的礦工"
+      },
+      "Foul Blacksmith":{
+        "zh_cn":"恶念铁匠",
+        "zh_tw":"惡靈鐵匠"
+      },
+      "Foul Mauler":{
+        "zh_cn":"恶念重殴者",
+        "zh_tw":"惡靈重錘"
+      },
+      "Foul Sage":{
+        "zh_cn":"恶念贤者",
+        "zh_tw":"惡靈哲人"
+      },
+      "Frost Wraith":{
+        "zh_cn":"冰霜幽魂",
+        "zh_tw":"冰霜惡靈"
+      },
+      "Frozen Mandibles":{
+        "zh_cn":"冰封颚骨",
+        "zh_tw":"凍結之顎"
+      },
+      "Fungal Artillery":{
+        "zh_cn":"真菌轰炮",
+        "zh_tw":"真菌火炮"
+      },
+      "Fungal Proliferator":{
+        "zh_cn":"真菌散播者",
+        "zh_tw":"真菌散播者"
+      },
+      "Fungal Rattler":{
+        "zh_cn":"真菌响骨",
+        "zh_tw":"真菌骷髏"
+      },
+      "Fungal Reaver":{
+        "zh_cn":"真菌收割者",
+        "zh_tw":"真菌掠奪者"
+      },
+      "Fungal Wolf":{
+        "zh_cn":"真菌凶狼",
+        "zh_tw":"真菌之狼"
+      },
+      "Fungal Zombie":{
+        "zh_cn":"真菌魔卫",
+        "zh_tw":"真菌殭屍"
+      },
+      "Fungoid of the Pit":{
+        "zh_cn":"深坑真菌",
+        "zh_tw":"巨坑之菌"
+      },
+      "Fury":{
+        "zh_cn":"愤恨",
+        "zh_tw":"憤恨"
+      },
+      "Fused Swordsman":{
+        "zh_cn":"融接剑士",
+        "zh_tw":"融合劍士"
+      },
+      "Gargantuan Larva":{
+        "zh_cn":"巨型幼虫",
+        "zh_tw":"巨型孵化者"
+      },
+      "Gargantuan Wasp":{
+        "zh_cn":"巨型黄蜂",
+        "zh_tw":"巨型黃蜂"
+      },
+      "Gargoyle Demon":{
+        "zh_cn":"石像鬼魔",
+        "zh_tw":"石像惡魔"
+      },
+      "Ghastly Siren":{
+        "zh_cn":"悚心海妖",
+        "zh_tw":"幽暗海妖"
+      },
+      "Ghost Cannon":{
+        "zh_cn":"幽灵火炮",
+        "zh_tw":"鬼魂砲"
+      },
+      "Ghoul Commander":{
+        "zh_cn":"食尸统领",
+        "zh_tw":"活屍指揮官"
+      },
+      "Giant Maw":{
+        "zh_cn":"巨喉",
+        "zh_tw":"巨大裂齒獸"
+      },
+      "Gilded Cobra":{
+        "zh_cn":"鎏金眼镜蛇",
+        "zh_tw":"金耀眼鏡蛇"
+      },
+      "Gold-melted Blacksmith":{
+        "zh_cn":"熔金铁匠",
+        "zh_tw":"熔金鐵匠"
+      },
+      "Gold-Melted Sentinel":{
+        "zh_cn":"熔金护卫",
+        "zh_tw":"熔金守望"
+      },
+      "Gold-Melted Shambler":{
+        "zh_cn":"熔金蹒跚魔",
+        "zh_tw":"熔金跛屍"
+      },
+      "Goliath":{
+        "zh_cn":"歌利亚",
+        "zh_tw":"邪獸"
+      },
+      "Goliath Shrike":{
+        "zh_cn":"伯劳巨禽",
+        "zh_tw":"巨型伯勞鳥"
+      },
+      "Goliath Transcendent":{
+        "zh_cn":"飞升巨人",
+        "zh_tw":"巨大超凡者"
+      },
+      "Guardian Lizard":{
+        "zh_cn":"守卫蜥蜴",
+        "zh_tw":"守護蜥蜴"
+      },
+      "Guardian Turtle":{
+        "zh_cn":"守卫巨龟",
+        "zh_tw":"守護之龜"
+      },
+      "Gull Shrike":{
+        "zh_cn":"鸥喙伯劳",
+        "zh_tw":"反芻伯勞鳥"
+      },
+      "Harano, the Meat Carver":{
+        "zh_cn":"雕肉师哈拉诺",
+        "zh_tw":"削肉者．哈拉諾"
+      },
+      "Hound of the Pit":{
+        "zh_cn":"深坑猎犬",
+        "zh_tw":"巨坑獵犬"
+      },
+      "Hunchback Clubber":{
+        "zh_cn":"驼背棍棒手",
+        "zh_tw":"駝背的持棍者"
+      },
+      "Hungering Stalker":{
+        "zh_cn":"饥渴潜猎者",
+        "zh_tw":"饑餓懼靈"
+      },
+      "Hungry Wolf":{
+        "zh_cn":"饥渴凶狼",
+        "zh_tw":"饑餓之狼"
+      },
+      "Hyena Demon":{
+        "zh_cn":"土狼恶魔",
+        "zh_tw":"惡魔土狼"
+      },
+      "Ill-fated Explorer":{
+        "zh_cn":"悲惨的探险者",
+        "zh_tw":"不幸的探索者"
+      },
+      "Infernal Hound":{
+        "zh_cn":"炽焰猎犬",
+        "zh_tw":"獄炎獵犬"
+      },
+      "Infested Anglerfish":{
+        "zh_cn":"被感染的琵琶鱼",
+        "zh_tw":"染疫安康魚"
+      },
+      "Infested Cadaver":{
+        "zh_cn":"感染的腐灵",
+        "zh_tw":"受感染的死屍"
+      },
+      "Infested Manta":{
+        "zh_cn":"被感染的蝠鲼",
+        "zh_tw":"染疫魟魚"
+      },
+      "Infested Octopus":{
+        "zh_cn":"被感染的章鱼",
+        "zh_tw":"染疫章魚"
+      },
+      "Infested Turtle":{
+        "zh_cn":"被感染的海龟",
+        "zh_tw":"染疫海龜"
+      },
+      "Invisible":{
+        "zh_cn":"隐形",
+        "zh_tw":"隱形"
+      },
+      "Iron Enforcer":{
+        "zh_cn":"钢铁执法者",
+        "zh_tw":"鍛鐵執行官"
+      },
+      "Iron Guard":{
+        "zh_cn":"钢铁守卫",
+        "zh_tw":"鍛鐵守衛"
+      },
+      "Iron Sharpshooter":{
+        "zh_cn":"钢铁神射手",
+        "zh_tw":"鍛鐵神槍手"
+      },
+      "Iron Spearman":{
+        "zh_cn":"钢铁矛兵",
+        "zh_tw":"鍛鐵長矛兵"
+      },
+      "Iron Thaumaturgist":{
+        "zh_cn":"钢铁奇术师",
+        "zh_tw":"鐵之大奇術師"
+      },
+      "Isabel, Mourning Wife":{
+        "zh_cn":"悼亡之妻伊莎贝尔",
+        "zh_tw":"悼靈之妻．伊莎貝爾"
+      },
+      "It That Controls":{
+        "zh_cn":"掌控之彼",
+        "zh_tw":"操偶師"
+      },
+      "It That Crawls":{
+        "zh_cn":"匍匐之彼",
+        "zh_tw":"侍從"
+      },
+      "It That Creeps":{
+        "zh_cn":"蔓延之彼",
+        "zh_tw":"剝皮者"
+      },
+      "It That Grasps":{
+        "zh_cn":"攫握之彼",
+        "zh_tw":"健臂"
+      },
+      "It That Guards":{
+        "zh_cn":"护卫之彼",
+        "zh_tw":"軀殼"
+      },
+      "It That Hates":{
+        "zh_cn":"憎恨之彼",
+        "zh_tw":"抑制的恐懼"
+      },
+      "It That Hunts":{
+        "zh_cn":"逐猎之彼",
+        "zh_tw":"領主的凝視"
+      },
+      "It That Lashes":{
+        "zh_cn":"鞭笞之彼",
+        "zh_tw":"閉鎖者"
+      },
+      "It That Shreds":{
+        "zh_cn":"撕碎之彼",
+        "zh_tw":"載體"
+      },
+      "It That Stalks":{
+        "zh_cn":"潜行之彼",
+        "zh_tw":"雷霆之握"
+      },
+      "It That Watches":{
+        "zh_cn":"注视之彼",
+        "zh_tw":"領主之握"
+      },
+      "Jaguar Familiar":{
+        "zh_cn":"美洲豹魔宠",
+        "zh_tw":"獵豹近親"
+      },
+      "Kinarha":{
+        "zh_cn":"金纳哈",
+        "zh_tw":"奇納哈"
+      },
+      "Knight of the Sun":{
+        "zh_cn":"烈日骑士",
+        "zh_tw":"豔陽騎士"
+      },
+      "Knight-Gaunt":{
+        "zh_cn":"枯瘦骑士",
+        "zh_tw":"孱弱騎士"
+      },
+      "Kreth Parasite":{
+        "zh_cn":"克雷斯寄生虫",
+        "zh_tw":"克雷什寄生獸"
+      },
+      "Lightless Abomination":{
+        "zh_cn":"暗光憎恶",
+        "zh_tw":"黯光者憎惡體"
+      },
+      "Lightless Moray":{
+        "zh_cn":"暗光海鳗",
+        "zh_tw":"黯光者之鰻"
+      },
+      "Lightless Serpent":{
+        "zh_cn":"暗光毒蛇",
+        "zh_tw":"黯光者蝮蛇"
+      },
+      "Lightless Vengewing":{
+        "zh_cn":"暗光复仇之翼",
+        "zh_tw":"黯光者復仇之翼"
+      },
+      "Lightning Wraith":{
+        "zh_cn":"闪电幽魂",
+        "zh_tw":"雷電惡靈"
+      },
+      "Living Sand":{
+        "zh_cn":"活体流沙",
+        "zh_tw":"砂靈"
+      },
+      "Lost-men Brute":{
+        "zh_cn":"失落之民蛮兵",
+        "zh_tw":"迷失巨獸"
+      },
+      "Lost-men Necromancer":{
+        "zh_cn":"失落之民死灵师",
+        "zh_tw":"迷失死靈法師"
+      },
+      "Lost-men Subjugator":{
+        "zh_cn":"失落之民征服者",
+        "zh_tw":"迷失征服者"
+      },
+      "Lost-men Zealot":{
+        "zh_cn":"失落之民狂热者",
+        "zh_tw":"迷失狂熱者"
+      },
+      "Loyal Jaguar":{
+        "zh_cn":"忠诚的美洲豹",
+        "zh_tw":"忠誠獵豹"
+      },
+      "Lumbering Dead":{
+        "zh_cn":"蹒跚亡者",
+        "zh_tw":"戕伐亡靈"
+      },
+      "Luminous Spinefish":{
+        "zh_cn":"辉光脊骨鱼",
+        "zh_tw":"鮮明棘魚"
+      },
+      "Malice":{
+        "zh_cn":"怨毒",
+        "zh_tw":"絕滅恨惡"
+      },
+      "Man o' War":{
+        "zh_cn":"征战勇士",
+        "zh_tw":"戰艦"
+      },
+      "Manifested Demon":{
+        "zh_cn":"具象恶魔",
+        "zh_tw":"創造惡魔"
+      },
+      "Manshrike":{
+        "zh_cn":"人面伯劳鸟",
+        "zh_tw":"食人伯勞鳥"
+      },
+      "Mantis Rat":{
+        "zh_cn":"螳螂鼠",
+        "zh_tw":"鐮鼠"
+      },
+      "Mar Acolyte":{
+        "zh_cn":"污秽侍僧",
+        "zh_tw":"腐敗信徒"
+      },
+      "Maraketh Undead":{
+        "zh_cn":"马拉克斯亡灵",
+        "zh_tw":"不死的馬拉克斯"
+      },
+      "Maw Demon":{
+        "zh_cn":"巨喉魔",
+        "zh_tw":"裂齒惡魔"
+      },
+      "Molten Imp":{
+        "zh_cn":"熔火小鬼",
+        "zh_tw":"熔岩惡魔"
+      },
+      "Moltenmettle":{
+        "zh_cn":"熔火刚灵",
+        "zh_tw":"熔火剛靈"
+      },
+      "Moray Clan":{
+        "zh_cn":"海鳗部族",
+        "zh_tw":"海鰻部落"
+      },
+      "Mud Simulacrum":{
+        "zh_cn":"尘泥幻影",
+        "zh_tw":"泥濘虛像"
+      },
+      "Nameless Burrower":{
+        "zh_cn":"无名腐虫",
+        "zh_tw":"無名掘地獸"
+      },
+      "Nameless Dweller":{
+        "zh_cn":"无名栖居者",
+        "zh_tw":"無名居者"
+      },
+      "Nameless Horror":{
+        "zh_cn":"无名恐魔",
+        "zh_tw":"無名恐懼物"
+      },
+      "Nameless Hulk":{
+        "zh_cn":"无名巨兽",
+        "zh_tw":"無名巨怪"
+      },
+      "Nameless Imp":{
+        "zh_cn":"无名小鬼",
+        "zh_tw":"無名小鬼"
+      },
+      "Nameless Lurker":{
+        "zh_cn":"无名潜伏者",
+        "zh_tw":"無名潛伏者"
+      },
+      "Nameless Vermin":{
+        "zh_cn":"无名祸害",
+        "zh_tw":"無名害蟲"
+      },
+      "Nettle Ant":{
+        "zh_cn":"荨麻蚁",
+        "zh_tw":"叮刺蟻"
+      },
+      "Nymph Wasp":{
+        "zh_cn":"仙灵黄蜂",
+        "zh_tw":"黃蜂幼蟲"
+      },
+      "Offering Spike":{
+        "zh_cn":"奉献骨刺",
+        "zh_tw":"奉獻棘刺"
+      },
+      "Order Ostiary":{
+        "zh_cn":"教团侍者",
+        "zh_tw":"秩序看守"
+      },
+      "Orok Fleshstabber":{
+        "zh_cn":"奥洛克屠肉者",
+        "zh_tw":"歐洛克穿軀者"
+      },
+      "Orok Hunter":{
+        "zh_cn":"奥洛克猎手",
+        "zh_tw":"歐洛克狩獵者"
+      },
+      "Orok Shaman":{
+        "zh_cn":"奥洛克萨满",
+        "zh_tw":"歐洛克薩滿"
+      },
+      "Orok Stalker":{
+        "zh_cn":"奥洛克追踪者",
+        "zh_tw":"歐洛克懼靈"
+      },
+      "Orok Throatcutter":{
+        "zh_cn":"奥洛克割裂者",
+        "zh_tw":"歐洛克割喉者"
+      },
+      "Pack Werewolf":{
+        "zh_cn":"群奔狼人",
+        "zh_tw":"群行狼人"
+      },
+      "Pale Abductor":{
+        "zh_cn":"苍白拐骗者",
+        "zh_tw":"蒼白誘拐者"
+      },
+      "Pale Angel":{
+        "zh_cn":"苍白神侍",
+        "zh_tw":"蒼白天使"
+      },
+      "Pale Brinesplitter":{
+        "zh_cn":"苍白裂波者",
+        "zh_tw":"蒼白斬潮者"
+      },
+      "Pale Cherubim":{
+        "zh_cn":"苍白圣侍",
+        "zh_tw":"蒼白小天使"
+      },
+      "Pale Seraphim":{
+        "zh_cn":"苍白神使",
+        "zh_tw":"蒼白六翼天使"
+      },
+      "Pale Servitor":{
+        "zh_cn":"苍白圣使",
+        "zh_tw":"蒼白僕從"
+      },
+      "Pale Tidecrasher":{
+        "zh_cn":"苍白碎潮者",
+        "zh_tw":"蒼白滅潮者"
+      },
+      "Pale Virtue":{
+        "zh_cn":"苍白圣徒",
+        "zh_tw":"蒼白美德"
+      },
+      "Pale Waterwalker":{
+        "zh_cn":"苍白水行者",
+        "zh_tw":"蒼白步潮者"
+      },
+      "Pale-stitched Stalker":{
+        "zh_cn":"乱缝潜伏者",
+        "zh_tw":"蒼白縫合懼靈"
+      },
+      "Petulant Stonemaw":{
+        "zh_cn":"暴躁的石爪兽",
+        "zh_tw":"暴躁石喉"
+      },
+      "Pit Crawler":{
+        "zh_cn":"深坑行者",
+        "zh_tw":"巨坑食腐蟲"
+      },
+      "Plague Harvester":{
+        "zh_cn":"灾疫收割者",
+        "zh_tw":"疫源收割者"
+      },
+      "Plague Nymph":{
+        "zh_cn":"灾疫幼虫",
+        "zh_tw":"疫源幼蟲"
+      },
+      "Plague Swarm":{
+        "zh_cn":"灾疫虫群",
+        "zh_tw":"疫源蟲群"
+      },
+      "Porcupine Crab":{
+        "zh_cn":"针背巨蟹",
+        "zh_tw":"尖刺蟹"
+      },
+      "Porcupine Goliath":{
+        "zh_cn":"针背巨兽",
+        "zh_tw":"針背巨獸"
+      },
+      "Powered Zealot":{
+        "zh_cn":"强能狂热者",
+        "zh_tw":"強化狂熱者"
+      },
+      "Priest of the Chalice":{
+        "zh_cn":"圣杯教士",
+        "zh_tw":"聖杯牧師"
+      },
+      "Priest of the Sun":{
+        "zh_cn":"烈阳祭司",
+        "zh_tw":"豔陽牧師"
+      },
+      "Primal Familiar":{
+        "zh_cn":"始源魔宠",
+        "zh_tw":"原始近親"
+      },
+      "Primordial Monster":{
+        "zh_cn":"始源怪物",
+        "zh_tw":"原始怪物"
+      },
+      "Primordium of the Pit":{
+        "zh_cn":"深坑原虫",
+        "zh_tw":"巨坑原基"
+      },
+      "Prospector Kin":{
+        "zh_cn":"探勘族民",
+        "zh_tw":"探勘族裔"
+      },
+      "Prowling Chimeral":{
+        "zh_cn":"潜龙奇美洛",
+        "zh_tw":"潛行龍蜥"
+      },
+      "Prowling Shade":{
+        "zh_cn":"伏行暗影",
+        "zh_tw":"潛行影魅"
+      },
+      "Prowling Skeleton":{
+        "zh_cn":"伏行亡骸",
+        "zh_tw":"潛行骷髏"
+      },
+      "Pyromushroom Cultivator":{
+        "zh_cn":"葬火菇栽培者",
+        "zh_tw":"火菇培育者"
+      },
+      "Quadrilla":{
+        "zh_cn":"四臂猿",
+        "zh_tw":"四手巨獸"
+      },
+      "Quake Golem":{
+        "zh_cn":"撼地傀儡",
+        "zh_tw":"震地魔像"
+      },
+      "Quill Crab":{
+        "zh_cn":"刺针巨蟹",
+        "zh_tw":"飛刺蟹"
+      },
+      "Rabid Dog":{
+        "zh_cn":"失心狂犬",
+        "zh_tw":"瘋犬"
+      },
+      "Rage":{
+        "zh_cn":"怒火",
+        "zh_tw":"怒火"
+      },
+      "Rasp Scavenger":{
+        "zh_cn":"挫刺清道夫",
+        "zh_tw":"鼓噪食腐者"
+      },
+      "Rattling Gibbet":{
+        "zh_cn":"作响的笼架",
+        "zh_tw":"焦躁絞刑架"
+      },
+      "Raven Shrike":{
+        "zh_cn":"肆掠伯劳",
+        "zh_tw":"漆黑伯勞鳥"
+      },
+      "Ravenous Bloodshaper":{
+        "zh_cn":"饕餮塑命者",
+        "zh_tw":"貪婪血塑者"
+      },
+      "Ravenous Brute":{
+        "zh_cn":"饕餮暴徒",
+        "zh_tw":"貪婪野蠻人"
+      },
+      "Ravenous Digester":{
+        "zh_cn":"饕餮凶徒",
+        "zh_tw":"貪婪消化"
+      },
+      "Ravenous Homunculus":{
+        "zh_cn":"饕餮劣灵",
+        "zh_tw":"貪婪生化人"
+      },
+      "Ravenous Macerator":{
+        "zh_cn":"饕餮剥离者",
+        "zh_tw":"貪婪剝離"
+      },
+      "Ravenous Misshapen":{
+        "zh_cn":"饕餮畸变者",
+        "zh_tw":"貪婪怪胎"
+      },
+      "Ravenous Swarm":{
+        "zh_cn":"饕餮虫群",
+        "zh_tw":"貪婪蟲群"
+      },
+      "Reconstructor":{
+        "zh_cn":"重建者",
+        "zh_tw":"重構者"
+      },
+      "Regurgitating Vulture":{
+        "zh_cn":"反刍秃鹫",
+        "zh_tw":"反芻禿鷹"
+      },
+      "Rhex":{
+        "zh_cn":"凶鸟",
+        "zh_tw":"雛鳥"
+      },
+      "Rhoa Companion":{
+        "zh_cn":"恐喙鸟同伴",
+        "zh_tw":"恐喙鳥盟友"
+      },
+      "Ribrattle":{
+        "zh_cn":"响肋者",
+        "zh_tw":"肋骨震動者"
+      },
+      "Righteous Axewielder":{
+        "zh_cn":"正义斧卫",
+        "zh_tw":"正義的執斧者"
+      },
+      "Riptide":{
+        "zh_cn":"激流猎手",
+        "zh_tw":"激流"
+      },
+      "Risen Arbalest":{
+        "zh_cn":"复苏的强弩手",
+        "zh_tw":"喚起的鋼弩手"
+      },
+      "Risen Farmhand":{
+        "zh_cn":"复生的农户",
+        "zh_tw":"喚起的農工"
+      },
+      "Risen Maraketh":{
+        "zh_cn":"马拉克斯返生者",
+        "zh_tw":"喚起的馬拉克斯人"
+      },
+      "Risen Rattler":{
+        "zh_cn":"响动的复苏者",
+        "zh_tw":"喚起的骷髏"
+      },
+      "Risen Tale-woman":{
+        "zh_cn":"返生的说书人",
+        "zh_tw":"喚起的說書女"
+      },
+      "River Drake":{
+        "zh_cn":"潜河灵蜥",
+        "zh_tw":"河川飛龍"
+      },
+      "River Hag":{
+        "zh_cn":"河畔鬼婆",
+        "zh_tw":"河之女巫"
+      },
+      "Rootwalker":{
+        "zh_cn":"根须漫步者",
+        "zh_tw":"根行者"
+      },
+      "Rotted Rat":{
+        "zh_cn":"腐烂的老鼠",
+        "zh_tw":"腐鼠"
+      },
+      "Rotten Wolf":{
+        "zh_cn":"腐烂凶狼",
+        "zh_tw":"腐爛之狼"
+      },
+      "Rotting Cannoneer":{
+        "zh_cn":"腐烂炮手",
+        "zh_tw":"腐朽的砲手"
+      },
+      "Rotting Crow":{
+        "zh_cn":"溃烂鸦",
+        "zh_tw":"腐敗之鴉"
+      },
+      "Rotting Demolitionist":{
+        "zh_cn":"腐烂爆破者",
+        "zh_tw":"腐朽的破壞者"
+      },
+      "Rotting Guard":{
+        "zh_cn":"腐败卫士",
+        "zh_tw":"腐朽軍衛"
+      },
+      "Rotting Hulk":{
+        "zh_cn":"朽烂巨怪",
+        "zh_tw":"腐敗巨獸"
+      },
+      "Rotting Soulcatcher":{
+        "zh_cn":"腐烂掠魂者",
+        "zh_tw":"腐朽的靈魂捕捉者"
+      },
+      "Runed Knight":{
+        "zh_cn":"璀璨骑士",
+        "zh_tw":"魔符騎士"
+      },
+      "Rust Skeleton":{
+        "zh_cn":"锈污魔侍",
+        "zh_tw":"鏽斑骷髏"
+      },
+      "Rusted Dyna Golem":{
+        "zh_cn":"锈蚀炸药傀儡",
+        "zh_tw":"鏽斑魔像"
+      },
+      "Rusted Reconstructor":{
+        "zh_cn":"锈蚀重建者",
+        "zh_tw":"鏽斑重構者"
+      },
+      "Sabre Spider":{
+        "zh_cn":"刃爪蛛",
+        "zh_tw":"軍刀毒蛛"
+      },
+      "Sand Spirit":{
+        "zh_cn":"流沙之魂",
+        "zh_tw":"砂之精魂"
+      },
+      "Sandflesh Mage":{
+        "zh_cn":"沙躯法师",
+        "zh_tw":"砂之法師"
+      },
+      "Sandflesh Skeleton":{
+        "zh_cn":"沙躯亡骸",
+        "zh_tw":"砂之骷髏"
+      },
+      "Sandflesh Warrior":{
+        "zh_cn":"沙躯战士",
+        "zh_tw":"砂之戰士"
+      },
+      "Sandscoured Dead":{
+        "zh_cn":"沙蚀亡躯",
+        "zh_tw":"砂拂亡者"
+      },
+      "Saurian Servant":{
+        "zh_cn":"蜥蜴仆从",
+        "zh_tw":"蜥蜴奴僕"
+      },
+      "Scarecrow Beast":{
+        "zh_cn":"魔物稻草人",
+        "zh_tw":"稻草人之獸"
+      },
+      "Scavenged Skeleton":{
+        "zh_cn":"剔净的亡骸",
+        "zh_tw":"拼湊骷髏"
+      },
+      "Scorpion Monkey":{
+        "zh_cn":"毒蝎灵猴",
+        "zh_tw":"蠍猴"
+      },
+      "Scourge of the Skies":{
+        "zh_cn":"天空灾星",
+        "zh_tw":"天之禍殃"
+      },
+      "Scute Lizard":{
+        "zh_cn":"盾板蜥蜴",
+        "zh_tw":"鱗甲蜥蜴"
+      },
+      "Sea-tribe Avian":{
+        "zh_cn":"海族鸟人",
+        "zh_tw":"海族鳥禽"
+      },
+      "Sea-tribe Caster":{
+        "zh_cn":"海族施法者",
+        "zh_tw":"海族施法者"
+      },
+      "Sea-tribe Daggerbearer":{
+        "zh_cn":"海族匕首手",
+        "zh_tw":"海族執匕者"
+      },
+      "Sea-tribe Harpooner":{
+        "zh_cn":"海族鱼叉手",
+        "zh_tw":"海族魚叉手"
+      },
+      "Sea-tribe Pouchbearer":{
+        "zh_cn":"海族袋手",
+        "zh_tw":"海族持袋者"
+      },
+      "Sea-tribe Spearfisher":{
+        "zh_cn":"海族矛鱼手",
+        "zh_tw":"海族叉魚者"
+      },
+      "Sea-tribe Trapper":{
+        "zh_cn":"海族陷阱师",
+        "zh_tw":"海族陷捕手"
+      },
+      "Sea-tribe Vaulter":{
+        "zh_cn":"海族腾越者",
+        "zh_tw":"海族躍擊者"
+      },
+      "Sea-tribe Villager":{
+        "zh_cn":"海族村民",
+        "zh_tw":"海族村民"
+      },
+      "Searot Ensnarer":{
+        "zh_cn":"海蚀诱捕者",
+        "zh_tw":"海蝕誘捕手"
+      },
+      "Searot Harpooner":{
+        "zh_cn":"海蚀鱼叉手",
+        "zh_tw":"海蝕魚叉手"
+      },
+      "Searot Skeleton":{
+        "zh_cn":"海蚀亡骸",
+        "zh_tw":"海蝕骷髏"
+      },
+      "Searot Sniper":{
+        "zh_cn":"海蚀狙击手",
+        "zh_tw":"海蝕狙擊手"
+      },
+      "Serpent Clan":{
+        "zh_cn":"毒蛇部族",
+        "zh_tw":"蝮蛇部落"
+      },
+      "Serpent Shaman":{
+        "zh_cn":"毒蛇萨满",
+        "zh_tw":"蝮蛇薩滿"
+      },
+      "Serpentine Familiar":{
+        "zh_cn":"蛇形魔宠",
+        "zh_tw":"蝮蛇近親"
+      },
+      "Shaman Kin":{
+        "zh_cn":"萨满族民",
+        "zh_tw":"巫者族裔"
+      },
+      "Shielded Transcendent":{
+        "zh_cn":"飞升盾卫",
+        "zh_tw":"持盾超凡者"
+      },
+      "Shockblade Construct":{
+        "zh_cn":"撼刃构造体",
+        "zh_tw":"石刃創造物"
+      },
+      "Skeletal Cobra":{
+        "zh_cn":"魔侍眼镜蛇",
+        "zh_tw":"骷髏眼鏡蛇"
+      },
+      "Skeleton Spriggan":{
+        "zh_cn":"魔侍守卫",
+        "zh_tw":"骷髏保衛者"
+      },
+      "Skitter Golem":{
+        "zh_cn":"掠虫傀儡",
+        "zh_tw":"疾跑魔像"
+      },
+      "Skitter Mine":{
+        "zh_cn":"飞掠地雷",
+        "zh_tw":"疾速地雷"
+      },
+      "Skittering Jellycrab":{
+        "zh_cn":"飞掠胶体蟹",
+        "zh_tw":"疾跑毒蟹"
+      },
+      "Skittering Stone":{
+        "zh_cn":"飞掠石",
+        "zh_tw":"飛掠之石"
+      },
+      "Skulking Ghoul":{
+        "zh_cn":"鬼祟的食尸徒",
+        "zh_tw":"狡猾活屍"
+      },
+      "Skullslinger":{
+        "zh_cn":"掷颅者",
+        "zh_tw":"骷髏射手"
+      },
+      "Skulltop Kin":{
+        "zh_cn":"颅顶族民",
+        "zh_tw":"骷髏族裔"
+      },
+      "Slitherspitter":{
+        "zh_cn":"飞沫游蛇",
+        "zh_tw":"爬行噴吐者"
+      },
+      "Snake":{
+        "zh_cn":"蛇",
+        "zh_tw":"蟒蛇"
+      },
+      "Snakethroat Shambler":{
+        "zh_cn":"蛇喉蹒跚魔",
+        "zh_tw":"蛇吻跛屍"
+      },
+      "Spearbearer Kin":{
+        "zh_cn":"持矛族民",
+        "zh_tw":"長矛族裔"
+      },
+      "Spearfisher":{
+        "zh_cn":"鱼叉能手",
+        "zh_tw":"叉魚者"
+      },
+      "Spiked Ray":{
+        "zh_cn":"刺刃鳐",
+        "zh_tw":"刺魟"
+      },
+      "Spiked Scuttler":{
+        "zh_cn":"针刺疾行者",
+        "zh_tw":"棘刺潛伏"
+      },
+      "Spined Necromancer":{
+        "zh_cn":"刺脊死灵师",
+        "zh_tw":"刺脊死靈法師"
+      },
+      "Spinesnatcher":{
+        "zh_cn":"攫脊者",
+        "zh_tw":"脊椎搶奪者"
+      },
+      "Spite":{
+        "zh_cn":"怨恨",
+        "zh_tw":"怨恨"
+      },
+      "Spiteful Vagrant":{
+        "zh_cn":"怨毒流浪者",
+        "zh_tw":"殘酷遊民"
+      },
+      "Sporebearer":{
+        "zh_cn":"孢子承载者",
+        "zh_tw":"播孢者"
+      },
+      "Stag Spirit":{
+        "zh_cn":"雄鹿之灵",
+        "zh_tw":"雄鹿之魂"
+      },
+      "Steel Colossus":{
+        "zh_cn":"精钢巨像",
+        "zh_tw":"鋼鐵巨獸"
+      },
+      "Stone Sentinel":{
+        "zh_cn":"顽石护卫",
+        "zh_tw":"磐石守望"
+      },
+      "Stoneback Rhoa":{
+        "zh_cn":"岩背恐喙鸟",
+        "zh_tw":"岩背恐喙鳥"
+      },
+      "Stoneclad Gorilla":{
+        "zh_cn":"石甲巨猿",
+        "zh_tw":"石膚猩猩"
+      },
+      "Strider of the Pit":{
+        "zh_cn":"深坑跨步者",
+        "zh_tw":"巨坑疾行者"
+      },
+      "Sun Clan Scavenger":{
+        "zh_cn":"烈日部族清道夫",
+        "zh_tw":"太陽部落食腐者"
+      },
+      "Surgical Experimentalist":{
+        "zh_cn":"手术实验师",
+        "zh_tw":"外科實驗專家"
+      },
+      "Swamp Golem":{
+        "zh_cn":"泥沼傀儡",
+        "zh_tw":"沼地魔像"
+      },
+      "Swarming Wasp":{
+        "zh_cn":"蜂群黄蜂",
+        "zh_tw":"蜂擁的黃蜂"
+      },
+      "Tallwalker Kin":{
+        "zh_cn":"阔步族民",
+        "zh_tw":"長行族裔"
+      },
+      "Tanim":{
+        "zh_cn":"塔尼姆",
+        "zh_tw":"塔尼姆"
+      },
+      "Tarnished Beetle":{
+        "zh_cn":"褪色甲虫",
+        "zh_tw":"玷污甲蟲"
+      },
+      "Tarnished Scarab":{
+        "zh_cn":"褪色圣甲虫",
+        "zh_tw":"玷污聖甲蟲"
+      },
+      "Tasalio Trawler":{
+        "zh_cn":"塔萨里奥拖捕者",
+        "zh_tw":"塔薩里奧拖網者"
+      },
+      "Tawhoa Mystic":{
+        "zh_cn":"塔赫亚神秘人",
+        "zh_tw":"塔赫亞神秘者"
+      },
+      "Tawhoa's Boar":{
+        "zh_cn":"塔赫亚的野猪",
+        "zh_tw":"塔赫亞的野豬"
+      },
+      "Tawhoa's Tuatara":{
+        "zh_cn":"塔赫亚的巨蜥",
+        "zh_tw":"塔赫亞的圖瓦塔拉"
+      },
+      "Tendril Prowler":{
+        "zh_cn":"卷须徘徊者",
+        "zh_tw":"觸手竊賊"
+      },
+      "Tendril Sentinel":{
+        "zh_cn":"卷须哨兵",
+        "zh_tw":"觸手守望"
+      },
+      "Terracotta Soldier":{
+        "zh_cn":"俑士",
+        "zh_tw":"赤陶士兵"
+      },
+      "Testling":{
+        "zh_cn":"测试虫",
+        "zh_tw":"測試蟲"
+      },
+      "The Devourer":{
+        "zh_cn":"暴噬虫",
+        "zh_tw":"吞噬獸"
+      },
+      "The Punished":{
+        "zh_cn":"受刑者",
+        "zh_tw":"受懲罰者"
+      },
+      "Tombshrieker":{
+        "zh_cn":"坟墓尖啸魔",
+        "zh_tw":"墓室尖嘯者"
+      },
+      "Torcall, Sobbing Child":{
+        "zh_cn":"啜泣之子托尔卡",
+        "zh_tw":"哭泣的孩子．托科"
+      },
+      "Torchbearer Kin":{
+        "zh_cn":"执炬族民",
+        "zh_tw":"持炬者族裔"
+      },
+      "Treant":{
+        "zh_cn":"树精",
+        "zh_tw":"樹人"
+      },
+      "Treant Foulspawn":{
+        "zh_cn":"树精秽生者",
+        "zh_tw":"樹人汙穢族裔"
+      },
+      "Treant Fungalreaver":{
+        "zh_cn":"树精真菌掠夺者",
+        "zh_tw":"樹人真菌劫掠者"
+      },
+      "Treant Hookhorror":{
+        "zh_cn":"树精钩刃魔",
+        "zh_tw":"樹人鉤爪恐獸"
+      },
+      "Treant Mystic":{
+        "zh_cn":"树精密士",
+        "zh_tw":"樹人秘巫"
+      },
+      "Treant Sage":{
+        "zh_cn":"树精贤者",
+        "zh_tw":"樹人賢者"
+      },
+      "Treant Splitbeast":{
+        "zh_cn":"树精分裂兽",
+        "zh_tw":"樹人分裂獸"
+      },
+      "Treant Spriggan":{
+        "zh_cn":"树精林鬼",
+        "zh_tw":"樹人妖精"
+      },
+      "Turmoil":{
+        "zh_cn":"焦虑",
+        "zh_tw":"動亂"
+      },
+      "Tuskbearer Kin":{
+        "zh_cn":"佩牙族民",
+        "zh_tw":"曲牙族裔"
+      },
+      "Twilight Order Assassin":{
+        "zh_cn":"暮光会刺客",
+        "zh_tw":"黎明教團刺客"
+      },
+      "Twilight Order Oathsworn":{
+        "zh_cn":"暮光会誓约者",
+        "zh_tw":"黎明教團宣誓者"
+      },
+      "Twilight Order Officer":{
+        "zh_cn":"暮光会元老",
+        "zh_tw":"黎明教團軍官"
+      },
+      "Twilight Order Priest":{
+        "zh_cn":"暮光会祭司",
+        "zh_tw":"黎明教團祭司"
+      },
+      "Twilight Order Soldier":{
+        "zh_cn":"暮光会士兵",
+        "zh_tw":"黎明教團士兵"
+      },
+      "Undead Vaal Bladedancer":{
+        "zh_cn":"亡灵瓦尔剑舞者",
+        "zh_tw":"不死瓦爾舞劍師"
+      },
+      "Undead Vaal Enforcer":{
+        "zh_cn":"亡灵瓦尔执法者",
+        "zh_tw":"不死的瓦爾執行官"
+      },
+      "Undead Vaal Guard":{
+        "zh_cn":"亡灵瓦尔军卫",
+        "zh_tw":"不死瓦爾守衛"
+      },
+      "Undertaker":{
+        "zh_cn":"送葬者",
+        "zh_tw":"送葬者"
+      },
+      "Unearthed Rampager":{
+        "zh_cn":"掘出的莽夫",
+        "zh_tw":"出土的狂暴者"
+      },
+      "Unearthed Runecaster":{
+        "zh_cn":"掘出的宝石匠",
+        "zh_tw":"出土的魔符術士"
+      },
+      "Unearthed Skeletal Archer":{
+        "zh_cn":"掘出的骨弓手",
+        "zh_tw":"出土的骷髏弓手"
+      },
+      "Unearthed Skeletal Swordsman":{
+        "zh_cn":"掘出的骨剑士",
+        "zh_tw":"出土的骷髏劍士"
+      },
+      "Unearthed Skeletal Warrior":{
+        "zh_cn":"掘出的骨武士",
+        "zh_tw":"出土的骷髏戰士"
+      },
+      "Unearthed Soldier":{
+        "zh_cn":"掘出的士兵",
+        "zh_tw":"出土的士兵"
+      },
+      "Unearthed Urchin":{
+        "zh_cn":"掘出的顽童",
+        "zh_tw":"出土的亡靈"
+      },
+      "Unearthed Zombie":{
+        "zh_cn":"掘出的魔卫",
+        "zh_tw":"出土的殭屍"
+      },
+      "Urnwalker":{
+        "zh_cn":"瓮行者",
+        "zh_tw":"罈行者"
+      },
+      "Vaal Axeman":{
+        "zh_cn":"瓦尔斧手",
+        "zh_tw":"瓦爾斧鉞士"
+      },
+      "Vaal Embalmed Archer":{
+        "zh_cn":"瓦尔敛骸射手",
+        "zh_tw":"瓦爾永生弓手"
+      },
+      "Vaal Embalmed Axeman":{
+        "zh_cn":"瓦尔敛骸斧手",
+        "zh_tw":"瓦爾永生斧鉞士"
+      },
+      "Vaal Embalmed Bearer":{
+        "zh_cn":"瓦尔敛骸旗手",
+        "zh_tw":"瓦爾永生搬運者"
+      },
+      "Vaal Embalmed Rogue":{
+        "zh_cn":"瓦尔敛骸盗贼",
+        "zh_tw":"瓦爾永生盜賊"
+      },
+      "Vaal Embalmed Spearman":{
+        "zh_cn":"瓦尔敛骸矛兵",
+        "zh_tw":"瓦爾永生長矛士"
+      },
+      "Vaal Enforcer":{
+        "zh_cn":"瓦尔执法者",
+        "zh_tw":"瓦爾執行官"
+      },
+      "Vaal Excoriator":{
+        "zh_cn":"瓦尔申斥者",
+        "zh_tw":"瓦爾責難者"
+      },
+      "Vaal Formshifter":{
+        "zh_cn":"瓦尔变形者",
+        "zh_tw":"瓦爾變形者"
+      },
+      "Vaal Goliath":{
+        "zh_cn":"瓦尔巨人",
+        "zh_tw":"瓦爾巨獸"
+      },
+      "Vaal Guard":{
+        "zh_cn":"瓦尔军卫",
+        "zh_tw":"瓦爾守衛"
+      },
+      "Vaal Overseer":{
+        "zh_cn":"瓦尔督查",
+        "zh_tw":"瓦爾監督者"
+      },
+      "Vaal Researcher":{
+        "zh_cn":"瓦尔研究者",
+        "zh_tw":"瓦爾研究者"
+      },
+      "Vaal Skeletal Archer":{
+        "zh_cn":"瓦尔魔侍射手",
+        "zh_tw":"瓦爾骷髏弓手"
+      },
+      "Vaal Skeletal Priest":{
+        "zh_cn":"瓦尔魔侍祭司",
+        "zh_tw":"瓦爾骷髏牧師"
+      },
+      "Vaal Skeletal Squire":{
+        "zh_cn":"瓦尔魔侍扈从",
+        "zh_tw":"瓦爾骷髏侍從"
+      },
+      "Vaal Skeletal Warrior":{
+        "zh_cn":"瓦尔魔侍武士",
+        "zh_tw":"瓦爾骷髏戰士"
+      },
+      "Vaal Temporal Researcher":{
+        "zh_cn":"瓦尔恒时研究者",
+        "zh_tw":"瓦爾時空研究者"
+      },
+      "Vault Lurker":{
+        "zh_cn":"穴窟潜伏蛛",
+        "zh_tw":"寶庫潛伏者"
+      },
+      "Venomous Crab":{
+        "zh_cn":"毒脉巨蟹",
+        "zh_tw":"毒蟹"
+      },
+      "Venomous Crab Matriarch":{
+        "zh_cn":"毒脉巨蟹主母",
+        "zh_tw":"毒蟹之母"
+      },
+      "Vesper Bat":{
+        "zh_cn":"薄暮蝠",
+        "zh_tw":"晚霞蝙蝠"
+      },
+      "Vile Hag":{
+        "zh_cn":"歹毒鬼婆",
+        "zh_tw":"惡毒女巫"
+      },
+      "Vile Imp":{
+        "zh_cn":"歹毒小鬼",
+        "zh_tw":"惡毒小鬼"
+      },
+      "Vile Vulture":{
+        "zh_cn":"邪毒秃鹫",
+        "zh_tw":"惡魔禿鷹"
+      },
+      "Vilespit Gull":{
+        "zh_cn":"恶唾鸥",
+        "zh_tw":"惡涎反芻鳥"
+      },
+      "Viper Legionnaire":{
+        "zh_cn":"蝰蛇军团士兵",
+        "zh_tw":"邪魔毒蛇軍團"
+      },
+      "Viper Servant":{
+        "zh_cn":"蝰蛇仆侍",
+        "zh_tw":"邪魔毒蛇服侍"
+      },
+      "Volatile Boar":{
+        "zh_cn":"无常野猪",
+        "zh_tw":"易爆野豬"
+      },
+      "Volatile Scarab":{
+        "zh_cn":"无常圣甲虫",
+        "zh_tw":"易爆聖甲蟲"
+      },
+      "Voracious Werewolf":{
+        "zh_cn":"贪噬狼人",
+        "zh_tw":"貪婪狼人"
+      },
+      "Walking Goliath":{
+        "zh_cn":"漫行巨人",
+        "zh_tw":"行走巨獸"
+      },
+      "Wardrum Kin":{
+        "zh_cn":"战鼓族民",
+        "zh_tw":"戰鼓族裔"
+      },
+      "Warrior Transcendent":{
+        "zh_cn":"飞升战士",
+        "zh_tw":"戰士超凡者"
+      },
+      "Werewolf Prowler":{
+        "zh_cn":"狼人徘徊者",
+        "zh_tw":"狼人竊賊"
+      },
+      "Wheelbound Hag":{
+        "zh_cn":"轮缚巫婆",
+        "zh_tw":"輪縛女巫"
+      },
+      "Whiptongue Croaker":{
+        "zh_cn":"鞭舌蛙鸣兽",
+        "zh_tw":"笞舌蛙"
+      },
+      "Winged Fiend":{
+        "zh_cn":"飞翼狂魔",
+        "zh_tw":"魔翼獸"
+      },
+      "Winged Horror":{
+        "zh_cn":"飞翼恐魔",
+        "zh_tw":"幽懼之翼"
+      },
+      "Wretched Rattler":{
+        "zh_cn":"悲运响骨",
+        "zh_tw":"悲淒骷髏"
+      },
+      "Zealous Courser":{
+        "zh_cn":"狂热冲锋者",
+        "zh_tw":"狂熱獵手"
+      },
+      "Zealous Excavator":{
+        "zh_cn":"狂热挖掘者",
+        "zh_tw":"狂熱挖掘者"
+      },
+      "Zealous Guard":{
+        "zh_cn":"狂热守卫",
+        "zh_tw":"狂熱守衛"
+      },
+      "Zealous Pillarcrusher":{
+        "zh_cn":"狂热柱碎者",
+        "zh_tw":"狂熱毀柱者"
+      },
+      "Zealous Shockwarden":{
+        "zh_cn":"狂热震波守卫",
+        "zh_tw":"狂熱電擊衛者"
+      }
+    }
+  ]
+}

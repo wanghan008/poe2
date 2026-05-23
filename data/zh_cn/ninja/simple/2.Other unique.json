@@ -1,0 +1,502 @@
+{
+  "Other Unique /123": {
+    "zh_cn": "其他传奇 /123",
+    "zh_tw": "其他傳奇 /123"
+  },
+"Other Unique_group":[
+      {
+  "Heroic Tragedy": {
+    "zh_cn": "英雄的悲歌",
+    "zh_tw": "英雄悲劇"
+  },
+  "Grand Spectrum": {
+    "zh_cn": "聚光之石",
+    "zh_tw": "巨光譜"
+  },
+  "Megalomaniac": {
+    "zh_cn": "妄想症",
+    "zh_tw": "妄想症"
+  },
+  "From Nothing": {
+    "zh_cn": "无根之源",
+    "zh_tw": "從無到有"
+  },
+  "Controlled Metamorphosis": {
+    "zh_cn": "可控变形",
+    "zh_tw": "受控的蛻變"
+  },
+  "Prism of Belief": {
+    "zh_cn": "信念的棱镜",
+    "zh_tw": "信仰棱鏡"
+  },
+  "The Adorned": {
+    "zh_cn": "浮华",
+    "zh_tw": "朝氣之靈"
+  },
+  "Heart of the Well": {
+    "zh_cn": "泉井之心",
+    "zh_tw": "水井之心"
+  },
+  "Flesh Crucible": {
+    "zh_cn": "血肉玄炉",
+    "zh_tw": "血肉坩堝"
+  },
+  "Against the Darkness": {
+    "zh_cn": "抗衡黑暗",
+    "zh_tw": "力抗黑暗"
+  },
+  "The Peacemaker's Draught": {
+    "zh_cn": "求和者的饮剂",
+    "zh_tw": "和平使者藥水"
+  },
+  "The Desperate Alliance": {
+    "zh_cn": "绝境同盟",
+    "zh_tw": "絕望的同盟"
+  },
+  "The Changing Seasons": {
+    "zh_cn": "季节变迁",
+    "zh_tw": "流轉的季節"
+  },
+  "The Burden of Leadership": {
+    "zh_cn": "领袖的重负",
+    "zh_tw": "領袖的重擔"
+  },
+  "The Last Flame": {
+    "zh_cn": "终末之火",
+    "zh_tw": "終焉烈焰"
+  },
+  "Asphyxia's Wrath": {
+    "zh_cn": "冰灵之吼",
+    "zh_tw": "冰靈之吼"
+  },
+  "Blackgleam": {
+    "zh_cn": "黑炎之芒",
+    "zh_tw": "黑炎之芒"
+  },
+  "The Lethal Draw": {
+    "zh_cn": "攫命",
+    "zh_tw": "致命抽取"
+  },
+  "Rearguard": {
+    "zh_cn": "寒锋之卫",
+    "zh_tw": "寒鋒之衛"
+  },
+  "Murkshaft": {
+    "zh_cn": "沉郁之棍",
+    "zh_tw": "陰暗通道"
+  },
+  "Cadiro's Gambit": {
+    "zh_cn": "卡迪罗的赌局",
+    "zh_tw": "卡迪羅的詭計"
+  },
+  "Drillneck": {
+    "zh_cn": "穿心",
+    "zh_tw": "穿心"
+  },
+  "Beyond Reach": {
+    "zh_cn": "望而不及",
+    "zh_tw": "無法到達"
+  },
+  "Igniferis": {
+    "zh_cn": "燃印",
+    "zh_tw": "烈焰之擊"
+  },
+  "Idol of Uldurn": {
+    "zh_cn": "乌尔顿的雕像",
+    "zh_tw": "奧敦塑像"
+  },
+  "The Everlasting Gaze": {
+    "zh_cn": "永恒凝望",
+    "zh_tw": "永恆凝視"
+  },
+  "Ungil's Harmony": {
+    "zh_cn": "恩吉尔的和谐",
+    "zh_tw": "恩吉爾的和諧"
+  },
+  "Revered Resin": {
+    "zh_cn": "神圣树脂",
+    "zh_tw": "崇敬樹脂"
+  },
+  "Carnage Heart": {
+    "zh_cn": "屠戮之心",
+    "zh_tw": "屠戮之心"
+  },
+  "Xoph's Blood": {
+    "zh_cn": "索伏之血",
+    "zh_tw": "索伏之血"
+  },
+  "Surefooted Sigil": {
+    "zh_cn": "稳步法印",
+    "zh_tw": "穩健印記"
+  },
+  "Choir of the Storm": {
+    "zh_cn": "暴风之语",
+    "zh_tw": "暴風之語"
+  },
+  "Defiance of Destiny": {
+    "zh_cn": "命运之抗争",
+    "zh_tw": "拒絕命運"
+  },
+  "Ligurium Talisman": {
+    "zh_cn": "猞利子护符",
+    "zh_tw": "豐金巫符"
+  },
+  "The Pandemonius": {
+    "zh_cn": "群魔殿",
+    "zh_tw": "群魔殿"
+  },
+  "Stone of Lazhwar": {
+    "zh_cn": "拉兹瓦的灵石",
+    "zh_tw": "拉茲瓦的靈石"
+  },
+  "Rondel of Fragility": {
+    "zh_cn": "脆弱的诗文",
+    "zh_tw": "弱化圓飾"
+  },
+  "The Anvil": {
+    "zh_cn": "信念之砧",
+    "zh_tw": "信念之砧"
+  },
+  "Yoke of Suffering": {
+    "zh_cn": "苦难羁绊",
+    "zh_tw": "磨難之軛"
+  },
+  "Astramentis": {
+    "zh_cn": "均衡之符",
+    "zh_tw": "均衡之符"
+  },
+  "Fixation of Yix": {
+    "zh_cn": "伊克斯的专注",
+    "zh_tw": "伊克斯的依戀"
+  },
+  "Strugglescream": {
+    "zh_cn": "困苦尖啸",
+    "zh_tw": "掙扎吶喊"
+  },
+  "Hinekora's Sight": {
+    "zh_cn": "辛格拉的凝视",
+    "zh_tw": "悉妮蔻拉之眼"
+  },
+  "Beacon of Azis": {
+    "zh_cn": "阿吉斯的道标",
+    "zh_tw": "阿基斯的信標"
+  },
+  "Fireflower": {
+    "zh_cn": "烈火繁花",
+    "zh_tw": "火焰之花"
+  },
+  "Eye of Chayula": {
+    "zh_cn": "寻宝者的心眼",
+    "zh_tw": "夏烏拉之眼"
+  },
+  "Serpent's Egg": {
+    "zh_cn": "毒蛇之卵",
+    "zh_tw": "毒蛇之卵"
+  },
+  "Blackheart": {
+    "zh_cn": "幽暗之语",
+    "zh_tw": "幽暗之語"
+  },
+  "Icefang Orbit": {
+    "zh_cn": "冰牙指环",
+    "zh_tw": "冰風軌跡"
+  },
+  "Prized Pain": {
+    "zh_cn": "珍藏的痛苦",
+    "zh_tw": "珍貴苦痛"
+  },
+  "Venopuncture": {
+    "zh_cn": "静脉穿刺",
+    "zh_tw": "脈絡針刺"
+  },
+  "Doedre's Damning": {
+    "zh_cn": "德瑞的魔具",
+    "zh_tw": "德瑞的魔具"
+  },
+  "Glowswarm": {
+    "zh_cn": "微光虫",
+    "zh_tw": "發光蟲群"
+  },
+  "Seed of Cataclysm": {
+    "zh_cn": "灾变的种子",
+    "zh_tw": "浩劫種子"
+  },
+  "Cracklecreep": {
+    "zh_cn": "爆裂蔓延",
+    "zh_tw": "裂紋怪客"
+  },
+  "Blistering Bond": {
+    "zh_cn": "沸腾桎梏",
+    "zh_tw": "極熱護環"
+  },
+  "Polcirkeln": {
+    "zh_cn": "极圈",
+    "zh_tw": "極圈"
+  },
+  "Dream Fragments": {
+    "zh_cn": "梦语之痕",
+    "zh_tw": "夢語之痕"
+  },
+  "Whisper of the Brotherhood": {
+    "zh_cn": "兄弟会的耳语",
+    "zh_tw": "意志低語"
+  },
+  "The Burrower": {
+    "zh_cn": "挖掘者",
+    "zh_tw": "掘地者"
+  },
+  "Call of the Brotherhood": {
+    "zh_cn": "意志呼唤",
+    "zh_tw": "意志呼喚"
+  },
+  "Levinstone": {
+    "zh_cn": "电光之石",
+    "zh_tw": "浮游石"
+  },
+  "Ming's Heart": {
+    "zh_cn": "明恩的慧心",
+    "zh_tw": "明恩的慧心"
+  },
+  "Original Sin": {
+    "zh_cn": "原初之罪",
+    "zh_tw": "原罪"
+  },
+  "Blackflame": {
+    "zh_cn": "黑焰",
+    "zh_tw": "黯炎"
+  },
+  "Vigilant View": {
+    "zh_cn": "警戒凝视",
+    "zh_tw": "警戒之視"
+  },
+  "Death Rush": {
+    "zh_cn": "亡者呼唤",
+    "zh_tw": "亡者呼喚"
+  },
+  "Thief's Torment": {
+    "zh_cn": "窃罪",
+    "zh_tw": "竊罪"
+  },
+  "Evergrasping Ring": {
+    "zh_cn": "永恒紧缩之戒",
+    "zh_tw": "永恆之握戒指"
+  },
+  "Snakepit": {
+    "zh_cn": "蛇穴",
+    "zh_tw": "蛇巢"
+  },
+  "Heartbound Loop": {
+    "zh_cn": "结魂之环",
+    "zh_tw": "結魂之環"
+  },
+  "Gifts from Above": {
+    "zh_cn": "神赐",
+    "zh_tw": "神賜"
+  },
+  "Perandus Seal": {
+    "zh_cn": "普兰德斯的印章",
+    "zh_tw": "普蘭德斯之印"
+  },
+  "Andvarius": {
+    "zh_cn": "贪欲之记",
+    "zh_tw": "貪慾之記"
+  },
+  "Ventor's Gamble": {
+    "zh_cn": "赌神芬多",
+    "zh_tw": "賭神芬多"
+  },
+  "Bursting Decay": {
+    "zh_cn": "腐朽迸发",
+    "zh_tw": "爆發腐蝕"
+  },
+  "Grip of Kulemak": {
+    "zh_cn": "库勒马克之握",
+    "zh_tw": "骷髏馬克的掌握"
+  },
+  "Meginord's Girdle": {
+    "zh_cn": "梅吉诺德的力量泉源",
+    "zh_tw": "梅吉諾德的力量泉源"
+  },
+  "Midnight Braid": {
+    "zh_cn": "午夜穗带",
+    "zh_tw": "午夜護鏈"
+  },
+  "Keelhaul": {
+    "zh_cn": "罪罚拖绳",
+    "zh_tw": "船拖刑"
+  },
+  "Umbilicus Immortalis": {
+    "zh_cn": "不朽系命",
+    "zh_tw": "不朽繫命"
+  },
+  "Birthright Buckle": {
+    "zh_cn": "天赋扣带",
+    "zh_tw": "天生權利扣環"
+  },
+  "Byrnabas": {
+    "zh_cn": "伯纳巴斯",
+    "zh_tw": "布萊納巴斯"
+  },
+  "The Gnashing Sash": {
+    "zh_cn": "狂獠饰带",
+    "zh_tw": "憤恨飾帶"
+  },
+  "Soul Tether": {
+    "zh_cn": "灵魂羁绊",
+    "zh_tw": "靈魂束縛"
+  },
+  "Goregirdle": {
+    "zh_cn": "残血束腰",
+    "zh_tw": "血肉束腰"
+  },
+  "Ryslatha's Coil": {
+    "zh_cn": "瑞斯拉萨的线圈",
+    "zh_tw": "瑞斯拉薩之纏"
+  },
+  "Coward's Legacy": {
+    "zh_cn": "懦夫之遗",
+    "zh_tw": "懦夫的遺產"
+  },
+  "Bijouborne": {
+    "zh_cn": "珠宝承载者",
+    "zh_tw": "寶石之源"
+  },
+  "Waistgate": {
+    "zh_cn": "腰际之门",
+    "zh_tw": "腰閥"
+  },
+  "Headhunter": {
+    "zh_cn": "猎首",
+    "zh_tw": "獵首"
+  },
+  "Zerphi's Genesis": {
+    "zh_cn": "泽佛伊的本源",
+    "zh_tw": "澤菲的創世紀"
+  },
+  "Ingenuity": {
+    "zh_cn": "奇思妙想",
+    "zh_tw": "獨創"
+  },
+  "Shavronne's Satchel": {
+    "zh_cn": "薛朗的背包",
+    "zh_tw": "薛朗的背包"
+  },
+  "Darkness Enthroned": {
+    "zh_cn": "夜临",
+    "zh_tw": "夜惡降臨"
+  },
+  "Blood of the Warrior": {
+    "zh_cn": "战士之血",
+    "zh_tw": "戰士之血"
+  },
+  "Olroth's Resolve": {
+    "zh_cn": "欧罗什的决心",
+    "zh_tw": "奧爾羅斯的決心"
+  },
+  "Lavianga's Spirits": {
+    "zh_cn": "拉维安加之灵",
+    "zh_tw": "拉維安加之泉"
+  },
+  "Melting Maelstrom": {
+    "zh_cn": "消融漩涡",
+    "zh_tw": "融解漩渦"
+  },
+  "Nascent Hope": {
+    "zh_cn": "新生希望",
+    "zh_tw": "萌芽希望"
+  },
+  "Sanguis Heroum": {
+    "zh_cn": "英雄血液",
+    "zh_tw": "嗜血英雄"
+  },
+  "Arakaali's Gift": {
+    "zh_cn": "阿拉卡力的礼物",
+    "zh_tw": "艾爾卡莉的贈禮"
+  },
+  "Beira's Anguish": {
+    "zh_cn": "贝拉的苦楚",
+    "zh_tw": "貝伊拉的悲痛"
+  },
+  "The Black Cat": {
+    "zh_cn": "黑猫",
+    "zh_tw": "黑貓"
+  },
+  "For Utopia": {
+    "zh_cn": "为了乌托邦",
+    "zh_tw": "為了烏托邦"
+  },
+  "The Fall of the Axe": {
+    "zh_cn": "落刃时刻",
+    "zh_tw": "斧頭之隕"
+  },
+  "Ngamahu's Chosen": {
+    "zh_cn": "努葛玛呼的亲选",
+    "zh_tw": "努葛瑪呼之選"
+  },
+  "Breath of the Mountains": {
+    "zh_cn": "群山之息",
+    "zh_tw": "山地之息"
+  },
+  "Valako's Roar": {
+    "zh_cn": "瓦拉克怒吼",
+    "zh_tw": "瓦拉庫之吼"
+  },
+  "Forsaken Bangle": {
+    "zh_cn": "遗弃手镯",
+    "zh_tw": "遺落的手鐲"
+  },
+  "Rite of Passage": {
+    "zh_cn": "仪式通道",
+    "zh_tw": "儀式通道"
+  },
+  "Kalandra's Touch": {
+    "zh_cn": "卡兰德之触",
+    "zh_tw": "卡蘭德之觸"
+  },
+  "Sekhema's Resolve": {
+    "zh_cn": "丝克玛的决心",
+    "zh_tw": "絲克瑪的決意"
+  },
+  "Wraeclast Besieged": {
+    "zh_cn": "围困瓦尔克拉斯",
+    "zh_tw": "被圍攻的瓦爾克拉斯"
+  },
+  "Forgotten By Time": {
+    "zh_cn": "时光的埋没",
+    "zh_tw": "時間之遺"
+  },
+  "Clear Skies": {
+    "zh_cn": "万里晴空",
+    "zh_tw": "蒼空"
+  },
+  "Freedom of Faith": {
+    "zh_cn": "信念的自由",
+    "zh_tw": "信仰的自由"
+  },
+  "The Grand Project": {
+    "zh_cn": "宏伟计划",
+    "zh_tw": "偉大計劃"
+  },
+  "Visions of Paradise": {
+    "zh_cn": "乐园幻象",
+    "zh_tw": "天堂異象"
+  },
+  "Season of the Hunt": {
+    "zh_cn": "狩猎时节",
+    "zh_tw": "狩獵季節"
+  },
+  "Cruel Hegemony": {
+    "zh_cn": "残酷霸权",
+    "zh_tw": "殘暴霸權"
+  },
+  "Unforeseen Consequences": {
+    "zh_cn": "无常因果",
+    "zh_tw": "始料未及的後果"
+  },
+  "Undying Hate": {
+    "zh_cn": "不朽之恨",
+    "zh_tw": "不朽恨意"
+      }
+    }
+  ]
+}

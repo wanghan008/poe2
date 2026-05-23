@@ -1,0 +1,238 @@
+{
+  "Attribute": {
+    "zh_cn": "属性",
+    "zh_tw": "能力"
+  },
+  "Str|STR": {
+    "zh_cn": "力量",
+    "zh_tw": "力量"
+  },
+  "Dex|DEX": {
+    "zh_cn": "敏捷",
+    "zh_tw": "敏捷"
+  },
+  "Int|INT": {
+    "zh_cn": "智慧",
+    "zh_tw": "智慧"
+  },
+  "Strength": {
+    "zh_cn": "力量",
+    "zh_tw": "力量"
+  },
+  "Dexterity": {
+    "zh_cn": "敏捷",
+    "zh_tw": "敏捷"
+  },
+  "Intelligence": {
+    "zh_cn": "智慧",
+    "zh_tw": "智慧"
+  },
+  "Attack": {
+    "zh_cn": "攻击",
+    "zh_tw": "攻擊"
+  },
+  "Spell": {
+    "zh_cn": "法术",
+    "zh_tw": "法術"
+  },
+  "Minion": {
+    "zh_cn": "召唤生物",
+    "zh_tw": "召喚物"
+  },
+  "AoE": {
+    "zh_cn": "效果区域",
+    "zh_tw": "範圍效果"
+  },
+  "Fire": {
+    "zh_cn": "火焰",
+    "zh_tw": "火焰"
+  },
+  "Projectile": {
+    "zh_cn": "投射物",
+    "zh_tw": "投射物"
+  },
+  "Detonator": {
+    "zh_cn": "起爆",
+    "zh_tw": "引爆器"
+  },
+  "Sustained": {
+    "zh_cn": "持续性",
+    "zh_tw": "持續性"
+  },
+  "Buff": {
+    "zh_cn": "增益",
+    "zh_tw": "增益效果"
+  },
+  "Barrageable": {
+    "zh_cn": "重复",
+    "zh_tw": "可施展彈幕"
+  },
+  "Channelling": {
+    "zh_cn": "持续吟唱",
+    "zh_tw": "引導"
+  },
+  "Chaos": {
+    "zh_cn": "混沌",
+    "zh_tw": "混沌"
+  },
+  "Evasion|Evasion": {
+    "zh_cn": "闪避",
+    "zh_tw": "閃避"
+  },
+  "Evasion Rating|Evasion rating": {
+    "zh_cn": "闪避值",
+    "zh_tw": "閃避值"
+  },
+  "Energy Shield|Energy shield": {
+    "zh_cn": "能量护盾",
+    "zh_tw": "能量護盾"
+  },
+  "Quality": {
+    "zh_cn": "品质",
+    "zh_tw": "品質"
+  },
+  "Persistent": {
+    "zh_cn": "永久性",
+    "zh_tw": "持續"
+  },
+  "Physical": {
+    "zh_cn": "物理",
+    "zh_tw": "物理"
+  },
+  "Duration": {
+    "zh_cn": "持续时间",
+    "zh_tw": "持續時間"
+  },
+  "Nova": {
+    "zh_cn": "新星",
+    "zh_tw": "新星"
+  },
+  "Curse": {
+    "zh_cn": "诅咒",
+    "zh_tw": "詛咒"
+  },
+  "Herald": {
+    "zh_cn": "捷",
+    "zh_tw": "捷光環"
+  },
+  "Lightning": {
+    "zh_cn": "闪电",
+    "zh_tw": "閃電"
+  },
+  "Payoff": {
+    "zh_cn": "清算",
+    "zh_tw": "遣散"
+  },
+  "Melee": {
+    "zh_cn": "近战",
+    "zh_tw": "近戰"
+  },
+  "Strike": {
+    "zh_cn": "打击",
+    "zh_tw": "打擊"
+  },
+  "Slam": {
+    "zh_cn": "猛击",
+    "zh_tw": "重擊"
+  },
+  "Travel": {
+    "zh_cn": "旅行",
+    "zh_tw": "快行"
+  },
+  "Trigger": {
+    "zh_cn": "触发",
+    "zh_tw": "觸發"
+  },
+  "Cold": {
+    "zh_cn": "冰霜",
+    "zh_tw": "冰冷"
+  },
+  "Totem": {
+    "zh_cn": "图腾",
+    "zh_tw": "圖騰"
+  },
+  "Meta": {
+    "zh_cn": "非凡",
+    "zh_tw": "主要"
+  },
+  "Chaining": {
+    "zh_cn": "连锁",
+    "zh_tw": "連鎖"
+  },
+  "Wind": {
+    "zh_cn": "风",
+    "zh_tw": "疾風"
+  },
+  "Corpses": {
+    "zh_cn": "灵柩",
+    "zh_tw": "屍體"
+  },
+  "Reviving": {
+    "zh_cn": "可复活",
+    "zh_tw": "復甦"
+  },
+  "Minions": {
+    "zh_cn": "召唤生物",
+    "zh_tw": "召喚物"
+  },
+  "Limit": {
+    "zh_cn": "上限",
+    "zh_tw": "限制"
+  },
+  "Debuff|Debuffs": {
+    "zh_cn": "减益状态",
+    "zh_tw": "減益效果"
+  },
+  "Endurance Charges": {
+    "zh_cn": "耐力球",
+    "zh_tw": "耐力球"
+  },
+  "Frenzy Charges": {
+    "zh_cn": "狂怒球",
+    "zh_tw": "狂怒球"
+  },
+  "Power Charges": {
+    "zh_cn": "暴击球",
+    "zh_tw": "暴擊球"
+  },
+  "Resistances": {
+    "zh_cn": "抗性",
+    "zh_tw": "抗性"
+  },
+  "Fire Resistance": {
+    "zh_cn": "火焰抗性",
+    "zh_tw": "火焰抗性"
+  },
+  "Cold Resistance": {
+    "zh_cn": "冰霜抗性",
+    "zh_tw": "冰冷抗性"
+  },
+  "Lightning Resistance": {
+    "zh_cn": "闪电抗性",
+    "zh_tw": "閃電抗性"
+  },
+  "Chaos Resistance": {
+    "zh_cn": "混沌抗性",
+    "zh_tw": "混沌抗性"
+  },
+  "Deflect Chance|Deflect chance": {
+      "zh_cn": "偏转值",
+      "zh_tw": "偏斜值"
+  },
+  "Block": {
+      "zh_cn": "格挡",
+      "zh_tw": "格擋"
+  },
+  "Onslaught": {
+    "zh_cn": "猛攻",
+    "zh_tw": "猛攻"
+  },
+  "Abyssal Eye": {
+    "zh_cn": "深渊之眼",
+    "zh_tw": "深淵之眼"
+  },
+  "Ancient Augment": {
+    "zh_cn": "远古增幅器",
+    "zh_tw": "遠古增幅"
+  }
+}

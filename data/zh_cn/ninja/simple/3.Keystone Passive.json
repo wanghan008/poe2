@@ -1,0 +1,178 @@
+{
+  "Keystones":{
+    "zh_cn":"关键天赋",
+    "zh_tw":"關鍵天賦"
+  },
+  "Keystone Passive /33":{
+    "zh_cn":"关键天赋 被动/33",
+    "zh_tw":"關鍵天賦 被动/33"
+  },
+  "Keystone Passive_group":[
+    {
+      "Resolute Technique":{
+        "zh_cn":"坚毅之心",
+        "zh_tw":"堅毅之心"
+      },
+      "Giant's Blood":{
+        "zh_cn":"巨人之血",
+        "zh_tw":"巨人之血"
+      },
+      "Unwavering Stance":{
+        "zh_cn":"烈士意志",
+        "zh_tw":"烈士意志"
+      },
+      "Avatar of Fire":{
+        "zh_cn":"火之化身",
+        "zh_tw":"火之化身"
+      },
+      "Blood Magic":{
+        "zh_cn":"祭血术",
+        "zh_tw":"祭血術"
+      },
+      "Zealot's Oath":{
+        "zh_cn":"狂热者的誓言",
+        "zh_tw":"狂熱者的誓言"
+      },
+      "Ancestral Bond":{
+        "zh_cn":"先祖魂约",
+        "zh_tw":"先祖魂約"
+      },
+      "Pain Attunement":{
+        "zh_cn":"苦痛灵曲",
+        "zh_tw":"苦痛靈曲"
+      },
+      "Chaos Inoculation":{
+        "zh_cn":"异灵之体",
+        "zh_tw":"異靈之體"
+      },
+      "Eldritch Battery":{
+        "zh_cn":"异能魔力",
+        "zh_tw":"異能魔力"
+      },
+      "Mind Over Matter":{
+        "zh_cn":"心灵升华",
+        "zh_tw":"心靈昇華"
+      },
+      "Whispers of Doom":{
+        "zh_cn":"灭世之语",
+        "zh_tw":"滅世之語"
+      },
+      "Necromantic Talisman":{
+        "zh_cn":"通灵魔符",
+        "zh_tw":"靈能魔符"
+      },
+      "Conduit":{
+        "zh_cn":"能量连接",
+        "zh_tw":"能量連結"
+      },
+      "Resonance":{
+        "zh_cn":"共鸣",
+        "zh_tw":"共鳴"
+      },
+      "Eternal Youth":{
+        "zh_cn":"青春永驻",
+        "zh_tw":"青春永駐"
+      },
+      "Primal Hunger":{
+        "zh_cn":"原始饥渴",
+        "zh_tw":"原初飢餓"
+      },
+      "Dance with Death":{
+        "zh_cn":"与亡共舞",
+        "zh_tw":"與死共舞"
+      },
+      "Heartstopper":{
+        "zh_cn":"凝心者",
+        "zh_tw":"心靈永止"
+      },
+      "Oasis":{
+        "zh_cn":"荒漠绿洲",
+        "zh_tw":"幻景綠洲"
+      },
+      "Vaal Pact":{
+        "zh_cn":"瓦尔契约",
+        "zh_tw":"瓦爾冥約"
+      },
+      "Iron Reflexes":{
+        "zh_cn":"霸体",
+        "zh_tw":"霸體"
+      },
+      "Glancing Blows":{
+        "zh_cn":"斗转星移",
+        "zh_tw":"側身之擊"
+      },
+      "Elemental Equilibrium":{
+        "zh_cn":"元素之相",
+        "zh_tw":"元素之相"
+      },
+      "Bulwark":{
+        "zh_cn":"壁垒",
+        "zh_tw":"守護"
+      },
+      "Crimson Assault":{
+        "zh_cn":"猩红强袭",
+        "zh_tw":"緋紅攻擊"
+      },
+      "Trusted Kinship":{
+        "zh_cn":"情比金坚",
+        "zh_tw":"可信之情"
+      },
+      "Hollow Palm Technique":{
+        "zh_cn":"空明之掌",
+        "zh_tw":"空掌之術"
+      },
+      "Blackflame Covenant":{
+        "zh_cn":"黑焰血誓",
+        "zh_tw":"黯炎盟約"
+      },
+      "Ritual Cadence":{
+        "zh_cn":"仪式节律",
+        "zh_tw":"祭祀終章"
+      },
+      "Scarred Faith":{
+        "zh_cn":"创痛信仰",
+        "zh_tw":"創傷信仰"
+      },
+      "Lord of the Wilds":{
+        "zh_cn":"荒野之主",
+        "zh_tw":"荒野領主"
+      },
+      "Wildsurge Incantation":{
+        "zh_cn":"野性涌动咒言",
+        "zh_tw":"荒野湧浪咒"
+      },
+      "Black Scythe Training":{
+        "zh_cn":"黑镰的训练",
+        "zh_tw":"黑暗血鐮訓練"
+      },
+      "Circular Teachings":{
+        "zh_cn":"循证的训诫",
+        "zh_tw":"循環教義"
+      },
+      "Knightly Tenets":{
+        "zh_cn":"骑士信条",
+        "zh_tw":"騎士信條"
+      },
+      "Sacrifice of Flesh":{
+        "zh_cn":"血肉牺牲",
+        "zh_tw":"血肉獻祭"
+      },
+      "Sacrifice of Loyalty":{
+        "zh_cn":"忠诚牺牲",
+        "zh_tw":"忠誠獻祭"
+      },
+      "Sacrifice of Mind":{
+        "zh_cn":"心智牺牲",
+        "zh_tw":"心靈獻祭"
+      },
+      "Sacrifice of Blood":{
+        "zh_cn":"鲜血牺牲",
+        "zh_tw":"鮮血獻祭"
+      },
+      "Sacrifice of Sight":{
+        "zh_cn":"视觉牺牲",
+        "zh_tw":"遠目獻祭"
+      }
+    }
+  ]
+}

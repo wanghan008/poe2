@@ -1,0 +1,138 @@
+{
+  "League": {
+    "zh_cn": "赛季",
+    "zh_tw": "聯盟"
+  },
+  "Active": {
+    "zh_cn": "主要",
+    "zh_tw": "主要"
+  },
+  "Previous League": {
+    "zh_cn": "以前的赛季",
+    "zh_tw": "以前的聯盟"
+  },
+  "characters": {
+    "zh_cn": " 角色",
+    "zh_tw": " 角色"
+  },
+  "The Last of the Druids": {
+    "zh_cn": "末裔德鲁伊",
+    "zh_tw": "最後的德魯伊"
+  },
+  "The Last of the Druids 0.4.0": {
+    "zh_cn": "末裔德鲁伊 0.4.0",
+    "zh_tw": "最後的德魯伊 0.4.0"
+  },
+  "Fate of the Vaal": {
+    "zh_cn": "瓦尔的宿命",
+    "zh_tw": "瓦爾命途"
+  },
+  "HC Fate of the Vaal": {
+    "zh_cn": "HC 瓦尔的宿命",
+    "zh_tw": "HC 瓦爾命途"
+  },
+  "SSF Fate of the Vaal": {
+    "zh_cn": "SSF 瓦尔的宿命",
+    "zh_tw": "SSF 瓦爾命途"
+  },
+  "HC SSF Fate of the Vaal": {
+    "zh_cn": "HC SSF 瓦尔的宿命",
+    "zh_tw": "HC SSF 瓦爾命途"
+  },
+  "The Third Edict": {
+    "zh_cn": "第三赦令",
+    "zh_tw": "第三戒律"
+  },
+  "The Third Edict   0.3": {
+    "zh_cn": "第三赦令 0.3",
+    "zh_tw": "第三戒律 0.3"
+  },
+  "The Third Edict - 0.3": {
+    "zh_cn": "第三赦令 - 0.3",
+    "zh_tw": "第三戒律 - 0.3"
+  },
+  "Rise of the Abyssal": {
+    "zh_cn": "深渊崛起",
+    "zh_tw": "深淵的崛起"
+  },
+  "SSF Rise of the Abyssal": {
+    "zh_cn": "SSF 深渊崛起",
+    "zh_tw": "SSF 深淵的崛起"
+  },
+  "HC Rise of the Abyssal": {
+    "zh_cn": "HC 深渊崛起",
+    "zh_tw": "HC 深淵的崛起"
+  },
+  "HC SSF Rise of the Abyssal": {
+    "zh_cn": "HC SSF 深渊崛起",
+    "zh_tw": "HC SSF 深淵的崛起"
+  },
+  "HC Merenkoff VIP": {
+    "zh_cn": "HC Merenkoff VIP",
+    "zh_tw": "HC Merenkoff VIP"
+  },
+  "Passive Leagues (": {
+    "zh_cn": "不活跃的赛季 (",
+    "zh_tw": "不活跃的聯盟 ("
+  },
+  "Act 4 Boss Kill Race 1": {
+    "zh_cn": "第四章 Boss击杀赛 1",
+    "zh_tw": "第四章 Boss擊殺賽 1"
+  },
+  "Act 4 Boss Kill Race 2": {
+    "zh_cn": "第四章 Boss击杀赛 2",
+    "zh_tw": "第四章 Boss擊殺賽 2"
+  },
+  "Act 4 Boss Kill Race 3": {
+    "zh_cn": "第四章 Boss击杀赛 3",
+    "zh_tw": "第四章 Boss擊殺賽 3"
+  },
+  "Dawn of the Hunt": {
+    "zh_cn": "狩猎黎明",
+    "zh_tw": "狩獵黎明"
+  },
+  "SSF Dawn of the Hunt": {
+    "zh_cn": "SSF 狩猎黎明",
+    "zh_tw": "SSF 狩獵黎明"
+  },
+  "HC Dawn of the Hunt": {
+    "zh_cn": "HC 狩猎黎明",
+    "zh_tw": "HC 狩獵黎明"
+  },
+  "HC SSF Dawn of the Hunt": {
+    "zh_cn": "HC SSF 狩猎黎明",
+    "zh_tw": "HC SSF 狩獵黎明"
+  },
+  "Standard": {
+    "zh_cn": "标准",
+    "zh_tw": "標準"
+  },
+  "Hardcore": {
+    "zh_cn": "专家",
+    "zh_tw": "專家"
+  },
+  "Current leagues": {
+    "zh_cn": "当前赛季",
+    "zh_tw": "當前聯盟"
+  },
+  "Previous leagues": {
+    "zh_cn": "以前的赛季",
+    "zh_tw": "以前的聯盟"
+  },
+  "Time machine": {
+    "zh_cn": "时光机",
+    "zh_tw": "時光機"
+  },
+  "Time Machine": {
+    "zh_cn": "时光机",
+    "zh_tw": "時光機"
+  },
+  "Latest snapshot": {
+    "zh_cn": "最新快照",
+    "zh_tw": "最新快照"
+  },
+  "Path of Exile 2": {
+    "zh_cn": "流放之路 2",
+    "zh_tw": "流亡黯道 2"
+  }
+}

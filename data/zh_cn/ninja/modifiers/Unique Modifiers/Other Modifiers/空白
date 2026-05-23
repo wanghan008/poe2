@@ -1,0 +1,22 @@
+[
+  {
+    "name": "空白",
+    "zh_cn": "空白",
+    "zh_tw": "空白",
+    "FlavourText": {
+      "original": "空白",
+      "zh_cn": "空白",
+      "zh_tw": "空白"
+    },
+    "img": "空白",
+    "group": [
+        {
+          "original": "空白",
+          "translation": {
+            "zh_cn": "空白",
+            "zh_tw": "空白"
+          }
+        }
+    ]
+  }
+]

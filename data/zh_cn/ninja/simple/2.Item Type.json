@@ -1,0 +1,654 @@
+{
+  "Item Type":{
+    "zh_cn":"物品类型",
+    "zh_tw":"物品類型"
+  },
+  "Item Type_group":[
+    {
+      "Item|Items":{
+        "zh_cn":"物品",
+        "zh_tw":"物品"
+      },
+      "All Items":{
+        "zh_cn":"所有物品",
+        "zh_tw":"所有物品"
+      },
+      "Unique|Uniques":{
+        "zh_cn":"传奇",
+        "zh_tw":"傳奇"
+      },
+      "Reforging Bench":{
+        "zh_cn":"重铸台",
+        "zh_tw":"重鑄台"
+      },
+      "Gem|Gems":{
+        "zh_cn":"宝石",
+        "zh_tw":"寶石"
+      },
+      "Abyssal Bone|Abyssal Bones":{
+        "zh_cn":"深渊骨头",
+        "zh_tw":"深淵骨頭"
+      },
+      "Uncut Gem|Uncut Gems":{
+        "zh_cn":"未切割宝石",
+        "zh_tw":"未切割寶石"
+      },
+      "Skill Gem|Skill Gems":{
+        "zh_cn":"技能宝石",
+        "zh_tw":"技能寶石"
+      },
+      "Support Gem|Support Gems":{
+        "zh_cn":"輔助宝石",
+        "zh_tw":"輔助寶石"
+      },
+      "Meta Skill Gem|Meta Skill Gems":{
+        "zh_cn":"非凡宝石",
+        "zh_tw":"主要寶石"
+      },
+      "Spirit Gem|Spirit Gems":{
+        "zh_cn":"精神宝石",
+        "zh_tw":"精神寶石"
+      },
+      "Lineage":{
+        "zh_cn":"血脉",
+        "zh_tw":"族裔"
+      },
+      "Lineage Gem|Lineage Gems":{
+        "zh_cn":"血脉宝石",
+        "zh_tw":"族裔寶石"
+      },
+      "Lineage Support|Lineage Supports":{
+        "zh_cn":"血脉辅助",
+        "zh_tw":"族裔輔助"
+      },
+      "Weapons":{
+        "zh_cn":"武器",
+        "zh_tw":"武器"
+      },
+      "Unarmed":{
+        "zh_cn":"空手",
+        "zh_tw":"空手"
+      },
+      "One Handed Weapon|One Handed Weapons":{
+        "zh_cn":"单手武器",
+        "zh_tw":"單手武器"
+      },
+      "Claw|Claws":{
+        "zh_cn":"爪",
+        "zh_tw":"爪"
+      },
+      "Dagger|Daggers":{
+        "zh_cn":"匕首",
+        "zh_tw":"匕首"
+      },
+      "Wand|Wands":{
+        "zh_cn":"法杖",
+        "zh_tw":"法杖"
+      },
+      "One Hand Sword|One Hand Swords":{
+        "zh_cn":"单手剑",
+        "zh_tw":"單手剑"
+      },
+      "One Hand Axe|One Hand Axes":{
+        "zh_cn":"单手斧",
+        "zh_tw":"單手斧"
+      },
+      "One Hand Mace|One Hand Maces|One Handed Mace":{
+        "zh_cn":"单手锤",
+        "zh_tw":"單手錘"
+      },
+      "Dual One Handed Mace|Dual One Handed Maces":{
+        "zh_cn":"双持/单手锤",
+        "zh_tw":"雙持/單手錘"
+      },
+      "Sceptre|Sceptres":{
+        "zh_cn":"短杖",
+        "zh_tw":"權杖"
+      },
+      "Spear|Spears":{
+        "zh_cn":"战矛",
+        "zh_tw":"長矛"
+      },
+      "Flail|Flails":{
+        "zh_cn":"连枷",
+        "zh_tw":"鏈錘"
+      },
+      "Two Handed Weapon|Two Handed Weapons":{
+        "zh_cn":"双手武器",
+        "zh_tw":"雙手武器"
+      },
+      "Bow|Bows":{
+        "zh_cn":"弓",
+        "zh_tw":"弓"
+      },
+      "Staff|Staves":{
+        "zh_cn":"长杖",
+        "zh_tw":"長杖"
+      },
+      "Two Hand Sword|Two Hand Swords":{
+        "zh_cn":"双手剑",
+        "zh_tw":"雙手劍"
+      },
+      "Two Hand Axe|Two Hand Axes":{
+        "zh_cn":"双手斧",
+        "zh_tw":"雙手斧"
+      },
+      "Two Handed Mace|Two Hand Mace|Two Hand Maces":{
+        "zh_cn":"双手锤",
+        "zh_tw":"雙手錘"
+      },
+      "Dual Two Handed Mace|Dual Two Handed Maces":{
+        "zh_cn":"双持/双手锤",
+        "zh_tw":"雙持/雙手錘"
+      },
+      "Quarterstaff|Warstaves|Quarterstaves":{
+        "zh_cn":"节杖",
+        "zh_tw":"細杖"
+      },
+      "Fishing Rod|Fishing Rods":{
+        "zh_cn":"鱼竿",
+        "zh_tw":"釣竿"
+      },
+      "Crossbow|Crossbows":{
+        "zh_cn":"战弩",
+        "zh_tw":"十字弓"
+      },
+      "Trap|Traps":{
+        "zh_cn":"陷阱",
+        "zh_tw":"陷阱"
+      },
+      "Talisman|Talismans|Taismans":{
+        "zh_cn":"魔符",
+        "zh_tw":"魔符"
+      },
+      "Weapon":{
+        "zh_cn":"武器",
+        "zh_tw":"武器"
+      },
+      "Off-hand|Off-hands":{
+        "zh_cn":"副手",
+        "zh_tw":"副手"
+      },
+      "Quiver|Quivers":{
+        "zh_cn":"箭袋",
+        "zh_tw":"箭袋"
+      },
+      "Shield|Shields":{
+        "zh_cn":"盾牌",
+        "zh_tw":"盾牌"
+      },
+      "Buckler|Bucklers":{
+        "zh_cn":"轻盾",
+        "zh_tw":"輕盾"
+      },
+      "Focus|Foci":{
+        "zh_cn":"法器",
+        "zh_tw":"法器"
+      },
+      "Armour|Armours|Armor":{
+        "zh_cn":"护甲",
+        "zh_tw":"护甲"
+      },
+      "Glove|Gloves":{
+        "zh_cn":"手套",
+        "zh_tw":"手套"
+      },
+      "Boot|Boots":{
+        "zh_cn":"鞋子",
+        "zh_tw":"鞋子"
+      },
+      "Body Armour|Body Armours":{
+        "zh_cn":"胸甲",
+        "zh_tw":"胸甲"
+      },
+      "Helmet|Helmets":{
+        "zh_cn":"头盔|头部",
+        "zh_tw":"頭盔|頭部"
+      },
+      "Jewellery|Jewelleries":{
+        "zh_cn":"饰品",
+        "zh_tw":"飾品"
+      },
+      "Amulet|Amulets":{
+        "zh_cn":"项链",
+        "zh_tw":"項鍊"
+      },
+      "Ring|Rings":{
+        "zh_cn":"戒指",
+        "zh_tw":"戒指"
+      },
+      "Belt|Belts":{
+        "zh_cn":"腰带",
+        "zh_tw":"腰帶"
+      },
+      "Flask|Flasks":{
+        "zh_cn":"药剂",
+        "zh_tw":"藥劑"
+      },
+      "Life Flask|Life Flasks":{
+        "zh_cn":"生命药剂",
+        "zh_tw":"生命藥劑"
+      },
+      "Mana Flask|Mana Flasks":{
+        "zh_cn":"魔力药剂",
+        "zh_tw":"魔力藥劑"
+      },
+      "Charm|Charms":{
+        "zh_cn":"咒符",
+        "zh_tw":"護符"
+      },
+      "Unknown":{
+        "zh_cn":"未知的",
+        "zh_tw":"未知的"
+      },
+      "Currency|Currencies":{
+        "zh_cn":"通货",
+        "zh_tw":"通貨"
+      },
+      "Stackable Currency|Stackable Currencies":{
+        "zh_cn":"可堆叠通货",
+        "zh_tw":"可堆疊通貨"
+      },
+      "Idol|Idols":{
+        "zh_cn":"雕像",
+        "zh_tw":"魔偶"
+      },
+      "Augment|Augments|Rune|Runes":{
+        "zh_cn":"增幅器",
+        "zh_tw":"增幅"
+      },
+      "Soul Core|Soul Cores":{
+        "zh_cn":"灵核",
+        "zh_tw":"靈魂核心"
+      },
+      "Omen|Omens":{
+        "zh_cn":"预兆",
+        "zh_tw":"預兆"
+      },
+      "Liquid Emotion|Liquid Emotions":{
+        "zh_cn":"液化情感",
+        "zh_tw":"液態情感"
+      },
+      "Essence|Essences":{
+        "zh_cn":"精华",
+        "zh_tw":"精髓"
+      },
+      "Splinter|Splinter":{
+        "zh_cn":"裂片",
+        "zh_tw":"裂片"
+      },
+      "Catalyst|Catalysts":{
+        "zh_cn":"催化剂",
+        "zh_tw":"催化劑"
+      },
+      "Waystone|Waystones":{
+        "zh_cn":"引路石",
+        "zh_tw":"換界石"
+      },
+      "Fragments":{
+        "zh_cn":"碎片",
+        "zh_tw":"碎片"
+      },
+      "Map Fragment|Map Fragments":{
+        "zh_cn":"地图碎片",
+        "zh_tw":"地圖碎片"
+      },
+      "Expedition":{
+        "zh_cn":"先祖秘藏",
+        "zh_tw":"死境探險"
+      },
+      "Expedition Logbook|Expedition Logbooks":{
+        "zh_cn":"先祖秘藏日志",
+        "zh_tw":"探險日誌"
+      },
+      "Inscribed Ultimatum":{
+        "zh_cn":"贪婪战书",
+        "zh_tw":"最後通牒雕刻"
+      },
+      "Tablet|Tablets":{
+        "zh_cn":"石板",
+        "zh_tw":"碑牌"
+      },
+      "Trial Coin|Trial Coins":{
+        "zh_cn":"试炼硬币",
+        "zh_tw":"試煉代幣"
+      },
+      "Pinnacle Key|Pinnacle Keys":{
+        "zh_cn":"巅峰钥匙",
+        "zh_tw":"巔峰鑰匙"
+      },
+      "Jewel|Jewels":{
+        "zh_cn":"珠宝",
+        "zh_tw":"珠寶"
+      },
+      "Other":{
+        "zh_cn":"其它",
+        "zh_tw":"其它"
+      },
+      "Vault Key|Vault Keys":{
+        "zh_cn":"宝库钥匙",
+        "zh_tw":"遺鑰"
+      },
+      "Relic|Relics":{
+        "zh_cn":"遗物",
+        "zh_tw":"聖物"
+      },
+      "Hideout|Hideouts":{
+        "zh_cn":"藏身处",
+        "zh_tw":"藏身處"
+      },
+      "Strongbox":{
+        "zh_cn":"保险箱",
+        "zh_tw":"保險箱"
+      }
+    }
+  ],
+  "Item Rarity":{
+    "zh_cn":"物品稀有度",
+    "zh_tw":"物品稀有度"
+  },
+  "Item Rarity_group":[
+    {
+      "Normal":{
+        "zh_cn":"普通",
+        "zh_tw":"普通"
+      },
+      "Normal Unknown":{
+        "zh_cn":"普通未知",
+        "zh_tw":"普通未知"
+      },
+      "Normal Amulet":{
+        "zh_cn":"普通项链",
+        "zh_tw":"普通項鍊"
+      },
+      "Normal Belt":{
+        "zh_cn":"普通腰带",
+        "zh_tw":"普通腰帶"
+      },
+      "Normal Body Armour":{
+        "zh_cn":"普通胸甲",
+        "zh_tw":"普通胸甲"
+      },
+      "Normal Bow":{
+        "zh_cn":"普通弓",
+        "zh_tw":"普通弓"
+      },
+      "Normal Boots":{
+        "zh_cn":"普通鞋子",
+        "zh_tw":"普通鞋子"
+      },
+      "Normal Buckler":{
+        "zh_cn":"普通轻盾",
+        "zh_tw":"普通輕盾"
+      },
+      "Normal Charm":{
+        "zh_cn":"普通咒符",
+        "zh_tw":"普通護符"
+      },
+      "Normal Crossbow":{
+        "zh_cn":"普通战弩",
+        "zh_tw":"普通十字弓"
+      },
+      "Normal Flask":{
+        "zh_cn":"普通药剂",
+        "zh_tw":"普通藥劑"
+      },
+      "Normal Focus":{
+        "zh_cn":"普通法器",
+        "zh_tw":"普通法器"
+      },
+      "Normal Gloves":{
+        "zh_cn":"普通手套",
+        "zh_tw":"普通手套"
+      },
+      "Normal Helmet":{
+        "zh_cn":"普通头盔",
+        "zh_tw":"普通頭盔"
+      },
+      "Normal One Handed Mace":{
+        "zh_cn":"普通单手锤",
+        "zh_tw":"普通單手錘"
+      },
+      "Normal Quarterstaff":{
+        "zh_cn":"普通节杖",
+        "zh_tw":"普通細杖"
+      },
+      "Normal Quiver":{
+        "zh_cn":"普通箭袋",
+        "zh_tw":"普通箭袋"
+      },
+      "Normal Ring":{
+        "zh_cn":"普通戒指",
+        "zh_tw":"普通戒指"
+      },
+      "Normal Sceptre":{
+        "zh_cn":"普通短杖",
+        "zh_tw":"普通權杖"
+      },
+      "Normal Shield":{
+        "zh_cn":"普通盾牌",
+        "zh_tw":"普通盾牌"
+      },
+      "Normal Spear":{
+        "zh_cn":"普通战矛",
+        "zh_tw":"普通長矛"
+      },
+      "Normal Staff":{
+        "zh_cn":"普通长杖",
+        "zh_tw":"普通長杖"
+      },
+      "Normal Talisman":{
+        "zh_cn":"普通魔符",
+        "zh_tw":"普通魔符"
+      },
+      "Normal Two Handed Mace":{
+        "zh_cn":"普通双手锤",
+        "zh_tw":"普通雙手錘"
+      },
+      "Normal Wand":{
+        "zh_cn":"普通法杖",
+        "zh_tw":"普通法杖"
+      },
+      "Magic":{
+        "zh_cn":"魔法",
+        "zh_tw":"魔法"
+      },
+      "Magic Amulet":{
+        "zh_cn":"魔法项链",
+        "zh_tw":"魔法項鍊"
+      },
+      "Magic Belt":{
+        "zh_cn":"魔法腰带",
+        "zh_tw":"魔法腰帶"
+      },
+      "Magic Body Armour":{
+        "zh_cn":"魔法胸甲",
+        "zh_tw":"魔法胸甲"
+      },
+      "Magic Bow":{
+        "zh_cn":"魔法弓",
+        "zh_tw":"魔法弓"
+      },
+      "Magic Boots":{
+        "zh_cn":"魔法鞋子",
+        "zh_tw":"魔法鞋子"
+      },
+      "Magic Buckler":{
+        "zh_cn":"魔法轻盾",
+        "zh_tw":"魔法輕盾"
+      },
+      "Magic Charm":{
+        "zh_cn":"魔法咒符",
+        "zh_tw":"魔法護符"
+      },
+      "Magic Crossbow":{
+        "zh_cn":"魔法战弩",
+        "zh_tw":"魔法十字弓"
+      },
+      "Magic Flask":{
+        "zh_cn":"魔法药剂",
+        "zh_tw":"魔法藥劑"
+      },
+      "Magic Focus":{
+        "zh_cn":"魔法法器",
+        "zh_tw":"魔法法器"
+      },
+      "Magic Gloves":{
+        "zh_cn":"魔法手套",
+        "zh_tw":"魔法手套"
+      },
+      "Magic Helmet":{
+        "zh_cn":"魔法头盔",
+        "zh_tw":"魔法頭盔"
+      },
+      "Magic Jewel":{
+        "zh_cn":"魔法珠宝",
+        "zh_tw":"魔法珠寶"
+      },
+      "Magic One Handed Mace":{
+        "zh_cn":"魔法单手锤",
+        "zh_tw":"魔法單手錘"
+      },
+      "Magic Quarterstaff":{
+        "zh_cn":"魔法节杖",
+        "zh_tw":"魔法細杖"
+      },
+      "Magic Quiver":{
+        "zh_cn":"魔法箭袋",
+        "zh_tw":"魔法箭袋"
+      },
+      "Magic Ring":{
+        "zh_cn":"魔法戒指",
+        "zh_tw":"魔法戒指"
+      },
+      "Magic Sceptre":{
+        "zh_cn":"魔法短杖",
+        "zh_tw":"魔法權杖"
+      },
+      "Magic Shield":{
+        "zh_cn":"魔法盾牌",
+        "zh_tw":"魔法盾牌"
+      },
+      "Magic Spear":{
+        "zh_cn":"魔法战矛",
+        "zh_tw":"魔法長矛"
+      },
+      "Magic Staff":{
+        "zh_cn":"魔法长杖",
+        "zh_tw":"魔法長杖"
+      },
+      "Magic Talisman":{
+        "zh_cn":"魔法魔符",
+        "zh_tw":"魔法魔符"
+      },
+      "Magic Two Handed Mace":{
+        "zh_cn":"魔法双手锤",
+        "zh_tw":"魔法雙手錘"
+      },
+      "Magic Wand":{
+        "zh_cn":"魔法法杖",
+        "zh_tw":"魔法法杖"
+      },
+      "Rare":{
+        "zh_cn":"稀有",
+        "zh_tw":"稀有"
+      },
+      "Rare Amulet":{
+        "zh_cn":"稀有项链",
+        "zh_tw":"稀有項鍊"
+      },
+      "Rare Belt":{
+        "zh_cn":"稀有腰带",
+        "zh_tw":"稀有腰帶"
+      },
+      "Rare Body Armour":{
+        "zh_cn":"稀有胸甲",
+        "zh_tw":"稀有胸甲"
+      },
+      "Rare Bow":{
+        "zh_cn":"稀有弓",
+        "zh_tw":"稀有弓"
+      },
+      "Rare Boots":{
+        "zh_cn":"稀有鞋子",
+        "zh_tw":"稀有鞋子"
+      },
+      "Rare Buckler":{
+        "zh_cn":"稀有轻盾",
+        "zh_tw":"稀有輕盾"
+      },
+      "Rare Charm":{
+        "zh_cn":"稀有咒符",
+        "zh_tw":"稀有護符"
+      },
+      "Rare Crossbow":{
+        "zh_cn":"稀有战弩",
+        "zh_tw":"稀有十字弓"
+      },
+      "Rare Flask":{
+        "zh_cn":"稀有药剂",
+        "zh_tw":"稀有藥劑"
+      },
+      "Rare Focus":{
+        "zh_cn":"稀有法器",
+        "zh_tw":"稀有法器"
+      },
+      "Rare Gloves":{
+        "zh_cn":"稀有手套",
+        "zh_tw":"稀有手套"
+      },
+      "Rare Helmet":{
+        "zh_cn":"稀有头盔",
+        "zh_tw":"稀有頭盔"
+      },
+      "Rare Jewel":{
+        "zh_cn":"稀有珠宝",
+        "zh_tw":"稀有珠寶"
+      },
+      "Rare One Handed Mace":{
+        "zh_cn":"稀有单手锤",
+        "zh_tw":"稀有單手錘"
+      },
+      "Rare Quarterstaff":{
+        "zh_cn":"稀有节杖",
+        "zh_tw":"稀有細杖"
+      },
+      "Rare Quiver":{
+        "zh_cn":"稀有箭袋",
+        "zh_tw":"稀有箭袋"
+      },
+      "Rare Ring":{
+        "zh_cn":"稀有戒指",
+        "zh_tw":"稀有戒指"
+      },
+      "Rare Sceptre":{
+        "zh_cn":"稀有短杖",
+        "zh_tw":"稀有權杖"
+      },
+      "Rare Shield":{
+        "zh_cn":"稀有盾牌",
+        "zh_tw":"稀有盾牌"
+      },
+      "Rare Spear":{
+        "zh_cn":"稀有战矛",
+        "zh_tw":"稀有長矛"
+      },
+      "Rare Staff":{
+        "zh_cn":"稀有长杖",
+        "zh_tw":"稀有長杖"
+      },
+      "Rare Talisman":{
+        "zh_cn":"稀有魔符",
+        "zh_tw":"稀有魔符"
+      },
+      "Rare Two Handed Mace":{
+        "zh_cn":"稀有双手锤",
+        "zh_tw":"稀有雙手錘"
+      },
+      "Rare Wand":{
+        "zh_cn":"稀有法杖",
+        "zh_tw":"稀有法杖"
+      }
+    }
+  ]
+}

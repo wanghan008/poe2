@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Thrillsteel",
+    "zh_cn": "惊险刺激",
+    "zh_tw": "顫慄之鋼",
+    "FlavourText": {
+      "original": "We may fight, and we may die, but in these\nmoments of blood and battle, we truly live.",
+      "zh_cn": "我们可能会战斗，我们可能会战死，\n但在流血和战斗的时刻，我们真正地活着。",
+      "zh_tw": "我們可能會戰鬥，我們可能會死去，\n但在這些鮮血與戰鬥的時刻，我們真正活著。"
+    },
+    "img": "Thrillsteel.png",
+    "group": [
+      {
+        "original": "空白",
+        "translation": {
+          "zh_cn": "空白",
+          "zh_tw": "空白"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Doedre's Tenure",
+    "zh_cn": "德瑞的精神手套",
+    "zh_tw": "德瑞的精神手套",
+    "FlavourText": {
+      "original": "While Doedre lacked Maligaro's sense of style,\nshe surpassed her master in pure malevolence.",
+      "zh_cn": "德瑞虽无马雷格罗的才思，\n却能善用她天生的毒刺。",
+      "zh_tw": "德瑞雖無馬雷葛蘿的才思，\n卻能善用她天生的毒刺。"
+    },
+    "img": "EnraptHands.png",
+    "group": [
+      {
+        "original": "空白",
+        "translation": {
+          "zh_cn": "空白",
+          "zh_tw": "空白"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Alpha's Howl",
+    "zh_cn": "极地之眼",
+    "zh_tw": "極地之嗥",
+    "FlavourText": {
+      "original": "Nature respects the strong\nAnd paints the snow red\nWith the blood of the weak",
+      "zh_cn": "自然滋养着强悍的灵魂，\n雪地染上鲜红的痕迹\n那是孱弱者的牺牲。",
+      "zh_tw": "自然滋養著強悍的靈魂，\n雪地染上鮮紅的血痕─\n那是孱弱者的犧牲。"
+    },
+    "img": "AlphasHowl.png",
+    "group": [
+        {
+          "original": "[Presence|Presence] Radius is doubled",
+          "translation": {
+            "zh_cn": "[Presence|在场]范围翻倍",
+            "zh_tw": "[Presence|存在範圍]的範圍加倍"
+          }
+        }
+    ]
+  },
+  {
+    "name": "空白",
+    "zh_cn": "空白",
+    "zh_tw": "空白",
+    "FlavourText": {
+      "original": "空白",
+      "zh_cn": "空白",
+      "zh_tw": "空白"
+    },
+    "img": "空白",
+    "group": [
+      {
+        "original": "空白",
+        "translation": {
+          "zh_cn": "空白",
+          "zh_tw": "空白"
+        }
+      }
+    ]
+  }
+]

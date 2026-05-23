@@ -1,0 +1,64 @@
+[
+  {
+    "name": "The Vertex",
+    "zh_cn": "谜容",
+    "zh_tw": "謎容",
+    "FlavourText": {
+    "original": "\"A queen should be seen, admired, but never touched.\"\n- Atziri, Queen of the Vaal",
+    "zh_cn": "“女王者，可敬观崇拜而不可亵玩焉。”\n——瓦尔女王阿兹里",
+    "zh_tw": "敬請期待"
+    },
+    "img": "TheVertex.png",
+    "group": [
+      {
+        "original": "Has no [Attribute|Attribute] Requirements",
+        "translation": {
+          "zh_cn": "穿戴对人物[Attribute|属性]无需求",
+          "zh_tw": "無[Attribute|能力值]需求"
+        }
+      },
+      {
+        "original": "[Equipment|Equipment] has no [Attribute|Attribute] Requirements",
+        "translation": {
+          "zh_cn": "[Equipment|装备]对[Attribute|属性]无需求",
+          "zh_tw": "[Equipment|裝備]無[Attribute|能力值]需求"
+        }
+      },
+      {
+        "original": "{0}% increased [Critical Hit|Critical Hit] Chance",
+        "translation": {
+          "zh_cn": "[Critical Hit|暴击]几率提高 {0}%",
+          "zh_tw": "增加 {0}% [Critical Hit|暴擊]率"
+        }
+      },
+      {
+        "original": "Skill Gems have no [Attribute|Attribute] Requirements",
+        "translation": {
+          "zh_cn": "技能宝石对[Attribute|属性]无需求",
+          "zh_tw": "技能寶石沒有[Attribute|能力值]需求"
+        }
+      },
+      {
+        "original": "Equipment and Skill Gems have {0}% reduced [Attribute|Attribute] Requirements",
+        "translation": {
+          "zh_cn": "装备和技能宝石的[Attribute|属性]需求降低 {0}%",
+          "zh_tw": "減少 {0}% 裝備與技能寶石的[Attribute|能力值]需求"
+        }
+      },
+      {
+        "original": "{0}% increased [Attributes|Attributes]",
+        "translation": {
+          "zh_cn": "所有[Attributes|属性]提高 {0}%",
+          "zh_tw": "增加 {0}% [Attributes|能力值]"
+        }
+      },
+      {
+        "original": "{0}% reduced Mana Cost [Efficiency|Efficiency]",
+        "translation": {
+          "zh_cn": "魔力消耗[Efficiency|效能]降低 {0}%",
+          "zh_tw": "減少 {0}% 魔力消耗[Efficiency|效率]"
+        }
+      }
+    ]
+  }
+]

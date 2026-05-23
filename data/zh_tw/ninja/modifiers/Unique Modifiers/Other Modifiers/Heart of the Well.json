@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Heart of the Well",
+    "zh_cn": "泉井之心",
+    "zh_tw": "水井之心",
+    "FlavourText": {
+      "original": "Countless souls scream in agonising harmony,\nforever sinking under the weight of the newly dead.",
+      "zh_cn": "无数魂魄在痛苦中齐声哀嚎，\n永远被新亡者的重量压向深渊。",
+      "zh_tw": "無數靈魂在痛苦中齊聲哀嚎，\n永遠沉沒在新亡者的重壓之下。"
+    },
+    "img": "ApostatesHeart.png",
+    "group": [
+        {
+          "original": "{0}% chance to [Aggravate|Aggravate] [Bleeding|Bleeding] on targets you [Hit|Hit] with [Attacks|Attacks]",
+          "translation": {
+            "zh_cn": "[Attacks|攻击][Hit|击中]有 {0}% 的几率使目标身上的[Bleeding|流血]效果变为[Aggravate|恶性]",
+            "zh_tw": "你的[Attacks|攻擊][Hit|擊中]時，有 {0}% 機率[Aggravate|加劇]目標身上的[Bleeding|流血]"
+          }
+        },
+        {
+          "original": "{0}% increased [Attack|Attack] Speed while a [Rare or Unique|Rare or Unique] Enemy is in your [Presence|Presence]",
+          "translation": {
+            "zh_cn": "[Presence|在场]有[Rare or Unique|稀有或传奇]敌人时，[Attack|攻击]速度提高 {0}%",
+            "zh_tw": "你的[Presence|存在範圍]內有[Rare or Unique|稀有或傳奇]敵人時，增加 {0}% [Attack|攻擊]速度"
+          }
+        },
+        {
+          "original": "{0}% increased [Armour|Armour] from Equipped Body Armour",
+          "translation": {
+            "zh_cn": "装备身体护甲的[Armour|护甲]提高 {0}%",
+            "zh_tw": "來自已裝備身體護甲的[Armour|護甲值]增加 {0}%"
+          }
+        },
+        {
+          "original": "{0}% chance when a [Charm|Charm] is used to use another Charm without consuming Charges",
+          "translation": {
+            "zh_cn": "使用[Charm|咒符]时有 {0}% 的几率使用另一个咒符且不消耗充能",
+            "zh_tw": "使用一個[Charm|護符]時，有 {0}% 機率使用另一個護符且不消耗充能"
+          }
+        },
+        {
+          "original": "[Charms|Charms] applied to you have {0}% increased Effect",
+          "translation": {
+            "zh_cn": "对你生效的[Charms|咒符]效果提高 {0}%",
+            "zh_tw": "增加 {0}% 對你生效的[Charms|護符]效果"
+          }
+        },
+        {
+          "original": "Recover {0}% of maximum Mana when a [Charm|Charm] is used",
+          "translation": {
+            "zh_cn": "使用[Charm|咒符]时回复 {0}% 魔力",
+            "zh_tw": "使用[Charm|護符]時恢復 {0}% 魔力"
+          }
+        },
+        {
+          "original": "{0}% increased [Culling Strike|Culling Strike] Threshold",
+          "translation": {
+            "zh_cn": "[Culling Strike|终结]阈值提高 {0}%",
+            "zh_tw": "增加 {0}% [Culling Strike|撲殺]門檻"
+          }
+        },
+        {
+          "original": "{0}% increased Damage while your [Companion|Companion] is in your [Presence|Presence]",
+          "translation": {
+            "zh_cn": "当你的[Companion|伙伴][Presence|在场]时，伤害提高 {0}%",
+            "zh_tw": "當你的[Companion|盟友]位於你的[Presence|存在範圍]內時，增加 {0}% 傷害"
+          }
+        },
+        {
+          "original": "{0}% increased [Evasion|Evasion] Rating from Equipped Body Armour",
+          "translation": {
+            "zh_cn": "来自你身体护甲的[Evasion|闪避]值提高 {0}%",
+            "zh_tw": "來自已裝備身體護甲的[Evasion|閃避]值增加 {0}%"
+          }
+        },
+        {
+          "original": "Regenerate {0}% of maximum Life per Second if you've used a Life [Flask|Flask] in the past {1} seconds",
+          "translation": {
+            "zh_cn": "生命在你过去 {1} 秒内使用过生命[Flask|药剂]的情况下每秒再生 {0}%",
+            "zh_tw": "若你在過去 {1} 秒內使用生命[Flask|藥劑]，每秒回復 {0}% 最大生命"
+          }
+        },
+        {
+          "original": "{0}% increased [Ice Crystal|Ice Crystal] Life",
+          "translation": {
+            "zh_cn": "[Ice Crystal|冰晶]生命提高 {0}%",
+            "zh_tw": "增加 {0}% [Ice Crystal|冰晶]的生命"
+          }
+        },
+        {
+          "original": "{0}% increased [Skill Speed|Skill Speed]",
+          "translation": {
+            "zh_cn": "[Skill Speed|技能速度]提高 {0}%",
+            "zh_tw": "增加 {0}% [Skill Speed|技能速度]"
+          }
+        },
+        {
+          "original": "{0}% chance for [Lightning|Lightning] Damage with [Hits|Hits] to be [Lucky|Lucky]",
+          "translation": {
+            "zh_cn": "有 {0}% 的几率使[Hits|击中][Lightning|闪电]伤害[Lucky|特别幸运]",
+            "zh_tw": "[Hits|擊中]造成的[Lightning|閃電]傷害有 {0}% 機率為[Lucky|幸運]"
+          }
+        },
+        {
+          "original": "{0}% increased Mana Regeneration Rate while moving",
+          "translation": {
+            "zh_cn": "当移动时，魔力回复速度提高 {0}%",
+            "zh_tw": "移動時增加 {0}% 魔力回復率"
+          }
+        },
+        {
+          "original": "{0}% increased [Energy Shield|Energy Shield] from Equipped Body Armour",
+          "translation": {
+            "zh_cn": "装备身体护甲的[Energy Shield|能量护盾]提高 {0}%",
+            "zh_tw": "增加 {0}% 已裝備身體護甲的[Energy Shield|能量護盾]"
+          }
+        },
+        {
+          "original": "[Minions|Minions] gain {0}% of their maximum Life as Extra maximum [Energy Shield|Energy Shield]",
+          "translation": {
+            "zh_cn": "[Minions|召唤生物]获得相当于生命上限 {0}% 的[Energy Shield|能量护盾]上限",
+            "zh_tw": "[Minions|召喚物]獲得相當於其最大生命 {0}% 的額外最大[Energy Shield|能量護盾]"
+          }
+        },
+        {
+          "original": "[Minions|Minions] Regenerate {0}% of maximum Life per second",
+          "translation": {
+            "zh_cn": "[Minions|召唤生物]每秒回复 {0}% 生命",
+            "zh_tw": "[Minions|召喚物]每秒回復 {0}% 最大生命"
+          }
+        },
+        {
+          "original": "[Minions|Minions] [Revive|Revive] {0}% faster",
+          "translation": {
+            "zh_cn": "[Minions|召唤生物]的[Revive|复活]速度加快 {0}%",
+            "zh_tw": "[Minions|召喚物]的[Revive|復甦]速度加快 {0}%"
+          }
+        },
+        {
+          "original": "{0}% of Leech is Instant",
+          "translation": {
+            "zh_cn": "{0}% 的偷取立即生效",
+            "zh_tw": "{0}% 偷取為立即"
+          }
+        },
+        {
+          "original": "{0}% of Physical Damage prevented [Recouped|Recouped] as Life",
+          "translation": {
+            "zh_cn": "阻挡的物理伤害的 {0}% [Recouped|吸纳]为生命",
+            "zh_tw": "抵禦物理傷害時，其 {0}% [Recouped|補償]為生命"
+          }
+        },
+        {
+          "original": "{0}% increased speed of [Recoup|Recoup] Effects",
+          "translation": {
+            "zh_cn": "[Recoup|吸纳]效果的速度提高 {0}%",
+            "zh_tw": "增加 {0}% [Recoup|補償]效果速度"
+          }
+        },
+        {
+          "original": "Recover {0}% of maximum Life on Killing a [Poisoned|Poisoned] Enemy",
+          "translation": {
+            "zh_cn": "生命在击败[Poisoned|中毒]的敌人时恢复 {0}%",
+            "zh_tw": "擊殺一個[Poisoned|中毒]的敵人時，恢復 {0}% 最大生命"
+          }
+        },
+        {
+          "original": "{0}% to Thorns [Critical Hit|Critical Hit] Chance",
+          "translation": {
+            "zh_cn": "荆棘[Critical Hit|暴击]几率 {0}%",
+            "zh_tw": "{0}% 荊棘的[Critical Hit|暴擊]率"
+          }
+        },
+        {
+          "original": "Gain [Physical|Physical] [Thorns|Thorns] damage equal to {0}% of [Item Armour|Item Armour] on [Equipped|Equipped] Body Armour",
+          "translation": {
+            "zh_cn": "获得[Physical|物理][Thorns|荆棘]伤害，相当于[Equipped|已装备]胸甲上[Item Armour|物品护甲]的 {0}%",
+            "zh_tw": "獲得等同於[Equipped|已裝備]身體護甲的[Item Armour|物品護甲值] {0}% 的[Physical|物理][Thorns|荊棘]傷害"
+          }
+        },
+        {
+          "original": "{0}% chance for [Trigger|Trigger] skills to refund half of [Energy|Energy] Spent",
+          "translation": {
+            "zh_cn": "[Trigger|触发]技能有 {0}% 的几率返还消耗[Energy|能量]的一半",
+            "zh_tw": "有 {0}% 機率使[Trigger|觸發]技能返還消耗的一半[Energy|能量]"
+          }
+        }
+    ]
+  }
+]

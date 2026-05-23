@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Hyrri's Ire",
+    "zh_cn": "西里的战衣",
+    "zh_tw": "西里的戰衣",
+    "FlavourText": {
+      "original": "Hyrri loosed a barrage of arrows,\ntipped with a poisoned hatred\nonly oppression can ferment.",
+      "zh_cn": "西里的箭雨呼啸而来，\n矢锋剧毒命中要害，\n留下冰冷遗体诉说悲哀。",
+      "zh_tw": "西里射出一道弓箭的彈幕，\n箭簇抹上了惡毒的仇恨，\n在壓迫的歲月中醞釀而成。"
+    },
+    "img": "HyrrisIre.png",
+    "group": [
+        {
+          "original": "{0}% increased [Freeze|Freeze] Duration on Enemies",
+          "translation": {
+            "zh_cn": "敌人被[Freeze|冻结]的持续时间提高 {0}%",
+            "zh_tw": "增加 {0}% 敵人身上的[Freeze|冰凍]持續時間"
+          }
+        },
+        {
+          "original": "[Evasion Rating|Evasion Rating] is doubled if you have not been [Hit|Hit] [Recently|Recently]",
+          "translation": {
+            "zh_cn": "若你[Recently|近期]没有被[Hit|击中]，[Evasion Rating|闪避值]翻倍",
+            "zh_tw": "若你[Recently|近期]未被[Hit|擊中]則[Evasion Rating|閃避值]加倍"
+          }
+        }
+    ]
+  }
+]

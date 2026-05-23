@@ -1,0 +1,43 @@
+[
+  {
+    "name": "The Adorned",
+    "zh_cn": "浮华",
+    "zh_tw": "朝氣之靈",
+    "FlavourText": {
+      "original": "At their height, the Vaal glittered under the sun.\nA decade, a century, an aeon of prosperity...\nnow nothing more than a passing wonder.",
+      "zh_cn": "瓦尔至盛年代，沐艳阳而烁金辉。\n昌荣十年百年，绵延至千秋万代……\n如今追思奇迹，都只是过眼云烟。",
+      "zh_tw": "在巔峰時，瓦爾在陽光下閃閃發亮。\n十年，一世紀，永世昌盛……\n如今不過是已逝的奇觀。"
+    },
+    "img": "TrialmasterJewel.png",
+    "group": [
+        {
+          "original": "{0}% increased Effect of [Jewel|Jewel] Socket Passive Skills containing [Corrupted|Corrupted] [Magic|Magic] [Jewels|Jewels]",
+          "translation": {
+            "zh_cn": "含有[Corrupted|已腐化]的[Magic|魔法][Jewels|珠宝]的[Jewel|珠宝]插槽天赋效果提高 {0}%",
+            "zh_tw": "增加 {0}% 含有[Corrupted|已汙染][Magic|魔法][Jewels|珠寶]的[Jewel|珠寶]插槽天賦效果"
+          }
+        },
+        {
+          "original": "{0}% increased Effect of [Jewel|Jewel] Socket Passive Skills containing [Corrupted|Corrupted] [Rare|Rare] [Jewels|Jewels]",
+          "translation": {
+            "zh_cn": "含有[Corrupted|已腐化]的[Rare|稀有][Jewels|珠宝]的[Jewel|珠宝]插槽天赋效果提高 {0}%",
+            "zh_tw": "增加 {0}% 含有[Corrupted|已汙染][Rare|稀有][Jewels|珠寶]的[Jewel|珠寶]插槽天賦效果"
+          }
+        },
+        {
+          "original": "[Minions|Minions] deal {0}% reduced Damage",
+          "translation": {
+            "zh_cn": "[Minions|召唤生物]的伤害降低 {0}%",
+            "zh_tw": "減少 {0}% [Minions|召喚物]造成的傷害"
+          }
+        },
+        {
+          "original": "[Minions|Minions] deal {0}% increased Damage",
+          "translation": {
+            "zh_cn": "[Minions|召唤生物]的伤害提高 {0}%",
+            "zh_tw": "增加 {0}% [Minions|召喚物]造成的傷害"
+          }
+        }
+    ]
+  }
+]

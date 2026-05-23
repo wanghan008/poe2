@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Blood of the Warrior",
+    "zh_cn": "战士之血",
+    "zh_tw": "戰士之血",
+    "FlavourText": {
+      "original": "\"Tukohama may be asleep, but he still gives us his strength. A small\nneedle, an offering, and a vial... drink deeply, my son, and you\nwill more than survive the coming battle... you will thrive.\"",
+      "zh_cn": "“图克哈马虽然已经沉睡，但依然赐予我们力量。\n一枚细针，一次供奉，一瓶圣液……喝下去吧，我的孩子，\n你不只能在即将到来的战斗中活下去……你必将凯旋。”",
+      "zh_tw": "「圖克哈瑪或許早已長眠，但他仍舊給予我們力量。\n一根細針、一份祭品和一只瓶子……\n孩子，好好享受吧，你不只會在接下來的戰鬥存活下來……更會成長茁壯。」"
+    },
+    "img": "BloodOfTheKarui.png",
+    "group": [
+      {
+        "original": "{0}% less Life Recovered",
+        "translation": {
+          "zh_cn": "生命回复总降 {0}%",
+          "zh_tw": "恢復 {0}% 更少生命"
+        }
+      },
+      {
+        "original": "Effect is not removed when Unreserved Life is Filled",
+        "translation": {
+          "zh_cn": "未保留的生命全满时不移除效果",
+          "zh_tw": "未保留生命已滿時不移除效果"
+        }
+      },
+      {
+        "original": "{0}% of Damage taken during effect [Recouped|Recouped] as Life",
+        "translation": {
+          "zh_cn": "效果期间将所受伤害的 {0}% [Recouped|吸纳]为生命",
+          "zh_tw": "在效果期間所受傷害的 {0}% [Recouped|補償]為生命"
+        }
+      },
+      {
+        "original": "Gain {0} [Rage|Rage] when [Hit|Hit] by an Enemy during effect",
+        "translation": {
+          "zh_cn": "效果期间被敌人[Hit|击中]时获得 {0} 点[Rage|怒火]",
+          "zh_tw": "在效果期間內遭敵人[Hit|擊中]時，獲得 {0} [Rage|盛怒]"
+        }
+      },
+      {
+        "original": "No Inherent loss of [Rage|Rage] during effect",
+        "translation": {
+          "zh_cn": "效果期间不具有固有的[Rage|怒火]损失",
+          "zh_tw": "效果期間內無固有[Rage|盛怒]損失"
+        }
+      },
+      {
+        "original": "{0}% increased Duration",
+        "translation": {
+          "zh_cn": "生效时间提高 {0}%",
+          "zh_tw": "增加 {0}% 持續時間"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Olroth's Resolve",
+    "zh_cn": "欧罗什的决心",
+    "zh_tw": "奧爾羅斯的決心",
+    "FlavourText": {
+      "original": "Olroth the Gallant,\ntireless and true,\nhe fights for me,\nhe fights for you!",
+      "zh_cn": "勇敢的奥尔罗斯，\n不知疲倦和真实，\n他为我而战，\n他为你而战！",
+      "zh_tw": "勇敢的奧爾羅斯，\n不知疲倦和真實，\n他為我而戰，\n他為你而戰！"
+    },
+    "img": "OlrothsResolve.png",
+    "group": [
+      {
+        "original": "{0}% increased Charges per use",
+        "translation": {
+          "zh_cn": "每次使用消耗的充能次数提高 {0}%",
+          "zh_tw": "每次使用增加 {0}% 充能"
+        }
+      },
+      {
+        "original": "Excess Life Recovery added as [Guard|Guard] for {0} seconds",
+        "translation": {
+          "zh_cn": "溢出生命回复转化为[Guard|防卫]，持续 {0} 秒",
+          "zh_tw": "多餘生命恢復會附加為[Guard|守護]，持續 {0} 秒"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lavianga's Spirits",
+    "zh_cn": "拉维安加之灵",
+    "zh_tw": "拉維安加之泉",
+    "FlavourText": {
+      "original": "\"How do I cope with what I witnessed on Wraeclast?\nThank the Ancestors! My cup, it overflows.\"\n- Lavianga, former advisor to Kaom",
+      "zh_cn": "\"我该如何面对在瓦尔克拉斯目睹的一切？\n感谢先祖！我的酒杯，早已满溢。\"\n——冈姆前任军师拉维安加",
+      "zh_tw": "“我該如何面對我在瓦爾克拉斯所目睹的一切？\n先祖保佑！我的酒杯，滿溢了。”\n—拉維安加，岡姆的前任顧問"
+    },
+    "img": "LaviangasSpirit.png",
+    "group": [
+      {
+        "original": "This Flask cannot be Used but applies its Effect constantly",
+        "translation": {
+          "zh_cn": "此药剂无法使用，但效果持续生效",
+          "zh_tw": "此藥劑無法使用，但會持續套用其效果"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Melting Maelstrom",
+    "zh_cn": "消融漩涡",
+    "zh_tw": "融解漩渦",
+    "FlavourText": {
+      "original": "What is life, but a dreamlike spiral of panic?",
+      "zh_cn": "所谓生命，不就是噩梦般螺旋不止的恐慌吗？",
+      "zh_tw": "敬請期待"
+    },
+    "img": "MeltingMaelstrom.png",
+    "group": [
+      {
+        "original": "Effect is not removed when Unreserved Mana is Filled",
+        "translation": {
+          "zh_cn": "未保留的魔力全满时不移除效果",
+          "zh_tw": "未保留法力已滿時不移除效果"
+        }
+      },
+      {
+        "original": "{0}% increased Duration",
+        "translation": {
+          "zh_cn": "生效时间提高 {0}%",
+          "zh_tw": "增加 {0}% 持續時間"
+        }
+      },
+      {
+        "original": "Every {1} seconds during Effect, deal {0}% of Mana spent in those seconds as [Chaos Damage|Chaos Damage] to Enemies within {2} metres",
+        "translation": {
+          "zh_cn": "生效期间每过 {1} 秒，对 {2} 米内的敌人造成这几秒内消耗魔力的 {0}% 的[Chaos Damage|混沌伤害]",
+          "zh_tw": "在效果期間內每 {1} 秒，對 {2} 公尺內的敵人造成相當於在該秒數內所消耗魔力 {0}% 的[Chaos Damage|混沌傷害]"
+        }
+      },
+      {
+        "original": "Deals {0}% of current Mana as [Chaos Damage|Chaos Damage] to you when Effect ends",
+        "translation": {
+          "zh_cn": "效果结束时对你造成当前魔力 {0}% 的[Chaos Damage|混沌伤害]",
+          "zh_tw": "效果結束時，對你造成相當於當前魔力 {0}% 的[Chaos Damage|混沌傷害]"
+        }
+      }
+    ]
+  }
+]

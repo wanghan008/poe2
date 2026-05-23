@@ -1,0 +1,702 @@
+{
+  "Npc_group":[
+    {
+      "Mortimer":{
+        "zh_cn":"莫蒂默",
+        "zh_tw":"摩提莫"
+      },
+      "The Hooded One":{
+        "zh_cn":"兜帽密师",
+        "zh_tw":"黑衣幽魂"
+      },
+      "Sekhema Asala":{
+        "zh_cn":"丝克玛艾萨拉",
+        "zh_tw":"絲克瑪．阿薩拉"
+      },
+      "Alva":{
+        "zh_cn":"阿尔瓦",
+        "zh_tw":"艾瓦"
+      },
+      "Freya Hartlin":{
+        "zh_cn":"芙蕾雅·哈特林",
+        "zh_tw":"芙雷雅．哈特林"
+      },
+      "Rog, the Dealer":{
+        "zh_cn":"交易人罗格",
+        "zh_tw":"商人．羅格"
+      },
+      "Dannig":{
+        "zh_cn":"丹宁",
+        "zh_tw":"丹尼格"
+      },
+      "Missionary Lorandis":{
+        "zh_cn":"传道士洛兰迪斯",
+        "zh_tw":"傳道士羅蘭迪斯"
+      },
+      "Makoru":{
+        "zh_cn":"马克鲁",
+        "zh_tw":"瑪寇魯"
+      },
+      "Kanu":{
+        "zh_cn":"卡努",
+        "zh_tw":"卡努"
+      },
+      "Rhodri":{
+        "zh_cn":"罗德里",
+        "zh_tw":"拉卓里"
+      },
+      "Ange":{
+        "zh_cn":"安吉",
+        "zh_tw":"安潔"
+      },
+      "Tujen":{
+        "zh_cn":"图金",
+        "zh_tw":"圖貞"
+      },
+      "Doryani":{
+        "zh_cn":"多里亚尼",
+        "zh_tw":"多里亞尼"
+      },
+      "Kaimana":{
+        "zh_cn":"凯玛纳",
+        "zh_tw":"凱馬拿"
+      },
+      "Renly":{
+        "zh_cn":"蓝礼",
+        "zh_tw":"倫利"
+      },
+      "Zelina":{
+        "zh_cn":"泽琳娜",
+        "zh_tw":"澤莉娜"
+      },
+      "Gwennen":{
+        "zh_cn":"桂温妮",
+        "zh_tw":"關南"
+      },
+      "Elder Madox":{
+        "zh_cn":"长老马多克斯",
+        "zh_tw":"長者．馬多克斯"
+      },
+      "Wounded Man":{
+        "zh_cn":"负伤的男人",
+        "zh_tw":"受傷的男人"
+      },
+      "Delwyn":{
+        "zh_cn":"德尔文",
+        "zh_tw":"德爾溫"
+      },
+      "Matiki":{
+        "zh_cn":"玛提吉",
+        "zh_tw":"馬提奇"
+      },
+      "Navali":{
+        "zh_cn":"娜瓦莉",
+        "zh_tw":"娜瓦莉"
+      },
+      "Finn":{
+        "zh_cn":"芬恩",
+        "zh_tw":"費恩"
+      },
+      "Una":{
+        "zh_cn":"乌娜",
+        "zh_tw":"烏娜"
+      },
+      "Risu":{
+        "zh_cn":"里苏",
+        "zh_tw":"芮蘇"
+      },
+      "Zarka":{
+        "zh_cn":"扎卡",
+        "zh_tw":"札卡"
+      },
+      "Jado":{
+        "zh_cn":"雅朵",
+        "zh_tw":"賈多"
+      },
+      "Yoon, Remorseful Djinn":{
+        "zh_cn":"育恩，痛悔巨灵",
+        "zh_tw":"痛悔巨靈．育恩"
+      },
+      "Rangeen, Spiteful Djinn":{
+        "zh_cn":"兰吉恩，悔恨巨灵",
+        "zh_tw":"憎恨巨靈．蘭吉恩"
+      },
+      "Servitor Marius":{
+        "zh_cn":"仆从马里乌斯",
+        "zh_tw":"僕從瑪里亞斯"
+      },
+      "Tavakai":{
+        "zh_cn":"塔瓦凯",
+        "zh_tw":"塔瓦凱"
+      },
+      "Yama The White":{
+        "zh_cn":"白之雅玛",
+        "zh_tw":"白之亞瑪"
+      },
+      "Lurking Creature":{
+        "zh_cn":"潜伏生物",
+        "zh_tw":"潛伏的生物"
+      },
+      "Hilda":{
+        "zh_cn":"希尔达",
+        "zh_tw":"希爾妲"
+      },
+      "Torbik":{
+        "zh_cn":"托尔比克",
+        "zh_tw":"托比克"
+      },
+      "Ruhaki":{
+        "zh_cn":"鲁哈基",
+        "zh_tw":"盧哈奇"
+      },
+      "Xipocado's Console":{
+        "zh_cn":"夏波卡多的控制台",
+        "zh_tw":"賽匹卡托的控制台"
+      },
+      "Aoife":{
+        "zh_cn":"艾欧菲",
+        "zh_tw":"奧伊芙"
+      }
+    }
+  ],
+  "WorldMap_group":[
+    {
+      "The Riverbank":{
+        "zh_cn":"污流河畔",
+        "zh_tw":"河岸"
+      },
+      "Clearfell Encampment":{
+        "zh_cn":"克里费尔营地",
+        "zh_tw":"皆伐營地"
+      },
+      "Clearfell Encampment (Town)|The Clearfell Encampment (Town)":{
+        "zh_cn":"克里费尔营地（城镇）",
+        "zh_tw":"皆伐營地（城镇）"
+      },
+      "Clearfell":{
+        "zh_cn":"克里费尔",
+        "zh_tw":"皆伐"
+      },
+      "Mud Burrow|The Mud Burrow":{
+        "zh_cn":"泥穴",
+        "zh_tw":"泥沼陋居"
+      },
+      "Grelwood|The Grelwood":{
+        "zh_cn":"韧木森林",
+        "zh_tw":"葛瑞爾林"
+      },
+      "Return to The Grelwood":{
+        "zh_cn":"返回韧木森林",
+        "zh_tw":"返回葛瑞爾林"
+      },
+      "The Red Vale|Red Vale":{
+        "zh_cn":"红谷",
+        "zh_tw":"赤谷"
+      },
+      "The Grim Tangle|Grim Tangle":{
+        "zh_cn":"阴森网道",
+        "zh_tw":"纏縛陰林"
+      },
+      "Cemetery of the Eternals":{
+        "zh_cn":"永恒园林",
+        "zh_tw":"不朽帝國之墓"
+      },
+      "The Mausoleum|Mausoleum":{
+        "zh_cn":"地宫",
+        "zh_tw":"陵墓"
+      },
+      "Mausoleum of the Praetor":{
+        "zh_cn":"执政官的地宫",
+        "zh_tw":"政務官陵墓"
+      },
+      "Tomb of the Consort":{
+        "zh_cn":"伴侣寝宫",
+        "zh_tw":"配偶的陵墓"
+      },
+      "Return to the Cemetery of the Eternals":{
+        "zh_cn":"返回永恒园林",
+        "zh_tw":"返回不朽帝國之墓"
+      },
+      "Root Hollow":{
+        "zh_cn":"盘根幽穴",
+        "zh_tw":"盤根魔域"
+      },
+      "Hunting Grounds|The Hunting Grounds":{
+        "zh_cn":"猎场",
+        "zh_tw":"獵場"
+      },
+      "Freythorn":{
+        "zh_cn":"茂棘深林",
+        "zh_tw":"弗雷索恩"
+      },
+      "Ogham Farmlands":{
+        "zh_cn":"欧甘农地",
+        "zh_tw":"奧格姆農地"
+      },
+      "Ogham Village":{
+        "zh_cn":"欧甘村庄",
+        "zh_tw":"奧格姆村"
+      },
+      "Manor Ramparts|The Manor Ramparts":{
+        "zh_cn":"庄园城壁",
+        "zh_tw":"宅第壁壘"
+      },
+      "Ogham Manor|Oghman Manor":{
+        "zh_cn":"欧甘庄园",
+        "zh_tw":"奧格姆宅第"
+      },
+      "Vastiri Outskirts":{
+        "zh_cn":"瓦斯提里外沿",
+        "zh_tw":"瓦斯提里郊區"
+      },
+      "Vastiri Outskirts (Combat Town)":{
+        "zh_cn":"瓦斯提里外沿（战斗城镇）",
+        "zh_tw":"瓦斯提里郊區（戰爭城镇）"
+      },
+      "The Ardura Caravan":{
+        "zh_cn":"阿杜拉的商队",
+        "zh_tw":"阿杜拉車隊"
+      },
+      "The Ardura Caravan (Town)":{
+        "zh_cn":"阿杜拉的商队（城镇）",
+        "zh_tw":"阿杜拉車隊（城镇）"
+      },
+      "Mawdun Quarry":{
+        "zh_cn":"莫丹采石场",
+        "zh_tw":"莫頓挖石場"
+      },
+      "Mawdun Mine":{
+        "zh_cn":"莫丹矿场",
+        "zh_tw":"莫頓礦坑"
+      },
+      "The Halani Gates":{
+        "zh_cn":"哈拉尼之门",
+        "zh_tw":"哈拉妮關口"
+      },
+      "Traitor's Passage|Traitor’s Passage":{
+        "zh_cn":"叛徒小径",
+        "zh_tw":"叛徒之路"
+      },
+      "Trial of the Sekhema|Trial of the Sekhemas":{
+        "zh_cn":"丝克玛试炼",
+        "zh_tw":"絲克瑪試煉"
+      },
+      "Mastodon Badlands":{
+        "zh_cn":"长毛象荒原",
+        "zh_tw":"乳齒象惡地"
+      },
+      "The Bone Pits|Bone Pits":{
+        "zh_cn":"遗迹深坑",
+        "zh_tw":"骨坑"
+      },
+      "Lightless Passage":{
+        "zh_cn":"暗光走廊",
+        "zh_tw":"無光通道"
+      },
+      "The Well of Souls":{
+        "zh_cn":"灵魂之井",
+        "zh_tw":"靈魂之井"
+      },
+      "Keth":{
+        "zh_cn":"克斯",
+        "zh_tw":"凱斯城"
+      },
+      "The Lost City":{
+        "zh_cn":"失落之城",
+        "zh_tw":"失落之城"
+      },
+      "Buried Shrines":{
+        "zh_cn":"掩埋的殿堂",
+        "zh_tw":"掩埋神殿"
+      },
+      "Valley of the Titans":{
+        "zh_cn":"巨人之谷",
+        "zh_tw":"泰坦之谷"
+      },
+      "The Titan Grotto|Titan Grotto":{
+        "zh_cn":"巨人石窟",
+        "zh_tw":"泰坦石窟"
+      },
+      "Deshar":{
+        "zh_cn":"德莎尔",
+        "zh_tw":"戴斯哈"
+      },
+      "Path of Mourning":{
+        "zh_cn":"怀念之阶",
+        "zh_tw":"悼念之路"
+      },
+      "The Spires of Deshar|Spires of Deshar":{
+        "zh_cn":"德莎尔的高塔",
+        "zh_tw":"戴斯哈尖塔"
+      },
+      "The Dreadnought":{
+        "zh_cn":"无畏战车",
+        "zh_tw":"無畏隊"
+      },
+      "Dreadnought Vanguard":{
+        "zh_cn":"无畏战车先锋",
+        "zh_tw":"無畏隊先鋒"
+      },
+      "Sandswept Marsh":{
+        "zh_cn":"飞沙沼泽",
+        "zh_tw":"風沙沼澤"
+      },
+      "Sandswept Marsh (Combat Town)":{
+        "zh_cn":"飞沙沼泽（战斗城镇）",
+        "zh_tw":"風沙沼澤（戰爭城镇）"
+      },
+      "Ziggurat Encampment":{
+        "zh_cn":"金字塔营地",
+        "zh_tw":"高地神塔營地"
+      },
+      "Ziggurat Encampment (Town)":{
+        "zh_cn":"金字塔营地（城镇）",
+        "zh_tw":"高地神塔營地（城镇）"
+      },
+      "Jungle Ruins":{
+        "zh_cn":"丛林废墟",
+        "zh_tw":"叢林遺跡"
+      },
+      "The Venom Crypts|Venom Crypts":{
+        "zh_cn":"蛇毒地窟",
+        "zh_tw":"劇毒墓穴"
+      },
+      "Infested Barrens":{
+        "zh_cn":"滋孽荒原",
+        "zh_tw":"感染荒地"
+      },
+      "The Azak Bog|Azak Bog":{
+        "zh_cn":"阿扎卡泥沼",
+        "zh_tw":"阿札克泥沼"
+      },
+      "Chimeral Wetlands":{
+        "zh_cn":"幻缈湿地",
+        "zh_tw":"龍蜥濕地"
+      },
+      "The Trial of Chaos":{
+        "zh_cn":"混沌试炼",
+        "zh_tw":"混沌試煉"
+      },
+      "The Temple of Chaos":{
+        "zh_cn":"混沌大殿",
+        "zh_tw":"混沌神殿"
+      },
+      "Jiquani's Machinarium|Jiquani’s Machinarium":{
+        "zh_cn":"佳华尼的机械迷城",
+        "zh_tw":"吉卡尼的機械迷城"
+      },
+      "Jiquani's Sanctum|Jiquani’s Sanctum":{
+        "zh_cn":"佳华尼的密殿",
+        "zh_tw":"吉卡尼的聖域"
+      },
+      "The Matlan Waterways":{
+        "zh_cn":"马特兰水道",
+        "zh_tw":"瑪特蘭水道"
+      },
+      "The Drowned City":{
+        "zh_cn":"淹没之城",
+        "zh_tw":"淹沒之城"
+      },
+      "The Molten Vault|Molten Vault":{
+        "zh_cn":"熔火宝库",
+        "zh_tw":"熔岩寶庫"
+      },
+      "Apex of Filth":{
+        "zh_cn":"污秽巅峰",
+        "zh_tw":"污垢頂峰"
+      },
+      "Temple of Kopec":{
+        "zh_cn":"科佩克之殿",
+        "zh_tw":"科佩克神殿"
+      },
+      "Utzaal":{
+        "zh_cn":"乌扎尔",
+        "zh_tw":"奧札爾"
+      },
+      "Aggorat":{
+        "zh_cn":"阿戈拉特",
+        "zh_tw":"阿戈拉"
+      },
+      "The Black Chambers":{
+        "zh_cn":"暗胧殿堂",
+        "zh_tw":"漆黑密室"
+      },
+      "Utzaal (Past)":{
+        "zh_cn":"乌扎尔（过去）",
+        "zh_tw":"奧札爾（過去）"
+      },
+      "Aggorat (Past)":{
+        "zh_cn":"阿戈拉特（过去）",
+        "zh_tw":"阿戈拉（過去）"
+      },
+      "The Black Chambers (Past)":{
+        "zh_cn":"暗胧殿堂（过去）",
+        "zh_tw":"漆黑密室（過去）"
+      },
+      "Kingsmarch":{
+        "zh_cn":"君锋镇",
+        "zh_tw":"金司馬區"
+      },
+      "Kingsmarch (Town)":{
+        "zh_cn":"君锋镇（城镇）",
+        "zh_tw":"金司馬區（城镇）"
+      },
+      "Isle of Kin":{
+        "zh_cn":"亲眷岛",
+        "zh_tw":"金氏島"
+      },
+      "Volcanic Warrens":{
+        "zh_cn":"熔火院落",
+        "zh_tw":"火山迷窟"
+      },
+      "Kedge Bay":{
+        "zh_cn":"落锚湾",
+        "zh_tw":"凱吉灣"
+      },
+      "Journey's End":{
+        "zh_cn":"旅途终点",
+        "zh_tw":"旅程結束"
+      },
+      "Abandoned Prison":{
+        "zh_cn":"废弃监牢",
+        "zh_tw":"廢棄監獄"
+      },
+      "Solitary Confinement":{
+        "zh_cn":"遗世监禁",
+        "zh_tw":"單獨禁閉"
+      },
+      "Eye of Hinekora":{
+        "zh_cn":"辛格拉之眼",
+        "zh_tw":"悉妮蔻拉之眼"
+      },
+      "Halls of the Dead|Halls Of The Dead":{
+        "zh_cn":"亡者之境",
+        "zh_tw":"亡者之殿"
+      },
+      "Trial of the Ancestors":{
+        "zh_cn":"命运试炼",
+        "zh_tw":"祖靈的試煉"
+      },
+      "Whakapanu Island":{
+        "zh_cn":"瓦卡帕努岛",
+        "zh_tw":"瓦卡帕努島"
+      },
+      "Singing Caverns":{
+        "zh_cn":"冥曲洞窟",
+        "zh_tw":"吟謠洞窟"
+      },
+      "Shrike Island":{
+        "zh_cn":"百舌岛",
+        "zh_tw":"伯勞鳥之島"
+      },
+      "Plunder's Point":{
+        "zh_cn":"掠夺点",
+        "zh_tw":"掠奪者之角"
+      },
+      "Arastas":{
+        "zh_cn":"阿拉斯塔",
+        "zh_tw":"阿拉塔斯"
+      },
+      "The Excavation":{
+        "zh_cn":"挖掘场",
+        "zh_tw":"挖掘"
+      },
+      "Ngakanu":{
+        "zh_cn":"纳卡努",
+        "zh_tw":"尼加卡努"
+      },
+      "Heart of the Tribe":{
+        "zh_cn":"部族之心",
+        "zh_tw":"部族之心"
+      },
+      "The Refuge":{
+        "zh_cn":"避难所",
+        "zh_tw":"庇護所"
+      },
+      "Scorched Farmlands":{
+        "zh_cn":"焦土农田",
+        "zh_tw":"火噬農地"
+      },
+      "Stones of Serle":{
+        "zh_cn":"瑟尔之石",
+        "zh_tw":"瑟雷之石"
+      },
+      "The Blackwood":{
+        "zh_cn":"黑木林",
+        "zh_tw":"黑木林"
+      },
+      "Holten":{
+        "zh_cn":"霍尔顿",
+        "zh_tw":"霍爾登"
+      },
+      "Wolvenhold":{
+        "zh_cn":"狼堡",
+        "zh_tw":"狼之要塞"
+      },
+      "Holten Estate":{
+        "zh_cn":"霍尔顿庄园",
+        "zh_tw":"霍爾登宅第"
+      },
+      "The Khari Bazaar":{
+        "zh_cn":"卡莉集市",
+        "zh_tw":"卡里市集"
+      },
+      "The Khari Crossing":{
+        "zh_cn":"卡莉渡口",
+        "zh_tw":"卡里交匯道"
+      },
+      "Pools of Khatal":{
+        "zh_cn":"卡哈塔之池",
+        "zh_tw":"卡塔爾之塘"
+      },
+      "Sel Khari Sanctuary":{
+        "zh_cn":"塞卡莉圣所",
+        "zh_tw":"塞爾卡里庇護所"
+      },
+      "The Galai Gates":{
+        "zh_cn":"加莱之门",
+        "zh_tw":"賈萊關口"
+      },
+      "Qimah":{
+        "zh_cn":"奇玛尔",
+        "zh_tw":"奇瑪"
+      },
+      "Qimah Reservoir":{
+        "zh_cn":"奇玛尔水库",
+        "zh_tw":"奇瑪水源地"
+      },
+      "The Glade":{
+        "zh_cn":"林间空地",
+        "zh_tw":"林間空地"
+      },
+      "Ashen Forest":{
+        "zh_cn":"灰烬森林",
+        "zh_tw":"灰燼森林"
+      },
+      "Kriar Village":{
+        "zh_cn":"克里亚村",
+        "zh_tw":"庫萊亞村"
+      },
+      "Glacial Tarn":{
+        "zh_cn":"冰川池塘",
+        "zh_tw":"冰川湖泊"
+      },
+      "Howling Caves":{
+        "zh_cn":"嚎叫洞穴",
+        "zh_tw":"狂嗥洞穴"
+      },
+      "Kriar Peaks":{
+        "zh_cn":"克里亚峰",
+        "zh_tw":"庫萊亞山巔"
+      },
+      "Etched Ravine":{
+        "zh_cn":"刻蚀峡谷",
+        "zh_tw":"蝕刻溪谷"
+      },
+      "The Cuachic Vault":{
+        "zh_cn":"库阿奇克宝库",
+        "zh_tw":"庫阿西克寶庫"
+      }
+    }
+  ],
+  "Quest completion is not included in character data, so only a list of available quests can be shown.":{
+    "zh_cn":"任务完成情况不包含在角色数据中，因此只能显示可用任务列表。",
+    "zh_tw":"任務完成情況不包含在角色資料中，因此只能顯示可用任務清單。"
+  },
+  "Quest_group":[
+    {
+      "Quest":{
+        "zh_cn":"任务",
+        "zh_tw":"任務"
+      },
+      "Act":{
+        "zh_cn":"章节",
+        "zh_tw":"章節"
+      },
+      "Act 1":{
+        "zh_cn":"第一章",
+        "zh_tw":"第一章"
+      },
+      "Una's Hut":{
+        "zh_cn":"乌娜的小屋",
+        "zh_tw":"烏娜的小屋"
+      },
+      "Act 2":{
+        "zh_cn":"第二章",
+        "zh_tw":"第二章"
+      },
+      "Medallion":{
+        "zh_cn":"浮雕纹饰",
+        "zh_tw":"獎章"
+      },
+      "Final Letter":{
+        "zh_cn":"最后的书信",
+        "zh_tw":"遺書"
+      },
+      "Sisters of Garukhan":{
+        "zh_cn":"格鲁坎的姐妹",
+        "zh_tw":"卡洛翰的姐妹"
+      },
+      "Act 3":{
+        "zh_cn":"第三章",
+        "zh_tw":"第三章"
+      },
+      "Venom Draught":{
+        "zh_cn":"剧毒饮剂",
+        "zh_tw":"劇毒藥水"
+      },
+      "Blood Sacrifice":{
+        "zh_cn":"生命的奉献",
+        "zh_tw":"血犧"
+      },
+      "Act 4":{
+        "zh_cn":"第四章",
+        "zh_tw":"第四章"
+      },
+      "Dark Mists":{
+        "zh_cn":"黑雾弥漫",
+        "zh_tw":"暗黑迷霧"
+      },
+      "Goddess of Justice":{
+        "zh_cn":"正义女神",
+        "zh_tw":"正義女神"
+      },
+      "Navali's Rest":{
+        "zh_cn":"娜瓦莉之眠",
+        "zh_tw":"娜瓦莉憩地"
+      },
+      "Ngamahu's Test":{
+        "zh_cn":"努葛玛呼的考验",
+        "zh_tw":"拿馬乎的考驗"
+      },
+      "Tasalio's Test":{
+        "zh_cn":"塔萨里奥的考验",
+        "zh_tw":"塔薩里奧的考驗"
+      },
+      "Tawhoa's Test":{
+        "zh_cn":"塔赫亚的考验",
+        "zh_tw":"塔赫亞的考驗"
+      },
+      "Siege of Oriath":{
+        "zh_cn":"奥瑞亚围城",
+        "zh_tw":"奧瑞亞圍城戰"
+      },
+      "Interlude|Interludes":{
+        "zh_cn":"间歇",
+        "zh_tw":"間歇"
+      },
+      "Molten Shrine":{
+        "zh_cn":"熔岩神殿",
+        "zh_tw":"熔岩神殿"
+      },
+      "Clearing the Way":{
+        "zh_cn":"扫清道路",
+        "zh_tw":"開闢道路"
+      },
+      "The Seven Pillars":{
+        "zh_cn":"七灵柱",
+        "zh_tw":"七靈柱"
+      }
+    }
+  ]
+}

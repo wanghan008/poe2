@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Megalomaniac",
+    "zh_cn": "妄想症",
+    "zh_tw": "妄想症",
+    "FlavourText": {
+      "original": "If you're going to act like you're better\nthan everyone else, make sure you are.",
+      "zh_cn": "如果你想表现得比所有人都强，\n那最好有真本事。",
+      "zh_tw": "敬請期待"
+    },
+    "img": "DeliriumJewel.png",
+    "group": [
+        {
+          "original": "空白",
+          "translation": {
+            "zh_cn": "空白",
+            "zh_tw": "空白"
+          }
+        }
+    ]
+  }
+]

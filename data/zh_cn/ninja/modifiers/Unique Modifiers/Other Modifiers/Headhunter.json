@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Headhunter",
+    "zh_cn": "猎首",
+    "zh_tw": "獵首",
+    "FlavourText": {
+      "original": "\"A man's soul rules from a cavern of bone, learns and \njudges through flesh-born windows. The heart is meat.\nThe head is where the Man is.\"\n- Lavianga, Advisor to Kaom",
+      "zh_cn": "“骨骼是灵魂的居所，\n血肉是精神和世界交流的窗口，推动一切的力量就在心窝。\n即使有了这些，失去了头脑就没有自我。”\n——冈姆军师拉维安加",
+      "zh_tw": "「骨骼是靈魂的居所，\n血肉是精神和世界交流的窗口， 推動一切的力量就在心窩。\n即使有了這些，失去了頭腦就沒有自我。」\n- 岡姆軍師拉維安加"
+    },
+    "img": "Headhunter.png",
+    "group": [
+        {
+          "original": "When you kill a [Rare|Rare] monster, you gain its [Modifiers|Modifiers] for {0} seconds",
+          "translation": {
+            "zh_cn": "当你击败[Rare|稀有]怪物时，获得它的[Modifiers|词缀]，持续 {0} 秒",
+            "zh_tw": "當你殺死一個[Rare|稀有]怪物時，獲得其[Modifiers|詞綴]，持續 {0} 秒"
+          }
+        }
+    ]
+  }
+]

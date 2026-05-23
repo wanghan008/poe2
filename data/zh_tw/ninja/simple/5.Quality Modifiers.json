@@ -1,0 +1,50 @@
+{
+  "Quality (Life Modifiers)": {
+    "zh_cn": "品质 (生命词缀)",
+    "zh_tw": "品質 (生命词缀)"
+  },
+  "Quality (Mana Modifiers)": {
+    "zh_cn": "品质 (魔力词缀)",
+    "zh_tw": "品質 (魔力词缀)"
+  },
+  "Quality (Defence Modifiers)": {
+    "zh_cn": "品质 (防御词缀)",
+    "zh_tw": "品質 (防御词缀)"
+  },
+  "Quality (Physical Modifiers)": {
+    "zh_cn": "品质 (物理词缀)",
+    "zh_tw": "品質 (物理词缀)"
+  },
+  "Quality (Fire Modifiers)": {
+    "zh_cn": "品质 (火焰词缀)",
+    "zh_tw": "品質 (火焰词缀)"
+  },
+  "Quality (Cold Modifiers)": {
+    "zh_cn": "品质 (冰霜词缀)",
+    "zh_tw": "品質 (冰冷词缀)"
+  },
+  "Quality (Lightning Modifiers)": {
+    "zh_cn": "品质 (闪电词缀)",
+    "zh_tw": "品質 (閃電词缀)"
+  },
+  "Quality (Chaos Modifiers)": {
+    "zh_cn": "品质 (混沌词缀)",
+    "zh_tw": "品質 (混沌词缀)"
+  },
+  "Quality (Attack Modifiers)": {
+    "zh_cn": "品质 (攻击词缀)",
+    "zh_tw": "品質 (攻擊词缀)"
+  },
+  "Quality (Caster Modifiers)": {
+    "zh_cn": "品质 (施法词缀)",
+    "zh_tw": "品質 (法術词缀)"
+  },
+  "Quality (Speed Modifiers)": {
+    "zh_cn": "品质 (速度词缀)",
+    "zh_tw": "品質 (速度词缀)"
+  },
+  "Quality (Attribute Modifiers)": {
+    "zh_cn": "品质 (属性词缀)",
+    "zh_tw": "品質 (能力值词缀)"
+  }
+}

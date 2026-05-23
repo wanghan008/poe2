@@ -1,0 +1,586 @@
+{
+  "Prefix_group": {
+    "Impairing": {
+      "zh_cn": "削妨的",
+      "zh_tw": "損害的"
+    },
+    "Dizzying": {
+      "zh_cn": "眼昏的",
+      "zh_tw": "眼花繚亂的"
+    },
+    "Depleting": {
+      "zh_cn": "耗尽的",
+      "zh_tw": "消耗的"
+    },
+    "Vitiating": {
+      "zh_cn": "损坏的",
+      "zh_tw": "維他命的"
+    },
+    "Sapping": {
+      "zh_cn": "削弱的",
+      "zh_tw": "削弱的"
+    },
+    "Opaque": {
+      "zh_cn": "蔽光的",
+      "zh_tw": "不透明的"
+    },
+    "Compact": {
+      "zh_cn": "紧凑的",
+      "zh_tw": "緊湊"
+    },
+    "Full-bodied": {
+      "zh_cn": "全型的",
+      "zh_tw": "濃郁的"
+    },
+    "Abundant": {
+      "zh_cn": "充裕的",
+      "zh_tw": "富裕的"
+    },
+    "Substantial": {
+      "zh_cn": "重多的",
+      "zh_tw": "重大的"
+    },
+    "Concentrated": {
+      "zh_cn": "浓缩的",
+      "zh_tw": "集中的"
+    },
+    "Potent": {
+      "zh_cn": "强力的",
+      "zh_tw": "功效的"
+    },
+    "Saturated": {
+      "zh_cn": "饱和的",
+      "zh_tw": "飽和的"
+    },
+    "Sustained": {
+      "zh_cn": "持续的",
+      "zh_tw": "經久的"
+    },
+    "Tenacious": {
+      "zh_cn": "持久的",
+      "zh_tw": "頑強的"
+    },
+    "Persistent": {
+      "zh_cn": "长效的",
+      "zh_tw": "執著的"
+    },
+    "Persevering": {
+      "zh_cn": "长存的",
+      "zh_tw": "不懈的"
+    },
+    "Prolonged": {
+      "zh_cn": "延长的",
+      "zh_tw": "延長"
+    },
+    "Prudent": {
+      "zh_cn": "谨简的",
+      "zh_tw": "謹慎的"
+    },
+    "Prepared": {
+      "zh_cn": "全备的",
+      "zh_tw": "準備的"
+    },
+    "Wary": {
+      "zh_cn": "谨戒的",
+      "zh_tw": "警惕的"
+    },
+    "Careful": {
+      "zh_cn": "谨细的",
+      "zh_tw": "小心的"
+    },
+    "Cautious": {
+      "zh_cn": "谨慎之",
+      "zh_tw": "謹慎的"
+    },
+    "Seething": {
+      "zh_cn": "沸腾的",
+      "zh_tw": "沸騰的"
+    },
+    "Novice's": {
+      "zh_cn": "新手的",
+      "zh_tw": "新手的"
+    },
+    "Acolyte's": {
+      "zh_cn": "侍僧的",
+      "zh_tw": "侍僧之"
+    },
+    "Summoner's": {
+      "zh_cn": "召唤者的",
+      "zh_tw": "召唤者的"
+    },
+    "Conjurer's": {
+      "zh_cn": "咒师的",
+      "zh_tw": "魔法師的"
+    },
+    "Necromancer's": {
+      "zh_cn": "召唤师的",
+      "zh_tw": "死靈師的"
+    },
+    "Dense": {
+      "zh_cn": "浓稠的",
+      "zh_tw": "稠密"
+    },
+    "Undiluted": {
+      "zh_cn": "原汁的",
+      "zh_tw": "未稀釋的"
+    },
+    "Hearty": {
+      "zh_cn": "暖心的",
+      "zh_tw": "爽朗"
+    },
+    "Viscous": {
+      "zh_cn": "黏性的",
+      "zh_tw": "粘性的"
+    },
+    "Condensed": {
+      "zh_cn": "浓黏的",
+      "zh_tw": "濃縮的"
+    },
+    "Catalysed": {
+      "zh_cn": "催化的",
+      "zh_tw": "催化的"
+    },
+    "Simmering": {
+      "zh_cn": "煨闷的",
+      "zh_tw": "煨煨的"
+    },
+    "Effervescent": {
+      "zh_cn": "沸熔的",
+      "zh_tw": "泡騰的"
+    },
+    "Bubbling": {
+      "zh_cn": "起泡的",
+      "zh_tw": "起泡的"
+    },
+    "Herbal": {
+      "zh_cn": "药草的",
+      "zh_tw": "草藥的"
+    },
+    "Floral": {
+      "zh_cn": "植被的",
+      "zh_tw": "花草的"
+    },
+    "Blooming": {
+      "zh_cn": "繁花的",
+      "zh_tw": "綻放的"
+    },
+    "Sprouting": {
+      "zh_cn": "萌发的",
+      "zh_tw": "萌發的"
+    },
+    "Petaled": {
+      "zh_cn": "苞蕾的",
+      "zh_tw": "花瓣的"
+    },
+    "Botanic": {
+      "zh_cn": "植物学的",
+      "zh_tw": "植物的"
+    },
+    "Natural": {
+      "zh_cn": "自然的",
+      "zh_tw": "天然的"
+    },
+    "Evergreen": {
+      "zh_cn": "常青的",
+      "zh_tw": "常綠"
+    },
+    "Drizzling": {
+      "zh_cn": "滴露的",
+      "zh_tw": "細雨的"
+    },
+    "Soaked": {
+      "zh_cn": "浸泡的",
+      "zh_tw": "浸泡的"
+    },
+    "Mistbound": {
+      "zh_cn": "缚雾的",
+      "zh_tw": "霧縛的"
+    },
+    "Tidebound": {
+      "zh_cn": "缚涛的",
+      "zh_tw": "潮縛的"
+    },
+    "Aqueous": {
+      "zh_cn": "水生的",
+      "zh_tw": "流水的"
+    },
+    "Flooded": {
+      "zh_cn": "泛滥的",
+      "zh_tw": "淹沒的"
+    },
+    "Oceanic": {
+      "zh_cn": "汪洋的",
+      "zh_tw": "海洋的"
+    },
+    "Raindancer's": {
+      "zh_cn": "兩舞者的",
+      "zh_tw": "兩舞者的"
+    },
+    "Sunny": {
+      "zh_cn": "睛空的",
+      "zh_tw": "睛天的"
+    },
+    "Dawnlit": {
+      "zh_cn": "晨辉的",
+      "zh_tw": "晨光的"
+    },
+    "Bright": {
+      "zh_cn": "光明的",
+      "zh_tw": "明亮"
+    },
+    "Vibrant": {
+      "zh_cn": "鲜活的",
+      "zh_tw": "生動的"
+    },
+    "Lustrous": {
+      "zh_cn": "光辉的",
+      "zh_tw": "燦爛的"
+    },
+    "Sunburst": {
+      "zh_cn": "艳阳的",
+      "zh_tw": "散陽的"
+    },
+    "Investigator's": {
+      "zh_cn": "调查者的",
+      "zh_tw": "調查者的"
+    },
+    "Analyst's": {
+      "zh_cn": "分析家的",
+      "zh_tw": "分析師之"
+    },
+    "Examiner's": {
+      "zh_cn": "审查人的",
+      "zh_tw": "考官的"
+    },
+    "Clinician's": {
+      "zh_cn": "临床师的",
+      "zh_tw": "臨床醫生的"
+    },
+    "Experimenter's": {
+      "zh_cn": "实验家的",
+      "zh_tw": "實驗家的"
+    },
+    "Blasting": {
+      "zh_cn": "爆破的",
+      "zh_tw": "爆破的"
+    },
+    "Armoured": {
+      "zh_cn": "装甲的",
+      "zh_tw": "裝甲的"
+    },
+    "Shattering": {
+      "zh_cn": "碎离的",
+      "zh_tw": "粉碎的"
+    },
+    "Combat": {
+      "zh_cn": "战意的",
+      "zh_tw": "戰鬥的"
+    },
+    "Bleeding": {
+      "zh_cn": "流血的",
+      "zh_tw": "流血的"
+    },
+    "Protecting": {
+      "zh_cn": "庇护的",
+      "zh_tw": "保護的"
+    },
+    "Exploiting": {
+      "zh_cn": "寻机的",
+      "zh_tw": "剝削的"
+    },
+    "Prismatic": {
+      "zh_cn": "虹光的",
+      "zh_tw": "三相"
+    },
+    "Empowering": {
+      "zh_cn": "赋能的",
+      "zh_tw": "賦予的"
+    },
+    "Flaming": {
+      "zh_cn": "火焰的",
+      "zh_tw": "烈火之"
+    },
+    "Searing": {
+      "zh_cn": "焚灭的",
+      "zh_tw": "灼燒的"
+    },
+    "Burning": {
+      "zh_cn": "燃烧的",
+      "zh_tw": "爆燃"
+    },
+    "Beating": {
+      "zh_cn": "痛殴的",
+      "zh_tw": "搏動的"
+    },
+    "Angry": {
+      "zh_cn": "愤怒的",
+      "zh_tw": "生氣的"
+    },
+    "Clashing": {
+      "zh_cn": "冲突的",
+      "zh_tw": "衝突的"
+    },
+    "Companion": {
+      "zh_cn": "同伴的",
+      "zh_tw": "盟友的"
+    },
+    "Fortuitous": {
+      "zh_cn": "运势的",
+      "zh_tw": "恰巧的"
+    },
+    "Sharpened": {
+      "zh_cn": "锐利的",
+      "zh_tw": "銳利的"
+    },
+    "Shielding": {
+      "zh_cn": "防护的",
+      "zh_tw": "護盾的"
+    },
+    "Haemorrhaging": {
+      "zh_cn": "血涌的",
+      "zh_tw": "出血的"
+    },
+    "Retaliating": {
+      "zh_cn": "报复的",
+      "zh_tw": "反擊的"
+    },
+    "Shaman's": {
+      "zh_cn": "萨满的",
+      "zh_tw": "巫者的"
+    },
+    "Carved": {
+      "zh_cn": "雕刻的",
+      "zh_tw": "遺產的"
+    },
+    "of Warcries": {
+      "zh_cn": "战吼之",
+      "zh_tw": "戰吼之"
+    },
+    "Yelling": {
+      "zh_cn": "嚎叫的",
+      "zh_tw": "大吼的"
+    },
+    "Incise": {
+      "zh_cn": "伤口的",
+      "zh_tw": "雕刻的"
+    },
+    "Rallying": {
+      "zh_cn": "守卫者的",
+      "zh_tw": "守衛者的"
+    },
+    "Iconic": {
+      "zh_cn": "象征的",
+      "zh_tw": "經典的"
+    },
+    "Accurate": {
+      "zh_cn": "精准的",
+      "zh_tw": "命中"
+    },
+    "Acrimonious": {
+      "zh_cn": "尖刻的",
+      "zh_tw": "激烈的"
+    },
+    "Stifling": {
+      "zh_cn": "沉闷的",
+      "zh_tw": "窒息的"
+    },
+    "Slaying": {
+      "zh_cn": "灭除的",
+      "zh_tw": "屠殺的"
+    },
+    "Precise": {
+      "zh_cn": "精确的",
+      "zh_tw": "精確的"
+    },
+    "Lightless": {
+      "zh_cn": "暗光",
+      "zh_tw": "黯光的"
+    }
+  },
+  "Suffix_group": {
+    "of the Medic": {
+      "zh_cn": "救护之",
+      "zh_tw": "醫者之"
+    },
+    "of the Doctor": {
+      "zh_cn": "医生之",
+      "zh_tw": "醫師之"
+    },
+    "of the Surgeon": {
+      "zh_cn": "手术之",
+      "zh_tw": "外科醫師之"
+    },
+    "of the Constant": {
+      "zh_cn": "恒常之",
+      "zh_tw": "持續之"
+    },
+    "of the Continuous": {
+      "zh_cn": "恒续之",
+      "zh_tw": "連續的"
+    },
+    "of the Endless": {
+      "zh_cn": "无穷之",
+      "zh_tw": "無盡的"
+    },
+    "of the Bottomless": {
+      "zh_cn": "无底之",
+      "zh_tw": "無底的"
+    },
+    "of the Perpetual": {
+      "zh_cn": "永久之",
+      "zh_tw": "永久的"
+    },
+    "of the Eternal": {
+      "zh_cn": "永恒之",
+      "zh_tw": "永恆之"
+    },
+    "of the Apprentice": {
+      "zh_cn": "学徒之",
+      "zh_tw": "學徒的"
+    },
+    "of the Practitioner": {
+      "zh_cn": "医者之",
+      "zh_tw": "從業者的"
+    },
+    "of the Mixologist": {
+      "zh_cn": "调剂之",
+      "zh_tw": "調酒師的"
+    },
+    "of the Distiller": {
+      "zh_cn": "蒸馏之",
+      "zh_tw": "釀酒師的"
+    },
+    "of the Brewer": {
+      "zh_cn": "烹煮之",
+      "zh_tw": "釀酒師的"
+    },
+    "of the Chemist": {
+      "zh_cn": "药学之",
+      "zh_tw": "化學家之"
+    },
+    "of the Wide": {
+      "zh_cn": "宽大之",
+      "zh_tw": "寬的"
+    },
+    "of the Copious": {
+      "zh_cn": "丰富之",
+      "zh_tw": "豐產的"
+    },
+    "of the Plentiful": {
+      "zh_cn": "丰厚之",
+      "zh_tw": "充足的"
+    },
+    "of the Bountiful": {
+      "zh_cn": "充裕之",
+      "zh_tw": "富裕的"
+    },
+    "of the Abundant": {
+      "zh_cn": "充足之",
+      "zh_tw": "富裕之"
+    },
+    "of the Ample": {
+      "zh_cn": "丰沛之",
+      "zh_tw": "慷慨之"
+    },
+    "of the Foliage": {
+      "zh_cn": "施肥之",
+      "zh_tw": "枝葉之"
+    },
+    "of the Verdant": {
+      "zh_cn": "苍翠之",
+      "zh_tw": "自然之"
+    },
+    "of the Sylvan": {
+      "zh_cn": "林荫之",
+      "zh_tw": "森林之"
+    },
+    "Resonating": {
+      "zh_cn": "共鸣的",
+      "zh_tw": "共鳴的"
+    },
+    "of Haemophilia": {
+      "zh_cn": "出血之",
+      "zh_tw": "血病之"
+    },
+    "of Ignition": {
+      "zh_cn": "点燃之",
+      "zh_tw": "引火之"
+    },
+    "of Lengthening": {
+      "zh_cn": "冗长之",
+      "zh_tw": "加長之"
+    },
+    "of Fending": {
+      "zh_cn": "抵御之",
+      "zh_tw": "自衛之"
+    },
+    "of Sacrifice": {
+      "zh_cn": "牺牲之",
+      "zh_tw": "犧牲之"
+    },
+    "of Frenzy": {
+      "zh_cn": "狂怒之",
+      "zh_tw": "狂暴之"
+    },
+    "of Regeneration": {
+      "zh_cn": "回复之",
+      "zh_tw": "回復之"
+    },
+    "of Thumping": {
+      "zh_cn": "捶击之",
+      "zh_tw": "極大之"
+    },
+    "of the Phoenix": {
+      "zh_cn": "凤凰之",
+      "zh_tw": "鳳凰之"
+    },
+    "of Confidence": {
+      "zh_cn": "信心之",
+      "zh_tw": "信心之"
+    },
+    "of Raging": {
+      "zh_cn": "激怒之",
+      "zh_tw": "憤怒之"
+    },
+    "of Retribution": {
+      "zh_cn": "惩戒之",
+      "zh_tw": "報應之"
+    },
+    "of Stunning": {
+      "zh_cn": "击晕之",
+      "zh_tw": "暈眩之"
+    },
+    "of Withstanding": {
+      "zh_cn": "坚守之",
+      "zh_tw": "承受之"
+    },
+    "of Ancestry": {
+      "zh_cn": "先祖之",
+      "zh_tw": "先祖之"
+    },
+    "of Rallying": {
+      "zh_cn": "重整之",
+      "zh_tw": "重整之"
+    },
+    "of Lungs": {
+      "zh_cn": "铁肺之",
+      "zh_tw": "肺臟之"
+    },
+    "of Swapping": {
+      "zh_cn": "互换之",
+      "zh_tw": "交換之"
+    },
+    "of Valour": {
+      "zh_cn": "勇气之",
+      "zh_tw": "勇氣之"
+    },
+    "of Inspiring": {
+      "zh_cn": "鼓舞之",
+      "zh_tw": "啟發之"
+    },
+    "of the Abyss": {
+      "zh_cn": "深渊之",
+      "zh_tw": "深淵之"
+    }
+  }
+}

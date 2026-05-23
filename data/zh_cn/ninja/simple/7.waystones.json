@@ -1,0 +1,314 @@
+{
+  "Waystones Item /16":{
+    "zh_cn":"引路石 物品 /16",
+    "zh_tw":"換界石 物品 /16"
+  },
+  "Waystones Item_group":[
+    {
+      "Waystone (Tier 1)":{
+        "zh_cn":"引路石（1 阶）",
+        "zh_tw":"地圖鑰匙（階級 1）"
+      },
+      "Waystone (Tier 2)":{
+        "zh_cn":"引路石（2 阶）",
+        "zh_tw":"地圖鑰匙（階級 2）"
+      },
+      "Waystone (Tier 3)":{
+        "zh_cn":"引路石（3 阶）",
+        "zh_tw":"地圖鑰匙（階級 3）"
+      },
+      "Waystone (Tier 4)":{
+        "zh_cn":"引路石（4 阶）",
+        "zh_tw":"地圖鑰匙（階級 4）"
+      },
+      "Waystone (Tier 5)":{
+        "zh_cn":"引路石（5 阶）",
+        "zh_tw":"地圖鑰匙（階級 5）"
+      },
+      "Waystone (Tier 6)":{
+        "zh_cn":"引路石（6 阶）",
+        "zh_tw":"地圖鑰匙（階級 6）"
+      },
+      "Waystone (Tier 7)":{
+        "zh_cn":"引路石（7 阶）",
+        "zh_tw":"地圖鑰匙（階級 7）"
+      },
+      "Waystone (Tier 8)":{
+        "zh_cn":"引路石（8 阶）",
+        "zh_tw":"地圖鑰匙（階級 8）"
+      },
+      "Waystone (Tier 9)":{
+        "zh_cn":"引路石（9 阶）",
+        "zh_tw":"地圖鑰匙（階級 9）"
+      },
+      "Waystone (Tier 10)":{
+        "zh_cn":"引路石（10 阶）",
+        "zh_tw":"地圖鑰匙（階級 10）"
+      },
+      "Waystone (Tier 11)":{
+        "zh_cn":"引路石（11 阶）",
+        "zh_tw":"地圖鑰匙（階級 11）"
+      },
+      "Waystone (Tier 12)":{
+        "zh_cn":"引路石（12 阶）",
+        "zh_tw":"地圖鑰匙（階級 12）"
+      },
+      "Waystone (Tier 13)":{
+        "zh_cn":"引路石（13 阶）",
+        "zh_tw":"地圖鑰匙（階級 13）"
+      },
+      "Waystone (Tier 14)":{
+        "zh_cn":"引路石（14 阶）",
+        "zh_tw":"地圖鑰匙（階級 14）"
+      },
+      "Waystone (Tier 15)":{
+        "zh_cn":"引路石（15 阶）",
+        "zh_tw":"地圖鑰匙（階級 15）"
+      },
+      "Waystone (Tier 16)":{
+        "zh_cn":"引路石（16 阶）",
+        "zh_tw":"地圖鑰匙（階級 16）"
+      }
+    }
+  ],
+  "Map Fragments Item /7":{
+    "zh_cn":"地图碎片 物品 /7",
+    "zh_tw":"地圖碎片 物品 /7"
+  },
+  "Map Fragments Item_group":[
+    {
+      "Simulacrum":{
+        "zh_cn":"梦魇拟像",
+        "zh_tw":"幻像異界"
+      },
+      "An Audience with the King":{
+        "zh_cn":"谒王之约",
+        "zh_tw":"晉見帝王"
+      },
+      "Kulemak's Invitation":{
+        "zh_cn":"库勒马克的邀请",
+        "zh_tw":"骷髏馬克的邀請"
+      },
+      "Idol of Estazunti":{
+        "zh_cn":"埃斯塔祖提的雕像",
+        "zh_tw":"艾斯祖太之偶"
+      },
+      "Cowardly Fate":{
+        "zh_cn":"懦弱的命运",
+        "zh_tw":"怯懦之運"
+      },
+      "Deadly Fate":{
+        "zh_cn":"危难的命运",
+        "zh_tw":"致命之運"
+      },
+      "Victorious Fate":{
+        "zh_cn":"胜利的命运",
+        "zh_tw":"勝利之運"
+      }
+    }
+  ],
+  "Tablet Item /7":{
+    "zh_cn":"石板 物品 /7",
+    "zh_tw":"碑牌 物品 /7"
+  },
+  "Tablet Item_group":[
+    {
+      "Breach Precursor Tablet":{
+        "zh_cn":"裂隙先驱石板",
+        "zh_tw":"裂痕先行者碑牌"
+      },
+      "Expedition Precursor Tablet":{
+        "zh_cn":"先祖秘藏先驱石板",
+        "zh_tw":"探險先行者碑牌"
+      },
+      "Delirium Precursor Tablet":{
+        "zh_cn":"惊悸迷雾先驱石板",
+        "zh_tw":"譫妄先行者碑牌"
+      },
+      "Ritual Precursor Tablet":{
+        "zh_cn":"驱灵仪式先驱石板",
+        "zh_tw":"祭祀先行者碑牌"
+      },
+      "Precursor Tablet":{
+        "zh_cn":"先驱石板",
+        "zh_tw":"先行者碑牌"
+      },
+      "Overseer Precursor Tablet":{
+        "zh_cn":"霸主先驱石板",
+        "zh_tw":"總督先行者碑牌"
+      },
+      "Abyss Precursor Tablet":{
+        "zh_cn":"深渊先驱石板",
+        "zh_tw":"深淵先行者碑牌"
+      }
+    }
+  ],
+  "Trial Coins Item /5":{
+    "zh_cn":"试炼币 物品 /5",
+    "zh_tw":"試煉幣 物品 /5"
+  },
+  "Trial Coins Item_group":[
+    {
+      "Djinn Barya":{
+        "zh_cn":"巨灵巴雅",
+        "zh_tw":"巨靈之幣"
+      },
+      "Test of Strength Barya":{
+        "zh_cn":"力量测试巴雅",
+        "zh_tw":"力量的測試代幣"
+      },
+      "Test of Will Barya":{
+        "zh_cn":"意志测试巴雅",
+        "zh_tw":"意志的測試代幣"
+      },
+      "Test of Cunning Barya":{
+        "zh_cn":"灵巧测试巴雅",
+        "zh_tw":"計謀的測試代幣"
+      },
+      "Test of Time Barya":{
+        "zh_cn":"时间测试巴雅",
+        "zh_tw":"時間的測試代幣"
+      }
+    }
+  ],
+  "Pinnacle Keys Item /6":{
+    "zh_cn":"巅峰钥匙 物品 /6",
+    "zh_tw":"巔峰鑰匙 物品 /6"
+  },
+  "Pinnacle Keys Item_group":[
+    {
+      "Ancient Crisis Fragment":{
+        "zh_cn":"古老的危机碎片",
+        "zh_tw":"遠古危機碎片"
+      },
+      "Faded Crisis Fragment":{
+        "zh_cn":"褪色的危机碎片",
+        "zh_tw":"褪色危機碎片"
+      },
+      "Weathered Crisis Fragment":{
+        "zh_cn":"风蚀的危机碎片",
+        "zh_tw":"風化危機碎片"
+      },
+      "Primary Calamity Fragment":{
+        "zh_cn":"初级血祸碎片",
+        "zh_tw":"第一血禍碎片"
+      },
+      "Secondary Calamity Fragment":{
+        "zh_cn":"次级血祸碎片",
+        "zh_tw":"第二血禍碎片"
+      },
+      "Tertiary Calamity Fragment":{
+        "zh_cn":"三级血祸碎片",
+        "zh_tw":"第三血禍碎片"
+      }
+    }
+  ],
+  "Vault Keys Item /26":{
+    "zh_cn":"宝库钥匙 物品 /25",
+    "zh_tw":"遺鑰 物品 /25"
+  },
+  "Vault Keys Item_group":[
+    {
+      "Ancient Reliquary Key":{
+        "zh_cn":"古藏秘钥",
+        "zh_tw":"古典遺鑰"
+      },
+      "Timeworn Reliquary Key":{
+        "zh_cn":"尘封圣物厅钥匙",
+        "zh_tw":"古朽遺鑰"
+      },
+      "Vaal Reliquary Key":{
+        "zh_cn":"瓦尔圣物厅钥匙",
+        "zh_tw":"瓦爾遺鑰"
+      },
+      "Forgotten Reliquary Key":{
+        "zh_cn":"圣物厅钥匙：忘却",
+        "zh_tw":"遺忘遺鑰"
+      },
+      "Visceral Reliquary Key":{
+        "zh_cn":"圣物厅钥匙：内脏",
+        "zh_tw":"吞噬遺鑰"
+      },
+      "Shiny Reliquary Key":{
+        "zh_cn":"圣物厅钥匙：闪亮",
+        "zh_tw":"閃耀遺鑰"
+      },
+      "Archive Reliquary Key":{
+        "zh_cn":"圣物厅钥匙：书库",
+        "zh_tw":"文書遺鑰"
+      },
+      "Oubliette Reliquary Key":{
+        "zh_cn":"圣物厅钥匙：地牢",
+        "zh_tw":"地窖遺鑰"
+      },
+      "Cosmic Reliquary Key":{
+        "zh_cn":"圣物厅钥匙：宇宙",
+        "zh_tw":"宇宙遺鑰"
+      },
+      "Decaying Reliquary Key":{
+        "zh_cn":"圣物厅钥匙：腐蚀",
+        "zh_tw":"腐化遺鑰"
+      },
+      "Voidborn Reliquary Key":{
+        "zh_cn":"圣物厅钥匙：虚空血脉",
+        "zh_tw":"虛誕遺鑰"
+      },
+      "Twilight Reliquary Key":{
+        "zh_cn":"暮光圣物厅钥匙",
+        "zh_tw":"黎明寶庫鑰匙"
+      },
+      "Xesht's Reliquary Key":{
+        "zh_cn":"薛斯的圣物厅钥匙",
+        "zh_tw":"烈許的寶庫鑰匙"
+      },
+      "The Trialmaster's Reliquary Key":{
+        "zh_cn":"试炼使者的圣物厅钥匙",
+        "zh_tw":"試煉大師的寶庫鑰匙"
+      },
+      "Ritualistic Reliquary Key":{
+        "zh_cn":"仪式的圣物厅钥匙",
+        "zh_tw":"儀式寶庫鑰匙"
+      },
+      "Tangmazu's Reliquary Key":{
+        "zh_cn":"唐玛祖的圣物厅钥匙",
+        "zh_tw":"湯馬祖的寶庫鑰匙"
+      },
+      "Olroth's Reliquary Key":{
+        "zh_cn":"欧罗什的圣物厅钥匙",
+        "zh_tw":"奧爾羅斯的寶庫鑰匙"
+      },
+      "The Arbiter's Reliquary Key":{
+        "zh_cn":"仲裁官的圣物厅钥匙",
+        "zh_tw":"仲裁者的寶庫鑰匙"
+      },
+      "Zarokh's Reliquary Key":{
+        "zh_cn":"扎洛卡的圣物厅钥匙",
+        "zh_tw":"澤洛克的寶庫鑰匙"
+      },
+      "Zarokh's Reliquary Key: Against the Darkness":{
+        "zh_cn":"扎洛卡的圣物厅钥匙：抗衡黑暗",
+        "zh_tw":"澤洛克的寶庫鑰匙：力抗黑暗"
+      },
+      "Zarokh's Reliquary Key: Sandstorm Visage":{
+        "zh_cn":"扎洛卡的圣物厅钥匙：禁域面容",
+        "zh_tw":"澤洛克的寶庫鑰匙：沙瀑面紗"
+      },
+      "Zarokh's Reliquary Key: Blessed Bonds":{
+        "zh_cn":"扎洛卡的圣物厅钥匙：蒙福的羁绊",
+        "zh_tw":"澤洛克的寶庫鑰匙：祝福之絆"
+      },
+      "Zarokh's Reliquary Key: Sekhema's Resolve":{
+        "zh_cn":"扎洛卡的圣物厅钥匙：丝克玛的决心",
+        "zh_tw":"澤洛克的寶庫鑰匙：絲克瑪的決意"
+      },
+      "Zarokh's Reliquary Key: Temporalis":{
+        "zh_cn":"扎洛卡的圣物厅钥匙：时空之肌",
+        "zh_tw":"澤洛克的寶庫鑰匙：時空之物"
+      },
+      "Azmeri Reliquary Key":{
+        "zh_cn":"阿兹莫里圣物厅钥匙",
+        "zh_tw":"阿茲莫里的寶庫鑰匙"
+      }
+    }
+  ]
+}

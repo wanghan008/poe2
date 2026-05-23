@@ -1,0 +1,774 @@
+{
+  "Skill Gems Gemcutting /56": {
+    "zh_cn": "技能宝石切割 /56",
+    "zh_tw": "技能寶石切割 /56"
+  },
+  "Occult": {
+    "zh_cn": "秘术",
+    "zh_tw": "秘巫"
+  },
+  "Unearth": {
+    "zh_cn": "开掘",
+    "zh_tw": "屍術矢"
+  },
+  "Contagion": {
+    "zh_cn": "顽疾",
+    "zh_tw": "瘟疫"
+  },
+  "Skeletal Sniper": {
+    "zh_cn": "魔侍神射手",
+    "zh_tw": "骷髏狙擊手"
+  },
+  "Enfeeble": {
+    "zh_cn": "衰弱",
+    "zh_tw": "衰弱"
+  },
+  "Bone Cage": {
+    "zh_cn": "画地为牢",
+    "zh_tw": "骨牢"
+  },
+  "Essence Drain": {
+    "zh_cn": "精华吸取",
+    "zh_tw": "靈魂吸取"
+  },
+  "Skeletal Arsonist": {
+    "zh_cn": "魔侍焚焰使",
+    "zh_tw": "骷髏縱火者"
+  },
+  "Raise Zombie": {
+    "zh_cn": "魔卫复苏",
+    "zh_tw": "殭屍復甦"
+  },
+  "Bonestorm": {
+    "zh_cn": "尖刺风暴",
+    "zh_tw": "骸骨風暴"
+  },
+  "Pain Offering": {
+    "zh_cn": "苦痛奉献",
+    "zh_tw": "劇痛獻祭"
+  },
+  "Skeletal Frost Mage": {
+    "zh_cn": "魔侍冰霜法师",
+    "zh_tw": "骷髏霜寒法師"
+  },
+  "Vulnerability": {
+    "zh_cn": "脆弱",
+    "zh_tw": "脆弱"
+  },
+  "Bind Spectre": {
+    "zh_cn": "束缚灵体",
+    "zh_tw": "束縛幽魂"
+  },
+  "Detonate Dead": {
+    "zh_cn": "爆灵术",
+    "zh_tw": "屍體爆破"
+  },
+  "Profane Ritual": {
+    "zh_cn": "不敬之礼",
+    "zh_tw": "瀆神祭祀"
+  },
+  "Skeletal Reaver": {
+    "zh_cn": "魔侍掠夺者",
+    "zh_tw": "骷髏掠奪者"
+  },
+  "Despair": {
+    "zh_cn": "绝望",
+    "zh_tw": "絕望"
+  },
+  "Dark Effigy": {
+    "zh_cn": "黑暗塑像",
+    "zh_tw": "黑暗雕像"
+  },
+  "Skeletal Storm Mage": {
+    "zh_cn": "魔侍风暴法师",
+    "zh_tw": "骷髏風暴法師"
+  },
+  "Hexblast": {
+    "zh_cn": "魔蛊爆炸",
+    "zh_tw": "咒術枯萎"
+  },
+  "Bone Offering": {
+    "zh_cn": "装甲奉献",
+    "zh_tw": "骸骨奉獻"
+  },
+  "Skeletal Brute": {
+    "zh_cn": "魔侍蛮兵",
+    "zh_tw": "骷髏巨獸"
+  },
+  "Skeletal Cleric": {
+    "zh_cn": "魔侍祭司",
+    "zh_tw": "骷髏牧師"
+  },
+  "Soul Offering": {
+    "zh_cn": "灵之奉献",
+    "zh_tw": "靈魂獻祭"
+  },
+  "Bow": {
+    "zh_cn": "弓",
+    "zh_tw": "弓"
+  },
+  "Lightning Arrow": {
+    "zh_cn": "闪电箭矢",
+    "zh_tw": "閃電箭矢"
+  },
+  "Escape Shot": {
+    "zh_cn": "逃脱射击",
+    "zh_tw": "逃脫之矢"
+  },
+  "Lightning Rod": {
+    "zh_cn": "引雷针",
+    "zh_tw": "雷霆之杖"
+  },
+  "Poisonburst Arrow": {
+    "zh_cn": "毒爆箭",
+    "zh_tw": "毒爆箭矢"
+  },
+  "Snipe": {
+    "zh_cn": "狙击",
+    "zh_tw": "狙擊"
+  },
+  "Ice-Tipped Arrows": {
+    "zh_cn": "冰尖箭矢",
+    "zh_tw": "冰鏃箭矢"
+  },
+  "Vine Arrow": {
+    "zh_cn": "藤缠箭",
+    "zh_tw": "藤蔓箭矢"
+  },
+  "Stormcaller Arrow": {
+    "zh_cn": "唤雷箭",
+    "zh_tw": "風暴呼喚箭矢"
+  },
+  "Toxic Growth": {
+    "zh_cn": "剧毒增生",
+    "zh_tw": "毒素植栽"
+  },
+  "Electrocuting Arrow": {
+    "zh_cn": "电殛箭",
+    "zh_tw": "電極箭矢"
+  },
+  "Barrage": {
+    "zh_cn": "弹幕",
+    "zh_tw": "彈幕"
+  },
+  "Freezing Salvo": {
+    "zh_cn": "冻结齐射",
+    "zh_tw": "凍結齊射"
+  },
+  "Sniper's Mark": {
+    "zh_cn": "狙击之印",
+    "zh_tw": "狙擊者印記"
+  },
+  "Gas Arrow": {
+    "zh_cn": "瓦斯之箭",
+    "zh_tw": "毒氣箭矢"
+  },
+  "Voltaic Mark": {
+    "zh_cn": "流电印记",
+    "zh_tw": "電流印記"
+  },
+  "Detonating Arrow": {
+    "zh_cn": "爆破箭",
+    "zh_tw": "爆破箭矢"
+  },
+  "Ice Shot": {
+    "zh_cn": "冰霜射击",
+    "zh_tw": "冰霜射擊"
+  },
+  "Rain of Arrows": {
+    "zh_cn": "箭雨",
+    "zh_tw": "箭雨"
+  },
+  "Shockchain Arrow": {
+    "zh_cn": "连环震击箭",
+    "zh_tw": "電鍊箭矢"
+  },
+  "Tornado Shot": {
+    "zh_cn": "龙卷射击",
+    "zh_tw": "龍捲射擊"
+  },
+  "Spiral Volley": {
+    "zh_cn": "螺旋齐射",
+    "zh_tw": "螺旋之弦"
+  },
+  "Magnetic Salvo": {
+    "zh_cn": "磁性齐射",
+    "zh_tw": "電磁齊射"
+  },
+  "Toxic Domain": {
+    "zh_cn": "毒性领域",
+    "zh_tw": "毒素領域"
+  },
+  "Mace": {
+    "zh_cn": "锤",
+    "zh_tw": "錘"
+  },
+  "Rolling Slam": {
+    "zh_cn": "轰动猛击",
+    "zh_tw": "翻騰重擊"
+  },
+  "Boneshatter": {
+    "zh_cn": "七伤破",
+    "zh_tw": "碎骨"
+  },
+  "Earthquake": {
+    "zh_cn": "震地",
+    "zh_tw": "震地"
+  },
+  "Shield Charge": {
+    "zh_cn": "重盾冲锋",
+    "zh_tw": "重盾衝鋒"
+  },
+  "Shockwave Totem": {
+    "zh_cn": "震波图腾",
+    "zh_tw": "震波圖騰"
+  },
+  "Armour Breaker": {
+    "zh_cn": "摧甲重击",
+    "zh_tw": "護甲碎擊"
+  },
+  "Infernal Cry": {
+    "zh_cn": "炽焰战吼",
+    "zh_tw": "煉獄戰吼"
+  },
+  "Molten Blast": {
+    "zh_cn": "熔岩爆裂",
+    "zh_tw": "熔火爆破"
+  },
+  "Perfect Strike": {
+    "zh_cn": "完美一击",
+    "zh_tw": "完美打擊"
+  },
+  "Resonating Shield": {
+    "zh_cn": "共振护盾",
+    "zh_tw": "共鳴之盾"
+  },
+  "Shield Wall": {
+    "zh_cn": "盾墙",
+    "zh_tw": "盾牆"
+  },
+  "Earthshatter": {
+    "zh_cn": "尖刺战吼",
+    "zh_tw": "碎地重擊"
+  },
+  "Volcanic Fissure": {
+    "zh_cn": "火山裂缝",
+    "zh_tw": "炎火脈動"
+  },
+  "Leap Slam": {
+    "zh_cn": "跃击",
+    "zh_tw": "躍擊"
+  },
+  "Fortifying Cry": {
+    "zh_cn": "坚韧战吼",
+    "zh_tw": "堅韌之吼"
+  },
+  "Forge Hammer": {
+    "zh_cn": "锻造之锤",
+    "zh_tw": "鍛造之錘"
+  },
+  "Sunder": {
+    "zh_cn": "大地震击",
+    "zh_tw": "大地震擊"
+  },
+  "Supercharged Slam": {
+    "zh_cn": "蓄威神锤",
+    "zh_tw": "超載重擊"
+  },
+  "Seismic Cry": {
+    "zh_cn": "震地战吼",
+    "zh_tw": "裂地戰吼"
+  },
+  "Stampede": {
+    "zh_cn": "溃败",
+    "zh_tw": "踐踏"
+  },
+  "Ancestral Cry": {
+    "zh_cn": "先祖战吼",
+    "zh_tw": "先祖戰吼"
+  },
+  "Hammer of the Gods": {
+    "zh_cn": "诸天之锤",
+    "zh_tw": "眾神之錘"
+  },
+  "Ancestral Warrior Totem": {
+    "zh_cn": "先祖战士图腾",
+    "zh_tw": "先祖戰士圖騰"
+  },
+  "Elemental": {
+    "zh_cn": "元素",
+    "zh_tw": "元素"
+  },
+  "Spark": {
+    "zh_cn": "电球",
+    "zh_tw": "電球"
+  },
+  "Ice Nova": {
+    "zh_cn": "冰霜新星",
+    "zh_tw": "冰霜新星"
+  },
+  "Flame Wall": {
+    "zh_cn": "烈焰之墙",
+    "zh_tw": "烈焰之牆"
+  },
+  "Frost Bomb": {
+    "zh_cn": "寒霜爆",
+    "zh_tw": "寒霜爆"
+  },
+  "Frost Darts": {
+    "zh_cn": "冰霜飞镖",
+    "zh_tw": "寒霜之鏢"
+  },
+  "Living Bomb": {
+    "zh_cn": "活动炸弹",
+    "zh_tw": "活體炸彈"
+  },
+  "Fireball": {
+    "zh_cn": "火球",
+    "zh_tw": "火球"
+  },
+  "Orb of Storms": {
+    "zh_cn": "风暴漩涡",
+    "zh_tw": "風暴漩渦"
+  },
+  "Arc": {
+    "zh_cn": "电弧",
+    "zh_tw": "電弧"
+  },
+  "Frostbolt": {
+    "zh_cn": "寒冰弹",
+    "zh_tw": "寒冰彈"
+  },
+  "Snap": {
+    "zh_cn": "激变",
+    "zh_tw": "迸裂"
+  },
+  "Ember Fusillade|Ember Fussilade": {
+    "zh_cn": "灰烬连射",
+    "zh_tw": "餘燼齊射"
+  },
+  "Elemental Weakness": {
+    "zh_cn": "元素要害",
+    "zh_tw": "元素要害"
+  },
+  "Mana Tempest": {
+    "zh_cn": "魔力风暴",
+    "zh_tw": "魔力暴風"
+  },
+  "Temporal Chains": {
+    "zh_cn": "时空锁链",
+    "zh_tw": "時空鎖鏈"
+  },
+  "Incinerate": {
+    "zh_cn": "烧毁",
+    "zh_tw": "燒毀"
+  },
+  "Lightning Warp": {
+    "zh_cn": "闪电传送",
+    "zh_tw": "閃電傳送"
+  },
+  "Frost Wall": {
+    "zh_cn": "冰墙",
+    "zh_tw": "冰牆"
+  },
+  "Ball Lightning": {
+    "zh_cn": "天雷之珠",
+    "zh_tw": "天雷之珠"
+  },
+  "Firestorm": {
+    "zh_cn": "烈炎风暴",
+    "zh_tw": "烈炎風暴"
+  },
+  "Comet": {
+    "zh_cn": "彗星落",
+    "zh_tw": "彗星"
+  },
+  "Flameblast": {
+    "zh_cn": "烈焰爆破",
+    "zh_tw": "烈焰爆破"
+  },
+  "Eye of Winter": {
+    "zh_cn": "凛冬之眼",
+    "zh_tw": "凜冬之眼"
+  },
+  "Lightning Conduit": {
+    "zh_cn": "闪电通道",
+    "zh_tw": "導雷"
+  },
+  "Spear": {
+    "zh_cn": "战矛",
+    "zh_tw": "長矛"
+  },
+  "Disengage": {
+    "zh_cn": "退避三舍",
+    "zh_tw": "脫離戰鬥"
+  },
+  "Whirling Slash": {
+    "zh_cn": "回旋挥斩",
+    "zh_tw": "迴旋斬"
+  },
+  "Twister": {
+    "zh_cn": "旋龙",
+    "zh_tw": "旋風"
+  },
+  "Explosive Spear": {
+    "zh_cn": "爆破战矛",
+    "zh_tw": "爆炸長矛"
+  },
+  "Rake": {
+    "zh_cn": "斜掠",
+    "zh_tw": "陰爪"
+  },
+  "Fangs of Frost": {
+    "zh_cn": "刺骨寒冰",
+    "zh_tw": "刺骨寒冰"
+  },
+  "Lightning Spear": {
+    "zh_cn": "闪电战矛",
+    "zh_tw": "閃電長矛"
+  },
+  "Cull The Weak": {
+    "zh_cn": "终结弱者",
+    "zh_tw": "撲殺弱者"
+  },
+  "Rapid Assault": {
+    "zh_cn": "极速进攻",
+    "zh_tw": "極速進攻"
+  },
+  "Storm Lance": {
+    "zh_cn": "岚舞长枪",
+    "zh_tw": "風暴之槍"
+  },
+  "Spearfield": {
+    "zh_cn": "枪林矛阵",
+    "zh_tw": "長矛之錐"
+  },
+  "Primal Strikes": {
+    "zh_cn": "原始打击",
+    "zh_tw": "原始打擊"
+  },
+  "Glacial Lance": {
+    "zh_cn": "冰川长枪",
+    "zh_tw": "冰川之槍"
+  },
+  "Blood Hunt": {
+    "zh_cn": "猎血寻腥",
+    "zh_tw": "鮮血狩獵"
+  },
+  "Thunderous Leap": {
+    "zh_cn": "雷鸣飞跃",
+    "zh_tw": "雷霆跳躍"
+  },
+  "Bloodhound's Mark": {
+    "zh_cn": "血犬印记",
+    "zh_tw": "鮮血獵犬印記"
+  },
+  "Tame Beast": {
+    "zh_cn": "驯服野兽",
+    "zh_tw": "馴獸"
+  },
+  "Companion": {
+    "zh_cn": "伙伴",
+    "zh_tw": "盟友"
+  },
+  "Spectre": {
+    "zh_cn": "灵体",
+    "zh_tw": "幽魂"
+  },
+  "Elemental Sundering": {
+    "zh_cn": "元素碎裂",
+    "zh_tw": "元素崩裂"
+  },
+  "Whirlwind Lance": {
+    "zh_cn": "旋风投枪",
+    "zh_tw": "旋風之槍"
+  },
+  "Spear of Solaris": {
+    "zh_cn": "日耀之矛",
+    "zh_tw": "日耀長矛"
+  },
+  "Wind Serpent's Fury": {
+    "zh_cn": "腾蛇之怒",
+    "zh_tw": "勁風蝮蛇之怒"
+  },
+  "Crossbow": {
+    "zh_cn": "战弩",
+    "zh_tw": "十字弓"
+  },
+  "Explosive Grenade": {
+    "zh_cn": "高爆榴弹",
+    "zh_tw": "爆炸擲彈"
+  },
+  "Permafrost Bolts": {
+    "zh_cn": "永冻弩箭",
+    "zh_tw": "永凍弩箭"
+  },
+  "Fragmentation Rounds": {
+    "zh_cn": "碎裂弹药",
+    "zh_tw": "分裂彈藥"
+  },
+  "Armour Piercing Rounds": {
+    "zh_cn": "贯甲弹药",
+    "zh_tw": "穿甲彈藥"
+  },
+  "Flash Grenade": {
+    "zh_cn": "闪光榴弹",
+    "zh_tw": "閃光擲彈"
+  },
+  "High Velocity Rounds": {
+    "zh_cn": "高速弹药",
+    "zh_tw": "高速彈藥"
+  },
+  "Incendiary Shot": {
+    "zh_cn": "燃烧射击",
+    "zh_tw": "烈焰射擊"
+  },
+  "Galvanic Shards": {
+    "zh_cn": "电光散射",
+    "zh_tw": "電能碎片"
+  },
+  "Ice Shards": {
+    "zh_cn": "冰屑",
+    "zh_tw": "寒冰碎片"
+  },
+  "Gas Grenade": {
+    "zh_cn": "瓦斯榴弹",
+    "zh_tw": "毒氣擲彈"
+  },
+  "Rapid Shot": {
+    "zh_cn": "快速射击",
+    "zh_tw": "疾射"
+  },
+  "Artillery Ballista": {
+    "zh_cn": "火力弩炮",
+    "zh_tw": "火砲砲塔"
+  },
+  "Glacial Bolt": {
+    "zh_cn": "冰川弩箭",
+    "zh_tw": "冰川弩箭"
+  },
+  "Explosive Shot": {
+    "zh_cn": "爆炸射击",
+    "zh_tw": "爆炸矢"
+  },
+  "Voltaic Grenade": {
+    "zh_cn": "电涌榴弹",
+    "zh_tw": "電流擲彈"
+  },
+  "Oil Grenade": {
+    "zh_cn": "黏油榴弹",
+    "zh_tw": "燃油擲彈"
+  },
+  "Siege Ballista": {
+    "zh_cn": "攻城炮台",
+    "zh_tw": "攻城炮台"
+  },
+  "Stormblast Bolts": {
+    "zh_cn": "轰雷弩箭",
+    "zh_tw": "雷暴彈藥"
+  },
+  "Hailstorm Rounds": {
+    "zh_cn": "冰雹弹药",
+    "zh_tw": "冰雹彈藥"
+  },
+  "Shockburst Rounds": {
+    "zh_cn": "震爆弹药",
+    "zh_tw": "震爆彈藥"
+  },
+  "Emergency Reload": {
+    "zh_cn": "紧急装填",
+    "zh_tw": "緊急裝填"
+  },
+  "Mortar Cannon": {
+    "zh_cn": "迫击大炮",
+    "zh_tw": "迫擊砲"
+  },
+  "Siege Cascade": {
+    "zh_cn": "摧城倾泻",
+    "zh_tw": "圍城爆發"
+  },
+  "Plasma Blast": {
+    "zh_cn": "离子轰击",
+    "zh_tw": "電漿強擊矢"
+  },
+  "Cluster Grenade": {
+    "zh_cn": "集束榴弹",
+    "zh_tw": "集束擲彈"
+  },
+  "Quarterstaff": {
+    "zh_cn": "节杖",
+    "zh_tw": "細杖"
+  },
+  "Falling Thunder": {
+    "zh_cn": "霹雳闪",
+    "zh_tw": "崩雷鳴"
+  },
+  "Frozen Locus": {
+    "zh_cn": "冰凌座",
+    "zh_tw": "寒冰軌跡"
+  },
+  "Killing Palm": {
+    "zh_cn": "终结掌",
+    "zh_tw": "摧命之掌"
+  },
+  "Glacial Cascade": {
+    "zh_cn": "冰川之刺",
+    "zh_tw": "冰川之刺"
+  },
+  "Staggering Palm": {
+    "zh_cn": "惊风掌",
+    "zh_tw": "撼敵之掌"
+  },
+  "Vaulting Impact": {
+    "zh_cn": "跳跃撞击",
+    "zh_tw": "跳躍衝擊"
+  },
+  "Tempest Bell": {
+    "zh_cn": "风雷钟",
+    "zh_tw": "風暴之鐘"
+  },
+  "Ice Strike": {
+    "zh_cn": "幽寒打",
+    "zh_tw": "冰擊"
+  },
+  "Tempest Flurry": {
+    "zh_cn": "风暴乱舞",
+    "zh_tw": "暴風亂舞"
+  },
+  "Wind Blast": {
+    "zh_cn": "迅风爆",
+    "zh_tw": "破風爆裂"
+  },
+  "Siphoning Strike": {
+    "zh_cn": "汲能击",
+    "zh_tw": "虹吸打擊"
+  },
+  "Wave of Frost": {
+    "zh_cn": "寒霜浪涌",
+    "zh_tw": "寒冰波"
+  },
+  "Storm Wave": {
+    "zh_cn": "移风岚",
+    "zh_tw": "風暴浪湧"
+  },
+  "Freezing Mark": {
+    "zh_cn": "冰冻印记",
+    "zh_tw": "冰凍印記"
+  },
+  "Charged Staff": {
+    "zh_cn": "充能杖",
+    "zh_tw": "充能長杖"
+  },
+  "Mantra of Destruction": {
+    "zh_cn": "毁灭之兆",
+    "zh_tw": "毀滅神咒"
+  },
+  "Hand of Chayula": {
+    "zh_cn": "夏乌拉之手",
+    "zh_tw": "夏烏拉之手"
+  },
+  "Shattering Palm": {
+    "zh_cn": "冰裂掌",
+    "zh_tw": "粉碎之掌"
+  },
+  "Whirling Assault": {
+    "zh_cn": "旋风击",
+    "zh_tw": "迴旋擊"
+  },
+  "Flicker Strike": {
+    "zh_cn": "闪现打击",
+    "zh_tw": "閃現打擊"
+  },
+  "Gathering Storm": {
+    "zh_cn": "聚风雨",
+    "zh_tw": "風暴凝聚"
+  },
+  "Primal": {
+    "zh_cn": "原始",
+    "zh_tw": "原始"
+  },
+  "Lunar Assault": {
+    "zh_cn": "月痕突袭",
+    "zh_tw": "月光突襲"
+  },
+  "Entangle": {
+    "zh_cn": "纠缠",
+    "zh_tw": "纏繞"
+  },
+  "Volcano": {
+    "zh_cn": "火山",
+    "zh_tw": "火山"
+  },
+  "Furious Slam": {
+    "zh_cn": "狂怒猛击",
+    "zh_tw": "狂暴重擊"
+  },
+  "Rolling Magma": {
+    "zh_cn": "熔岩奔涌",
+    "zh_tw": "熔岩翻騰"
+  },
+  "Wing Blast": {
+    "zh_cn": "烈风吹袭",
+    "zh_tw": "翅翼猛襲"
+  },
+  "Pounce": {
+    "zh_cn": "巨狼猛扑",
+    "zh_tw": "猛撲"
+  },
+  "Thunderstorm": {
+    "zh_cn": "雷霆风暴",
+    "zh_tw": "閃電風暴"
+  },
+  "Devour": {
+    "zh_cn": "吞噬",
+    "zh_tw": "吞噬"
+  },
+  "Arctic Howl": {
+    "zh_cn": "极地战嚎",
+    "zh_tw": "極地狂嚎"
+  },
+  "Fury of the Mountain": {
+    "zh_cn": "山岳之怒",
+    "zh_tw": "山嶺之怒"
+  },
+  "Ferocious Roar": {
+    "zh_cn": "凶蛮咆哮",
+    "zh_tw": "兇猛怒吼"
+  },
+  "Spell Totem": {
+    "zh_cn": "法术图腾",
+    "zh_tw": "法術圖騰"
+  },
+  "Cross Slash": {
+    "zh_cn": "双爪劈击",
+    "zh_tw": "縱橫劈斬"
+  },
+  "Thrashing Vines": {
+    "zh_cn": "鞭笞藤蔓",
+    "zh_tw": "藤蔓痛打"
+  },
+  "Oil Barrage": {
+    "zh_cn": "黏油炮弹",
+    "zh_tw": "黏油轟擊"
+  },
+  "Rampage": {
+    "zh_cn": "横冲直撞",
+    "zh_tw": "暴怒"
+  },
+  "Tornado": {
+    "zh_cn": "龙卷旋风",
+    "zh_tw": "龍捲風"
+  },
+  "Flame Breath": {
+    "zh_cn": "龙炎吐息",
+    "zh_tw": "火焰吐息"
+  },
+  "Lunar Blessing": {
+    "zh_cn": "月神赐福",
+    "zh_tw": "月光賜福"
+  },
+  "Walking Calamity": {
+    "zh_cn": "灾厄行者",
+    "zh_tw": "行走災厄"
+  }
+}

@@ -1,0 +1,838 @@
+{
+  "Armour Unique /207": {
+    "zh_cn": "胸甲传奇 /207",
+    "zh_tw": "胸甲傳奇 /207"
+  },
+  "Armour Unique_group":[
+    {
+  "Bramblejack": {
+    "zh_cn": "刺棘宝甲",
+    "zh_tw": "刺棘寶甲"
+  },
+  "Blackbraid": {
+    "zh_cn": "黑髻",
+    "zh_tw": "黑辮"
+  },
+  "Edyrn's Tusks": {
+    "zh_cn": "艾丁的獠牙",
+    "zh_tw": "埃狄恩的曲牙"
+  },
+  "The Road Warrior": {
+    "zh_cn": "征途之士",
+    "zh_tw": "無畏戰士"
+  },
+  "Titanrot Cataphract": {
+    "zh_cn": "巨人灾星甲胄",
+    "zh_tw": "泰坦腐化重騎兵"
+  },
+  "Wandering Reliquary": {
+    "zh_cn": "流浪圣柜",
+    "zh_tw": "流浪寶庫"
+  },
+  "Kingsguard": {
+    "zh_cn": "皇家卫甲",
+    "zh_tw": "皇家衛甲"
+  },
+  "Greed's Embrace": {
+    "zh_cn": "贪婪之拥",
+    "zh_tw": "貪婪之擁"
+  },
+  "The Brass Dome": {
+    "zh_cn": "巨铜之顶",
+    "zh_tw": "堅銅戰罩"
+  },
+  "Kaom's Heart": {
+    "zh_cn": "冈姆的壮志",
+    "zh_tw": "岡姆的壯志"
+  },
+  "Bristleboar": {
+    "zh_cn": "棘体猪肤",
+    "zh_tw": "鬃豬"
+  },
+  "Foxshade": {
+    "zh_cn": "狐毛铠",
+    "zh_tw": "狐毛鎧"
+  },
+  "Ashrend": {
+    "zh_cn": "拂烬",
+    "zh_tw": "拂燼"
+  },
+  "Sands of Silk": {
+    "zh_cn": "流丝之沙",
+    "zh_tw": "絲綢之沙"
+  },
+  "Briskwrap": {
+    "zh_cn": "荒途",
+    "zh_tw": "荒途"
+  },
+  "Dustbloom": {
+    "zh_cn": "尘绽",
+    "zh_tw": "塵土之花"
+  },
+  "The Rat Cage": {
+    "zh_cn": "疫鼠囚笼",
+    "zh_tw": "疫鼠囚籠"
+  },
+  "Quatl's Molt": {
+    "zh_cn": "羽蛇之带",
+    "zh_tw": "夸特之帶"
+  },
+  "Queen of the Forest": {
+    "zh_cn": "森林之后",
+    "zh_tw": "森林之后"
+  },
+  "Yriel's Fostering": {
+    "zh_cn": "伊瑞的精通",
+    "zh_tw": "伊瑞的栽培"
+  },
+  "Hyrri's Ire": {
+    "zh_cn": "西里的战衣",
+    "zh_tw": "西里的戰衣"
+  },
+  "Ghostwrithe": {
+    "zh_cn": "代笔人",
+    "zh_tw": "鬧鬼"
+  },
+  "Bitterbloom": {
+    "zh_cn": "苦涩之花",
+    "zh_tw": "苦心花"
+  },
+  "The Black Doubt": {
+    "zh_cn": "疑心暗惑",
+    "zh_tw": "黑色之疑"
+  },
+  "Necromantle": {
+    "zh_cn": "通灵披风",
+    "zh_tw": "亡者披肩"
+  },
+  "Cloak of Flame": {
+    "zh_cn": "烈炎之袍",
+    "zh_tw": "烈炎之袍"
+  },
+  "Temporalis": {
+    "zh_cn": "时空之肌",
+    "zh_tw": "時空之物"
+  },
+  "Prayers for Rain": {
+    "zh_cn": "祈雨祷告",
+    "zh_tw": "祈雨禱言"
+  },
+  "Tetzlapokal's Desire": {
+    "zh_cn": "特兹拉波卡尔的欲望",
+    "zh_tw": "特沙波卡爾之慾"
+  },
+  "The Covenant": {
+    "zh_cn": "血誓",
+    "zh_tw": "血誓"
+  },
+  "Gloamgown": {
+    "zh_cn": "薄暮罩袍",
+    "zh_tw": "暮光長袍"
+  },
+  "Vis Mortis": {
+    "zh_cn": "兀鸣",
+    "zh_tw": "兀鳴"
+  },
+  "Cloak of Defiance": {
+    "zh_cn": "卫道之袍",
+    "zh_tw": "衛道之袍"
+  },
+  "Silks of Veneration": {
+    "zh_cn": "敬奉之绸",
+    "zh_tw": "敬重絲綢"
+  },
+  "Coat of Red": {
+    "zh_cn": "赤红外套",
+    "zh_tw": "腥紅外衣"
+  },
+  "The Barrow Dweller": {
+    "zh_cn": "荒坟寄主",
+    "zh_tw": "遺塚居民"
+  },
+  "Irongrasp": {
+    "zh_cn": "铁腕",
+    "zh_tw": "鐵握"
+  },
+  "Pariah's Embrace": {
+    "zh_cn": "贱民之拥",
+    "zh_tw": "草民之擁"
+  },
+  "Belly of the Beast": {
+    "zh_cn": "兽腹",
+    "zh_tw": "巨獸之腹"
+  },
+  "Pragmatism": {
+    "zh_cn": "独断专行",
+    "zh_tw": "務實主義"
+  },
+  "Doryani's Prototype": {
+    "zh_cn": "多里亚尼的试作甲",
+    "zh_tw": "多里亞尼之型"
+  },
+  "Widow's Reign": {
+    "zh_cn": "寡妇的统治",
+    "zh_tw": "寡婦統治"
+  },
+  "Perfidy": {
+    "zh_cn": "背信弃义",
+    "zh_tw": "背信忘義"
+  },
+  "Lightning Coil": {
+    "zh_cn": "雷语",
+    "zh_tw": "雷語"
+  },
+  "The Coming Calamity": {
+    "zh_cn": "灵魂甲胄",
+    "zh_tw": "災難臨頭"
+  },
+  "Enfolding Dawn": {
+    "zh_cn": "遍洒晨辉",
+    "zh_tw": "晨曦之擁"
+  },
+  "Icetomb": {
+    "zh_cn": "冰息",
+    "zh_tw": "冰息"
+  },
+  "Husk of Dreams": {
+    "zh_cn": "幻梦躯壳",
+    "zh_tw": "夢境軀殼"
+  },
+  "Voll's Protector": {
+    "zh_cn": "福尔的战铠",
+    "zh_tw": "福爾的戰鎧"
+  },
+  "Soul Mantle": {
+    "zh_cn": "祖灵之约",
+    "zh_tw": "祖靈之約"
+  },
+  "The Mutable Star": {
+    "zh_cn": "易变星辰",
+    "zh_tw": "多變之星"
+  },
+  "Waveshaper": {
+    "zh_cn": "塑成惊涛",
+    "zh_tw": "浪湧塑形器"
+  },
+  "Couture of Crimson": {
+    "zh_cn": "赤红礼装",
+    "zh_tw": "緋紅訂製服"
+  },
+  "Sacrosanctum": {
+    "zh_cn": "奉圣庇护所",
+    "zh_tw": "神聖殿堂"
+  },
+  "Apron of Emiran": {
+    "zh_cn": "艾米兰的兜裙",
+    "zh_tw": "埃米蘭之裙"
+  },
+  "Gloomform": {
+    "zh_cn": "幽邃之躯",
+    "zh_tw": "幽暗之衣"
+  },
+  "Sierran Inheritance": {
+    "zh_cn": "山岭的传承",
+    "zh_tw": "錫耶拉的遺產"
+  },
+  "The Dancing Mirage": {
+    "zh_cn": "跃舞蜃影",
+    "zh_tw": "舞動幻影"
+  },
+  "Redflare Conduit": {
+    "zh_cn": "赫耀导体",
+    "zh_tw": "紅焰導體"
+  },
+  "Zerphi's Serape": {
+    "zh_cn": "泽佛伊的毛披肩",
+    "zh_tw": "澤菲披肩"
+  },
+  "Cospri's Will": {
+    "zh_cn": "卡斯普里意志",
+    "zh_tw": "卡斯普里意志"
+  },
+  "Wings of Caelyn": {
+    "zh_cn": "凯琳飞翼",
+    "zh_tw": "凱林之翼"
+  },
+  "Horns of Bynden": {
+    "zh_cn": "柏安登的犄角",
+    "zh_tw": "賓登之角"
+  },
+  "Ezomyte Peak": {
+    "zh_cn": "艾兹麦的荣光",
+    "zh_tw": "艾茲麥的榮光"
+  },
+  "Black Sun Crest": {
+    "zh_cn": "黑阳之冠",
+    "zh_tw": "黑陽之冠"
+  },
+  "Thrillsteel": {
+    "zh_cn": "惊险刺激",
+    "zh_tw": "顫慄之鋼"
+  },
+  "Deidbell": {
+    "zh_cn": "丧钟",
+    "zh_tw": "喪鐘"
+  },
+  "Corona of the Red Sun": {
+    "zh_cn": "赤红艳阳之冠",
+    "zh_tw": "紅日之冕"
+  },
+  "Blood Price": {
+    "zh_cn": "血债",
+    "zh_tw": "血償"
+  },
+  "Innsmouth": {
+    "zh_cn": "印斯茅斯",
+    "zh_tw": "印斯茅斯"
+  },
+  "Goldrim": {
+    "zh_cn": "金缕帽",
+    "zh_tw": "金縷帽"
+  },
+  "Radiant Grief": {
+    "zh_cn": "辉煌遗恨",
+    "zh_tw": "聖光哀痛"
+  },
+  "Elevore": {
+    "zh_cn": "艾尔弗雷",
+    "zh_tw": "愛勒弗"
+  },
+  "Constricting Command": {
+    "zh_cn": "收缩指令",
+    "zh_tw": "限制之令"
+  },
+  "The Black Insignia": {
+    "zh_cn": "黑盗勋章",
+    "zh_tw": "漆黑徽章"
+  },
+  "Starkonja's Head": {
+    "zh_cn": "斯塔空加之首",
+    "zh_tw": "斯塔空加之首"
+  },
+  "Heatshiver": {
+    "zh_cn": "寒焰",
+    "zh_tw": "寒焰"
+  },
+  "Myris Uxor": {
+    "zh_cn": "迈里斯之妇",
+    "zh_tw": "米立斯之妻"
+  },
+  "Alpha's Howl": {
+    "zh_cn": "极地之眼",
+    "zh_tw": "極地之嗥"
+  },
+  "Crown of Thorns": {
+    "zh_cn": "刺棘之冠",
+    "zh_tw": "刺棘之冠"
+  },
+  "The Devouring Diadem": {
+    "zh_cn": "吞噬者王冠",
+    "zh_tw": "吞噬之冠"
+  },
+  "Visage of Ayah": {
+    "zh_cn": "阿雅的面目",
+    "zh_tw": "艾雅面紗"
+  },
+  "Sandstorm Visage": {
+    "zh_cn": "禁域面容",
+    "zh_tw": "沙瀑面紗"
+  },
+  "Mask of the Stitched Demon": {
+    "zh_cn": "缝合恶魔面罩",
+    "zh_tw": "惡縫之面"
+  },
+  "Atziri's Disdain": {
+    "zh_cn": "阿兹里的蔑视",
+    "zh_tw": "阿茲里的蔑視"
+  },
+  "Crown of Eyes": {
+    "zh_cn": "邪眼之冠",
+    "zh_tw": "邪眼之冠"
+  },
+  "Scold's Bridle": {
+    "zh_cn": "禁语",
+    "zh_tw": "禁語"
+  },
+  "Indigon": {
+    "zh_cn": "靛蓝之冠",
+    "zh_tw": "地印之環"
+  },
+  "Greymake": {
+    "zh_cn": "苍髯皓首",
+    "zh_tw": "灰製"
+  },
+  "Erian's Cobble": {
+    "zh_cn": "阿里安的拼凑",
+    "zh_tw": "埃里安的鵝卵石"
+  },
+  "Ironride": {
+    "zh_cn": "铁驭",
+    "zh_tw": "鐵騎"
+  },
+  "The Smiling Knight": {
+    "zh_cn": "笑面骑士",
+    "zh_tw": "微笑騎士"
+  },
+  "The Vile Knight": {
+    "zh_cn": "厄难骑士",
+    "zh_tw": "惡劣騎士"
+  },
+  "Assailum": {
+    "zh_cn": "千里狙敌",
+    "zh_tw": "刺殺"
+  },
+  "The Bringer of Rain": {
+    "zh_cn": "祭礼之雨",
+    "zh_tw": "祭禮之雨"
+  },
+  "Crown of the Victor": {
+    "zh_cn": "胜者桂冠",
+    "zh_tw": "勝者之冠"
+  },
+  "Bronzebeard": {
+    "zh_cn": "青铜须髯",
+    "zh_tw": "銅鬚"
+  },
+  "Crown of the Pale King": {
+    "zh_cn": "殒皇之冠",
+    "zh_tw": "殞皇之冠"
+  },
+  "Veil of the Night": {
+    "zh_cn": "夜幕",
+    "zh_tw": "夜幕"
+  },
+  "Cornathaum": {
+    "zh_cn": "锋锥之帽",
+    "zh_tw": "科那索姆"
+  },
+  "Keeper of the Arc": {
+    "zh_cn": "弧光守护者",
+    "zh_tw": "電弧守護者"
+  },
+  "The Hollow Mask": {
+    "zh_cn": "空洞面罩",
+    "zh_tw": "聖潔面具"
+  },
+  "Mask of the Sanguimancer": {
+    "zh_cn": "血咒师面罩",
+    "zh_tw": "占血之面"
+  },
+  "Leer Cast": {
+    "zh_cn": "共鸣之面",
+    "zh_tw": "共鳴之面"
+  },
+  "Atsak's Sight": {
+    "zh_cn": "阿萨克的凝视",
+    "zh_tw": "阿札克之瞳"
+  },
+  "The Vertex": {
+    "zh_cn": "谜容",
+    "zh_tw": "謎容"
+  },
+  "Glimpse of Chaos": {
+    "zh_cn": "混沌一瞥",
+    "zh_tw": "混沌一瞥"
+  },
+  "The Three Dragons": {
+    "zh_cn": "三龙战纪",
+    "zh_tw": "三龍戰紀"
+  },
+  "Mind of the Council": {
+    "zh_cn": "智者之秘",
+    "zh_tw": "議會之心"
+  },
+  "Treefingers": {
+    "zh_cn": "树之指",
+    "zh_tw": "樹木之指"
+  },
+  "Lochtonial Caress": {
+    "zh_cn": "意识之缘",
+    "zh_tw": "意識之緣"
+  },
+  "Dreadfist": {
+    "zh_cn": "恐惧之拳",
+    "zh_tw": "驚懼之拳"
+  },
+  "Atziri's Acuity": {
+    "zh_cn": "阿兹里的捷思",
+    "zh_tw": "阿茲里的捷思"
+  },
+  "Hateforge": {
+    "zh_cn": "仇恨熔炉",
+    "zh_tw": "怨恨鍛造"
+  },
+  "Empire's Grasp": {
+    "zh_cn": "帝国之掌",
+    "zh_tw": "帝國之掌"
+  },
+  "Northpaw": {
+    "zh_cn": "北境凶爪",
+    "zh_tw": "北方之爪"
+  },
+  "Grip of Winter": {
+    "zh_cn": "凛冬之握",
+    "zh_tw": "凜冬之握"
+  },
+  "Idle Hands": {
+    "zh_cn": "光阴虚度",
+    "zh_tw": "遊手好閒"
+  },
+  "Snakebite": {
+    "zh_cn": "蝮吻",
+    "zh_tw": "蝮吻"
+  },
+  "Maligaro's Virtuosity": {
+    "zh_cn": "马雷格罗的玫红手套",
+    "zh_tw": "馬雷葛蘿的血染手套"
+  },
+  "Painter's Servant": {
+    "zh_cn": "画师之侍",
+    "zh_tw": "畫家的侍從"
+  },
+  "Candlemaker": {
+    "zh_cn": "塑烛者",
+    "zh_tw": "製燭者"
+  },
+  "Doedre's Tenure": {
+    "zh_cn": "德瑞的精神手套",
+    "zh_tw": "德瑞的精神手套"
+  },
+  "Kitoko's Current": {
+    "zh_cn": "奇托克的洪流",
+    "zh_tw": "奇多可之流"
+  },
+  "Demon Stitcher": {
+    "zh_cn": "恶魔缝补者",
+    "zh_tw": "縫魔"
+  },
+  "Nightscale": {
+    "zh_cn": "夜鳞",
+    "zh_tw": "夜鱗"
+  },
+  "Leopold's Applause": {
+    "zh_cn": "利奥波德的赞许",
+    "zh_tw": "里歐波德的掌聲"
+  },
+  "Jarngreipr": {
+    "zh_cn": "金石手甲",
+    "zh_tw": "雅恩格利佩爾"
+  },
+  "Aurseize": {
+    "zh_cn": "富贵之运",
+    "zh_tw": "富貴之運"
+  },
+  "Deathblow": {
+    "zh_cn": "死神的袭击",
+    "zh_tw": "致命一擊"
+  },
+  "Valako's Vice": {
+    "zh_cn": "瓦拉库的离奇",
+    "zh_tw": "瓦拉庫之惡"
+  },
+  "Aerisvane's Wings": {
+    "zh_cn": "艾瑞斯维恩之翼",
+    "zh_tw": "艾瑞斯凡恩之翼"
+  },
+  "Death Articulated": {
+    "zh_cn": "死神铰链",
+    "zh_tw": "死亡之聲"
+  },
+  "Gravebind": {
+    "zh_cn": "坟场之链",
+    "zh_tw": "幽墓束縛"
+  },
+  "Shackles of the Wretched": {
+    "zh_cn": "悲运之缚",
+    "zh_tw": "悲運之縛"
+  },
+  "Blueflame Bracers": {
+    "zh_cn": "蓝焰护腕",
+    "zh_tw": "藍焰護腕"
+  },
+  "The Prisoner's Manacles": {
+    "zh_cn": "囚徒的镣铐",
+    "zh_tw": "囚犯的鐐銬"
+  },
+  "Plaguefinger": {
+    "zh_cn": "毒疫之指",
+    "zh_tw": "瘟疫之指"
+  },
+  "Killjoy": {
+    "zh_cn": "败兴灾星",
+    "zh_tw": "掃興之人"
+  },
+  "Blessed Bonds": {
+    "zh_cn": "蒙福的羁绊",
+    "zh_tw": "祝福之絆"
+  },
+  "Hand of Wisdom and Action": {
+    "zh_cn": "智行之手",
+    "zh_tw": "智行之手"
+  },
+  "Essentia Sanguis": {
+    "zh_cn": "精华收割器",
+    "zh_tw": "精華收割器"
+  },
+  "Thunderfist": {
+    "zh_cn": "轰天雷",
+    "zh_tw": "轟天雷"
+  },
+  "Legionstride": {
+    "zh_cn": "军团的进击",
+    "zh_tw": "帝國之靴"
+  },
+  "Corpsewade": {
+    "zh_cn": "涉灵",
+    "zh_tw": "屍骨之靴"
+  },
+  "The Infinite Pursuit": {
+    "zh_cn": "无尽之距",
+    "zh_tw": "無盡之距"
+  },
+  "Trampletoe": {
+    "zh_cn": "踏趾靴",
+    "zh_tw": "踐踏之鞋"
+  },
+  "Birth of Fury": {
+    "zh_cn": "怒火降生",
+    "zh_tw": "憤怒的誕生"
+  },
+  "Briarpatch": {
+    "zh_cn": "荆皮护靴",
+    "zh_tw": "薔薇眼罩"
+  },
+  "Gamblesprint": {
+    "zh_cn": "博运步伐",
+    "zh_tw": "豪賭"
+  },
+  "Bushwhack": {
+    "zh_cn": "踏林长靴",
+    "zh_tw": "突襲"
+  },
+  "Luminous Pace": {
+    "zh_cn": "流光步履",
+    "zh_tw": "閃爍步伐"
+  },
+  "Wanderlust": {
+    "zh_cn": "苦行之履",
+    "zh_tw": "苦行之履"
+  },
+  "Bones of Ullr": {
+    "zh_cn": "灵骸之履",
+    "zh_tw": "烏勒爾之骨"
+  },
+  "Wondertrap": {
+    "zh_cn": "回光之迹",
+    "zh_tw": "迴光之跡"
+  },
+  "Windscream": {
+    "zh_cn": "恶风足迹",
+    "zh_tw": "惡風足跡"
+  },
+  "The Knight-errant": {
+    "zh_cn": "豪侠骑士",
+    "zh_tw": "漂泊騎士"
+  },
+  "Darkray Vectors": {
+    "zh_cn": "暗雷",
+    "zh_tw": "暗雷"
+  },
+  "Obern's Bastion": {
+    "zh_cn": "欧本的壁垒",
+    "zh_tw": "歐伯恩的壁壘"
+  },
+  "Shankgonne": {
+    "zh_cn": "藏锋",
+    "zh_tw": "香克戈涅"
+  },
+  "Wake of Destruction": {
+    "zh_cn": "覆灭之兆",
+    "zh_tw": "覆滅之兆"
+  },
+  "Ghostmarch": {
+    "zh_cn": "鬼行",
+    "zh_tw": "鬼行"
+  },
+  "Powertread": {
+    "zh_cn": "神力靴",
+    "zh_tw": "動力圖樣"
+  },
+  "Beetlebite": {
+    "zh_cn": "甲虫之口",
+    "zh_tw": "甲蟲噬咬"
+  },
+  "Dionadair": {
+    "zh_cn": "御身守卫",
+    "zh_tw": "捍衛者"
+  },
+  "Wulfsbane": {
+    "zh_cn": "伍夫之难",
+    "zh_tw": "狼之禍"
+  },
+  "Doomgate": {
+    "zh_cn": "毁灭雄关",
+    "zh_tw": "末日之門"
+  },
+  "Window to Paradise": {
+    "zh_cn": "乐土之窗",
+    "zh_tw": "通往天堂之窗"
+  },
+  "Lycosidae": {
+    "zh_cn": "狼蛛",
+    "zh_tw": "狼蛛"
+  },
+  "Redblade Banner": {
+    "zh_cn": "红刃旗帜",
+    "zh_tw": "紅刃旗幟"
+  },
+  "The Surrender": {
+    "zh_cn": "降伏",
+    "zh_tw": "降伏"
+  },
+  "Svalinn": {
+    "zh_cn": "斯瓦林",
+    "zh_tw": "斯佛林"
+  },
+  "Chernobog's Pillar": {
+    "zh_cn": "五芒屏障",
+    "zh_tw": "五芒屏障"
+  },
+  "Arvil's Wheel": {
+    "zh_cn": "阿维尔之轮",
+    "zh_tw": "阿瓦爾之輪"
+  },
+  "Feathered Fortress": {
+    "zh_cn": "乱羽金城",
+    "zh_tw": "羽毛堡壘"
+  },
+  "Alkem Eira": {
+    "zh_cn": "神谕",
+    "zh_tw": "神諭"
+  },
+  "Oaksworn": {
+    "zh_cn": "橡木盟誓",
+    "zh_tw": "橡誓者"
+  },
+  "Saffell's Frame": {
+    "zh_cn": "萨费尔的智慧",
+    "zh_tw": "薩費爾的智慧"
+  },
+  "Crest of Ardura": {
+    "zh_cn": "阿杜拉荣徽",
+    "zh_tw": "阿杜拉之冠"
+  },
+  "Mahuxotl's Machination": {
+    "zh_cn": "马赫索托之诈",
+    "zh_tw": "瑪哈薩多的陰謀"
+  },
+  "Rise of the Phoenix": {
+    "zh_cn": "烈炎之翼",
+    "zh_tw": "烈炎之翼"
+  },
+  "Dunkelhalt": {
+    "zh_cn": "黑暗止步",
+    "zh_tw": "唐克哈特"
+  },
+  "Nocturne": {
+    "zh_cn": "夜曲",
+    "zh_tw": "夜曲"
+  },
+  "Rondel de Ezo": {
+    "zh_cn": "艾佐的诗篇",
+    "zh_tw": "隆德爾．德．艾佐"
+  },
+  "Bloodbarrier": {
+    "zh_cn": "血垒障壁",
+    "zh_tw": "鮮血屏障"
+  },
+  "Kaltenhalt": {
+    "zh_cn": "冰霜之镜",
+    "zh_tw": "冰霜之鏡"
+  },
+  "Silverthorne": {
+    "zh_cn": "银芒荆棘",
+    "zh_tw": "銀白索恩"
+  },
+  "Calgyra's Arc": {
+    "zh_cn": "凯尔格拉的弧光",
+    "zh_tw": "凱爾捷拉之弧"
+  },
+  "Sunsplinter": {
+    "zh_cn": "烈阳残片",
+    "zh_tw": "烈日碎片"
+  },
+  "Deathrattle": {
+    "zh_cn": "逝亡呢喃",
+    "zh_tw": "死亡之聲"
+  },
+  "Threaded Light": {
+    "zh_cn": "明光丝缕",
+    "zh_tw": "縫紉之光"
+  },
+  "Effigy of Cruelty": {
+    "zh_cn": "残酷雕塑",
+    "zh_tw": "殘酷塑像"
+  },
+  "Carrion Call": {
+    "zh_cn": "不洁召唤",
+    "zh_tw": "腐肉呼喚"
+  },
+  "Serpent's Lesson": {
+    "zh_cn": "毒蛇的训诫",
+    "zh_tw": "巨蛇教誨"
+  },
+  "The Eternal Spark": {
+    "zh_cn": "永恒火花",
+    "zh_tw": "永恆火花"
+  },
+  "Apep's Supremacy": {
+    "zh_cn": "艾普的霸权",
+    "zh_tw": "艾普霸權"
+  },
+  "Tabula Rasa": {
+    "zh_cn": "无尽之衣",
+    "zh_tw": "無盡之衣"
+  },
+  "Skin of the Loyal": {
+    "zh_cn": "忠诚之肤",
+    "zh_tw": "忠誠之膚"
+  },
+  "Morior Invictus": {
+    "zh_cn": "无生之辱",
+    "zh_tw": "不敗亡者"
+  },
+  "Atziri's Splendour": {
+    "zh_cn": "阿兹里的威权",
+    "zh_tw": "阿茲里的威權"
+  },
+  "Solus Ipse": {
+    "zh_cn": "形单影只",
+    "zh_tw": "唯我論"
+  },
+  "Sine Aequo": {
+    "zh_cn": "公理不存",
+    "zh_tw": "無與倫比"
+  },
+  "Ab Aeterno": {
+    "zh_cn": "无始之时",
+    "zh_tw": "源於永恆"
+  },
+  "Demigod's Virtue": {
+    "zh_cn": "升华之美德",
+    "zh_tw": "半神的美德"
+  },
+  "Prism Guardian": {
+    "zh_cn": "元素的庇护",
+    "zh_tw": "元素的庇護"
+  },
+  "Atziri's Step": {
+    "zh_cn": "阿兹里的金履",
+    "zh_tw": "阿茲里的金履"
+  },
+  "Rathpith Globe": {
+    "zh_cn": "献祭之心",
+    "zh_tw": "獻祭之心"
+      }
+    }
+  ]
+}

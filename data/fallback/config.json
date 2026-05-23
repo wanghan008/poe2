@@ -1,0 +1,33 @@
+{
+    "_comment": "兜底词典配置文件",
+    "_description": "在此添加更多兜底词典文件路径，插件会自动加载所有文件",
+    
+    "fallbackFiles": [
+        "data/fallback/translation.json",
+        "data/fallback/items.json",
+        "data/fallback/modifiers.json",
+        "data/fallback/interface.json"
+    ],
+    
+    "_usage": [
+        "=== 使用说明 ===",
+        "",
+        "1. 在 data/fallback/ 目录下创建任意名称的 JSON 文件",
+        "2. 将文件路径添加到上面的 fallbackFiles 数组中",
+        "3. 重新加载插件即可生效",
+        "",
+        "=== 文件格式示例 ===",
+        "",
+        "{",
+        "    \"_comment\": \"说明文字（会被忽略）\",",
+        "    \"English Text\": \"中文翻译\",",
+        "    \"Another Text\": \"另一个翻译\"",
+        "}",
+        "",
+        "=== 注意事项 ===",
+        "",
+        "- 以 _ 开头的字段会被忽略，不会作为翻译条目",
+        "- 文件名可以任意，只需在 fallbackFiles 中添加路径",
+        "- 后加载的文件会覆盖先加载文件中的相同条目"
+    ]
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Atziri's Rule",
+    "zh_cn": "阿兹里的统治",
+    "zh_tw": "阿茲里的統御",
+    "FlavourText": {
+      "original": "Bow before her... or suffer the most gruelling death imaginable.",
+      "zh_cn": "跪伏于她脚下……否则，就等着领教世间最磨人的死法。",
+      "zh_tw": "向她俯首……否則便承受世間最嚴酷的死亡。"
+    },
+    "img": "AtziriStaff.png",
+    "group": [
+      {
+        "original": "{0} to Level of all [Corrupted|Corrupted] [Spell|Spell] Skill Gems",
+        "translation": {
+          "zh_cn": "所有[Corrupted|腐化][Spell|法术]技能宝石等级提高 {0}",
+          "zh_tw": "{0} 全部[Corrupted|腐化][Spell|法術]技能寶石"
+        }
+      },
+      {
+        "original": "{0}% increased Cast Speed",
+        "translation": {
+          "zh_cn": "施法速度提高 {0}%",
+          "zh_tw": "增加 {0}% 施放速度"
+        }
+      },
+      {
+        "original": "Spells which cost Life [Gain|Gain] {0}% of Damage as [Extra|Extra] [Physical|Physical] Damage",
+        "translation": {
+          "zh_cn": "消耗生命的法术[Gain|获得] {0}% 的[Extra|额外][Physical|物理]伤害",
+          "zh_tw": "消耗生命施放的法術[Gain|獲得] {0}% 傷害的[Extra|額外][Physical|物理]傷害"
+        }
+      },
+      {
+        "original": "{0}% chance for [Spell|Spell] Skills to fire {1} additional [Projectiles|Projectiles]",
+        "translation": {
+          "zh_cn": "[Spell|法术]技能有 {0}% 的几率发射 {1} 个额外[Projectiles|投射物]",
+          "zh_tw": "[Spell|法術]技能有 {0}% 機率發射額外 {1} 個[Projectiles|投射物]"
+        }
+      },
+      {
+        "original": "{0}% increased Life Cost [Efficiency|Efficiency]",
+        "translation": {
+          "zh_cn": "生命消耗[Efficiency|效能]提高 {0}%",
+          "zh_tw": "增加 {0}% 生命消耗[Efficiency|效率]"
+        }
+      },
+      {
+        "original": "{0}% of Maximum Life [Converted|Converted] to [Energy Shield|Energy Shield]",
+        "translation": {
+          "zh_cn": "{0}% 的最大生命转[Converted|化为][Energy Shield|能量护盾]",
+          "zh_tw": "{0}% 最大生命[Converted|轉換]為[Energy Shield|能量護盾]"
+        }
+      },
+      {
+        "original": "{0}% of [Spell|Spell] Damage [Leeched as Life|Leeched as Life]",
+        "translation": {
+          "zh_cn": "[Spell|法术]伤害的 {0}% 转化为[Leeched as Life|生命偷取]",
+          "zh_tw": "[Spell|法術]傷害的 {0}% 轉化為[Leeched as Life|生命偷取]"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "original": "{0}% increased [Spell|Spell] Damage",
+    "translation": {
+      "zh_cn": "[Spell|法术]伤害提高 {0}%",
+      "zh_tw": "增加 {0}% [Spell|法術]傷害"
+    }
+  },
+  {
+    "original": "{0}% increased [Fire|Fire] Damage",
+    "translation": {
+      "zh_cn": "[Fire|火焰]伤害提高 {0}%",
+      "zh_tw": "增加 {0}% [Fire|火焰]傷害"
+    }
+  },
+  {
+    "original": "{0}% increased [Cold|Cold] Damage",
+    "translation": {
+      "zh_cn": "[Cold|冰霜]伤害提高 {0}%",
+      "zh_tw": "增加 {0}% [Cold|冰冷]傷害"
+    }
+  },
+  {
+    "original": "{0}% increased [Lightning|Lightning] Damage",
+    "translation": {
+      "zh_cn": "[Lightning|闪电]伤害提高 {0}%",
+      "zh_tw": "增加 {0}% [Lightning|閃電]傷害"
+    }
+  },
+  {
+    "original": "{0}% increased [Chaos|Chaos] Damage",
+    "translation": {
+      "zh_cn": "[Chaos|混沌]伤害提高 {0}%",
+      "zh_tw": "增加 {0}% [Chaos|混沌]傷害"
+    }
+  },
+  {
+    "original": "{0}% increased [Spell|Spell] [Physical|Physical] Damage",
+    "translation": {
+      "zh_cn": "{0}% [Spell|法术][Physical|物理]伤害提高",
+      "zh_tw": "增加 {0}% [Spell|法術][Physical|物理]傷害"
+    }
+  },
+  {
+    "original": "[Gain|Gain] {0}% of Damage as Extra [Fire|Fire] Damage",
+    "translation": {
+      "zh_cn": "[Gain|获得]相当于伤害 {0}% 的额外[Fire|火焰]伤害",
+      "zh_tw": "[Gain|獲得]相當於傷害 {0}% 的額外[Fire|火焰]傷害"
+    }
+  },
+  {
+    "original": "[Gain|Gain] {0}% of Damage as Extra [Cold|Cold] Damage",
+    "translation": {
+      "zh_cn": "[Gain|获得]相当于伤害 {0}% 的额外[Cold|冰霜]伤害",
+      "zh_tw": "[Gain|獲得]相當於傷害 {0}% 的額外[Cold|冰冷]傷害"
+    }
+  },
+  {
+    "original": "[Gain|Gain] {0}% of Damage as Extra [Lightning|Lightning] Damage",
+    "translation": {
+      "zh_cn": "[Gain|获得]相当于伤害 {0}% 的额外[Lightning|闪电]伤害",
+      "zh_tw": "[Gain|獲得]相當於傷害 {0}% 的額外[Lightning|閃電]傷害"
+    }
+  },
+  {
+    "original": "[Gain|Gain] {0}% of Damage as Extra [Chaos|Chaos] Damage",
+    "translation": {
+      "zh_cn": "[Gain|获得]相当于伤害 {0}% 的额外[Chaos|混沌]伤害",
+      "zh_tw": "[Gain|獲得]相當於傷害 {0}% 的額外[Chaos|混沌]傷害"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] deal {0}% increased Damage",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]造成的伤害提高 {0}%",
+      "zh_tw": "增加 {0}% 處於你[Presence|存在範圍]中的[Allies|友方]所造成的傷害"
+    }
+  },
+  {
+    "original": "{0} to {1} [Physical|Physical] [Thorns|Thorns] damage",
+    "translation": {
+      "zh_cn": "{0} - {1} [Physical|物理][Thorns|荆棘]伤害",
+      "zh_tw": "{0} 至 {1} 點[Physical|物理][Thorns|荊棘]傷害"
+    }
+  },
+  {
+    "original": "{0}% increased Damage with Bow Skills",
+    "translation": {
+      "zh_cn": "弓类技能伤害提高 {0}%",
+      "zh_tw": "增加 {0}% 弓技能的傷害"
+    }
+  }
+]

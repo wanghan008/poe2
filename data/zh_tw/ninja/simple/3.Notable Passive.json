@@ -1,0 +1,5130 @@
+{
+  "Crystalline Resistance": {
+    "zh_cn": "结晶抗性",
+    "zh_tw": "結晶抗性"
+  },
+  "Gem Enthusiast": {
+    "zh_cn": "宝石爱好者",
+    "zh_tw": "寶石愛好者"
+  },
+  "Crystallised Immunities": {
+    "zh_cn": "水晶免疫",
+    "zh_tw": "水晶化免疫"
+  },
+  "Beef": {
+    "zh_cn": "壮汉",
+    "zh_tw": "壯漢"
+  },
+  "Brute Strength": {
+    "zh_cn": "蛮力",
+    "zh_tw": "殘忍力量"
+  },
+  "Proficiency": {
+    "zh_cn": "熟能生巧",
+    "zh_tw": "熟能生巧"
+  },
+  "Ingenuity": {
+    "zh_cn": "奇思妙想",
+    "zh_tw": "獨創"
+  },
+  "Polymathy": {
+    "zh_cn": "博闻广记",
+    "zh_tw": "博學的"
+  },
+  "Jack of all Trades": {
+    "zh_cn": "万事通",
+    "zh_tw": "萬事通"
+  },
+  "One with the River": {
+    "zh_cn": "与水同行",
+    "zh_tw": "與河同行"
+  },
+  "Whirling Assault": {
+    "zh_cn": "旋风击",
+    "zh_tw": "迴旋擊"
+  },
+  "One with the Storm": {
+    "zh_cn": "身随狂岚",
+    "zh_tw": "與風同行"
+  },
+  "Martial Artistry": {
+    "zh_cn": "武艺之相",
+    "zh_tw": "武藝之相"
+  },
+  "Silent Shiv": {
+    "zh_cn": "暗里藏刀",
+    "zh_tw": "寂靜小刀"
+  },
+  "Coated Knife": {
+    "zh_cn": "涂毒锋刃",
+    "zh_tw": "塗層匕首"
+  },
+  "Backstabbing": {
+    "zh_cn": "偷袭",
+    "zh_tw": "背刺"
+  },
+  "Clever Construction": {
+    "zh_cn": "聪明的建设",
+    "zh_tw": "巧妙構築"
+  },
+  "Devestating Devices": {
+    "zh_cn": "毁灭装置",
+    "zh_tw": "破壞裝置"
+  },
+  "Destructive Apparatus": {
+    "zh_cn": "破坏装置",
+    "zh_tw": "毀滅裝置"
+  },
+  "Feathered Fletching": {
+    "zh_cn": "飞羽流矢",
+    "zh_tw": "羽毛箭羽"
+  },
+  "Sniper": {
+    "zh_cn": "狙击手",
+    "zh_tw": "狙擊手"
+  },
+  "Pierce the Heart": {
+    "zh_cn": "贯心而过",
+    "zh_tw": "一箭穿心"
+  },
+  "Quick Fingers": {
+    "zh_cn": "巧手连射",
+    "zh_tw": "迅捷手指"
+  },
+  "Javelin": {
+    "zh_cn": "标枪",
+    "zh_tw": "長矛：傷害核心"
+  },
+  "Focused Thrust": {
+    "zh_cn": "专注刺击",
+    "zh_tw": "專注突刺"
+  },
+  "Precise Point": {
+    "zh_cn": "精确要点",
+    "zh_tw": "精準攻擊"
+  },
+  "Roll and Strike": {
+    "zh_cn": "滚滚攻势",
+    "zh_tw": "翻滾突擊"
+  },
+  "Off-Balancing Retort": {
+    "zh_cn": "失衡反击",
+    "zh_tw": "側身擊中"
+  },
+  "Reprisal": {
+    "zh_cn": "报偿",
+    "zh_tw": "反擊"
+  },
+  "Resolute Reprisal": {
+    "zh_cn": "坚决回敬",
+    "zh_tw": "堅決反擊"
+  },
+  "Heavy Blade": {
+    "zh_cn": "重刃无锋",
+    "zh_tw": "沉重之刃"
+  },
+  "Ripping Blade": {
+    "zh_cn": "裂伤之刃",
+    "zh_tw": "撕裂之刃"
+  },
+  "Stance Breaker": {
+    "zh_cn": "架势破除",
+    "zh_tw": "姿態破壞者"
+  },
+  "Lay Siege": {
+    "zh_cn": "重重围困",
+    "zh_tw": "圍城"
+  },
+  "Greatest Defence": {
+    "zh_cn": "卓绝防御",
+    "zh_tw": "極致防禦"
+  },
+  "Wide Barrier": {
+    "zh_cn": "宽广屏障",
+    "zh_tw": "盾牌：格擋核心"
+  },
+  "Core of the Guardian": {
+    "zh_cn": "守护者的核心",
+    "zh_tw": "守護者核心"
+  },
+  "Defensive Stance": {
+    "zh_cn": "防御姿态",
+    "zh_tw": "防禦姿態"
+  },
+  "Vigilance": {
+    "zh_cn": "警戒",
+    "zh_tw": "警覺"
+  },
+  "Defensive Reflexes": {
+    "zh_cn": "戒备反射",
+    "zh_tw": "防禦反應"
+  },
+  "Dazing Blocks": {
+    "zh_cn": "恍惚格挡",
+    "zh_tw": "目眩格擋"
+  },
+  "Steadfast Resolve": {
+    "zh_cn": "坚定决心",
+    "zh_tw": "穩當決心"
+  },
+  "Frightening Shield": {
+    "zh_cn": "慑魂之盾",
+    "zh_tw": "可怖重盾"
+  },
+  "Power Shots": {
+    "zh_cn": "强能重射",
+    "zh_tw": "強擊矢"
+  },
+  "Repeating Explosives": {
+    "zh_cn": "连环炸药",
+    "zh_tw": "連續爆炸"
+  },
+  "Rapid Reload": {
+    "zh_cn": "快速装填",
+    "zh_tw": "疾速裝填"
+  },
+  "Reusable Ammunition": {
+    "zh_cn": "复用式弹药",
+    "zh_tw": "可重複使用的彈藥"
+  },
+  "Full Salvo": {
+    "zh_cn": "全弹发射",
+    "zh_tw": "全面齊射"
+  },
+  "Efficient Loading": {
+    "zh_cn": "高效装填",
+    "zh_tw": "高效裝填"
+  },
+  "Specialised Shots": {
+    "zh_cn": "专精射击",
+    "zh_tw": "專精射擊"
+  },
+  "Whirling Onslaught": {
+    "zh_cn": "旋风猛攻",
+    "zh_tw": "迴旋猛攻"
+  },
+  "Enraged Reaver": {
+    "zh_cn": "暴怒收割者",
+    "zh_tw": "狂怒掠奪者"
+  },
+  "Skullcrusher": {
+    "zh_cn": "迎头痛击",
+    "zh_tw": "碎顱者"
+  },
+  "Split the Earth": {
+    "zh_cn": "撕裂大地",
+    "zh_tw": "劈裂大地"
+  },
+  "Ball and Chain": {
+    "zh_cn": "链球强袭",
+    "zh_tw": "球與鎖鏈"
+  },
+  "Morning Star": {
+    "zh_cn": "流星重锤",
+    "zh_tw": "晨星"
+  },
+  "Rattling Ball": {
+    "zh_cn": "破坏球",
+    "zh_tw": "響動巨球"
+  },
+  "Spiked Whip": {
+    "zh_cn": "尖刺长鞭",
+    "zh_tw": "尖刺鞭笞"
+  },
+  "Warding Fetish": {
+    "zh_cn": "御敌神像",
+    "zh_tw": "守護神器"
+  },
+  "Dreamcatcher": {
+    "zh_cn": "捕梦者",
+    "zh_tw": "捕夢者"
+  },
+  "Versatile Arms": {
+    "zh_cn": "全能神兵",
+    "zh_tw": "萬能雙手"
+  },
+  "Push the Advantage": {
+    "zh_cn": "乘势追击",
+    "zh_tw": "乘勝追擊"
+  },
+  "Impair": {
+    "zh_cn": "妨害",
+    "zh_tw": "損害"
+  },
+  "Coated Arms": {
+    "zh_cn": "涂层利器",
+    "zh_tw": "塗層武器"
+  },
+  "Singular Purpose": {
+    "zh_cn": "屠戮之械",
+    "zh_tw": "目標明確"
+  },
+  "Heavy Contact": {
+    "zh_cn": "势大力沉",
+    "zh_tw": "激烈碰撞"
+  },
+  "Colossal Weapon": {
+    "zh_cn": "巨神兵器",
+    "zh_tw": "巨無霸武器"
+  },
+  "Curved Weapon": {
+    "zh_cn": "曲刃战械",
+    "zh_tw": "彎曲武器"
+  },
+  "Shockwaves": {
+    "zh_cn": "震荡波",
+    "zh_tw": "震波"
+  },
+  "Overwhelm": {
+    "zh_cn": "摧垮",
+    "zh_tw": "鎮壓"
+  },
+  "Cross Strike": {
+    "zh_cn": "顾应打击",
+    "zh_tw": "十字打擊"
+  },
+  "Blade Flurry": {
+    "zh_cn": "刀刃乱舞",
+    "zh_tw": "刀鋒亂舞"
+  },
+  "Polished Iron": {
+    "zh_cn": "辉光之钢",
+    "zh_tw": "拋光之鋼"
+  },
+  "Heatproof": {
+    "zh_cn": "绝热防护",
+    "zh_tw": "隔熱"
+  },
+  "Projectile Bulwark": {
+    "zh_cn": "防弹坚壁",
+    "zh_tw": "投射物屏障"
+  },
+  "Blade Catcher": {
+    "zh_cn": "空手入白刃",
+    "zh_tw": "捕刃者"
+  },
+  "Heavy Armour": {
+    "zh_cn": "全副武装",
+    "zh_tw": "沉重鎧甲"
+  },
+  "Made to Last": {
+    "zh_cn": "经久不衰",
+    "zh_tw": "經久耐用"
+  },
+  "Sturdy Metal": {
+    "zh_cn": "刚毅金属",
+    "zh_tw": "堅固金屬"
+  },
+  "Impenetrable Shell": {
+    "zh_cn": "不破之壳",
+    "zh_tw": "無敵甲殼"
+  },
+  "General's Bindings": {
+    "zh_cn": "将军的铁壁",
+    "zh_tw": "將軍的束縛"
+  },
+  "Chillproof": {
+    "zh_cn": "防冰缓",
+    "zh_tw": "禦寒"
+  },
+  "Shockproof": {
+    "zh_cn": "防感电",
+    "zh_tw": "防震"
+  },
+  "Tempered Defences": {
+    "zh_cn": "钢化防御",
+    "zh_tw": "緩和防禦"
+  },
+  "High Alert": {
+    "zh_cn": "高度戒备",
+    "zh_tw": "高度警戒"
+  },
+  "Escape Strategy": {
+    "zh_cn": "逃脱战术",
+    "zh_tw": "逃逸策略"
+  },
+  "Careful Consideration": {
+    "zh_cn": "深谋远虑",
+    "zh_tw": "小心翼翼"
+  },
+  "Freedom of Movement": {
+    "zh_cn": "行动自如",
+    "zh_tw": "解放行動"
+  },
+  "Escape Velocity": {
+    "zh_cn": "动如脱兔",
+    "zh_tw": "逃逸速度"
+  },
+  "Enhanced Reflexes": {
+    "zh_cn": "强化反射",
+    "zh_tw": "強化反應"
+  },
+  "Beastial Skin": {
+    "zh_cn": "猛兽之肤",
+    "zh_tw": "野獸皮膚"
+  },
+  "Afterimage": {
+    "zh_cn": "残影",
+    "zh_tw": "殘像"
+  },
+  "Leather Bound Gauntlets": {
+    "zh_cn": "皮缚手甲",
+    "zh_tw": "皮革綁縛護手"
+  },
+  "Catlike Agility": {
+    "zh_cn": "灵豹矫健",
+    "zh_tw": "靈貓狡捷"
+  },
+  "Calibration": {
+    "zh_cn": "校准",
+    "zh_tw": "校準"
+  },
+  "Patient Barrier": {
+    "zh_cn": "坚忍屏障",
+    "zh_tw": "堅忍屏障"
+  },
+  "Insightfulness": {
+    "zh_cn": "洞察万物",
+    "zh_tw": "明察秋毫"
+  },
+  "Melding": {
+    "zh_cn": "融合",
+    "zh_tw": "融合"
+  },
+  "Enhanced Barrier": {
+    "zh_cn": "强化圣盾",
+    "zh_tw": "強化屏障"
+  },
+  "Dampening Shield": {
+    "zh_cn": "抑能护盾",
+    "zh_tw": "抑制護盾"
+  },
+  "Heavy Buffer": {
+    "zh_cn": "高效缓冲",
+    "zh_tw": "重裝緩衝"
+  },
+  "Illuminated Crown": {
+    "zh_cn": "明光冠冕",
+    "zh_tw": "明光之冠"
+  },
+  "Strong Chin": {
+    "zh_cn": "强韧甲壳",
+    "zh_tw": "強力下顎"
+  },
+  "Defiance": {
+    "zh_cn": "抗争",
+    "zh_tw": "反抗"
+  },
+  "Backup Plan": {
+    "zh_cn": "后备方案",
+    "zh_tw": "備案"
+  },
+  "Insulated Treads": {
+    "zh_cn": "绝能步伐",
+    "zh_tw": "絕緣步伐"
+  },
+  "Feel no Pain": {
+    "zh_cn": "不惧疼痛",
+    "zh_tw": "不痛不癢"
+  },
+  "Tolerant Equipment": {
+    "zh_cn": "容错装备",
+    "zh_tw": "容錯裝置"
+  },
+  "Spectral Ward": {
+    "zh_cn": "魂灵结界",
+    "zh_tw": "光譜守護"
+  },
+  "Inner Faith": {
+    "zh_cn": "信仰存心",
+    "zh_tw": "內在信仰"
+  },
+  "Shadow Dancing": {
+    "zh_cn": "谜影舞步",
+    "zh_tw": "影之舞"
+  },
+  "Immaterial": {
+    "zh_cn": "超脱实体",
+    "zh_tw": "無形"
+  },
+  "Shimmering": {
+    "zh_cn": "光芒万丈",
+    "zh_tw": "閃閃發光"
+  },
+  "Subterfuge Mask": {
+    "zh_cn": "诡计面纱",
+    "zh_tw": "詭計面具"
+  },
+  "Mindful Awareness": {
+    "zh_cn": "机警感知",
+    "zh_tw": "謹慎意識"
+  },
+  "Ancient Aegis": {
+    "zh_cn": "上古神盾",
+    "zh_tw": "遠古神盾"
+  },
+  "Adamant Recovery": {
+    "zh_cn": "顽强恢复",
+    "zh_tw": "堅韌恢復"
+  },
+  "Reinforced Barrier": {
+    "zh_cn": "加固屏障",
+    "zh_tw": "加強屏障"
+  },
+  "Spiral into Depression": {
+    "zh_cn": "困厄螺旋",
+    "zh_tw": "絕望漩渦"
+  },
+  "Iron Slippers": {
+    "zh_cn": "钢铁重履",
+    "zh_tw": "鋼鐵拖鞋"
+  },
+  "Ruinic Helm": {
+    "zh_cn": "符文战盔",
+    "zh_tw": "符文堅盔"
+  },
+  "Unnatural Resilience": {
+    "zh_cn": "超自然坚韧",
+    "zh_tw": "超然韌性"
+  },
+  "Prism Guard": {
+    "zh_cn": "棱彩卫士",
+    "zh_tw": "稜鏡守護"
+  },
+  "Unhindered": {
+    "zh_cn": "无阻畅行",
+    "zh_tw": "暢通無阻"
+  },
+  "Natural Immunity": {
+    "zh_cn": "天然免疫力",
+    "zh_tw": "自然免疫"
+  },
+  "Fan the Flames": {
+    "zh_cn": "煽风点火",
+    "zh_tw": "搧風點火"
+  },
+  "Warm the Heart": {
+    "zh_cn": "温暖心扉",
+    "zh_tw": "暖心"
+  },
+  "Feel the Earth": {
+    "zh_cn": "感触大地",
+    "zh_tw": "感受大地"
+  },
+  "Shedding Skin": {
+    "zh_cn": "蜕落外皮",
+    "zh_tw": "換皮"
+  },
+  "Mystic Stance": {
+    "zh_cn": "秘术姿态",
+    "zh_tw": "秘言姿態"
+  },
+  "Quick Response": {
+    "zh_cn": "疾速响应",
+    "zh_tw": "迅速反應"
+  },
+  "Rapid Recharge": {
+    "zh_cn": "迅速充能",
+    "zh_tw": "快速充能"
+  },
+  "Covering Ward": {
+    "zh_cn": "掩护结界",
+    "zh_tw": "防掩護盾"
+  },
+  "Essence Infusion": {
+    "zh_cn": "精华灌注",
+    "zh_tw": "精髓灌注"
+  },
+  "Refocus": {
+    "zh_cn": "能量重聚",
+    "zh_tw": "重新專注"
+  },
+  "Dependable Ward": {
+    "zh_cn": "可靠结界",
+    "zh_tw": "穩固護盾"
+  },
+  "Convalescence": {
+    "zh_cn": "康复",
+    "zh_tw": "恢復期"
+  },
+  "Arcane Mixtures": {
+    "zh_cn": "秘术灵药",
+    "zh_tw": "秘能混合物"
+  },
+  "Storm Driven": {
+    "zh_cn": "风暴驱动",
+    "zh_tw": "風暴驅動"
+  },
+  "Unstoppable Barrier": {
+    "zh_cn": "固若金汤",
+    "zh_tw": "無阻屏障"
+  },
+  "Hunker Down": {
+    "zh_cn": "蓄势待发",
+    "zh_tw": "蹲守"
+  },
+  "Towering Shield": {
+    "zh_cn": "耸立坚盾",
+    "zh_tw": "高聳之盾"
+  },
+  "Defender's Resolve": {
+    "zh_cn": "守护者的决心",
+    "zh_tw": "防衛者決意"
+  },
+  "Swift Blocking": {
+    "zh_cn": "迅捷格挡",
+    "zh_tw": "快速阻斷"
+  },
+  "Spiked Shield": {
+    "zh_cn": "倒刺护盾",
+    "zh_tw": "尖刺盾牌"
+  },
+  "Shield Expertise": {
+    "zh_cn": "盾牌专长",
+    "zh_tw": "盾牌專精"
+  },
+  "Swift Interruption": {
+    "zh_cn": "迅捷打断",
+    "zh_tw": "迅速打斷"
+  },
+  "Flashy Parrying": {
+    "zh_cn": "飞速格挡",
+    "zh_tw": "華麗招架"
+  },
+  "Consistent Intake": {
+    "zh_cn": "均匀气息",
+    "zh_tw": "持續承受"
+  },
+  "Counterstancing": {
+    "zh_cn": "反击架势",
+    "zh_tw": "反擊姿態"
+  },
+  "Reverberating Parry": {
+    "zh_cn": "反射招架",
+    "zh_tw": "回響招架"
+  },
+  "Glancing Deflection": {
+    "zh_cn": "斜掠偏转",
+    "zh_tw": "斜擦偏斜"
+  },
+  "Brush Off": {
+    "zh_cn": "拂扫",
+    "zh_tw": "漠視"
+  },
+  "Enduring Deflection": {
+    "zh_cn": "持久偏转",
+    "zh_tw": "恆久偏斜"
+  },
+  "Avoiding Deflection": {
+    "zh_cn": "规避偏转",
+    "zh_tw": "避免偏斜"
+  },
+  "Energising Deflection": {
+    "zh_cn": "充能偏转",
+    "zh_tw": "活力偏斜"
+  },
+  "Staunch Deflection": {
+    "zh_cn": "坚定偏转",
+    "zh_tw": "冒險偏斜"
+  },
+  "Trained Deflection": {
+    "zh_cn": "受训偏转",
+    "zh_tw": "熟練偏斜"
+  },
+  "Mending Deflection": {
+    "zh_cn": "愈合偏转",
+    "zh_tw": "癒合偏斜"
+  },
+  "Resolution": {
+    "zh_cn": "刚毅决心",
+    "zh_tw": "決意"
+  },
+  "Quick Recovery": {
+    "zh_cn": "快速回复",
+    "zh_tw": "快速回復"
+  },
+  "Titan's Determination": {
+    "zh_cn": "巨人的决意",
+    "zh_tw": "泰坦決意"
+  },
+  "Unbreaking": {
+    "zh_cn": "牢不可破",
+    "zh_tw": "堅不可摧"
+  },
+  "Wary Dodging": {
+    "zh_cn": "谨慎闪躲",
+    "zh_tw": "警覺躲避"
+  },
+  "Hefty Unit": {
+    "zh_cn": "魁梧壮士",
+    "zh_tw": "重型單位"
+  },
+  "Unbending": {
+    "zh_cn": "不屈之心",
+    "zh_tw": "永不屈服"
+  },
+  "Austerity Measures": {
+    "zh_cn": "苦行节制",
+    "zh_tw": "緊縮"
+  },
+  "Asceticism": {
+    "zh_cn": "清心寡欲",
+    "zh_tw": "禁慾主義"
+  },
+  "Self Mortification": {
+    "zh_cn": "自制禁欲",
+    "zh_tw": "自我苦行"
+  },
+  "Hallowed": {
+    "zh_cn": "崇敬宗师",
+    "zh_tw": "聖潔"
+  },
+  "Abasement": {
+    "zh_cn": "屈辱",
+    "zh_tw": "貶抑"
+  },
+  "Shimmering Mirage": {
+    "zh_cn": "闪烁幻影",
+    "zh_tw": "閃亮幻象"
+  },
+  "Eldritch Will": {
+    "zh_cn": "古灵意志",
+    "zh_tw": "異能之志"
+  },
+  "Briny Carapace": {
+    "zh_cn": "咸潮背甲",
+    "zh_tw": "鹹水甲殼"
+  },
+  "Deft Recovery": {
+    "zh_cn": "轻捷回复",
+    "zh_tw": "恢復靈巧"
+  },
+  "Back in Action": {
+    "zh_cn": "重返战阵",
+    "zh_tw": "重返戰鬥"
+  },
+  "Molten Carapace": {
+    "zh_cn": "熔岩甲壳",
+    "zh_tw": "熔岩魔甲"
+  },
+  "One With Flame": {
+    "zh_cn": "火焰一体",
+    "zh_tw": "與火合一"
+  },
+  "Molten Being": {
+    "zh_cn": "熔岩化身",
+    "zh_tw": "熔火生命體"
+  },
+  "Melting Flames": {
+    "zh_cn": "熔化烈焰",
+    "zh_tw": "融化烈焰"
+  },
+  "Self Immolation": {
+    "zh_cn": "自我献祭",
+    "zh_tw": "自焚"
+  },
+  "Embracing Frost": {
+    "zh_cn": "拥抱冰霜",
+    "zh_tw": "擁抱冰霜"
+  },
+  "Slippery Ice": {
+    "zh_cn": "如履薄冰",
+    "zh_tw": "滑冰"
+  },
+  "Icebreaker": {
+    "zh_cn": "破冰者",
+    "zh_tw": "破冰者"
+  },
+  "Electrocution": {
+    "zh_cn": "电殛",
+    "zh_tw": "觸電"
+  },
+  "Coursing Energy": {
+    "zh_cn": "喷流之能",
+    "zh_tw": "奔流能量"
+  },
+  "Electrocuting Exposure": {
+    "zh_cn": "电击曝露",
+    "zh_tw": "觸電曝曬"
+  },
+  "Mass Rejuvenation": {
+    "zh_cn": "春回大地",
+    "zh_tw": "巨量恢復"
+  },
+  "Desperate Times": {
+    "zh_cn": "绝处逢生",
+    "zh_tw": "絕望時刻"
+  },
+  "Resilient Soul": {
+    "zh_cn": "抗争之魂",
+    "zh_tw": "堅韌之魂"
+  },
+  "Thickened Arteries": {
+    "zh_cn": "粗实血脉",
+    "zh_tw": "動脈增厚"
+  },
+  "Hard to Kill": {
+    "zh_cn": "不灭之躯",
+    "zh_tw": "不易死亡"
+  },
+  "Hale Heart": {
+    "zh_cn": "壮心不已",
+    "zh_tw": "心心向榮"
+  },
+  "Stand Ground": {
+    "zh_cn": "不动如山",
+    "zh_tw": "穩住陣腳"
+  },
+  "Fortifying Blood": {
+    "zh_cn": "强韧血脉",
+    "zh_tw": "堅韌之血"
+  },
+  "Voracious": {
+    "zh_cn": "欲壑难填",
+    "zh_tw": "貪婪"
+  },
+  "Bloodthirsty": {
+    "zh_cn": "渴饮",
+    "zh_tw": "嗜血的"
+  },
+  "Goring": {
+    "zh_cn": "淤血创痕",
+    "zh_tw": "刺穿"
+  },
+  "Savoured Blood": {
+    "zh_cn": "血之回味",
+    "zh_tw": "鮮味之血"
+  },
+  "Fast Metabolism": {
+    "zh_cn": "急速代谢",
+    "zh_tw": "快速代謝"
+  },
+  "Loose Flesh": {
+    "zh_cn": "松弛之躯",
+    "zh_tw": "鬆散肌肉"
+  },
+  "Taut Flesh": {
+    "zh_cn": "紧绷之躯",
+    "zh_tw": "繃緊肌肉"
+  },
+  "Heart Tissue": {
+    "zh_cn": "心源强健",
+    "zh_tw": "心臟疾病"
+  },
+  "Infused Flesh": {
+    "zh_cn": "血肉灌注",
+    "zh_tw": "注入肉體"
+  },
+  "Pliable Flesh": {
+    "zh_cn": "坚韧血肉",
+    "zh_tw": "可塑肉體"
+  },
+  "Glazed Flesh": {
+    "zh_cn": "光洁血肉",
+    "zh_tw": "琉璃血肉"
+  },
+  "Sanguimantic Rituals": {
+    "zh_cn": "赤红仪式",
+    "zh_tw": "血咒儀式"
+  },
+  "Heartstopping Presence": {
+    "zh_cn": "凝心气息",
+    "zh_tw": "停頓心跳"
+  },
+  "Immortal Infamy": {
+    "zh_cn": "不朽英名",
+    "zh_tw": "不朽惡名"
+  },
+  "Life from Death": {
+    "zh_cn": "由死复生",
+    "zh_tw": "死而復生"
+  },
+  "Taste for Blood": {
+    "zh_cn": "赤色之味",
+    "zh_tw": "血味"
+  },
+  "Refills": {
+    "zh_cn": "灌装",
+    "zh_tw": "補滿"
+  },
+  "Hale Traveller": {
+    "zh_cn": "强健旅行者",
+    "zh_tw": "健壯旅人"
+  },
+  "Reinvigoration": {
+    "zh_cn": "振奋活力",
+    "zh_tw": "重新振作"
+  },
+  "Staunching": {
+    "zh_cn": "止血",
+    "zh_tw": "止血"
+  },
+  "Succour": {
+    "zh_cn": "救济",
+    "zh_tw": "救援"
+  },
+  "Heavy Drinker": {
+    "zh_cn": "鲸吞豪饮",
+    "zh_tw": "重度飲用者"
+  },
+  "Blood of Rage": {
+    "zh_cn": "怒火之血",
+    "zh_tw": "狂怒之血"
+  },
+  "Lavianga's Brew": {
+    "zh_cn": "拉维安加的佳酿",
+    "zh_tw": "拉維安加之酒"
+  },
+  "Tukohama's Brew": {
+    "zh_cn": "图克哈玛的佳酿",
+    "zh_tw": "圖克哈瑪之酒"
+  },
+  "Efficient Alchemy": {
+    "zh_cn": "高效炼金术",
+    "zh_tw": "高效鍊金術"
+  },
+  "Savouring": {
+    "zh_cn": "细细品味",
+    "zh_tw": "品味"
+  },
+  "Combat Alchemy": {
+    "zh_cn": "战斗炼金术",
+    "zh_tw": "戰鬥煉金術"
+  },
+  "Cautious Concoctions": {
+    "zh_cn": "谨慎调和物",
+    "zh_tw": "謹慎調製物"
+  },
+  "Crashing Wave": {
+    "zh_cn": "溅水白浪",
+    "zh_tw": "震波"
+  },
+  "Cruel Fate": {
+    "zh_cn": "命运多舛",
+    "zh_tw": "殘酷命運"
+  },
+  "Leaping Ambush": {
+    "zh_cn": "飞跃奇袭",
+    "zh_tw": "跳躍伏擊"
+  },
+  "Direct Approach": {
+    "zh_cn": "直来直往",
+    "zh_tw": "直球進攻"
+  },
+  "True Strike": {
+    "zh_cn": "真实之击",
+    "zh_tw": "真實之擊"
+  },
+  "For the Jugular": {
+    "zh_cn": "直取咽喉",
+    "zh_tw": "直擊要害"
+  },
+  "Critical Exploit": {
+    "zh_cn": "致命利用",
+    "zh_tw": "弱點善用"
+  },
+  "Moment of Truth": {
+    "zh_cn": "求真时刻",
+    "zh_tw": "真相揭曉"
+  },
+  "Preemptive Strike": {
+    "zh_cn": "先发制人",
+    "zh_tw": "先發制人"
+  },
+  "Desensitisation": {
+    "zh_cn": "脱敏",
+    "zh_tw": "暴擊傷害核心"
+  },
+  "Cooked": {
+    "zh_cn": "小菜一碟",
+    "zh_tw": "熟透"
+  },
+  "Deadly Force": {
+    "zh_cn": "夺命力量",
+    "zh_tw": "致命武力"
+  },
+  "Sundering": {
+    "zh_cn": "断离",
+    "zh_tw": "崩裂"
+  },
+  "Heartstopping": {
+    "zh_cn": "心悸",
+    "zh_tw": "心寒"
+  },
+  "Heartbreaking": {
+    "zh_cn": "心伤",
+    "zh_tw": "裂心"
+  },
+  "Struck Through": {
+    "zh_cn": "穿身而过",
+    "zh_tw": "擊穿防禦"
+  },
+  "Overwhelming Strike": {
+    "zh_cn": "压制打击",
+    "zh_tw": "鎮壓打擊"
+  },
+  "Vulgar Methods": {
+    "zh_cn": "粗俗手段",
+    "zh_tw": "卑鄙手段"
+  },
+  "Barbaric Strength": {
+    "zh_cn": "蛮族之力",
+    "zh_tw": "野蠻力量"
+  },
+  "Tainted Strike": {
+    "zh_cn": "污染打击",
+    "zh_tw": "汙染打擊"
+  },
+  "Dispatch Foes": {
+    "zh_cn": "大卸八块",
+    "zh_tw": "抹殺敵人"
+  },
+  "Careful Assassin": {
+    "zh_cn": "谨慎的刺客",
+    "zh_tw": "謹慎的刺客"
+  },
+  "Throatseeker": {
+    "zh_cn": "割战者",
+    "zh_tw": "割喉者"
+  },
+  "Decisive Retreat": {
+    "zh_cn": "果断撤退",
+    "zh_tw": "明哲保身"
+  },
+  "Bonded Precision": {
+    "zh_cn": "羁绊精准",
+    "zh_tw": "契合精準"
+  },
+  "Blurred Motion": {
+    "zh_cn": "飞身残影",
+    "zh_tw": "無影行蹤"
+  },
+  "Tenfold Attacks": {
+    "zh_cn": "十重迅击",
+    "zh_tw": "十重打擊"
+  },
+  "Stimulants": {
+    "zh_cn": "兴奋鼓舞",
+    "zh_tw": "興奮劑"
+  },
+  "Reaving": {
+    "zh_cn": "掠袭如风",
+    "zh_tw": "掠奪"
+  },
+  "Mass Hysteria": {
+    "zh_cn": "群体亢奋",
+    "zh_tw": "群體癲狂"
+  },
+  "Falcon Technique": {
+    "zh_cn": "鹰隼之姿",
+    "zh_tw": "獵鷹技法"
+  },
+  "Sand in the Eyes": {
+    "zh_cn": "障目飞沙",
+    "zh_tw": "飛沙入眼"
+  },
+  "Deep Trance": {
+    "zh_cn": "深度专注",
+    "zh_tw": "深度恍惚"
+  },
+  "Flow State": {
+    "zh_cn": "行云流水",
+    "zh_tw": "戰鬥節奏"
+  },
+  "Blinding Flash": {
+    "zh_cn": "夺目眩光",
+    "zh_tw": "致盲閃光"
+  },
+  "Blood Rush": {
+    "zh_cn": "血脉贲张",
+    "zh_tw": "鮮血狂襲"
+  },
+  "Agile Succession": {
+    "zh_cn": "灵敏连击",
+    "zh_tw": "敏捷演替"
+  },
+  "Final Barrage": {
+    "zh_cn": "终结弹幕",
+    "zh_tw": "終極彈幕"
+  },
+  "Casting Cascade": {
+    "zh_cn": "集联施法",
+    "zh_tw": "連續施法"
+  },
+  "Effervescent": {
+    "zh_cn": "沸熔",
+    "zh_tw": "奔放"
+  },
+  "Overzealous": {
+    "zh_cn": "非凡狂热",
+    "zh_tw": "過度狂熱"
+  },
+  "Spiral into Mania": {
+    "zh_cn": "癫狂螺旋",
+    "zh_tw": "狂熱漩渦"
+  },
+  "Spell Haste": {
+    "zh_cn": "迅捷施法",
+    "zh_tw": "法術迅捷"
+  },
+  "Practiced Signs": {
+    "zh_cn": "娴熟手法",
+    "zh_tw": "熟練符印"
+  },
+  "Erraticism": {
+    "zh_cn": "古怪嗜好",
+    "zh_tw": "反覆無常"
+  },
+  "Mental Alacrity": {
+    "zh_cn": "敏捷思绪",
+    "zh_tw": "心靈迅捷"
+  },
+  "Hastening Barrier": {
+    "zh_cn": "疾速屏障",
+    "zh_tw": "加速屏障"
+  },
+  "Hulking Smash": {
+    "zh_cn": "笨重猛击",
+    "zh_tw": "巨力猛擊"
+  },
+  "Titanic": {
+    "zh_cn": "泰坦意志",
+    "zh_tw": "泰坦"
+  },
+  "Cranial Impact": {
+    "zh_cn": "裂颅强击",
+    "zh_tw": "顱骨衝擊"
+  },
+  "Perfect Opportunity": {
+    "zh_cn": "完美机遇",
+    "zh_tw": "絕佳機會"
+  },
+  "Shattering Blow": {
+    "zh_cn": "碎裂痛击",
+    "zh_tw": "粉碎強擊"
+  },
+  "Flip the Script": {
+    "zh_cn": "力挽狂澜",
+    "zh_tw": "扭轉局勢"
+  },
+  "Easy Target": {
+    "zh_cn": "活靶子",
+    "zh_tw": "易攻目標"
+  },
+  "Mauling Stuns": {
+    "zh_cn": "重创致晕",
+    "zh_tw": "暈眩累積"
+  },
+  "Ignore Pain": {
+    "zh_cn": "无视痛苦",
+    "zh_tw": "無視疼痛"
+  },
+  "Battle Trance": {
+    "zh_cn": "战斗迷神",
+    "zh_tw": "戰鬥狂熱"
+  },
+  "Prolonged Fury": {
+    "zh_cn": "怒火难平",
+    "zh_tw": "經久之怒"
+  },
+  "Unforgiving": {
+    "zh_cn": "愤火铭心",
+    "zh_tw": "嚴苛"
+  },
+  "Vengeful Fury": {
+    "zh_cn": "复仇之怒",
+    "zh_tw": "復仇之怒"
+  },
+  "Sudden Infuriation": {
+    "zh_cn": "无名火起",
+    "zh_tw": "突發暴怒"
+  },
+  "Primal Rage": {
+    "zh_cn": "原始怒火",
+    "zh_tw": "原始怒火"
+  },
+  "Invigorating Hate": {
+    "zh_cn": "激生恨意",
+    "zh_tw": "激發仇恨"
+  },
+  "Mystical Rage": {
+    "zh_cn": "神秘狂怒",
+    "zh_tw": "神秘盛怒"
+  },
+  "Deep Wounds": {
+    "zh_cn": "深度创伤",
+    "zh_tw": "深層創傷"
+  },
+  "Bloodletting": {
+    "zh_cn": "放血",
+    "zh_tw": "滲血"
+  },
+  "Perfectly Placed Knife": {
+    "zh_cn": "绝妙之刃",
+    "zh_tw": "精準匕首"
+  },
+  "Aggravation": {
+    "zh_cn": "伤口恶化",
+    "zh_tw": "加劇"
+  },
+  "Bleeding Out": {
+    "zh_cn": "失血",
+    "zh_tw": "出血致死"
+  },
+  "Incision": {
+    "zh_cn": "创口",
+    "zh_tw": "切割"
+  },
+  "Inevitable Rupture": {
+    "zh_cn": "注定的裂伤",
+    "zh_tw": "無免殘破"
+  },
+  "Rusted Pins": {
+    "zh_cn": "锈蚀钉刺",
+    "zh_tw": "生鏽鐵釘"
+  },
+  "Thousand Cuts": {
+    "zh_cn": "千创",
+    "zh_tw": "千刀萬剮"
+  },
+  "Staggering Wounds": {
+    "zh_cn": "错愕伤痕",
+    "zh_tw": "撼敵創傷"
+  },
+  "Immolation": {
+    "zh_cn": "焚化",
+    "zh_tw": "焚化"
+  },
+  "Slow Burn": {
+    "zh_cn": "缓慢灼烧",
+    "zh_tw": "緩慢燃燒"
+  },
+  "Firestarter": {
+    "zh_cn": "引火",
+    "zh_tw": "縱火者"
+  },
+  "Burnout": {
+    "zh_cn": "焚尽",
+    "zh_tw": "燃盡"
+  },
+  "Inescapable Cold": {
+    "zh_cn": "寒冬难避",
+    "zh_tw": "不可逃脫之凍寒"
+  },
+  "Shattering": {
+    "zh_cn": "碎冰",
+    "zh_tw": "粉碎"
+  },
+  "Chilled to the Bone": {
+    "zh_cn": "寒霜蚀骨",
+    "zh_tw": "徹骨"
+  },
+  "Perpetual Freeze": {
+    "zh_cn": "永冻",
+    "zh_tw": "永恆冰凍"
+  },
+  "Cold Coat": {
+    "zh_cn": "凝冰为甲",
+    "zh_tw": "寒霜外衣"
+  },
+  "Blessing of the Moon": {
+    "zh_cn": "月之赐福",
+    "zh_tw": "月之祝福"
+  },
+  "Branching Bolts": {
+    "zh_cn": "分叉闪电",
+    "zh_tw": "分叉弩箭"
+  },
+  "Frazzled": {
+    "zh_cn": "疲乏",
+    "zh_tw": "力盡"
+  },
+  "General Electric": {
+    "zh_cn": "通用电击",
+    "zh_tw": "通用電"
+  },
+  "Drenched": {
+    "zh_cn": "浸湿",
+    "zh_tw": "濕透"
+  },
+  "Rattled": {
+    "zh_cn": "尖鸣电浪",
+    "zh_tw": "驚慌失措"
+  },
+  "Harmonic Generator": {
+    "zh_cn": "谐波发生器",
+    "zh_tw": "和諧發電"
+  },
+  "Conductive Embrace": {
+    "zh_cn": "电光之拥",
+    "zh_tw": "擁抱導電"
+  },
+  "Escalating Toxins": {
+    "zh_cn": "渐强毒素",
+    "zh_tw": "遞增毒素"
+  },
+  "Building Toxins": {
+    "zh_cn": "积聚毒素",
+    "zh_tw": "蓄積毒素"
+  },
+  "Crippling Toxins": {
+    "zh_cn": "致残毒素",
+    "zh_tw": "致殘毒素"
+  },
+  "Leeching Toxins": {
+    "zh_cn": "汲命毒素",
+    "zh_tw": "偷取毒素"
+  },
+  "Lasting Toxins": {
+    "zh_cn": "持久毒素",
+    "zh_tw": "持久毒素"
+  },
+  "Low Tolerance": {
+    "zh_cn": "低容忍",
+    "zh_tw": "低容忍"
+  },
+  "Stacking Toxins": {
+    "zh_cn": "层叠毒素",
+    "zh_tw": "疊加毒素"
+  },
+  "Toxic Tolerance": {
+    "zh_cn": "剧毒耐受",
+    "zh_tw": "劇毒耐性"
+  },
+  "Toxic Sludge": {
+    "zh_cn": "猛毒污泥",
+    "zh_tw": "劇毒泥漿"
+  },
+  "Frenetic": {
+    "zh_cn": "狂热",
+    "zh_tw": "狂熱"
+  },
+  "Savagery": {
+    "zh_cn": "野性之心",
+    "zh_tw": "野性之心"
+  },
+  "Fervour": {
+    "zh_cn": "激情",
+    "zh_tw": "激情"
+  },
+  "Endurance": {
+    "zh_cn": "耐力",
+    "zh_tw": "耐力"
+  },
+  "Guts": {
+    "zh_cn": "刚胆",
+    "zh_tw": "膽量"
+  },
+  "Grit": {
+    "zh_cn": "刚毅",
+    "zh_tw": "毅力"
+  },
+  "Flare": {
+    "zh_cn": "闪焰",
+    "zh_tw": "閃焰"
+  },
+  "Lust for Power": {
+    "zh_cn": "渴求力量",
+    "zh_tw": "渴求力量"
+  },
+  "Overflowing Power": {
+    "zh_cn": "泛滥神力",
+    "zh_tw": "力量滿溢"
+  },
+  "The Power Within": {
+    "zh_cn": "力由心生",
+    "zh_tw": "內在力量"
+  },
+  "Well of Power": {
+    "zh_cn": "魔力之井",
+    "zh_tw": "力量之井"
+  },
+  "Infusion of Power": {
+    "zh_cn": "力量灌注",
+    "zh_tw": "力量灌注"
+  },
+  "Thirst for Power": {
+    "zh_cn": "暴击饥渴",
+    "zh_tw": "暴擊渴求"
+  },
+  "Thirst for Endurance": {
+    "zh_cn": "耐力饥渴",
+    "zh_tw": "耐力渴求"
+  },
+  "Cacophony": {
+    "zh_cn": "刺耳怒吼",
+    "zh_tw": "不諧之音"
+  },
+  "Vocal Empowerment": {
+    "zh_cn": "言出力随",
+    "zh_tw": "聲音賦予"
+  },
+  "Internal Bleeding": {
+    "zh_cn": "内出血",
+    "zh_tw": "內出血"
+  },
+  "Bravado": {
+    "zh_cn": "双刃之力",
+    "zh_tw": "雙刃之力"
+  },
+  "Deafening Cries": {
+    "zh_cn": "战吼如雷",
+    "zh_tw": "震耳吶喊"
+  },
+  "Guttural Roar": {
+    "zh_cn": "刺耳呐喊",
+    "zh_tw": "喉鳴咆哮"
+  },
+  "Admonisher": {
+    "zh_cn": "训诫",
+    "zh_tw": "告誡者"
+  },
+  "Bolstering Yell": {
+    "zh_cn": "振奋呐喊",
+    "zh_tw": "壯膽咆哮"
+  },
+  "Thirst of Kitava": {
+    "zh_cn": "奇塔弗的渴望",
+    "zh_tw": "奇塔弗的饑渴"
+  },
+  "Urgent Call": {
+    "zh_cn": "紧急呼喊",
+    "zh_tw": "緊急呼喚"
+  },
+  "Roaring Cries": {
+    "zh_cn": "咆哮战吼",
+    "zh_tw": "震天哭喊"
+  },
+  "Explosive Empowerment": {
+    "zh_cn": "爆炸强化",
+    "zh_tw": "爆裂物強化"
+  },
+  "Cremating Cries": {
+    "zh_cn": "焚化战吼",
+    "zh_tw": "火化嚎叫"
+  },
+  "Extinguishing Exhalation": {
+    "zh_cn": "镇火之息",
+    "zh_tw": "熄滅吐息"
+  },
+  "Inherited Strength": {
+    "zh_cn": "继承力量",
+    "zh_tw": "承傳力量"
+  },
+  "Escalation": {
+    "zh_cn": "疾升",
+    "zh_tw": "惡化"
+  },
+  "Impending Doom": {
+    "zh_cn": "末日将至",
+    "zh_tw": "末日厄運"
+  },
+  "Zone of Control": {
+    "zh_cn": "封锁区域",
+    "zh_tw": "區域控制"
+  },
+  "Master of Hexes": {
+    "zh_cn": "魔蛊大师",
+    "zh_tw": "詛咒大師"
+  },
+  "Fated End": {
+    "zh_cn": "命中注定",
+    "zh_tw": "命運終結"
+  },
+  "Lingering Whispers": {
+    "zh_cn": "呢喃不散",
+    "zh_tw": "殘留低語"
+  },
+  "Decrepifying Curse": {
+    "zh_cn": "朽迈诅咒",
+    "zh_tw": "衰老詛咒"
+  },
+  "Supportive Ancestors": {
+    "zh_cn": "先祖援手",
+    "zh_tw": "祖靈之援"
+  },
+  "Carved Earth": {
+    "zh_cn": "雕琢大地",
+    "zh_tw": "鑿刻大地"
+  },
+  "Watchtowers": {
+    "zh_cn": "守望之塔",
+    "zh_tw": "看守塔"
+  },
+  "Ancestral Artifice": {
+    "zh_cn": "先祖的巧谋",
+    "zh_tw": "先祖詭計"
+  },
+  "Ancestral Unity": {
+    "zh_cn": "先祖的团结",
+    "zh_tw": "先祖同心"
+  },
+  "Hardened Wood": {
+    "zh_cn": "硬化神木",
+    "zh_tw": "硬化樹木"
+  },
+  "Spirit Bond": {
+    "zh_cn": "祖灵相依",
+    "zh_tw": "靈魂連結"
+  },
+  "Ancestral Reach": {
+    "zh_cn": "先祖降临",
+    "zh_tw": "先祖所向"
+  },
+  "Ancestral Alacrity": {
+    "zh_cn": "先祖的敏锐",
+    "zh_tw": "先祖迅捷"
+  },
+  "Ancestral Conduits": {
+    "zh_cn": "先祖的传达",
+    "zh_tw": "祖靈導體"
+  },
+  "Ancestral Mending": {
+    "zh_cn": "先祖的愈合",
+    "zh_tw": "先祖治癒"
+  },
+  "Deadly Swarm": {
+    "zh_cn": "死神沓来",
+    "zh_tw": "致命群襲"
+  },
+  "Lord of Horrors": {
+    "zh_cn": "惊怖主宰",
+    "zh_tw": "恐懼領主"
+  },
+  "Splintering Force": {
+    "zh_cn": "分裂之劲",
+    "zh_tw": "分裂力量"
+  },
+  "Dead can Dance": {
+    "zh_cn": "亡魂舞步",
+    "zh_tw": "亡者之舞"
+  },
+  "Relentless Fallen": {
+    "zh_cn": "无情陨落",
+    "zh_tw": "無情殞落者"
+  },
+  "Right Hand of Darkness": {
+    "zh_cn": "黑暗的右臂",
+    "zh_tw": "暗黑右手"
+  },
+  "Grip of Evil": {
+    "zh_cn": "邪恶之握",
+    "zh_tw": "惡靈之握"
+  },
+  "Necrotic Touch": {
+    "zh_cn": "通灵之触",
+    "zh_tw": "亡者之觸"
+  },
+  "Restless Dead": {
+    "zh_cn": "无宁之众",
+    "zh_tw": "殞落狂熱"
+  },
+  "Growing Swarm": {
+    "zh_cn": "成群结队",
+    "zh_tw": "人海戰術"
+  },
+  "At your Command": {
+    "zh_cn": "悉听遵命",
+    "zh_tw": "任你指揮"
+  },
+  "Among the Hordes": {
+    "zh_cn": "统御兽群",
+    "zh_tw": "部族之上"
+  },
+  "Gravedigger": {
+    "zh_cn": "掘墓人",
+    "zh_tw": "掘墓者"
+  },
+  "Necrotised Flesh": {
+    "zh_cn": "腐烂肉身",
+    "zh_tw": "亡者之軀"
+  },
+  "Left Hand of Darkness": {
+    "zh_cn": "黑暗的左膀",
+    "zh_tw": "黑暗左手"
+  },
+  "Crystalline Flesh": {
+    "zh_cn": "结晶之躯",
+    "zh_tw": "結晶血肉"
+  },
+  "Fleshcrafting": {
+    "zh_cn": "塑命巨匠",
+    "zh_tw": "血肉塑造"
+  },
+  "Vile Mending": {
+    "zh_cn": "邪恶愈合",
+    "zh_tw": "惡毒療癒"
+  },
+  "Regenerative Flesh": {
+    "zh_cn": "再生躯体",
+    "zh_tw": "再生血肉"
+  },
+  "Living Death": {
+    "zh_cn": "鲜活亡躯",
+    "zh_tw": "行屍走肉"
+  },
+  "Reformed Barrier": {
+    "zh_cn": "重组屏障",
+    "zh_tw": "重塑屏障"
+  },
+  "Expendable Army": {
+    "zh_cn": "敢死大军",
+    "zh_tw": "消耗軍團"
+  },
+  "Entropic Incarnation": {
+    "zh_cn": "熵能化身",
+    "zh_tw": "熵熱化身"
+  },
+  "Gigantic Following": {
+    "zh_cn": "庞大侍从",
+    "zh_tw": "巨大追隨者"
+  },
+  "Anticipation": {
+    "zh_cn": "秘术预知",
+    "zh_tw": "法術"
+  },
+  "Wasting Casts": {
+    "zh_cn": "凋零咏唱",
+    "zh_tw": "懸念"
+  },
+  "Lasting Incantations": {
+    "zh_cn": "持久咒言",
+    "zh_tw": "持久咒語"
+  },
+  "Potent Incantation": {
+    "zh_cn": "强力咒语",
+    "zh_tw": "強力咒語"
+  },
+  "Spellblade": {
+    "zh_cn": "碎影魔刃",
+    "zh_tw": "魔刃"
+  },
+  "Emboldening Lead": {
+    "zh_cn": "鼓舞先导",
+    "zh_tw": "鼓舞領導"
+  },
+  "Empowering Remains": {
+    "zh_cn": "强化残骸",
+    "zh_tw": "賦能遺軍"
+  },
+  "Rapid Strike": {
+    "zh_cn": "疾影打击",
+    "zh_tw": "迅捷打擊"
+  },
+  "Serrated Edges": {
+    "zh_cn": "锯齿锋缘",
+    "zh_tw": "鋸齒刀鋒"
+  },
+  "Personal Touch": {
+    "zh_cn": "英姿勃发",
+    "zh_tw": "個人風格"
+  },
+  "In Your Face": {
+    "zh_cn": "当头棒喝",
+    "zh_tw": "面部攻擊"
+  },
+  "Viciousness": {
+    "zh_cn": "穷凶极恶",
+    "zh_tw": "狠毒"
+  },
+  "Unerring Impact": {
+    "zh_cn": "精准冲击",
+    "zh_tw": "精準衝擊"
+  },
+  "Heavy Weaponry": {
+    "zh_cn": "重武神兵",
+    "zh_tw": "重裝武器"
+  },
+  "Reaching Strike": {
+    "zh_cn": "深远打击",
+    "zh_tw": "延伸打擊"
+  },
+  "Deadly Flourish": {
+    "zh_cn": "致命剑花",
+    "zh_tw": "致命華舞"
+  },
+  "Initiative": {
+    "zh_cn": "克敌在先",
+    "zh_tw": "先機"
+  },
+  "Breaking Blows": {
+    "zh_cn": "破灭强击",
+    "zh_tw": "粉碎之擊"
+  },
+  "Honourless": {
+    "zh_cn": "不念荣辱",
+    "zh_tw": "毫無榮譽"
+  },
+  "Smash": {
+    "zh_cn": "碾碎",
+    "zh_tw": "砸碎"
+  },
+  "Channelled Heritage": {
+    "zh_cn": "引导传承",
+    "zh_tw": "引導傳承"
+  },
+  "Guided Hand": {
+    "zh_cn": "引导之手",
+    "zh_tw": "引領之手"
+  },
+  "Maiming Strike": {
+    "zh_cn": "瘫痪打击",
+    "zh_tw": "癱瘓打擊"
+  },
+  "Prolonged Assault": {
+    "zh_cn": "鏖战不息",
+    "zh_tw": "持久攻擊"
+  },
+  "Blinding Strike": {
+    "zh_cn": "致盲打击",
+    "zh_tw": "致盲打擊"
+  },
+  "Last Stand": {
+    "zh_cn": "背水一战",
+    "zh_tw": "最後一博"
+  },
+  "Killer Instinct": {
+    "zh_cn": "杀手本能",
+    "zh_tw": "殺手本能"
+  },
+  "Presence Present": {
+    "zh_cn": "慑魂英气",
+    "zh_tw": "氣場四散"
+  },
+  "Unexpected Finesse": {
+    "zh_cn": "非凡矫健",
+    "zh_tw": "出奇靈巧"
+  },
+  "Concussive Attack": {
+    "zh_cn": "连续攻击",
+    "zh_tw": "連續攻擊"
+  },
+  "Imbibed Power": {
+    "zh_cn": "吸收之力",
+    "zh_tw": "吸收之力"
+  },
+  "Adaptable Assault": {
+    "zh_cn": "灵活突袭",
+    "zh_tw": "可適應攻擊"
+  },
+  "Unleash Fire": {
+    "zh_cn": "火力倾泻",
+    "zh_tw": "釋放火焰"
+  },
+  "Kite Runner": {
+    "zh_cn": "追风筝的人",
+    "zh_tw": "風箏高手"
+  },
+  "Careful Aim": {
+    "zh_cn": "精确瞄准",
+    "zh_tw": "細心瞄準"
+  },
+  "Heavy Ammunition": {
+    "zh_cn": "重装弹药",
+    "zh_tw": "重磅彈藥"
+  },
+  "Trick Shot": {
+    "zh_cn": "诡射",
+    "zh_tw": "花式射擊"
+  },
+  "Piercing Shot": {
+    "zh_cn": "穿射箭矢",
+    "zh_tw": "穿射箭矢"
+  },
+  "Split Shot": {
+    "zh_cn": "分裂射击",
+    "zh_tw": "分裂射擊"
+  },
+  "Catapult": {
+    "zh_cn": "投石车",
+    "zh_tw": "投石車"
+  },
+  "Short Shot": {
+    "zh_cn": "近身射击",
+    "zh_tw": "短距離射擊"
+  },
+  "Close Confines": {
+    "zh_cn": "一步之遥",
+    "zh_tw": "狹小界限"
+  },
+  "Shrapnel": {
+    "zh_cn": "破片",
+    "zh_tw": "彈片"
+  },
+  "Advanced Munitions": {
+    "zh_cn": "尖端弹药",
+    "zh_tw": "先進彈藥"
+  },
+  "Total Incineration": {
+    "zh_cn": "全面焚化",
+    "zh_tw": "散播火焰"
+  },
+  "Burning Nature": {
+    "zh_cn": "性如烈火",
+    "zh_tw": "燃燒之性"
+  },
+  "Sigil of Fire": {
+    "zh_cn": "火焰法印",
+    "zh_tw": "火焰符印"
+  },
+  "Affliction Enforcer": {
+    "zh_cn": "腐化执行者",
+    "zh_tw": "痛苦執行"
+  },
+  "Burn Away": {
+    "zh_cn": "焚灭",
+    "zh_tw": "焚燒殆盡"
+  },
+  "Echoing Flames": {
+    "zh_cn": "回响烈焰",
+    "zh_tw": "迴盪餘焰"
+  },
+  "Intense Flames": {
+    "zh_cn": "剧烈燃火",
+    "zh_tw": "熊熊烈火"
+  },
+  "Explosive Impact": {
+    "zh_cn": "暴烈冲击",
+    "zh_tw": "暴烈衝擊"
+  },
+  "Volcanic Skin": {
+    "zh_cn": "熔火皮肤",
+    "zh_tw": "火山皮膚"
+  },
+  "Burning Strikes": {
+    "zh_cn": "燃烧打击",
+    "zh_tw": "灼熱打擊"
+  },
+  "Incendiary": {
+    "zh_cn": "烈火焚烧",
+    "zh_tw": "爆燃"
+  },
+  "Fulmination": {
+    "zh_cn": "轰鸣烈焰",
+    "zh_tw": "劇烈爆發"
+  },
+  "Dread Engineer's Concoction": {
+    "zh_cn": "惊惧匠焰",
+    "zh_tw": "驚懼工匠之藥劑"
+  },
+  "Blazing Arms": {
+    "zh_cn": "怒火武装",
+    "zh_tw": "炽焰武臂"
+  },
+  "Ichlotl's Inferno": {
+    "zh_cn": "伊柯洛塔的狱火",
+    "zh_tw": "伊克羅特之獄炎"
+  },
+  "Engineered Blaze": {
+    "zh_cn": "匠造烈焰",
+    "zh_tw": "工匠之焰"
+  },
+  "Arsonist": {
+    "zh_cn": "纵火狂囚",
+    "zh_tw": "縱火者"
+  },
+  "Searing Heat": {
+    "zh_cn": "灼热气息",
+    "zh_tw": "灼熱高溫"
+  },
+  "Archon of the Blizzard": {
+    "zh_cn": "暴雪执政官",
+    "zh_tw": "暴風雪統治者"
+  },
+  "Embodiment of Frost": {
+    "zh_cn": "冰霜化身",
+    "zh_tw": "冰霜化身"
+  },
+  "Unbothering Cold": {
+    "zh_cn": "无扰冰霜",
+    "zh_tw": "不寒而慄"
+  },
+  "Cold Nature": {
+    "zh_cn": "性如寒冰",
+    "zh_tw": "冰寒之性"
+  },
+  "Sigil of Ice": {
+    "zh_cn": "冰霜法印",
+    "zh_tw": "冰霜符印"
+  },
+  "Thin Ice": {
+    "zh_cn": "如履薄冰",
+    "zh_tw": "如履薄冰"
+  },
+  "Heavy Frost": {
+    "zh_cn": "深厚霜寒",
+    "zh_tw": "厚重冰霜"
+  },
+  "Elemental Force": {
+    "zh_cn": "元素之力",
+    "zh_tw": "元素之力"
+  },
+  "Harsh Winter": {
+    "zh_cn": "凛冽寒冬",
+    "zh_tw": "嚴冬"
+  },
+  "Climate Change": {
+    "zh_cn": "气候变化",
+    "zh_tw": "氣候變遷"
+  },
+  "Echoing Frost": {
+    "zh_cn": "回响冰霜",
+    "zh_tw": "迴盪寒霜"
+  },
+  "Endless Blizzard": {
+    "zh_cn": "无尽暴风雪",
+    "zh_tw": "無盡暴雪"
+  },
+  "Essence of the Mountain": {
+    "zh_cn": "群山的精华",
+    "zh_tw": "山地精華"
+  },
+  "Biting Frost": {
+    "zh_cn": "刺骨寒意",
+    "zh_tw": "寒霜噬咬"
+  },
+  "Deep Freeze": {
+    "zh_cn": "深度冻结",
+    "zh_tw": "深度冷凍"
+  },
+  "Hail": {
+    "zh_cn": "冰雹骤降",
+    "zh_tw": "冰雹"
+  },
+  "Pure Power": {
+    "zh_cn": "纯粹力量",
+    "zh_tw": "純粹電能"
+  },
+  "Electrifying Nature": {
+    "zh_cn": "性如霹雳",
+    "zh_tw": "電能之性"
+  },
+  "Sigil of Lightning": {
+    "zh_cn": "闪电法印",
+    "zh_tw": "雷電符印"
+  },
+  "Power Conduction": {
+    "zh_cn": "力量传导",
+    "zh_tw": "能量傳導"
+  },
+  "Wild Storm": {
+    "zh_cn": "不羁雷暴",
+    "zh_tw": "狂野風暴"
+  },
+  "Principal Infusion": {
+    "zh_cn": "主要灌注",
+    "zh_tw": "主要灌注"
+  },
+  "Flash Storm": {
+    "zh_cn": "迅闪雷暴",
+    "zh_tw": "電光風暴"
+  },
+  "Thunderstruck": {
+    "zh_cn": "天雷轰顶",
+    "zh_tw": "雷擊"
+  },
+  "Spreading Shocks": {
+    "zh_cn": "感电传播",
+    "zh_tw": "擴散感電"
+  },
+  "Endless Circuit": {
+    "zh_cn": "无穷环路",
+    "zh_tw": "無限循環"
+  },
+  "Lightning Quick": {
+    "zh_cn": "迅如闪电",
+    "zh_tw": "迅雷"
+  },
+  "Echoing Thunder": {
+    "zh_cn": "回响雷霆",
+    "zh_tw": "迴盪雷電"
+  },
+  "Essence of the Storm": {
+    "zh_cn": "风暴的精华",
+    "zh_tw": "暴風精髓"
+  },
+  "Alternating Current": {
+    "zh_cn": "交流电涌",
+    "zh_tw": "交流電"
+  },
+  "Archon of the Storm": {
+    "zh_cn": "风暴执政官",
+    "zh_tw": "風暴統治者"
+  },
+  "Embodiment of Lightning": {
+    "zh_cn": "闪电化身",
+    "zh_tw": "閃電的化身"
+  },
+  "Electric Blood": {
+    "zh_cn": "电震之血",
+    "zh_tw": "電氣之血"
+  },
+  "Pure Chaos": {
+    "zh_cn": "纯粹混沌",
+    "zh_tw": "全然混沌"
+  },
+  "Dark Entries": {
+    "zh_cn": "没入黑暗",
+    "zh_tw": "黑暗侵襲"
+  },
+  "Spaghettification": {
+    "zh_cn": "扭曲湮没",
+    "zh_tw": "麵條化"
+  },
+  "Event Horizon": {
+    "zh_cn": "黑洞界域",
+    "zh_tw": "事件視界"
+  },
+  "Spiral into Insanity": {
+    "zh_cn": "疯乱螺旋",
+    "zh_tw": "瘋狂漩渦"
+  },
+  "Stylebender": {
+    "zh_cn": "篡式者",
+    "zh_tw": "風格轉換"
+  },
+  "Void": {
+    "zh_cn": "虚空",
+    "zh_tw": "虛空"
+  },
+  "Lingering Horror": {
+    "zh_cn": "延宕恐惧",
+    "zh_tw": "殘留恐懼"
+  },
+  "Wither Away": {
+    "zh_cn": "凋谢",
+    "zh_tw": "枯萎"
+  },
+  "Shatter Palm": {
+    "zh_cn": "溃裂掌",
+    "zh_tw": "粉碎之掌"
+  },
+  "Cut to the Bone": {
+    "zh_cn": "透骨之劲",
+    "zh_tw": "刀刀見骨"
+  },
+  "Staggering Palm": {
+    "zh_cn": "惊风掌",
+    "zh_tw": "撼敵之掌"
+  },
+  "Madness in the Bones": {
+    "zh_cn": "疯入骨髓",
+    "zh_tw": "滲骨瘋狂"
+  },
+  "Shredding Force": {
+    "zh_cn": "粉碎巨力",
+    "zh_tw": "粉碎之力"
+  },
+  "Blood Tearing": {
+    "zh_cn": "崩裂血脉",
+    "zh_tw": "撕裂血肉"
+  },
+  "Tempered Mind": {
+    "zh_cn": "淬火之心",
+    "zh_tw": "冶鍊之意"
+  },
+  "Battle Fever": {
+    "zh_cn": "战斗狂热",
+    "zh_tw": "戰鬥狂熱"
+  },
+  "Splinters": {
+    "zh_cn": "裂甲",
+    "zh_tw": "斷片"
+  },
+  "Material Solidification": {
+    "zh_cn": "材料固化",
+    "zh_tw": "物質固化"
+  },
+  "Endured Suffering": {
+    "zh_cn": "忍受之苦",
+    "zh_tw": "忍受痛苦"
+  },
+  "Constricting": {
+    "zh_cn": "巨力挤轧",
+    "zh_tw": "緊縮"
+  },
+  "Boundless Growth": {
+    "zh_cn": "野蛮生长",
+    "zh_tw": "無限生長"
+  },
+  "Return to Nature": {
+    "zh_cn": "回归自然",
+    "zh_tw": "回歸自然"
+  },
+  "Dangerous Blossom": {
+    "zh_cn": "灾厄绽放",
+    "zh_tw": "危險綻放"
+  },
+  "Proliferating Weeds": {
+    "zh_cn": "疯长藤蔓",
+    "zh_tw": "雜草叢生"
+  },
+  "Haemorrhaging Cuts": {
+    "zh_cn": "出血创口",
+    "zh_tw": "流血切口"
+  },
+  "Rupturing Pins": {
+    "zh_cn": "破裂钉刺",
+    "zh_tw": "破裂之針"
+  },
+  "Bone Chains": {
+    "zh_cn": "白骨锁链",
+    "zh_tw": "骸骨連鎖"
+  },
+  "Sanguine Tolerance": {
+    "zh_cn": "赤血耐受",
+    "zh_tw": "腥紅堅毅"
+  },
+  "Unbound Forces": {
+    "zh_cn": "无拘之力",
+    "zh_tw": "無縛之力"
+  },
+  "Harness the Elements": {
+    "zh_cn": "驾驭元素",
+    "zh_tw": "駕馭元素"
+  },
+  "Stormcharged": {
+    "zh_cn": "风暴随身",
+    "zh_tw": "雷霆充能"
+  },
+  "Overexposure": {
+    "zh_cn": "过量曝露",
+    "zh_tw": "過度曝曬"
+  },
+  "Breaking Point": {
+    "zh_cn": "断裂点",
+    "zh_tw": "臨界點"
+  },
+  "All Natural": {
+    "zh_cn": "纯粹自然",
+    "zh_tw": "純然天性"
+  },
+  "Stormbreaker": {
+    "zh_cn": "风暴克星",
+    "zh_tw": "風暴破壞者"
+  },
+  "Primal Sundering": {
+    "zh_cn": "原始裂解",
+    "zh_tw": "原始震擊"
+  },
+  "Stripped Defences": {
+    "zh_cn": "剥夺防御",
+    "zh_tw": "剝離防禦"
+  },
+  "Mind Eraser": {
+    "zh_cn": "抹除心智",
+    "zh_tw": "心靈抹除"
+  },
+  "Sturdy Mind": {
+    "zh_cn": "坚韧心灵",
+    "zh_tw": "堅韌思維"
+  },
+  "Mana Blessing": {
+    "zh_cn": "魔力祝福",
+    "zh_tw": "魔力祝福"
+  },
+  "Lucidity": {
+    "zh_cn": "明澈",
+    "zh_tw": "夢醒"
+  },
+  "Mental Toughness": {
+    "zh_cn": "心灵坚毅",
+    "zh_tw": "強韌心理"
+  },
+  "Arcane Intensity": {
+    "zh_cn": "秘术激荡",
+    "zh_tw": "秘能強化"
+  },
+  "Raw Mana": {
+    "zh_cn": "源生魔力",
+    "zh_tw": "原始魔力"
+  },
+  "Adverse Growth": {
+    "zh_cn": "逆向增生",
+    "zh_tw": "逆向增長"
+  },
+  "Soul Bloom": {
+    "zh_cn": "灵魂盛放",
+    "zh_tw": "靈魂綻放"
+  },
+  "Investing Energies": {
+    "zh_cn": "挥霍能量",
+    "zh_tw": "能量投入"
+  },
+  "Conservative Casting": {
+    "zh_cn": "节能施法",
+    "zh_tw": "謹慎施法"
+  },
+  "Full Recovery": {
+    "zh_cn": "完全康复",
+    "zh_tw": "完全恢復"
+  },
+  "Arcane Blossom": {
+    "zh_cn": "秘术绽放",
+    "zh_tw": "秘能之花"
+  },
+  "Aspiring Genius": {
+    "zh_cn": "壮志奇才",
+    "zh_tw": "野心天才"
+  },
+  "Open Mind": {
+    "zh_cn": "开阔思维",
+    "zh_tw": "敞開心胸"
+  },
+  "Touch the Arcane": {
+    "zh_cn": "触染秘能",
+    "zh_tw": "秘能之觸"
+  },
+  "Ether Flow": {
+    "zh_cn": "以太流动",
+    "zh_tw": "以太湧流"
+  },
+  "Arcane Nature": {
+    "zh_cn": "秘术自然",
+    "zh_tw": "奧術本質"
+  },
+  "Efficient Killing": {
+    "zh_cn": "高效溃敌",
+    "zh_tw": "高效獵殺"
+  },
+  "Efficient Casting": {
+    "zh_cn": "高效施法",
+    "zh_tw": "高效施法"
+  },
+  "Price of Freedom": {
+    "zh_cn": "自由的价码",
+    "zh_tw": "自由代價"
+  },
+  "Suffusion": {
+    "zh_cn": "充盈弥散",
+    "zh_tw": "瀰漫的"
+  },
+  "Siphon": {
+    "zh_cn": "虹吸",
+    "zh_tw": "虹吸"
+  },
+  "Manifold Method": {
+    "zh_cn": "集成绝学",
+    "zh_tw": "千方百計"
+  },
+  "Immortal Thirst": {
+    "zh_cn": "不朽渴望",
+    "zh_tw": "不朽渴望"
+  },
+  "Altered Brain Chemistry": {
+    "zh_cn": "易思换灵",
+    "zh_tw": "換腦化學"
+  },
+  "Wellspring": {
+    "zh_cn": "灵如泉涌",
+    "zh_tw": "泉源"
+  },
+  "Arcane Alchemy": {
+    "zh_cn": "秘术炼金",
+    "zh_tw": "秘能鍊金術"
+  },
+  "Warding Potions": {
+    "zh_cn": "御敌药水",
+    "zh_tw": "守護藥劑"
+  },
+  "Waters of Life": {
+    "zh_cn": "生命之水",
+    "zh_tw": "生命之水"
+  },
+  "Finesse": {
+    "zh_cn": "娴熟",
+    "zh_tw": "嫻熟"
+  },
+  "Determined Precision": {
+    "zh_cn": "果决精准",
+    "zh_tw": "精準果斷"
+  },
+  "Eagle Eye": {
+    "zh_cn": "鹰眼",
+    "zh_tw": "鷹眼"
+  },
+  "Locked On": {
+    "zh_cn": "锁定",
+    "zh_tw": "已鎖定"
+  },
+  "Falcon Dive": {
+    "zh_cn": "猎鹰俯冲",
+    "zh_tw": "獵鷹下墜"
+  },
+  "Near Sighted": {
+    "zh_cn": "凝近之视",
+    "zh_tw": "近距離射手"
+  },
+  "Far Sighted": {
+    "zh_cn": "远眺之目",
+    "zh_tw": "遠距離射手"
+  },
+  "Sharp Sight": {
+    "zh_cn": "锋芒之目",
+    "zh_tw": "銳利目光"
+  },
+  "Pinpoint Shot": {
+    "zh_cn": "制导射击",
+    "zh_tw": "精確射擊"
+  },
+  "Precision Salvo": {
+    "zh_cn": "精准齐射",
+    "zh_tw": "精準齊射"
+  },
+  "Nimble Strength": {
+    "zh_cn": "灵巧力量",
+    "zh_tw": "敏捷之力"
+  },
+  "Strike True": {
+    "zh_cn": "精准打击",
+    "zh_tw": "真實打擊"
+  },
+  "Saqawal's Guidance": {
+    "zh_cn": "萨奇沃的指引",
+    "zh_tw": "薩卡沃的指引"
+  },
+  "Coming Calamity": {
+    "zh_cn": "灾难使者",
+    "zh_tw": "災難臨頭"
+  },
+  "Fate Finding": {
+    "zh_cn": "命运的束缚",
+    "zh_tw": "命運探尋"
+  },
+  "Apocalypse": {
+    "zh_cn": "天启",
+    "zh_tw": "天啟"
+  },
+  "Doomsayer": {
+    "zh_cn": "末日预言者",
+    "zh_tw": "末日預言者"
+  },
+  "Agonising Calamity": {
+    "zh_cn": "苦痛血祸",
+    "zh_tw": "慘痛災禍"
+  },
+  "Enveloping Presence": {
+    "zh_cn": "裹挟气场",
+    "zh_tw": "無微不至"
+  },
+  "Bolstering Presence": {
+    "zh_cn": "振奋气场",
+    "zh_tw": "振奮光環"
+  },
+  "Profane Commander": {
+    "zh_cn": "渎神指挥官",
+    "zh_tw": "草根指揮官"
+  },
+  "Warlord Leader": {
+    "zh_cn": "督军领袖",
+    "zh_tw": "總督軍領袖"
+  },
+  "Warlord Berserker": {
+    "zh_cn": "督军狂战士",
+    "zh_tw": "總督軍暴徒"
+  },
+  "Lone Warrior": {
+    "zh_cn": "独行战士",
+    "zh_tw": "獨行戰士"
+  },
+  "All For One": {
+    "zh_cn": "众志成城",
+    "zh_tw": "萬眾歸一"
+  },
+  "One For All": {
+    "zh_cn": "舍己为人",
+    "zh_tw": "無私奉獻"
+  },
+  "Energise": {
+    "zh_cn": "能量充沛",
+    "zh_tw": "賦能"
+  },
+  "Invocated Efficiency": {
+    "zh_cn": "祈唤高效",
+    "zh_tw": "祈願之語"
+  },
+  "Dynamism": {
+    "zh_cn": "跃动活力",
+    "zh_tw": "活力"
+  },
+  "Invocated Limit": {
+    "zh_cn": "祈唤上限",
+    "zh_tw": "祈願上限"
+  },
+  "Invocated Echoes": {
+    "zh_cn": "祈唤回响",
+    "zh_tw": "祈願迴響"
+  },
+  "Efficient Inscriptions": {
+    "zh_cn": "高效铭文",
+    "zh_tw": "高效銘文"
+  },
+  "Precise Invocations": {
+    "zh_cn": "精确咒祈",
+    "zh_tw": "精確祈願"
+  },
+  "Deadly Invocations": {
+    "zh_cn": "致命咒祈",
+    "zh_tw": "致命祈願"
+  },
+  "Protraction": {
+    "zh_cn": "延继",
+    "zh_tw": "延伸效用"
+  },
+  "Preservation": {
+    "zh_cn": "厚积薄发",
+    "zh_tw": "保存實力"
+  },
+  "Tides of Change": {
+    "zh_cn": "激变浪潮",
+    "zh_tw": "變革浪潮"
+  },
+  "Forthcoming": {
+    "zh_cn": "绵延不绝",
+    "zh_tw": "命運將至"
+  },
+  "Grounded in the Earth": {
+    "zh_cn": "扎根大地",
+    "zh_tw": "腳踏實地"
+  },
+  "Swift Claw": {
+    "zh_cn": "迅捷之爪",
+    "zh_tw": "迅捷之爪"
+  },
+  "Piercing Claw": {
+    "zh_cn": "洞穿利爪",
+    "zh_tw": "穿刺之爪"
+  },
+  "Sharpened Claw": {
+    "zh_cn": "锐利之爪",
+    "zh_tw": "鋒利之爪"
+  },
+  "Bestial Rage": {
+    "zh_cn": "兽性怒火",
+    "zh_tw": "野獸狂怒"
+  },
+  "Boon of the Beast": {
+    "zh_cn": "野兽恩泽",
+    "zh_tw": "野獸之賜"
+  },
+  "Shifted Strikes": {
+    "zh_cn": "变形打击",
+    "zh_tw": "變形打擊"
+  },
+  "Bear's Roar": {
+    "zh_cn": "熊之怒吼",
+    "zh_tw": "熊之咆吼"
+  },
+  "Wyvern's Breath": {
+    "zh_cn": "飞龙吐息",
+    "zh_tw": "飛龍之息"
+  },
+  "Wolf's Howl": {
+    "zh_cn": "狼之长嚎",
+    "zh_tw": "狼嚎"
+  },
+  "Insulating Hide": {
+    "zh_cn": "保暖毛皮",
+    "zh_tw": "絕緣獸皮"
+  },
+  "Molten Claw": {
+    "zh_cn": "熔岩利爪",
+    "zh_tw": "熔岩之爪"
+  },
+  "Spirit of the Bear": {
+    "zh_cn": "巨熊之灵",
+    "zh_tw": "巨熊之靈"
+  },
+  "Hide of the Bear": {
+    "zh_cn": "巨熊之皮",
+    "zh_tw": "巨熊獸皮"
+  },
+  "Bashing Beast": {
+    "zh_cn": "猛兽重击",
+    "zh_tw": "猛擊野獸"
+  },
+  "Blood of the Wolf": {
+    "zh_cn": "巨狼之血",
+    "zh_tw": "惡狼之血"
+  },
+  "Spirit of the Wolf": {
+    "zh_cn": "头狼之灵",
+    "zh_tw": "靈魂之狼"
+  },
+  "Howling Beast": {
+    "zh_cn": "嚎叫兽灵",
+    "zh_tw": "野獸嚎叫"
+  },
+  "Frozen Claw": {
+    "zh_cn": "寒冰爪击",
+    "zh_tw": "冰凍之爪"
+  },
+  "Scales of the Wyvern": {
+    "zh_cn": "飞龙鳞甲",
+    "zh_tw": "飛龍鱗片"
+  },
+  "Spirit of the Wyvern": {
+    "zh_cn": "飞龙之灵",
+    "zh_tw": "靈魂之龍"
+  },
+  "Electrified Claw": {
+    "zh_cn": "雷电爪击",
+    "zh_tw": "電擊之爪"
+  },
+  "Surging Beast": {
+    "zh_cn": "奔涌兽灵",
+    "zh_tw": "洶湧野獸"
+  },
+  "Adaptive Skin": {
+    "zh_cn": "应变外观",
+    "zh_tw": "適應皮膚"
+  },
+  "Dimensional Weakspot": {
+    "zh_cn": "维度弱点",
+    "zh_tw": "維度弱點"
+  },
+  "Blood Transfusion": {
+    "zh_cn": "鲜血输注",
+    "zh_tw": "鮮血傳輸"
+  },
+  "Sacrificial Blood": {
+    "zh_cn": "献祭之血",
+    "zh_tw": "獻祭鮮血"
+  },
+  "First Approach": {
+    "zh_cn": "第一次接触",
+    "zh_tw": "初次嘗試"
+  },
+  "Finishing Blows": {
+    "zh_cn": "绝命追击",
+    "zh_tw": "終結之擊"
+  },
+  "Stars Aligned": {
+    "zh_cn": "群星罗列",
+    "zh_tw": "行列眾星"
+  },
+  "Finality": {
+    "zh_cn": "殒殁",
+    "zh_tw": "終結"
+  },
+  "Mental Perseverance": {
+    "zh_cn": "顽强精神",
+    "zh_tw": "堅毅心靈"
+  },
+  "Nourishing Ally": {
+    "zh_cn": "滋润的友军",
+    "zh_tw": "滋養的盟友"
+  },
+  "Thirsting Ally": {
+    "zh_cn": "饥渴的友军",
+    "zh_tw": "飢渴的盟友"
+  },
+  "Sturdy Ally": {
+    "zh_cn": "顽强的战友",
+    "zh_tw": "強健的盟友"
+  },
+  "Unimpeded": {
+    "zh_cn": "畅通无阻",
+    "zh_tw": "暢通無阻"
+  },
+  "Near at Hand": {
+    "zh_cn": "探囊取物",
+    "zh_tw": "近在咫尺"
+  },
+  "Unyielding": {
+    "zh_cn": "不折",
+    "zh_tw": "屹立不搖"
+  },
+  "Time Manipulation": {
+    "zh_cn": "操纵时光",
+    "zh_tw": "時間操縱"
+  },
+  "Chronomancy": {
+    "zh_cn": "时占术",
+    "zh_tw": "時空法術"
+  },
+  "Hindered Capabilities": {
+    "zh_cn": "机能阻碍",
+    "zh_tw": "受阻之力"
+  },
+  "Lasting Boons": {
+    "zh_cn": "持久恩惠",
+    "zh_tw": "持續恩惠"
+  },
+  "Waning Hindrances": {
+    "zh_cn": "衰落妨碍",
+    "zh_tw": "衰退阻礙"
+  },
+  "Temporal Mastery": {
+    "zh_cn": "时光掌控",
+    "zh_tw": "時間專精"
+  },
+  "Alchemical Oil": {
+    "zh_cn": "炼金秘油",
+    "zh_tw": "煉金之油"
+  },
+  "Steady Footing": {
+    "zh_cn": "稳固立足",
+    "zh_tw": "穩固立足"
+  },
+  "Catalysis": {
+    "zh_cn": "催化反应",
+    "zh_tw": "催化"
+  },
+  "Crystal Elixir": {
+    "zh_cn": "水晶灵药",
+    "zh_tw": "水晶靈藥"
+  },
+  "Forces of Nature": {
+    "zh_cn": "自然之力",
+    "zh_tw": "自然之力"
+  },
+  "Emboldened Avatar": {
+    "zh_cn": "刚胆化身",
+    "zh_tw": "勇氣化生"
+  },
+  "Pocket Sand": {
+    "zh_cn": "袋藏飞沙",
+    "zh_tw": "口袋藏沙"
+  },
+  "Disorientation": {
+    "zh_cn": "头昏眼花",
+    "zh_tw": "混亂攻擊"
+  },
+  "Frantic Swings": {
+    "zh_cn": "狂热挥击",
+    "zh_tw": "狂亂揮擊"
+  },
+  "Distracted Target": {
+    "zh_cn": "声东击西",
+    "zh_tw": "干擾目標"
+  },
+  "Acceleration": {
+    "zh_cn": "加速",
+    "zh_tw": "加速"
+  },
+  "Adrenaline Rush": {
+    "zh_cn": "激情冲动",
+    "zh_tw": "腎上腺素"
+  },
+  "Primal Growth": {
+    "zh_cn": "原始生长",
+    "zh_tw": "原始成長"
+  },
+  "Impact Area": {
+    "zh_cn": "震荡中心",
+    "zh_tw": "衝擊範圍"
+  },
+  "Devastation": {
+    "zh_cn": "摧枯拉朽",
+    "zh_tw": "毀滅"
+  },
+  "Impact Force": {
+    "zh_cn": "冲击之力",
+    "zh_tw": "衝擊之力"
+  },
+  "Authority": {
+    "zh_cn": "权威",
+    "zh_tw": "權威"
+  },
+  "Crushing Judgement": {
+    "zh_cn": "威压裁决",
+    "zh_tw": "粉碎審判"
+  },
+  "Reverberating Impact": {
+    "zh_cn": "回荡冲击",
+    "zh_tw": "迴響衝擊"
+  },
+  "Tribal Fury": {
+    "zh_cn": "部落之怒",
+    "zh_tw": "部落之怒"
+  },
+  "Splitting Ground": {
+    "zh_cn": "分裂大地",
+    "zh_tw": "分裂地面"
+  },
+  "Primed to Explode": {
+    "zh_cn": "引爆预备",
+    "zh_tw": "準備引爆"
+  },
+  "Frantic Reach": {
+    "zh_cn": "狂乱之触",
+    "zh_tw": "狂亂延伸"
+  },
+  "Resolute Reach": {
+    "zh_cn": "决意之触",
+    "zh_tw": "堅定延伸"
+  },
+  "Dizzying Sweep": {
+    "zh_cn": "荡魂横扫",
+    "zh_tw": "眩旋橫掃"
+  },
+  "Disciplined Training": {
+    "zh_cn": "模范训练",
+    "zh_tw": "紀律訓練"
+  },
+  "Roil": {
+    "zh_cn": "喧腾",
+    "zh_tw": "翻騰"
+  },
+  "Repulsion": {
+    "zh_cn": "反斥",
+    "zh_tw": "排斥"
+  },
+  "Echoing Pulse": {
+    "zh_cn": "回响脉冲",
+    "zh_tw": "迴盪脈衝"
+  },
+  "Reverberation": {
+    "zh_cn": "回荡",
+    "zh_tw": "回響"
+  },
+  "Ruin": {
+    "zh_cn": "废灭",
+    "zh_tw": "毀壞"
+  },
+  "Turn the Clock Back": {
+    "zh_cn": "时光倒转",
+    "zh_tw": "時光倒流"
+  },
+  "Turn the Clock Forward": {
+    "zh_cn": "时光跃进",
+    "zh_tw": "時光前推"
+  },
+  "Psychic Fragmentation": {
+    "zh_cn": "念力分裂",
+    "zh_tw": "幽能碎片"
+  },
+  "Encompassing Domain": {
+    "zh_cn": "统御万象",
+    "zh_tw": "包覆領域"
+  },
+  "Radial Force": {
+    "zh_cn": "崩飞之力",
+    "zh_tw": "徑向力"
+  },
+  "Cull the Hordes": {
+    "zh_cn": "汰除",
+    "zh_tw": "剿敵"
+  },
+  "Giantslayer": {
+    "zh_cn": "巨人克星",
+    "zh_tw": "泰坦殺手"
+  },
+  "Bounty Hunter": {
+    "zh_cn": "赏金猎人",
+    "zh_tw": "賞金獵人"
+  },
+  "Finish Them": {
+    "zh_cn": "了结他们",
+    "zh_tw": "了結他們"
+  },
+  "Crushing Verdict": {
+    "zh_cn": "倾力裁决",
+    "zh_tw": "毀滅裁決"
+  },
+  "Lasting Trauma": {
+    "zh_cn": "持久创伤",
+    "zh_tw": "持久創傷"
+  },
+  "Seeing Stars": {
+    "zh_cn": "眼冒金星",
+    "zh_tw": "見證群星"
+  },
+  "Stupefy": {
+    "zh_cn": "茫然无措",
+    "zh_tw": "麻木"
+  },
+  "Shattering Daze": {
+    "zh_cn": "粉碎恍惚",
+    "zh_tw": "粉碎目眩"
+  },
+  "Electrifying Daze": {
+    "zh_cn": "电殛恍惚",
+    "zh_tw": "電光目眩"
+  },
+  "Dizzying Hits": {
+    "zh_cn": "眩晕击中",
+    "zh_tw": "暈眩之擊"
+  },
+  "Revenge": {
+    "zh_cn": "报复",
+    "zh_tw": "復仇"
+  },
+  "Retaliation": {
+    "zh_cn": "反击",
+    "zh_tw": "復仇"
+  },
+  "Spiked Armour": {
+    "zh_cn": "倒刺护甲",
+    "zh_tw": "尖刺護甲"
+  },
+  "Vengeance": {
+    "zh_cn": "复仇",
+    "zh_tw": "復仇"
+  },
+  "Thornhide": {
+    "zh_cn": "荆棘之肤",
+    "zh_tw": "荊棘之皮"
+  },
+  "In the Thick of It": {
+    "zh_cn": "刀山火海",
+    "zh_tw": "深入其中"
+  },
+  "Thrill of Battle": {
+    "zh_cn": "激战热血",
+    "zh_tw": "戰鬥亢奮"
+  },
+  "Tactical Retreat": {
+    "zh_cn": "战术撤退",
+    "zh_tw": "戰術性撤退"
+  },
+  "Paranoia": {
+    "zh_cn": "偏执",
+    "zh_tw": "偏執"
+  },
+  "Favourable Odds": {
+    "zh_cn": "有利胜算",
+    "zh_tw": "有利形勢"
+  },
+  "Frantic Fighter": {
+    "zh_cn": "狂热战士",
+    "zh_tw": "瘋狂鬥士"
+  },
+  "Bannerman": {
+    "zh_cn": "旗手",
+    "zh_tw": "掌旗手"
+  },
+  "Inspiring Leader": {
+    "zh_cn": "领袖英姿",
+    "zh_tw": "激昂之首"
+  },
+  "Symbol of Defiance": {
+    "zh_cn": "抗争的象征",
+    "zh_tw": "衛道之符"
+  },
+  "Reinforced Rallying": {
+    "zh_cn": "坚韧集结",
+    "zh_tw": "強化士氣"
+  },
+  "Rallying Icon": {
+    "zh_cn": "奋发的偶像",
+    "zh_tw": "激勵圖樣"
+  },
+  "Silent Guardian": {
+    "zh_cn": "沉默卫士",
+    "zh_tw": "無聲守護者"
+  },
+  "Bringer of Order": {
+    "zh_cn": "秩序使者",
+    "zh_tw": "秩序使者"
+  },
+  "Holy Protector": {
+    "zh_cn": "神圣捍卫者",
+    "zh_tw": "神聖保護者"
+  },
+  "Aftershocks": {
+    "zh_cn": "余震",
+    "zh_tw": "餘震"
+  },
+  "Behemoth": {
+    "zh_cn": "巨兽",
+    "zh_tw": "巨獸"
+  },
+  "Marked for Death": {
+    "zh_cn": "死亡印记",
+    "zh_tw": "死亡印記"
+  },
+  "Marked for Sickness": {
+    "zh_cn": "弊病印记",
+    "zh_tw": "病痛印記"
+  },
+  "Marked Agility": {
+    "zh_cn": "标记敏捷",
+    "zh_tw": "印記靈敏"
+  },
+  "Unsight": {
+    "zh_cn": "视若无睹",
+    "zh_tw": "隱蔽"
+  },
+  "Stigmata": {
+    "zh_cn": "圣痕",
+    "zh_tw": "聖痕"
+  },
+  "Meat Recycling": {
+    "zh_cn": "血肉回收",
+    "zh_tw": "肉塊回收"
+  },
+  "Lust for Sacrifice": {
+    "zh_cn": "牺牲的渴望",
+    "zh_tw": "渴求獻祭"
+  },
+  "Utmost Offering": {
+    "zh_cn": "至高奉献",
+    "zh_tw": "至高奉獻"
+  },
+  "Vile Wounds": {
+    "zh_cn": "恶毒创伤",
+    "zh_tw": "惡性創傷"
+  },
+  "Exploit": {
+    "zh_cn": "利用",
+    "zh_tw": "弱點針對"
+  },
+  "Exploit the Elements": {
+    "zh_cn": "元素利用",
+    "zh_tw": "元素弱點"
+  },
+  "Clean Shot": {
+    "zh_cn": "一击中的",
+    "zh_tw": "俐落射擊"
+  },
+  "Ricochet": {
+    "zh_cn": "弹射",
+    "zh_tw": "彈射"
+  },
+  "Stand and Deliver": {
+    "zh_cn": "坚守阵地",
+    "zh_tw": "攔路搶劫"
+  },
+  "Death from Afar": {
+    "zh_cn": "远方的死神",
+    "zh_tw": "遠迎死劫"
+  },
+  "Headshot": {
+    "zh_cn": "命中目标",
+    "zh_tw": "爆頭"
+  },
+  "Sling Shots": {
+    "zh_cn": "弹弓射击",
+    "zh_tw": "彈弩射擊"
+  },
+  "Multi Shot": {
+    "zh_cn": "多重射击",
+    "zh_tw": "多重箭矢"
+  },
+  "Swift Flight": {
+    "zh_cn": "迅捷飞掠",
+    "zh_tw": "馭天"
+  },
+  "Hidden Barb": {
+    "zh_cn": "暗箭伤人",
+    "zh_tw": "隱蔽尖刺"
+  },
+  "Brutal": {
+    "zh_cn": "凶残",
+    "zh_tw": "殘忍"
+  },
+  "Relentless": {
+    "zh_cn": "冷酷无情",
+    "zh_tw": "冷酷無情"
+  },
+  "Blur": {
+    "zh_cn": "模糊身影",
+    "zh_tw": "模糊"
+  },
+  "Honed Instincts": {
+    "zh_cn": "娴熟本能",
+    "zh_tw": "敏銳本能"
+  },
+  "Raw Power": {
+    "zh_cn": "原始力量",
+    "zh_tw": "原始力量"
+  },
+  "Pure Energy": {
+    "zh_cn": "纯粹能量",
+    "zh_tw": "純淨能量"
+  },
+  "Battle-hardened": {
+    "zh_cn": "历战老兵",
+    "zh_tw": "固守戰場"
+  },
+  "Remorseless": {
+    "zh_cn": "无情冷面",
+    "zh_tw": "殘酷無情"
+  },
+  "Relentless Vindicator": {
+    "zh_cn": "无休仲裁者",
+    "zh_tw": "無情護衛者"
+  },
+  "Devoted Protector": {
+    "zh_cn": "献身卫士",
+    "zh_tw": "至誠保衛者"
+  },
+  "Flow Like Water": {
+    "zh_cn": "势如流水",
+    "zh_tw": "行雲流水"
+  },
+  "Step Like Mist": {
+    "zh_cn": "迷踪步履",
+    "zh_tw": "騰雲踏霧"
+  },
+  "Sudden Escalation": {
+    "zh_cn": "骤升",
+    "zh_tw": "突發升級"
+  },
+  "Critical Overload": {
+    "zh_cn": "致命超载",
+    "zh_tw": "暴擊超載"
+  },
+  "Controlling Magic": {
+    "zh_cn": "支配魔法",
+    "zh_tw": "操控魔法"
+  },
+  "Emboldening Casts": {
+    "zh_cn": "鼓舞施法",
+    "zh_tw": "鼓舞詠唱"
+  },
+  "Enhancing Attacks": {
+    "zh_cn": "强化攻击",
+    "zh_tw": "增強攻擊"
+  },
+  "Equilibrium": {
+    "zh_cn": "魔武双修",
+    "zh_tw": "均衡"
+  },
+  "Forcewave": {
+    "zh_cn": "撼地波",
+    "zh_tw": "力量震波"
+  },
+  "Clear Space": {
+    "zh_cn": "清理空间",
+    "zh_tw": "清空區域"
+  },
+  "Exposed to the Inferno": {
+    "zh_cn": "迎面烈火",
+    "zh_tw": "暴露於煉獄之火"
+  },
+  "Breath of Fire": {
+    "zh_cn": "火焰之息",
+    "zh_tw": "火焰之息"
+  },
+  "Cremation": {
+    "zh_cn": "火焚",
+    "zh_tw": "熔炎送葬"
+  },
+  "Smoke Inhalation": {
+    "zh_cn": "燎烟窒息",
+    "zh_tw": "吞雲吐霧"
+  },
+  "Overheating Blow": {
+    "zh_cn": "超温打击",
+    "zh_tw": "過熱一擊"
+  },
+  "Shattered Crystal": {
+    "zh_cn": "碎裂晶体",
+    "zh_tw": "碎裂水晶"
+  },
+  "Ice Walls": {
+    "zh_cn": "寒冰之壁",
+    "zh_tw": "冰牆"
+  },
+  "Storm Swell": {
+    "zh_cn": "风暴周期",
+    "zh_tw": "風暴浪潮"
+  },
+  "Exposed to the Cosmos": {
+    "zh_cn": "迎面浩渺",
+    "zh_tw": "暴露於宇宙"
+  },
+  "Snowpiercer": {
+    "zh_cn": "破雪者",
+    "zh_tw": "冰雪穿透"
+  },
+  "Breath of Ice": {
+    "zh_cn": "寒冰之息",
+    "zh_tw": "寒冰之息"
+  },
+  "Glaciation": {
+    "zh_cn": "冰河世纪",
+    "zh_tw": "急凍化"
+  },
+  "Overload": {
+    "zh_cn": "超载",
+    "zh_tw": "過載"
+  },
+  "Exposed to the Storm": {
+    "zh_cn": "迎面风暴",
+    "zh_tw": "暴露於風暴"
+  },
+  "Storm Surge": {
+    "zh_cn": "风暴激涌",
+    "zh_tw": "風暴洶湧"
+  },
+  "Breath of Lightning": {
+    "zh_cn": "闪电之息",
+    "zh_tw": "閃電之息"
+  },
+  "Surging Currents": {
+    "zh_cn": "喷涌电流",
+    "zh_tw": "湧動電流"
+  },
+  "Electric Amplification": {
+    "zh_cn": "电流增幅",
+    "zh_tw": "閃電增幅"
+  },
+  "Lightning Rod": {
+    "zh_cn": "引雷针",
+    "zh_tw": "雷霆之杖"
+  },
+  "Electrotherapy": {
+    "zh_cn": "电击疗法",
+    "zh_tw": "電療"
+  },
+  "Chakra of Impact": {
+    "zh_cn": "冲击脉轮",
+    "zh_tw": "衝擊脈輪"
+  },
+  "Chakra of Rhythm": {
+    "zh_cn": "韵律脉轮",
+    "zh_tw": "韻律脈輪"
+  },
+  "Chakra of Breathing": {
+    "zh_cn": "呼吸脉轮",
+    "zh_tw": "呼吸脈輪"
+  },
+  "Distant Dreamer": {
+    "zh_cn": "远方的幻梦者",
+    "zh_tw": "遙遠幻夢者"
+  },
+  "Evocational Practitioner": {
+    "zh_cn": "召唤践行者",
+    "zh_tw": "喚起施行者"
+  },
+  "Chakra of Thought": {
+    "zh_cn": "思维脉轮",
+    "zh_tw": "思維脈輪"
+  },
+  "Chakra of Sight": {
+    "zh_cn": "灵视脉轮",
+    "zh_tw": "視野脈輪"
+  },
+  "Chakra of Life": {
+    "zh_cn": "生命脉轮",
+    "zh_tw": "生命脈輪"
+  },
+  "Chakra of Elements": {
+    "zh_cn": "元素脉轮",
+    "zh_tw": "元素脈輪"
+  },
+  "Chakra of Stability": {
+    "zh_cn": "稳定脉轮",
+    "zh_tw": "穩定脈輪"
+  },
+  "Commanding Rage": {
+    "zh_cn": "掌控怒火",
+    "zh_tw": "號令怒火"
+  },
+  "Pressure Points": {
+    "zh_cn": "直攻要害",
+    "zh_tw": "壓力點"
+  },
+  "The Molten One's Gift": {
+    "zh_cn": "熔岩者的馈赠",
+    "zh_tw": "熔岩者的禮物"
+  },
+  "Passthrough Rounds": {
+    "zh_cn": "穿透弹药",
+    "zh_tw": "子彈貫穿"
+  },
+  "Breakage": {
+    "zh_cn": "破甲",
+    "zh_tw": "破裂"
+  },
+  "Pile On": {
+    "zh_cn": "一起上吧",
+    "zh_tw": "堆砌"
+  },
+  "Irreparable": {
+    "zh_cn": "无可修复",
+    "zh_tw": "無可修復"
+  },
+  "Cruel Methods": {
+    "zh_cn": "凶残手段",
+    "zh_tw": "殘忍手段"
+  },
+  "Eroding Chains": {
+    "zh_cn": "腐蚀锁链",
+    "zh_tw": "侵蝕鎖鏈"
+  },
+  "Punctured Lung": {
+    "zh_cn": "肺部穿刺",
+    "zh_tw": "肺部破壞"
+  },
+  "Perforation": {
+    "zh_cn": "崎岖贯穿",
+    "zh_tw": "穿孔"
+  },
+  "Spike Pit": {
+    "zh_cn": "尖刺深坑",
+    "zh_tw": "尖刺陷阱"
+  },
+  "Distracting Presence": {
+    "zh_cn": "扰乱威势",
+    "zh_tw": "擾亂光環"
+  },
+  "Multitasking": {
+    "zh_cn": "多管齐下",
+    "zh_tw": "一心多用"
+  },
+  "Volatile Catalyst": {
+    "zh_cn": "动荡催化剂",
+    "zh_tw": "易爆催化劑"
+  },
+  "Deterioration": {
+    "zh_cn": "退化",
+    "zh_tw": "惡化"
+  },
+  "Exposed Wounds": {
+    "zh_cn": "伤口外露",
+    "zh_tw": "暴露傷口"
+  },
+  "Fast Acting Toxins": {
+    "zh_cn": "速效毒素",
+    "zh_tw": "速效毒素"
+  },
+  "Wasting": {
+    "zh_cn": "损耗",
+    "zh_tw": "虛耗"
+  },
+  "Intense Dose": {
+    "zh_cn": "强效药剂",
+    "zh_tw": "劇烈劑量"
+  },
+  "Nature's Bite": {
+    "zh_cn": "自然之咬",
+    "zh_tw": "自然之噬"
+  },
+  "Master Fletching": {
+    "zh_cn": "制箭大师",
+    "zh_tw": "箭矢大師"
+  },
+  "Wrapped Quiver": {
+    "zh_cn": "封装箭袋",
+    "zh_tw": "纏繞箭袋"
+  },
+  "Grenadier": {
+    "zh_cn": "掷弹兵",
+    "zh_tw": "擲彈手"
+  },
+  "Cluster Bombs": {
+    "zh_cn": "集束炸弹",
+    "zh_tw": "團簇炸彈"
+  },
+  "Volatile Grenades": {
+    "zh_cn": "动荡榴弹",
+    "zh_tw": "易爆擲彈"
+  },
+  "Utility Ordnance": {
+    "zh_cn": "实用军械",
+    "zh_tw": "實用軍械"
+  },
+  "Demolitionist": {
+    "zh_cn": "爆破专家",
+    "zh_tw": "破壞者"
+  },
+  "Pin their Motivation": {
+    "zh_cn": "锁定动机",
+    "zh_tw": "鎖定動機"
+  },
+  "Sitting Duck": {
+    "zh_cn": "呆头鸭",
+    "zh_tw": "待宰羔羊"
+  },
+  "Pin and Run": {
+    "zh_cn": "若即若离",
+    "zh_tw": "釘帶跑"
+  },
+  "Lockdown": {
+    "zh_cn": "封锁",
+    "zh_tw": "封鎖"
+  },
+  "Primal Protection": {
+    "zh_cn": "原始防护",
+    "zh_tw": "原始守護"
+  },
+  "Vale Shelter": {
+    "zh_cn": "遮风避雨",
+    "zh_tw": "谷地庇護"
+  },
+  "Thicket Warding": {
+    "zh_cn": "林荫守御",
+    "zh_tw": "樹叢守護"
+  },
+  "Lucky Rabbit Foot": {
+    "zh_cn": "幸运兔脚",
+    "zh_tw": "幸運兔腳"
+  },
+  "Woodland Aspect": {
+    "zh_cn": "深林守护",
+    "zh_tw": "木林祝福"
+  },
+  "Hunter's Talisman": {
+    "zh_cn": "猎人的魔符",
+    "zh_tw": "狩獵者巫符"
+  },
+  "Easy Going": {
+    "zh_cn": "随和",
+    "zh_tw": "好相處"
+  },
+  "Inspiring Ally": {
+    "zh_cn": "协力振作",
+    "zh_tw": "鼓舞人心的盟友"
+  },
+  "Nurturing Guardian": {
+    "zh_cn": "贴心的守护者",
+    "zh_tw": "滋養的守衛者"
+  },
+  "Captivating Companionship": {
+    "zh_cn": "醉人的友谊",
+    "zh_tw": "迷人陪伴"
+  },
+  "Long Distance Relationship": {
+    "zh_cn": "长距离关系",
+    "zh_tw": "遠距關係"
+  },
+  "Unspoken Bond": {
+    "zh_cn": "情在不言中",
+    "zh_tw": "不可言喻的連結"
+  },
+  "Lifelong Friend": {
+    "zh_cn": "终生的好友",
+    "zh_tw": "一生之友"
+  },
+  "Hunting Companion": {
+    "zh_cn": "狩猎伙伴",
+    "zh_tw": "狩獵盟友"
+  },
+  "Sic 'Em": {
+    "zh_cn": "放狗咬他们",
+    "zh_tw": "禁錮他們"
+  },
+  "Rallying Form": {
+    "zh_cn": "集结之姿",
+    "zh_tw": "集會結成"
+  },
+  "Pack Encouragement": {
+    "zh_cn": "兽群鼓舞",
+    "zh_tw": "鼓勵裝套"
+  },
+  "Licking Wounds": {
+    "zh_cn": "舔舐伤口",
+    "zh_tw": "舔舐傷口"
+  },
+  "Shredding Contraptions": {
+    "zh_cn": "粉碎装置",
+    "zh_tw": "粉碎裝置"
+  },
+  "Escalating Mayhem": {
+    "zh_cn": "混乱四起",
+    "zh_tw": "升溫混亂"
+  },
+  "Efficient Contraptions": {
+    "zh_cn": "高效装置",
+    "zh_tw": "效率裝置"
+  },
+  "Delayed Danger": {
+    "zh_cn": "延迟危害",
+    "zh_tw": "延遲危險"
+  },
+  "Widespread Coverage": {
+    "zh_cn": "广泛覆盖",
+    "zh_tw": "廣域覆蓋"
+  },
+  "Hindering Obstacles": {
+    "zh_cn": "阻挠障碍",
+    "zh_tw": "滯礙險阻"
+  },
+  "Infused Limits": {
+    "zh_cn": "灌注上限",
+    "zh_tw": "灌注上限"
+  },
+  "Infusing Power": {
+    "zh_cn": "灌注之力",
+    "zh_tw": "灌注力量"
+  },
+  "Everlasting Infusions": {
+    "zh_cn": "永恒灌注",
+    "zh_tw": "永恆灌注"
+  },
+  "Empowering Infusions": {
+    "zh_cn": "强化灌注",
+    "zh_tw": "強化灌注"
+  },
+  "Frozen Limit": {
+    "zh_cn": "冻结上限",
+    "zh_tw": "冰凍上限"
+  },
+  "Infernal Limit": {
+    "zh_cn": "炼狱上限",
+    "zh_tw": "煉獄上限"
+  },
+  "Shocking Limit": {
+    "zh_cn": "电震上限",
+    "zh_tw": "感電上限"
+  },
+  "Unstable Bond": {
+    "zh_cn": "动荡牵绊",
+    "zh_tw": "不穩定連結"
+  },
+  "Controlled Chaos": {
+    "zh_cn": "受控的混沌",
+    "zh_tw": "受控混沌"
+  },
+  "Instability": {
+    "zh_cn": "动荡",
+    "zh_tw": "聚能之界"
+  },
+  "Precise Volatility": {
+    "zh_cn": "精确无常",
+    "zh_tw": "精確易爆"
+  },
+  "Invigorating Grandeur": {
+    "zh_cn": "欢欣威严",
+    "zh_tw": "振奮宏偉"
+  },
+  "Everlasting Glory": {
+    "zh_cn": "永恒荣耀",
+    "zh_tw": "永恆榮耀"
+  },
+  "Glorious Anticipation": {
+    "zh_cn": "荣耀期待",
+    "zh_tw": "榮耀期盼"
+  },
+  "Thrill of the Fight": {
+    "zh_cn": "战斗的快感",
+    "zh_tw": "刺激戰鬥"
+  },
+  "Lead by Example": {
+    "zh_cn": "按图索骥",
+    "zh_tw": "以身作則"
+  },
+  "Craving Slaughter": {
+    "zh_cn": "杀戮之渴",
+    "zh_tw": "渴望屠殺"
+  },
+  "Hunter": {
+    "zh_cn": "猎手",
+    "zh_tw": "獵手"
+  },
+  "Necromantic Ward": {
+    "zh_cn": "灵能结界",
+    "zh_tw": "靈能保護"
+  },
+  "Momentum": {
+    "zh_cn": "动量",
+    "zh_tw": "氣勢"
+  },
+  "Light on your Feet": {
+    "zh_cn": "轻盈步伐",
+    "zh_tw": "輕快腳步"
+  },
+  "Spray and Pray": {
+    "zh_cn": "枪林弹雨",
+    "zh_tw": "隨興掃射"
+  },
+  "Run and Gun": {
+    "zh_cn": "炮轰战术",
+    "zh_tw": "打帶跑"
+  },
+  "Against the Elements": {
+    "zh_cn": "对抗元素",
+    "zh_tw": "元素對抗"
+  },
+  "Fearful Paralysis": {
+    "zh_cn": "恐惧麻痹",
+    "zh_tw": "恐懼癱瘓"
+  },
+  "Trained Turrets": {
+    "zh_cn": "训练炮台",
+    "zh_tw": "受訓哨戒塔"
+  },
+  "Artillery Strike": {
+    "zh_cn": "炮击",
+    "zh_tw": "砲火打擊"
+  },
+  "Fortified Location": {
+    "zh_cn": "坚固位置",
+    "zh_tw": "強化陣地"
+  },
+  "Kept at Bay": {
+    "zh_cn": "保持距离",
+    "zh_tw": "遏制"
+  },
+  "Enduring Archon": {
+    "zh_cn": "持久执政官",
+    "zh_tw": "恆久統治者"
+  },
+  "Resurging Archon": {
+    "zh_cn": "复兴执政官",
+    "zh_tw": "復行統治者"
+  },
+  "Invigorating Archon": {
+    "zh_cn": "欢欣执政官",
+    "zh_tw": "振奮統治者"
+  },
+  "Energising Archon": {
+    "zh_cn": "充能执政官",
+    "zh_tw": "活力統治者"
+  },
+  "Empowering Remnants": {
+    "zh_cn": "强化残片",
+    "zh_tw": "強化痕跡"
+  },
+  "Vigorous Remnants": {
+    "zh_cn": "活力残片",
+    "zh_tw": "蓬勃痕跡"
+  },
+  "Arcane Remnants": {
+    "zh_cn": "秘术残片",
+    "zh_tw": "秘術痕跡"
+  },
+  "Remnant Attraction": {
+    "zh_cn": "残片吸引",
+    "zh_tw": "痕跡吸引"
+  },
+  "Secrets of the Orb": {
+    "zh_cn": "法球之秘",
+    "zh_tw": "球體秘術"
+  },
+  "Flamewalker": {
+    "zh_cn": "火焰行者",
+    "zh_tw": "火焰行者"
+  },
+  "Frostwalker": {
+    "zh_cn": "冰霜行者",
+    "zh_tw": "寒霜行者"
+  },
+  "Stormwalker": {
+    "zh_cn": "风暴行者",
+    "zh_tw": "風暴行者"
+  },
+  "The Great Boar": {
+    "zh_cn": "魁梧野猪",
+    "zh_tw": "大野豬"
+  },
+  "The Spring Hare": {
+    "zh_cn": "春日野兔",
+    "zh_tw": "春兔"
+  },
+  "The Fabled Stag": {
+    "zh_cn": "传说之鹿",
+    "zh_tw": "傳說公鹿"
+  },
+  "The Cunning Fox": {
+    "zh_cn": "狡黠灵狐",
+    "zh_tw": "狡狐"
+  },
+  "The Frenzied Bear": {
+    "zh_cn": "凶狂巨熊",
+    "zh_tw": "狂暴熊"
+  },
+  "The Raging Ox": {
+    "zh_cn": "暴怒蛮牛",
+    "zh_tw": "怒牛"
+  },
+  "The Wild Cat": {
+    "zh_cn": "荒野之豹",
+    "zh_tw": "野貓"
+  },
+  "The Noble Wolf": {
+    "zh_cn": "显贵头狼",
+    "zh_tw": "高貴之狼"
+  },
+  "The Winter Owl": {
+    "zh_cn": "凛冬之枭",
+    "zh_tw": "冬鴞"
+  },
+  "The Howling Primate": {
+    "zh_cn": "咆哮狂猿",
+    "zh_tw": "嗥猿"
+  },
+  "The Ancient Serpent": {
+    "zh_cn": "远古巨蛇",
+    "zh_tw": "遠古蝮蛇"
+  },
+  "Marathon Runner": {
+    "zh_cn": "马拉松能手",
+    "zh_tw": "馬拉松跑者"
+  },
+  "Agile Sprinter": {
+    "zh_cn": "敏捷奔跑者",
+    "zh_tw": "敏捷衝刺者"
+  },
+  "Focused Channel": {
+    "zh_cn": "专注吟唱",
+    "zh_tw": "重點引導"
+  },
+  "Draiocht Cleansing": {
+    "zh_cn": "德莱契净化",
+    "zh_tw": "魔幻清晰"
+  },
+  "Rustle of the Leaves": {
+    "zh_cn": "叶影婆娑",
+    "zh_tw": "葉片沙沙"
+  },
+  "Mighty Trunk": {
+    "zh_cn": "巨木擎天",
+    "zh_tw": "強壯樹幹"
+  },
+  "Innate Rune": {
+    "zh_cn": "内生符文",
+    "zh_tw": "天生符文"
+  },
+  "Cower Before the First Ones": {
+    "zh_cn": "屈服于初生之子",
+    "zh_tw": "第一族面前畏懼"
+  },
+  "Her Final Bite": {
+    "zh_cn": "绝命之噬",
+    "zh_tw": "她的最後一口"
+  },
+  "Calculated Hunter": {
+    "zh_cn": "谋定猎手",
+    "zh_tw": "精算獵者"
+  },
+  "Rough Carapace": {
+    "zh_cn": "粗砺甲壳",
+    "zh_tw": "粗糙甲殼"
+  },
+  "Limitless Pursuit": {
+    "zh_cn": "无尽追猎",
+    "zh_tw": "無盡追獵"
+  },
+  "Deadly Thorns": {
+    "zh_cn": "致命荆棘",
+    "zh_tw": "致命荊棘"
+  },
+  "Everlasting Bloom": {
+    "zh_cn": "永恒绽放",
+    "zh_tw": "永綻之華"
+  },
+  "Power of the Storm": {
+    "zh_cn": "风暴之力",
+    "zh_tw": "風暴之力"
+  },
+  "Call Upon the Deep": {
+    "zh_cn": "唤于深渊",
+    "zh_tw": "呼喚深淵"
+  },
+  "First Sting": {
+    "zh_cn": "原初蛰刺",
+    "zh_tw": "首道毒刺"
+  },
+  "Scent of Blood": {
+    "zh_cn": "血之气息",
+    "zh_tw": "血腥氣息"
+  },
+  "Forbidden Path": {
+    "zh_cn": "禁忌之路",
+    "zh_tw": "禁忌之徑"
+  },
+  "Give Up Your Essence": {
+    "zh_cn": "献出你的精华",
+    "zh_tw": "放棄你的精髓"
+  },
+  "Nurturing Nature": {
+    "zh_cn": "哺育万物",
+    "zh_tw": "滋養自然"
+  },
+  "Unmoving Craiceann": {
+    "zh_cn": "不移之肤",
+    "zh_tw": "不動克雷肯"
+  },
+  "Shelter from the Rain": {
+    "zh_cn": "雨中护所",
+    "zh_tw": "避雨之所"
+  },
+  "Vale Dweller": {
+    "zh_cn": "幽谷栖客",
+    "zh_tw": "谷地棲息者"
+  },
+  "Unquenchable Iron": {
+    "zh_cn": "不泯坚铁",
+    "zh_tw": "不滅之鐵"
+  },
+  "Flesh Withstands": {
+    "zh_cn": "血肉承压",
+    "zh_tw": "肉體承受"
+  },
+  "Relinquish Your Life": {
+    "zh_cn": "生机尽现",
+    "zh_tw": "放棄你的生命"
+  },
+  "Corruption Endures": {
+    "zh_cn": "腐化耐力",
+    "zh_tw": "腐化永存"
+  },
+  "Mentorship": {
+    "zh_cn": "亦师亦友",
+    "zh_tw": "導師"
+  },
+  "Self Sacrificing": {
+    "zh_cn": "舍己为人",
+    "zh_tw": "自我犧牲"
+  },
+  "Trusted Partner": {
+    "zh_cn": "患难之交",
+    "zh_tw": "值得信賴的盟友"
+  },
+  "Friend to Many": {
+    "zh_cn": "交友广阔",
+    "zh_tw": "眾生之友"
+  },
+  "Known by All": {
+    "zh_cn": "名扬四方",
+    "zh_tw": "眾所周知"
+  },
+  "Gift of the Plains": {
+    "zh_cn": "平原之赐",
+    "zh_tw": "平原的恩賜"
+  },
+  "Prize of the Hunt": {
+    "zh_cn": "狩猎之赏",
+    "zh_tw": "狩獵的戰利品"
+  },
+  "Strength of the Deep": {
+    "zh_cn": "深渊之力",
+    "zh_tw": "深淵之力"
+  },
+  "Powerful Casting": {
+    "zh_cn": "强效施法",
+    "zh_tw": "強力施法"
+  },
+  "Night's Bite": {
+    "zh_cn": "暗夜之咬",
+    "zh_tw": "夜之噬"
+  },
+  "Exhaust All Power": {
+    "zh_cn": "竭尽全力",
+    "zh_tw": "耗盡全能"
+  },
+  "Meditative Focus": {
+    "zh_cn": "冥想专注",
+    "zh_tw": "冥想專注"
+  },
+  "Echoes of Ferocity": {
+    "zh_cn": "狂怒回响",
+    "zh_tw": "兇殘迴響"
+  },
+  "Endlessly Soaring": {
+    "zh_cn": "无尽翱翔",
+    "zh_tw": "無盡翱翔"
+  },
+  "Lunar Boon": {
+    "zh_cn": "月之恩赐",
+    "zh_tw": "月之恩賜"
+  },
+  "Hidden Forms": {
+    "zh_cn": "隐迹藏形",
+    "zh_tw": "潛藏型態"
+  },
+  "Comradery": {
+    "zh_cn": "同舟共济",
+    "zh_tw": "同袍情誼"
+  },
+  "Anger Management": {
+    "zh_cn": "怒火统御",
+    "zh_tw": "憤怒管理"
+  },
+  "Earthbreaker": {
+    "zh_cn": "裂地之灵",
+    "zh_tw": "天崩地裂"
+  },
+  "Ancestral Empowerment": {
+    "zh_cn": "先祖神威",
+    "zh_tw": "先祖威能"
+  },
+  "Mountain Splitter": {
+    "zh_cn": "开山裂地",
+    "zh_tw": "劈山碎石"
+  },
+  "Crushing Impacts": {
+    "zh_cn": "粉碎冲击",
+    "zh_tw": "輾壓痛擊"
+  },
+  "Hulking Form": {
+    "zh_cn": "雄伟英姿",
+    "zh_tw": "壓倒性的身姿"
+  },
+  "Colossal Capacity": {
+    "zh_cn": "巨人神力",
+    "zh_tw": "巨量承載"
+  },
+  "Mysterious Lineage": {
+    "zh_cn": "神秘血统",
+    "zh_tw": "神秘血脈"
+  },
+  "Stone Skin": {
+    "zh_cn": "磐石之肤",
+    "zh_tw": "頑石鋼膚"
+  },
+  "Anvil's Weight": {
+    "zh_cn": "铁砧的重量",
+    "zh_tw": "沉砧之勢"
+  },
+  "Imploding Impacts": {
+    "zh_cn": "内爆冲击",
+    "zh_tw": "碎猛之擊"
+  },
+  "Jade Heritage": {
+    "zh_cn": "青玉传承",
+    "zh_tw": "玉石之護"
+  },
+  "Warcaller's Bellow": {
+    "zh_cn": "战争司号的呐喊",
+    "zh_tw": "戰爭之哮"
+  },
+  "Answered Call": {
+    "zh_cn": "呼求回应",
+    "zh_tw": "先祖之引"
+  },
+  "Wooden Wall": {
+    "zh_cn": "木垒高筑",
+    "zh_tw": "堅木之壘"
+  },
+  "Renly's Training": {
+    "zh_cn": "蓝礼的锤炼",
+    "zh_tw": "倫利之訓"
+  },
+  "Turtle Charm": {
+    "zh_cn": "灵龟护符",
+    "zh_tw": "靈龜之符"
+  },
+  "Heat of the Forge": {
+    "zh_cn": "锻炉的热浪",
+    "zh_tw": "熔爐熱力"
+  },
+  "Living Weapon": {
+    "zh_cn": "活体武器",
+    "zh_tw": "活體武器"
+  },
+  "Against the Anvil": {
+    "zh_cn": "迎砧击打",
+    "zh_tw": "千錘百鍊"
+  },
+  "Coal Stoker": {
+    "zh_cn": "司炉的炭火",
+    "zh_tw": "添煤工"
+  },
+  "Forged in Flame": {
+    "zh_cn": "烈焰的淬炼",
+    "zh_tw": "烈焰鑄造"
+  },
+  "Smith's Masterwork": {
+    "zh_cn": "匠人的杰作",
+    "zh_tw": "鐵匠傑作"
+  },
+  "Tantalum Alloy": {
+    "zh_cn": "钽质合金",
+    "zh_tw": "鉭合金"
+  },
+  "Kitavan Imprint": {
+    "zh_cn": "奇塔弗印记",
+    "zh_tw": "奇塔弗銘刻"
+  },
+  "Spiked Plates": {
+    "zh_cn": "尖刺衬板",
+    "zh_tw": "尖刺鎧甲"
+  },
+  "Support Straps": {
+    "zh_cn": "支承绑带",
+    "zh_tw": "支撐綁帶"
+  },
+  "Kitavan Engraving": {
+    "zh_cn": "奇塔弗铭文",
+    "zh_tw": "奇塔弗雕紋"
+  },
+  "Tribute to Utula": {
+    "zh_cn": "供奉尤图拉",
+    "zh_tw": "烏圖拉的貢禮"
+  },
+  "Leather Bindings": {
+    "zh_cn": "皮革绑绳",
+    "zh_tw": "皮帶"
+  },
+  "Flowing Metal": {
+    "zh_cn": "液态金属",
+    "zh_tw": "流體金屬"
+  },
+  "Molten Symbol": {
+    "zh_cn": "熔火符印",
+    "zh_tw": "熔化標誌"
+  },
+  "Internal Layer": {
+    "zh_cn": "内嵌分层",
+    "zh_tw": "內裡"
+  },
+  "Dedication to Kitava": {
+    "zh_cn": "敬奉奇塔弗",
+    "zh_tw": "奇塔弗奉獻"
+  },
+  "Heatproofing": {
+    "zh_cn": "绝热防护",
+    "zh_tw": "火焰隔絕"
+  },
+  "Beidat's Gaze": {
+    "zh_cn": "贝达特的凝视",
+    "zh_tw": "貝達特之視"
+  },
+  "Beidat's Hand": {
+    "zh_cn": "贝达特之手",
+    "zh_tw": "貝達特之手"
+  },
+  "Beidat's Will": {
+    "zh_cn": "贝达特的意志",
+    "zh_tw": "貝達意志"
+  },
+  "Altered Flesh": {
+    "zh_cn": "重塑身躯",
+    "zh_tw": "變形肉體"
+  },
+  "Demonic Possession": {
+    "zh_cn": "修罗入魔",
+    "zh_tw": "惡魔附身"
+  },
+  "Mastered Darkness": {
+    "zh_cn": "驾驭黑暗",
+    "zh_tw": "黑暗精通"
+  },
+  "Pyromantic Pact": {
+    "zh_cn": "火卜契约",
+    "zh_tw": "火祭協議"
+  },
+  "Bringer of Flame": {
+    "zh_cn": "烈焰使者",
+    "zh_tw": "火焰呼喚者"
+  },
+  "Grinning Immolation": {
+    "zh_cn": "狰狞奉献",
+    "zh_tw": "邪惡焚化"
+  },
+  "Loyal Hellhound": {
+    "zh_cn": "忠诚的炽焰猎犬",
+    "zh_tw": "忠誠獄犬"
+  },
+  "Seething Body": {
+    "zh_cn": "沸腾之躯",
+    "zh_tw": "沸騰軀體"
+  },
+  "Gore Spike": {
+    "zh_cn": "创伤尖刺",
+    "zh_tw": "血棘"
+  },
+  "Sunder the Flesh": {
+    "zh_cn": "皮开肉绽",
+    "zh_tw": "碎裂血肉"
+  },
+  "Sanguimancy": {
+    "zh_cn": "滴血为咒",
+    "zh_tw": "占血術"
+  },
+  "Blood Barbs": {
+    "zh_cn": "赤红刀锋",
+    "zh_tw": "鮮血荊棘"
+  },
+  "Whispers of the Flesh": {
+    "zh_cn": "血肉私语",
+    "zh_tw": "血肉低語"
+  },
+  "Vitality Siphon": {
+    "zh_cn": "活力虹吸",
+    "zh_tw": "活力虹吸"
+  },
+  "Grasping Wounds": {
+    "zh_cn": "弥久伤痕",
+    "zh_tw": "緊扼傷口"
+  },
+  "Crimson Power": {
+    "zh_cn": "腥红之力",
+    "zh_tw": "緋紅之力"
+  },
+  "Sanguine Tides": {
+    "zh_cn": "血腥潮汐",
+    "zh_tw": "血紅之潮"
+  },
+  "Crystalline Phylactery": {
+    "zh_cn": "结晶护命匣",
+    "zh_tw": "晶化護符"
+  },
+  "Rupture the Soul": {
+    "zh_cn": "灵魂破裂",
+    "zh_tw": "割裂靈魂"
+  },
+  "Necromantic Conduit": {
+    "zh_cn": "通灵导体",
+    "zh_tw": "靈能導體"
+  },
+  "Blackened Heart": {
+    "zh_cn": "黑化之心",
+    "zh_tw": "黑化之心"
+  },
+  "Soulless Form": {
+    "zh_cn": "无魂形态",
+    "zh_tw": "無魂型態"
+  },
+  "Eternal Life": {
+    "zh_cn": "永恒的生命",
+    "zh_tw": "永生"
+  },
+  "Price of Power": {
+    "zh_cn": "力量的代价",
+    "zh_tw": "力量的代價"
+  },
+  "Eldritch Empowerment": {
+    "zh_cn": "古神赋力",
+    "zh_tw": "異能賦予"
+  },
+  "Incessant Cacophony": {
+    "zh_cn": "无休嘈杂",
+    "zh_tw": "不斷爭吵"
+  },
+  "Constant Gale": {
+    "zh_cn": "不息强风",
+    "zh_tw": "不變勁風"
+  },
+  "Force of Will": {
+    "zh_cn": "意志的力量",
+    "zh_tw": "意志之力"
+  },
+  "Tempest Caller": {
+    "zh_cn": "风暴呼唤者",
+    "zh_tw": "暴風召喚者"
+  },
+  "Multiplying Squalls": {
+    "zh_cn": "倍增飑风",
+    "zh_tw": "頻繁暴雨"
+  },
+  "Strike Twice": {
+    "zh_cn": "惊霆复至",
+    "zh_tw": "二重打擊"
+  },
+  "Shaper of Storms": {
+    "zh_cn": "风暴塑形",
+    "zh_tw": "風暴雕塑者"
+  },
+  "Heavy Snows": {
+    "zh_cn": "漫天雪暴",
+    "zh_tw": "狂風暴雪"
+  },
+  "Shaper of Winter": {
+    "zh_cn": "寒冬塑形",
+    "zh_tw": "寒冬雕塑者"
+  },
+  "Storm's Recollection": {
+    "zh_cn": "风暴回忆",
+    "zh_tw": "風暴回憶"
+  },
+  "Refracted Infusion": {
+    "zh_cn": "折射灌注",
+    "zh_tw": "拆射灌注"
+  },
+  "Footprints in the Sand": {
+    "zh_cn": "涉沙留痕",
+    "zh_tw": "沙中足跡"
+  },
+  "Ultimate Command": {
+    "zh_cn": "极限掌控",
+    "zh_tw": "終極指令"
+  },
+  "Inevitability": {
+    "zh_cn": "无可违逆",
+    "zh_tw": "不可避免"
+  },
+  "The Rapid River": {
+    "zh_cn": "急浪奔流",
+    "zh_tw": "急流"
+  },
+  "Now and Again": {
+    "zh_cn": "周而复始",
+    "zh_tw": "再度上演"
+  },
+  "Unbound Encore": {
+    "zh_cn": "不羁再现",
+    "zh_tw": "無縛安可"
+  },
+  "Apex of the Moment": {
+    "zh_cn": "巅峰时刻",
+    "zh_tw": "巔峰時刻"
+  },
+  "Quicksand Hourglass": {
+    "zh_cn": "迅时沙漏",
+    "zh_tw": "流沙沙漏"
+  },
+  "Sacred Rituals": {
+    "zh_cn": "神圣仪式",
+    "zh_tw": "神聖儀式"
+  },
+  "The Fourth Teaching": {
+    "zh_cn": "第四教义",
+    "zh_tw": "第四教誨"
+  },
+  "Varashta's Intuition": {
+    "zh_cn": "瓦拉煞的直觉",
+    "zh_tw": "瓦拉什塔的直覺"
+  },
+  "Instruments of Power": {
+    "zh_cn": "力量法器",
+    "zh_tw": "力量之器"
+  },
+  "Baryanic Leylines": {
+    "zh_cn": "巴雅地脉",
+    "zh_tw": "巴雅地脈"
+  },
+  "Barya of Navira": {
+    "zh_cn": "纳薇拉之巴雅",
+    "zh_tw": "納維拉的巴雅"
+  },
+  "Barya of Kelari": {
+    "zh_cn": "凯拉里之巴雅",
+    "zh_tw": "克拉里的巴雅"
+  },
+  "Barya of Ruzhan": {
+    "zh_cn": "鲁詹之巴雅",
+    "zh_tw": "魯兹安的巴雅"
+  },
+  "Navira's Fracturing": {
+    "zh_cn": "纳薇拉之裂",
+    "zh_tw": "納維拉的分裂"
+  },
+  "Navira's Well": {
+    "zh_cn": "纳薇拉之井",
+    "zh_tw": "納維拉之井"
+  },
+  "Navira's Oasis": {
+    "zh_cn": "纳薇拉之绿洲",
+    "zh_tw": "納維拉綠洲"
+  },
+  "Kelari's Deception": {
+    "zh_cn": "凯拉里之诡计",
+    "zh_tw": "克拉里的欺瞞"
+  },
+  "Kelari's Judgment": {
+    "zh_cn": "凯拉里之审判",
+    "zh_tw": "克拉里的審判"
+  },
+  "Kelari's Malediction": {
+    "zh_cn": "凯拉里之诅咒",
+    "zh_tw": "克拉里的惡咒"
+  },
+  "Ruzhan's Trap": {
+    "zh_cn": "鲁詹之陷阱",
+    "zh_tw": "魯兹安的陷阱"
+  },
+  "Ruzhan's Reckoning": {
+    "zh_cn": "鲁詹之清算",
+    "zh_tw": "魯兹安的清算"
+  },
+  "Ruzhan's Fury": {
+    "zh_cn": "鲁詹之怒火",
+    "zh_tw": "魯兹安的狂怒"
+  },
+  "A Solid Plan": {
+    "zh_cn": "可靠的计划",
+    "zh_tw": "可靠的計畫"
+  },
+  "Watch How I Do It": {
+    "zh_cn": "给我学着点",
+    "zh_tw": "看看我怎麼辦事的"
+  },
+  "Whoever Pays Best": {
+    "zh_cn": "价高者得",
+    "zh_tw": "待價而沽"
+  },
+  "Suppressing Fire": {
+    "zh_cn": "火力抑制",
+    "zh_tw": "火力抑制"
+  },
+  "Right Where We Want Them": {
+    "zh_cn": "正中下怀",
+    "zh_tw": "位置正好"
+  },
+  "Polish That Gear": {
+    "zh_cn": "抛光装备",
+    "zh_tw": "為齒輪拋光"
+  },
+  "Stay Light, Use Cover": {
+    "zh_cn": "轻装与掩蔽",
+    "zh_tw": "保持警覺，善用掩護"
+  },
+  "Cannons, Ready!": {
+    "zh_cn": "炮兵就位！",
+    "zh_tw": "砲彈準備好了！"
+  },
+  "Unleash Hell!": {
+    "zh_cn": "倾泻火力！",
+    "zh_tw": "火力全開！"
+  },
+  "Strategic Embankments": {
+    "zh_cn": "战略堤防",
+    "zh_tw": "戰術陣地"
+  },
+  "Pitiless Killer": {
+    "zh_cn": "冷血执行者",
+    "zh_tw": "法官、陪審團與劊子手"
+  },
+  "Judge, Jury, and Executioner": {
+    "zh_cn": "判罪惩恶人",
+    "zh_tw": "委任殺手"
+  },
+  "Witchbane": {
+    "zh_cn": "女巫克星",
+    "zh_tw": "女巫殺手"
+  },
+  "No Mercy": {
+    "zh_cn": "绝无慈悲",
+    "zh_tw": "播種不諧"
+  },
+  "Obsessive Rituals": {
+    "zh_cn": "痴狂仪式",
+    "zh_tw": "清教徒知識"
+  },
+  "Ceremonial Ablution": {
+    "zh_cn": "净罪礼仪",
+    "zh_tw": "儀式淨身"
+  },
+  "Zealous Inquisition": {
+    "zh_cn": "狂热审讯",
+    "zh_tw": "神聖授權"
+  },
+  "Weapon Master": {
+    "zh_cn": "武器大师",
+    "zh_tw": "驅散惡靈"
+  },
+  "Crystalline Potential": {
+    "zh_cn": "结晶潜力",
+    "zh_tw": "結晶潛能"
+  },
+  "Implanted Gems": {
+    "zh_cn": "植入宝石",
+    "zh_tw": "植入寶石"
+  },
+  "Gem Studded": {
+    "zh_cn": "嵌宝美玉",
+    "zh_tw": "鑲嵌的寶石"
+  },
+  "Advanced Thaumaturgy": {
+    "zh_cn": "奇术深造",
+    "zh_tw": "進階奇術"
+  },
+  "Enhanced Effectiveness": {
+    "zh_cn": "强化效能",
+    "zh_tw": "強化效果"
+  },
+  "Adaptive Capability": {
+    "zh_cn": "应变性能",
+    "zh_tw": "應變能力"
+  },
+  "Integrated Efficiency": {
+    "zh_cn": "集成效率",
+    "zh_tw": "整合效率"
+  },
+  "Thaumaturgical Infusion": {
+    "zh_cn": "奇术灌输",
+    "zh_tw": "奇術注入"
+  },
+  "Entwined Realities": {
+    "zh_cn": "纠缠实相",
+    "zh_tw": "虛實交織"
+  },
+  "The Unseen Path": {
+    "zh_cn": "无踪之道",
+    "zh_tw": "未見之道"
+  },
+  "Harmony Within": {
+    "zh_cn": "内境和谐",
+    "zh_tw": "心宇和諧"
+  },
+  "Converging Paths": {
+    "zh_cn": "万径归流",
+    "zh_tw": "交錯道途"
+  },
+  "Fateful Vision": {
+    "zh_cn": "命定视界",
+    "zh_tw": "命見視野"
+  },
+  "Unnamed Heartwood": {
+    "zh_cn": "未名心木",
+    "zh_tw": "無名心木"
+  },
+  "The Lesser Harm": {
+    "zh_cn": "两害从轻",
+    "zh_tw": "微小損害"
+  },
+  "Forced Outcome": {
+    "zh_cn": "命途强塑",
+    "zh_tw": "強制結果"
+  },
+  "Turning of the Seasons": {
+    "zh_cn": "四季流转",
+    "zh_tw": "季節循環"
+  },
+  "Bringer of the Apocalypse": {
+    "zh_cn": "天启使者",
+    "zh_tw": "災厄信使"
+  },
+  "Druidic Champion": {
+    "zh_cn": "德鲁伊英杰",
+    "zh_tw": "德魯伊之冠"
+  },
+  "Reactive Growth": {
+    "zh_cn": "应激生长",
+    "zh_tw": "反應性生長"
+  },
+  "Avatar of Evolution": {
+    "zh_cn": "进化具象",
+    "zh_tw": "演化化身"
+  },
+  "Furious Wellspring": {
+    "zh_cn": "狂怒之源",
+    "zh_tw": "狂怒源泉"
+  },
+  "Sacred Flow": {
+    "zh_cn": "神圣之流",
+    "zh_tw": "神聖流向"
+  },
+  "Wisdom of the Maji": {
+    "zh_cn": "众神之智",
+    "zh_tw": "聖賢智慧"
+  },
+  "Lead me through Grace...": {
+    "zh_cn": "降恩的指引",
+    "zh_tw": "引我行恩典之途…"
+  },
+  "...and Protect me from Harm": {
+    "zh_cn": "消灾的庇护",
+    "zh_tw": "…並免我於傷痛"
+  },
+  "I am the Thunder...": {
+    "zh_cn": "我即雷霆",
+    "zh_tw": "我即為雷鳴…"
+  },
+  "I am the Blizzard...": {
+    "zh_cn": "我即暴雪",
+    "zh_tw": "我即為暴雪…"
+  },
+  "...and I Shall Rage": {
+    "zh_cn": "我即怒火",
+    "zh_tw": "…而我將怒號"
+  },
+  "Sunder my Enemies...": {
+    "zh_cn": "所向披靡",
+    "zh_tw": "粉碎我的敵人…"
+  },
+  "...and Scatter Them to the Winds": {
+    "zh_cn": "风卷残云",
+    "zh_tw": "……並驅散於長風之中"
+  },
+  "Faith is a Choice": {
+    "zh_cn": "选择信念",
+    "zh_tw": "信仰即為抉擇"
+  },
+  "The Soul Springs Eternal": {
+    "zh_cn": "意念永存",
+    "zh_tw": "魂魄永恆不息"
+  },
+  "Inner Turmoil": {
+    "zh_cn": "内在动荡",
+    "zh_tw": "內心動盪"
+  },
+  "Unravelling": {
+    "zh_cn": "解析",
+    "zh_tw": "收心"
+  },
+  "Sap of Nightmares": {
+    "zh_cn": "梦魇之液",
+    "zh_tw": "惡夢樹液"
+  },
+  "Chayula's Gift": {
+    "zh_cn": "夏乌拉之赐",
+    "zh_tw": "夏烏拉之禮"
+  },
+  "Waking Dream": {
+    "zh_cn": "清醒沉梦",
+    "zh_tw": "夢醒"
+  },
+  "Embrace the Darkness": {
+    "zh_cn": "拥抱黑暗",
+    "zh_tw": "靈魂昇華"
+  },
+  "Grasp of the Void": {
+    "zh_cn": "虚空之握",
+    "zh_tw": "虛空之握"
+  },
+  "Deepening Shadows": {
+    "zh_cn": "深化暗影",
+    "zh_tw": "加深陰影"
+  },
+  "Lucid Dreaming": {
+    "zh_cn": "清明梦",
+    "zh_tw": "清晰夢境"
+  },
+  "Endless Munitions": {
+    "zh_cn": "无限弹药",
+    "zh_tw": "無限彈藥"
+  },
+  "Projectile Proximity Specialisation": {
+    "zh_cn": "投射物近距离专精",
+    "zh_tw": "投射物近接專精"
+  },
+  "Gathering Winds": {
+    "zh_cn": "聚风",
+    "zh_tw": "集風"
+  },
+  "Mirage Deadeye": {
+    "zh_cn": "蜃影神射",
+    "zh_tw": "幻影銳眼"
+  },
+  "Avidity": {
+    "zh_cn": "热望",
+    "zh_tw": "貪慾"
+  },
+  "Thrilling Chase": {
+    "zh_cn": "热血追猎",
+    "zh_tw": "爆發"
+  },
+  "Called Shots": {
+    "zh_cn": "言出箭随",
+    "zh_tw": "預告射擊"
+  },
+  "Bullseye": {
+    "zh_cn": "正中靶心",
+    "zh_tw": "靶心"
+  },
+  "Running Assault": {
+    "zh_cn": "奔波袭击",
+    "zh_tw": "衝刺突擊"
+  },
+  "Relentless Pursuit": {
+    "zh_cn": "无尽追踪",
+    "zh_tw": "無情追獵"
+  },
+  "Overwhelming Toxicity": {
+    "zh_cn": "倾压剧毒",
+    "zh_tw": "懾人劇毒"
+  },
+  "Sustainable Practices": {
+    "zh_cn": "可持续操作",
+    "zh_tw": "永續實踐"
+  },
+  "Enduring Elixirs": {
+    "zh_cn": "耐久药剂",
+    "zh_tw": "耐久靈藥"
+  },
+  "Brew Concoction": {
+    "zh_cn": "酿造灵药",
+    "zh_tw": "釀造靈藥"
+  },
+  "Path Seeker": {
+    "zh_cn": "寻路者",
+    "zh_tw": "道路探求者"
+  },
+  "Traveller's Wisdom": {
+    "zh_cn": "旅人的智慧",
+    "zh_tw": "旅者的智慧"
+  },
+  "Critical Strike": {
+    "zh_cn": "暴击",
+    "zh_tw": "暴擊"
+  },
+  "Penetrate": {
+    "zh_cn": "穿透",
+    "zh_tw": "穿透"
+  },
+  "Predatory Instinct": {
+    "zh_cn": "掠食本能",
+    "zh_tw": "獵食直覺"
+  },
+  "In for the Kill": {
+    "zh_cn": "直击要害",
+    "zh_tw": "專注擊殺"
+  },
+  "Surging Avatar": {
+    "zh_cn": "涌动化身",
+    "zh_tw": "澎湃灌注"
+  },
+  "Elemental Surge": {
+    "zh_cn": "元素涌动",
+    "zh_tw": "元素湧動"
+  },
+  "Azmeri Brew": {
+    "zh_cn": "阿兹莫里调制",
+    "zh_tw": "阿茲莫里之酒"
+  },
+  "Stalking Panther": {
+    "zh_cn": "匿影猎豹",
+    "zh_tw": "潛伏獵豹"
+  },
+  "Mystic Harvest": {
+    "zh_cn": "神秘收割",
+    "zh_tw": "神秘豐收"
+  },
+  "Mystic Attunement": {
+    "zh_cn": "神秘协调",
+    "zh_tw": "神秘同調"
+  },
+  "Unfurled Finger": {
+    "zh_cn": "伸展的手指",
+    "zh_tw": "展露之指"
+  },
+  "Intricate Sigils": {
+    "zh_cn": "精巧法印",
+    "zh_tw": "精妙符印"
+  },
+  "Mind Phylacteries": {
+    "zh_cn": "心灵护命",
+    "zh_tw": "心靈護符"
+  },
+  "Wildwood Persistence": {
+    "zh_cn": "荒林的韧性",
+    "zh_tw": "荒林堅毅"
+  },
+  "Corrupted Lifeforce": {
+    "zh_cn": "被腐化的命能",
+    "zh_tw": "腐化生命力"
+  },
+  "As the Whispers Demand": {
+    "zh_cn": "如低语所愿",
+    "zh_tw": "正如低語所求"
+  },
+  "Ritual of Immolation": {
+    "zh_cn": "焚化祭仪",
+    "zh_tw": "獻祭儀式"
+  },
+  "Revitalising Flames": {
+    "zh_cn": "活化烈焰",
+    "zh_tw": "復甦業火"
+  },
+  "Flesh to Flames": {
+    "zh_cn": "蚀骨烈焰",
+    "zh_tw": "獄火焚身"
+  },
+  "Ritual of Stillness": {
+    "zh_cn": "寒冰祭仪",
+    "zh_tw": "靜默儀式"
+  },
+  "Revitalising Frost": {
+    "zh_cn": "活化寒冰",
+    "zh_tw": "復甦寒霜"
+  },
+  "Flesh to Frost": {
+    "zh_cn": "蚀骨寒冰",
+    "zh_tw": "寒霜凍身"
+  },
+  "Ritual of Thunder": {
+    "zh_cn": "雷霆祭仪",
+    "zh_tw": "雷霆儀式"
+  },
+  "Revitalising Lightning": {
+    "zh_cn": "活化闪电",
+    "zh_tw": "復甦雷霆"
+  },
+  "Flesh to Lightning": {
+    "zh_cn": "蚀骨闪电",
+    "zh_tw": "雷霆灌身"
+  },
+  "Ritual of Might": {
+    "zh_cn": "力之祭仪",
+    "zh_tw": "權勢儀式"
+  },
+  "Revitalising Winds": {
+    "zh_cn": "活化之风",
+    "zh_tw": "復甦狂風"
+  },
+  "Bloody Savagery": {
+    "zh_cn": "残酷的暴行",
+    "zh_tw": "血腥殘暴"
+  },
+  "Ritual of Shadows": {
+    "zh_cn": "暗影祭仪",
+    "zh_tw": "暗影儀式"
+  },
+  "Revitalising Darkness": {
+    "zh_cn": "活化黑暗",
+    "zh_tw": "復甦暗黑"
+  },
+  "Thaumaturgical Aptitude": {
+    "zh_cn": "奇术之力",
+    "zh_tw": "奇術之資"
+  },
+  "Hierarchy": {
+    "zh_cn": "阶级",
+    "zh_tw": "階級體制"
+  },
+  "Exquisite Pain": {
+    "zh_cn": "极度剧痛",
+    "zh_tw": "極苦之痛"
+  },
+  "Ritual of Flesh": {
+    "zh_cn": "血肉祭仪",
+    "zh_tw": "血肉儀式"
+  },
+  "Flesh Worship": {
+    "zh_cn": "血肉崇拜",
+    "zh_tw": "肉體崇拜"
+  },
+  "Ritual of Memory": {
+    "zh_cn": "回忆祭仪",
+    "zh_tw": "記憶儀式"
+  },
+  "Automaton Studies": {
+    "zh_cn": "神兵之学",
+    "zh_tw": "機甲研究"
+  },
+  "Construct Studies": {
+    "zh_cn": "构造之学",
+    "zh_tw": "建構研究"
+  },
+  "Energy Flow Studies": {
+    "zh_cn": "能量之学",
+    "zh_tw": "能流研究"
+  },
+  "Soul Worship": {
+    "zh_cn": "灵魂崇拜",
+    "zh_tw": "靈魂崇拜"
+  },
+  "Blood-Quenched Bulwark": {
+    "zh_cn": "血淬壁垒",
+    "zh_tw": "抑血壁壘"
+  },
+  "Thaumaturgical Protection": {
+    "zh_cn": "奇术防御",
+    "zh_tw": "奇術禦防"
+  },
+  "Jungle Paths": {
+    "zh_cn": "丛林迷踪",
+    "zh_tw": "叢林之道"
+  },
+  "Temple Paths": {
+    "zh_cn": "神庙迷踪",
+    "zh_tw": "神廟之道"
+  },
+  "Commanding Presence": {
+    "zh_cn": "指挥姿态",
+    "zh_tw": "指揮之環"
+  },
+  "Ancient Hex": {
+    "zh_cn": "上古邪术",
+    "zh_tw": "古典魔女"
+  },
+  "Cult of Fire": {
+    "zh_cn": "火焰秘仪",
+    "zh_tw": "烈火崇拜"
+  },
+  "Cult of Ice": {
+    "zh_cn": "寒冰秘仪",
+    "zh_tw": "冰霜崇拜"
+  },
+  "Cult of Lightning": {
+    "zh_cn": "风暴秘仪",
+    "zh_tw": "雷霆崇拜"
+  },
+  "Cult of Chaos": {
+    "zh_cn": "混沌秘仪",
+    "zh_tw": "混沌崇拜"
+  },
+  "Might of the Vaal": {
+    "zh_cn": "瓦尔之力",
+    "zh_tw": "瓦爾．強權"
+  },
+  "Legacy of the Vaal": {
+    "zh_cn": "瓦尔之遗",
+    "zh_tw": "瓦爾．不朽"
+  },
+  "Heated Devotion": {
+    "zh_cn": "狂热的奉献",
+    "zh_tw": "熱情的奉獻"
+  },
+  "Calming Devotion": {
+    "zh_cn": "平静的奉献",
+    "zh_tw": "冷靜的奉獻"
+  },
+  "Thundrous Devotion": {
+    "zh_cn": "雷鸣的奉献",
+    "zh_tw": "慷慨的奉獻"
+  },
+  "Thoughts and Prayers": {
+    "zh_cn": "思考与祈祷",
+    "zh_tw": "思想和信徒"
+  },
+  "Zealot": {
+    "zh_cn": "狂热者",
+    "zh_tw": "狂熱"
+  },
+  "Enduring Faith": {
+    "zh_cn": "持久的信仰",
+    "zh_tw": "耐力信念"
+  },
+  "Powerful Faith": {
+    "zh_cn": "强大的信仰",
+    "zh_tw": "暴擊信念"
+  },
+  "Frenzied Faith": {
+    "zh_cn": "狂烈的信仰",
+    "zh_tw": "狂怒信念"
+  },
+  "Cloistered": {
+    "zh_cn": "隔绝",
+    "zh_tw": "神隱"
+  },
+  "Martyr's Might": {
+    "zh_cn": "殉道者之力",
+    "zh_tw": "烈士之力"
+  },
+  "Intolerance of Sin": {
+    "zh_cn": "罪恶的偏执",
+    "zh_tw": "難忍罪孽"
+  },
+  "Smite the Wicked": {
+    "zh_cn": "恶毒之击",
+    "zh_tw": "重挫邪惡"
+  },
+  "Smite the Ignorant": {
+    "zh_cn": "愚昧之击",
+    "zh_tw": "重挫無知"
+  },
+  "Smite the Heretical": {
+    "zh_cn": "异端之击",
+    "zh_tw": "重挫異教"
+  },
+  "Flawless Execution": {
+    "zh_cn": "完美处决",
+    "zh_tw": "完美行動"
+  },
+  "Brutal Execution": {
+    "zh_cn": "残暴处决",
+    "zh_tw": "殘暴行動"
+  },
+  "Eternal Resilience": {
+    "zh_cn": "永恒的弹性",
+    "zh_tw": "永恆韌性"
+  },
+  "Eternal Fortitude": {
+    "zh_cn": "永恒的韧性",
+    "zh_tw": "永恆剛毅"
+  },
+  "Eternal Dominance": {
+    "zh_cn": "永恒支配",
+    "zh_tw": "永恆統御"
+  },
+  "Eternal Fervour": {
+    "zh_cn": "永恒的热情",
+    "zh_tw": "永恆熱情"
+  },
+  "Eternal Adaptiveness": {
+    "zh_cn": "永恒的相性",
+    "zh_tw": "永恆適性"
+  },
+  "Eternal Bloodlust": {
+    "zh_cn": "永恒嗜血",
+    "zh_tw": "永恆嗜血"
+  },
+  "Eternal Subjugation": {
+    "zh_cn": "永恒的镇压",
+    "zh_tw": "永恆抑制"
+  },
+  "Eternal Separation": {
+    "zh_cn": "永恒的隔离",
+    "zh_tw": "永恆隔離"
+  },
+  "Eternal Exploitation": {
+    "zh_cn": "永恒榨取",
+    "zh_tw": "永恆開發"
+  },
+  "Rites of Lunaris": {
+    "zh_cn": "月影祭仪",
+    "zh_tw": "月影儀式"
+  },
+  "Rites of Solaris": {
+    "zh_cn": "日耀仪式",
+    "zh_tw": "日耀儀式"
+  },
+  "Virtue Gem Surgery": {
+    "zh_cn": "美德手术",
+    "zh_tw": "古靈寶石手術"
+  },
+  "Rural Life": {
+    "zh_cn": "田园牧歌",
+    "zh_tw": "鄉村生活"
+  },
+  "City Walls": {
+    "zh_cn": "城市壁垒",
+    "zh_tw": "古城之牆"
+  },
+  "Sceptre Pinnacle": {
+    "zh_cn": "权杖之尖",
+    "zh_tw": "王權之巔"
+  },
+  "Secret Tunnels": {
+    "zh_cn": "秘密隧道",
+    "zh_tw": "秘密通道"
+  },
+  "Purity Rebel": {
+    "zh_cn": "净化叛乱",
+    "zh_tw": "純淨反叛"
+  },
+  "Superiority": {
+    "zh_cn": "优越",
+    "zh_tw": "優越"
+  },
+  "Slum Lord": {
+    "zh_cn": "贫民之王",
+    "zh_tw": "貧民君主"
+  },
+  "Axiom Warden": {
+    "zh_cn": "公义卫士",
+    "zh_tw": "典獄長格言"
+  },
+  "Gemling Inquisition": {
+    "zh_cn": "璀璨审判",
+    "zh_tw": "古靈審判所"
+  },
+  "Gemling Ambush": {
+    "zh_cn": "宝石的伏击",
+    "zh_tw": "古靈伏擊"
+  },
+  "Night of a Thousand Ribbons": {
+    "zh_cn": "无尽荣光之夜",
+    "zh_tw": "千縷絲之夜"
+  },
+  "Bloody Flowers' Rebellion": {
+    "zh_cn": "猛烈开花",
+    "zh_tw": "太腥花之亂"
+  },
+  "Chitus' Heart": {
+    "zh_cn": "切特斯之心",
+    "zh_tw": "切特斯之心"
+  },
+  "Gemling Training": {
+    "zh_cn": "璀璨训练",
+    "zh_tw": "古靈訓練"
+  },
+  "Rigwald's Might": {
+    "zh_cn": "瑞佛之力",
+    "zh_tw": "瑞佛之力"
+  },
+  "Geofri's End": {
+    "zh_cn": "吉尔菲的末日",
+    "zh_tw": "吉爾菲的結局"
+  },
+  "Lioneye's Focus": {
+    "zh_cn": "狮眼的专注",
+    "zh_tw": "獅眼的專注"
+  },
+  "Voll's Coup": {
+    "zh_cn": "福尔的政变",
+    "zh_tw": "福爾的妙計"
+  },
+  "Dialla's Wit": {
+    "zh_cn": "达拉的聪慧",
+    "zh_tw": "達拉的智慧"
+  },
+  "Discerning Taste": {
+    "zh_cn": "多滋多味",
+    "zh_tw": "鑑賞之味"
+  },
+  "Gleaming Legion": {
+    "zh_cn": "辉煌军团",
+    "zh_tw": "閃耀軍閥"
+  },
+  "Shadowy Streets": {
+    "zh_cn": "街头暗影",
+    "zh_tw": "陰暗巷道"
+  },
+  "Crematorium Worker": {
+    "zh_cn": "焚尸工",
+    "zh_tw": "火葬場之徒"
+  },
+  "Street Urchin": {
+    "zh_cn": "街头顽童",
+    "zh_tw": "街邊頑童"
+  },
+  "Baleful Augmentation": {
+    "zh_cn": "惊悚增幅",
+    "zh_tw": "險惡增幅"
+  },
+  "With Eyes Open": {
+    "zh_cn": "天眼开",
+    "zh_tw": "睜大雙眼"
+  },
+  "Robust Diet": {
+    "zh_cn": "健康食谱",
+    "zh_tw": "生酮飲食"
+  },
+  "Pooled Resources": {
+    "zh_cn": "魔力聚汇",
+    "zh_tw": "集資"
+  },
+  "Laureate": {
+    "zh_cn": "魔力之冠",
+    "zh_tw": "桂冠"
+  },
+  "War Games": {
+    "zh_cn": "演习",
+    "zh_tw": "戰爭遊戲"
+  },
+  "Freshly Brewed": {
+    "zh_cn": "新酿",
+    "zh_tw": "鮮釀"
+  },
+  "Scorched Earth": {
+    "zh_cn": "炽炎之地",
+    "zh_tw": "焦土"
+  },
+  "War Tactics": {
+    "zh_cn": "战争军略",
+    "zh_tw": "戰爭策略"
+  },
+  "Kalguuran Forged": {
+    "zh_cn": "卡古兰锻造",
+    "zh_tw": "卡爾葛鍛造"
+  },
+  "Born of Middengard": {
+    "zh_cn": "源自米登加德",
+    "zh_tw": "密登加德之裔"
+  },
+  "Runic Flows": {
+    "zh_cn": "符文流动",
+    "zh_tw": "符文奔流"
+  },
+  "Siege Mentality": {
+    "zh_cn": "工程思维",
+    "zh_tw": "圍攻心理"
+  },
+  "Rune Knight": {
+    "zh_cn": "符文骑士",
+    "zh_tw": "魔符騎士"
+  },
+  "Fiery Leadership": {
+    "zh_cn": "炽热的领袖",
+    "zh_tw": "激情領導"
+  },
+  "Druidic Alliance": {
+    "zh_cn": "德鲁伊同盟",
+    "zh_tw": "德魯伊同盟"
+  },
+  "Steel and Sorcery": {
+    "zh_cn": "钢铁与魔法",
+    "zh_tw": "堅鋼與巫術"
+  },
+  "Triskelion's Light": {
+    "zh_cn": "三耀之火的光芒",
+    "zh_tw": "三曲之光"
+  },
+  "Stormtossed Voyager": {
+    "zh_cn": "风霜的航海家",
+    "zh_tw": "暴風航行者"
+  },
+  "Wrest Control": {
+    "zh_cn": "争夺掌控权",
+    "zh_tw": "強奪控制"
+  },
+  "Firedancer": {
+    "zh_cn": "炎舞者",
+    "zh_tw": "火焰舞者"
+  },
+  "Mercenary's Lot": {
+    "zh_cn": "佣兵领地",
+    "zh_tw": "僱用兵之命"
+  },
+  "Vorana's Fury": {
+    "zh_cn": "沃拉娜之怒",
+    "zh_tw": "沃拉娜之怒"
+  },
+  "Sensible Precautions": {
+    "zh_cn": "合理预防",
+    "zh_tw": "明智預防"
+  },
+  "Aim for the Jugular": {
+    "zh_cn": "直击命门",
+    "zh_tw": "瞄準要害"
+  },
+  "Survival Plan": {
+    "zh_cn": "生存计划",
+    "zh_tw": "生存計畫"
+  },
+  "War of Attrition": {
+    "zh_cn": "持久鏖战",
+    "zh_tw": "消耗戰"
+  },
+  "Guerilla Warfare": {
+    "zh_cn": "游击战法",
+    "zh_tw": "游擊戰"
+  },
+  "One for the Road": {
+    "zh_cn": "跋涉的旅人",
+    "zh_tw": "餞行酒"
+  },
+  "Targeted Strike": {
+    "zh_cn": "定向打击",
+    "zh_tw": "指定打擊"
+  },
+  "Steel Bastion": {
+    "zh_cn": "钢铁的壁垒",
+    "zh_tw": "鋼鐵堡壘"
+  },
+  "Forceful Energies": {
+    "zh_cn": "钢胆魄力",
+    "zh_tw": "強力能量"
+  },
+  "Winter Forest": {
+    "zh_cn": "冬日寒林",
+    "zh_tw": "寒冬之林"
+  },
+  "Fight as One": {
+    "zh_cn": "合力奋战",
+    "zh_tw": "並肩作戰"
+  },
+  "Summer Meadows": {
+    "zh_cn": "夏日草甸",
+    "zh_tw": "盛夏草原"
+  },
+  "Druidic Training": {
+    "zh_cn": "德鲁伊的训练",
+    "zh_tw": "德魯伊訓練"
+  },
+  "Corrupted Vision": {
+    "zh_cn": "腐化幻象",
+    "zh_tw": "腐化視界"
+  },
+  "Runic Tattoos": {
+    "zh_cn": "符纹文身",
+    "zh_tw": "符文紋身"
+  },
+  "Furs and Leather": {
+    "zh_cn": "皮毛坠饰",
+    "zh_tw": "毛皮與皮革"
+  },
+  "Sudden Hail": {
+    "zh_cn": "突降冰雹",
+    "zh_tw": "突降冰雹"
+  },
+  "Natural Energies": {
+    "zh_cn": "自然精力",
+    "zh_tw": "自然能量"
+  },
+  "Oaken Form": {
+    "zh_cn": "橡树形态",
+    "zh_tw": "橡木形態"
+  },
+  "Spider's Lesson": {
+    "zh_cn": "蜘蛛的训诫",
+    "zh_tw": "毒蛛的教訓"
+  },
+  "Disciple of Darkness": {
+    "zh_cn": "黑暗狂信者",
+    "zh_tw": "黑暗門徒"
+  },
+  "Creature of Death": {
+    "zh_cn": "死亡生物",
+    "zh_tw": "死亡之獸"
+  },
+  "Creature of Magic": {
+    "zh_cn": "魔法生物",
+    "zh_tw": "魔法之獸"
+  },
+  "Quickened Corpses": {
+    "zh_cn": "活化灵柩",
+    "zh_tw": "屍體激勵"
+  },
+  "Ambivalent Command": {
+    "zh_cn": "矛盾指令",
+    "zh_tw": "矛盾命令"
+  },
+  "Boneshedder": {
+    "zh_cn": "脱骨者",
+    "zh_tw": "骸骨削切"
+  },
+  "Unfiltered Brutality": {
+    "zh_cn": "纯粹残暴",
+    "zh_tw": "純粹殘暴"
+  },
+  "Derogatory Gaze": {
+    "zh_cn": "不屑凝视",
+    "zh_tw": "貶損凝視"
+  },
+  "Abyssal Conduit": {
+    "zh_cn": "深渊通道",
+    "zh_tw": "深淵連結"
+  },
+  "Expedited Horrors": {
+    "zh_cn": "极速恐慌",
+    "zh_tw": "加深恐懼"
+  },
+  "Confined Exaltation": {
+    "zh_cn": "受限狂喜",
+    "zh_tw": "侷限喜悅"
+  },
+  "Arcane Ascension": {
+    "zh_cn": "秘术升华",
+    "zh_tw": "秘術昇華"
+  },
+  "Ravenous Mind": {
+    "zh_cn": "贪婪心智",
+    "zh_tw": "貪婪思想"
+  },
+  "Gluttonous Presence": {
+    "zh_cn": "贪食之姿",
+    "zh_tw": "暴食存在"
+  },
+  "Unrestrained Intellect": {
+    "zh_cn": "无拘智慧",
+    "zh_tw": "無縛智慧"
+  },
+  "Cruel Strength": {
+    "zh_cn": "残酷力量",
+    "zh_tw": "殘忍力量"
+  },
+  "Opportunistic Dexterity": {
+    "zh_cn": "投机敏捷",
+    "zh_tw": "投機敏捷"
+  },
+  "Unreal Potential": {
+    "zh_cn": "超凡潜能",
+    "zh_tw": "虛幻潛力"
+  },
+  "I Have Darkvision": {
+    "zh_cn": "暗视能力",
+    "zh_tw": "吾有黯視"
+  },
+  "Domineering Commands": {
+    "zh_cn": "统御指令",
+    "zh_tw": "跋扈命令"
+  },
+  "Worthy Tithes": {
+    "zh_cn": "价值供奉",
+    "zh_tw": "值得的稅負"
+  },
+  "Fast Rot": {
+    "zh_cn": "急速腐朽",
+    "zh_tw": "快速腐爛"
+  },
+  "Hollow Bones": {
+    "zh_cn": "中空骸骨",
+    "zh_tw": "空洞骸骨"
+  },
+  "Ancient Bastion": {
+    "zh_cn": "远古要塞",
+    "zh_tw": "遠古堅堡"
+  },
+  "Deformed Steel": {
+    "zh_cn": "扭曲钢铁",
+    "zh_tw": "殘破堅鋼"
+  },
+  "Mystic Brew": {
+    "zh_cn": "神秘酿造",
+    "zh_tw": "神秘精釀"
+  },
+  "Resilient Wards": {
+    "zh_cn": "抗争结界",
+    "zh_tw": "堅韌守護"
+  },
+  "Dreadful Fortitude": {
+    "zh_cn": "可怖毅力",
+    "zh_tw": "可敬的堅毅"
+  },
+  "Barbed Allegiance": {
+    "zh_cn": "带刺忠诚",
+    "zh_tw": "帶刺忠誠"
+  }
+}

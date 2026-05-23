@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>POE2 市集&Ninja一条龙汉化 - 设置</title>
+    <style>
+        :root {
+            --bg-color: #0f1115;
+            --card-bg: #1c1f26;
+            --border-color: #3a3f47;
+            --accent-color: #f0d890;
+            --text-main: #e4e4e4;
+            --text-sub: #b0b0b0;
+            --success: #a8d9ab;
+            --hover-border: #6a6f77;
+            --card-inner-bg: #25282e;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px 0;
+            border-bottom: 1px solid var(--border-color);
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            color: var(--accent-color);
+            font-size: 24px;
+            margin-bottom: 8px;
+        }
+
+        .header p {
+            color: var(--text-sub);
+            font-size: 14px;
+        }
+
+        .section {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .section-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--accent-color);
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .section-title::before {
+            content: '';
+            display: block;
+            width: 3px;
+            height: 16px;
+            background-color: var(--accent-color);
+            border-radius: 2px;
+        }
+
+        .option-group {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .option-card {
+            background: var(--card-inner-bg);
+            border: 1px solid #4a4f57;
+            border-radius: 8px;
+            padding: 15px;
+            transition: all 0.2s;
+        }
+
+        .option-card:hover {
+            border-color: var(--hover-border);
+            background: #2a2d35;
+        }
+
+        .option-card.selected {
+            border-color: #4CAF50;
+            box-shadow: 0 0 10px rgba(76, 175, 80, 0.2);
+        }
+
+        .option-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .option-name {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        .option-desc {
+            font-size: 12px;
+            color: var(--text-sub);
+            line-height: 1.5;
+        }
+
+        .site-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 15px;
+            background: var(--card-inner-bg);
+            border: 1px solid #4a4f57;
+            border-radius: 6px;
+            margin-bottom: 10px;
+        }
+
+        .site-info {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .site-icon {
+            width: 20px;
+            height: 20px;
+            object-fit: contain;
+        }
+
+        .site-name {
+            font-size: 14px;
+            color: var(--text-main);
+        }
+
+        .site-controls {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        select {
+            background: #1c1f26;
+            border: 1px solid #555;
+            color: #fff;
+            padding: 6px 12px;
+            border-radius: 4px;
+            font-size: 12px;
+            cursor: pointer;
+            outline: none;
+        }
+
+        select:focus {
+            border-color: var(--accent-color);
+        }
+
+        input[type="checkbox"] {
+            width: 40px;
+            height: 22px;
+            appearance: none;
+            background: #4a4f57;
+            border-radius: 22px;
+            position: relative;
+            cursor: pointer;
+            transition: 0.3s;
+            outline: none;
+        }
+
+        input[type="checkbox"]::after {
+            content: '';
+            width: 18px;
+            height: 18px;
+            background: #fff;
+            border-radius: 50%;
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            transition: 0.3s;
+        }
+
+        input[type="checkbox"]:checked {
+            background: #4CAF50;
+        }
+
+        input[type="checkbox"]:checked::after {
+            left: 20px;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn-primary {
+            background: linear-gradient(to right, #4CAF50, #45a049);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+        }
+
+        .btn-secondary {
+            background: #333;
+            color: var(--text-main);
+            border: 1px solid #555;
+        }
+
+        .btn-secondary:hover {
+            background: #444;
+        }
+
+        .status-msg {
+            font-size: 13px;
+            color: var(--success);
+            margin-top: 15px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .status-msg.show {
+            opacity: 1;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 20px;
+            border-top: 1px solid var(--border-color);
+            margin-top: 30px;
+        }
+
+        .footer a {
+            color: var(--text-sub);
+            text-decoration: none;
+            font-size: 12px;
+            margin: 0 10px;
+        }
+
+        .footer a:hover {
+            color: var(--accent-color);
+        }
+
+        .data-info {
+            background: rgba(0,0,0,0.2);
+            padding: 15px;
+            border-radius: 6px;
+            margin-top: 15px;
+        }
+
+        .data-info h4 {
+            font-size: 13px;
+            color: var(--text-main);
+            margin-bottom: 10px;
+        }
+
+        .data-info p {
+            font-size: 12px;
+            color: var(--text-sub);
+            line-height: 1.6;
+        }
+
+        .data-path {
+            background: #1a1a1a;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 11px;
+            color: #8fdf92;
+            margin-top: 8px;
+            word-break: break-all;
+        }
+
+        .warning {
+            color: #ffb84d;
+            font-size: 12px;
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>POE2 市集&Ninja一条龙汉化</h1>
+            <p>国际服市集 & Ninja 汉化 - 支持简体/繁体切换</p>
+        </div>
+
+        <div class="section">
+            <div class="section-title">全局语言设置</div>
+            <div class="option-group">
+                <div class="option-card" data-lang="zh_cn">
+                    <div class="option-header">
+                        <span class="option-name">简体中文</span>
+                        <input type="radio" name="global-lang" value="zh_cn">
+                    </div>
+                    <div class="option-desc">
+                        使用简体中文显示所有翻译内容。<br>
+                        适合习惯简体中文的用户。
+                    </div>
+                </div>
+                
+                <div class="option-card" data-lang="zh_tw">
+                    <div class="option-header">
+                        <span class="option-name">繁體中文</span>
+                        <input type="radio" name="global-lang" value="zh_tw">
+                    </div>
+                    <div class="option-desc">
+                        使用繁體中文顯示所有翻譯內容。<br>
+                        適合習慣繁體中文的用戶。
+                    </div>
+                </div>
+                
+                <div class="option-card" data-lang="en">
+                    <div class="option-header">
+                        <span class="option-name">English</span>
+                        <input type="radio" name="global-lang" value="en">
+                    </div>
+                    <div class="option-desc">
+                        保持原始英文显示。<br>
+                        关闭所有汉化功能。
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">站点独立设置</div>
+            <p style="font-size: 12px; color: var(--text-sub); margin-bottom: 15px;">
+                可为不同站点单独设置语言，覆盖全局设置。
+            </p>
+            
+            <div class="site-row">
+                <div class="site-info">
+                    <span class="site-name">🌐 国际服市集 (Trade2)</span>
+                </div>
+                <div class="site-controls">
+                    <select id="trade-lang">
+                        <option value="zh_cn" selected>简体中文</option>
+                        <option value="zh_tw">繁體中文</option>
+                        <option value="en">English</option>
+                    </select>
+                    <label>
+                        <input type="checkbox" id="trade-enabled" checked>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="site-row">
+                <div class="site-info">
+                    <span class="site-name">📊 Ninja</span>
+                </div>
+                <div class="site-controls">
+                    <select id="ninja-lang">
+                        <option value="zh_cn" selected>简体中文</option>
+                        <option value="zh_tw">繁體中文</option>
+                        <option value="en">English</option>
+                    </select>
+                    <label>
+                        <input type="checkbox" id="ninja-enabled" checked>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="site-row">
+                <div class="site-info">
+                    <span class="site-name">📊 Ninja 交易服务器</span>
+                </div>
+                <div class="site-controls">
+                    <select id="ninja-trade-realm">
+                        <option value="www">国际服</option>
+                        <option value="tw">台服</option>
+                        <option value="cn">国服</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="site-row">
+                <div class="site-info">
+                    <span class="site-name">🎯 FilterBlade</span>
+                </div>
+                <div class="site-controls">
+                    <select id="filterblade-lang">
+                        <option value="zh_cn" selected>简体中文</option>
+                        <option value="zh_tw">繁體中文</option>
+                        <option value="en">English</option>
+                    </select>
+                    <label>
+                        <input type="checkbox" id="filterblade-enabled">
+                    </label>
+                </div>
+            </div>
+            
+            <div class="site-row">
+                <div class="site-info">
+                    <span class="site-name">📈 Mobalytics</span>
+                </div>
+                <div class="site-controls">
+                    <select id="mobalytics-lang">
+                        <option value="zh_cn" selected>简体中文</option>
+                        <option value="zh_tw">繁體中文</option>
+                        <option value="en">English</option>
+                    </select>
+                    <label>
+                        <input type="checkbox" id="mobalytics-enabled">
+                    </label>
+                </div>
+            </div>
+            
+            <div class="site-row">
+                <div class="site-info">
+                    <span class="site-name">📋 Maxroll</span>
+                </div>
+                <div class="site-controls">
+                    <select id="maxroll-lang">
+                        <option value="zh_cn" selected>简体中文</option>
+                        <option value="zh_tw">繁體中文</option>
+                        <option value="en">English</option>
+                    </select>
+                    <label>
+                        <input type="checkbox" id="maxroll-enabled">
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">数据库信息</div>
+            <div class="data-info">
+                <h4>数据文件结构</h4>
+                <p>翻译数据按语言分离存储，方便更新维护：</p>
+                <div class="data-path">data/
+├── zh_cn/          # 简体中文数据
+│   ├── trade/      # 市集数据
+│   │   ├── items.json
+│   │   ├── stats.json
+│   │   └── ...
+│   └── ninja/      # Ninja数据
+│       ├── simple/
+│       └── modifiers/
+└── zh_tw/          # 繁体中文数据
+    ├── trade/
+    └── ninja/</div>
+                <div class="warning">⚠️ 更新数据时请保持目录结构一致，替换对应的JSON文件即可。</div>
+            </div>
+        </div>
+
+        <div class="button-group">
+            <button class="btn btn-secondary" id="reset-btn">重置默认</button>
+        </div>
+        
+        <div class="status-msg" id="status-msg">设置已保存！</div>
+
+        <div class="footer">
+            <a href="https://www.pathofexile.com/trade2/" target="_blank">国际服市集</a>
+            <a href="https://poe.ninja/poe2/builds" target="_blank">Ninja</a>
+            <a href="https://poe2db.tw/cn/" target="_blank">流放2编年史</a>
+        </div>
+    </div>
+
+    <script src="js/config/language_config.js"></script>
+    <script src="options.js"></script>
+</body>
+</html>

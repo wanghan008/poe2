@@ -1,0 +1,234 @@
+{
+  "Oisín's Oath": {
+    "zh_cn": "奥辛之誓",
+    "zh_tw": "歐辛的誓言"
+  },
+  "Vilenta's Propulsion": {
+    "zh_cn": "薇伦塔之推进",
+    "zh_tw": "范尼達的奮進"
+  },
+  "Brutus' Brain": {
+    "zh_cn": "布鲁特斯之脑",
+    "zh_tw": "布魯特斯的腦"
+  },
+  "Atalui's Bloodletting": {
+    "zh_cn": "阿图鲁伊的放血术",
+    "zh_tw": "阿特路伊的出血"
+  },
+  "Einhar's Beastrite": {
+    "zh_cn": "伊恩哈尔的魔物仪式",
+    "zh_tw": "埃哈的野獸儀式"
+  },
+  "Ahn's Citadel": {
+    "zh_cn": "汉恩的城塞",
+    "zh_tw": "安的城塞"
+  },
+  "Eonyr's Thunder": {
+    "zh_cn": "伊奥尼尔的雷霆",
+    "zh_tw": "伊歐涅的雷霆"
+  },
+  "Arjun's Medal": {
+    "zh_cn": "阿尔琼的勋章",
+    "zh_tw": "亞瓊的獎章"
+  },
+  "Atziri's Allure": {
+    "zh_cn": "阿兹里的魅惑",
+    "zh_tw": "阿茲里的魅惑"
+  },
+  "Atziri's Call": {
+    "zh_cn": "阿兹里的召唤",
+    "zh_tw": "阿茲里的呼喚"
+  },
+  "Atziri's Communion": {
+    "zh_cn": "阿兹里的圣礼",
+    "zh_tw": "阿茲里的共融"
+  },
+  "Atziri's Impatience": {
+    "zh_cn": "阿兹里的焦躁",
+    "zh_tw": "阿茲里的不耐"
+  },
+  "Arakaali's Lust": {
+    "zh_cn": "阿拉卡力的欲望",
+    "zh_tw": "艾爾卡莉之慾"
+  },
+  "Dreamer's Knell": {
+    "zh_cn": "幻梦者的丧钟",
+    "zh_tw": "幻夢者的喪鐘"
+  },
+  "Tasalio's Rhythm": {
+    "zh_cn": "塔萨里奥的律动",
+    "zh_tw": "塔薩里奧的律動"
+  },
+  "Khatal's Rejuvenation": {
+    "zh_cn": "卡哈塔的复苏",
+    "zh_tw": "卡塔爾的恢復"
+  },
+  "Morgana's Tempest": {
+    "zh_cn": "莫甘娜的暴风",
+    "zh_tw": "魔甘娜的風暴"
+  },
+  "Zarokh's Revolt": {
+    "zh_cn": "扎洛卡的反叛",
+    "zh_tw": "澤洛克的反叛"
+  },
+  "Zerphi's Infamy": {
+    "zh_cn": "泽佛伊的恶名",
+    "zh_tw": "澤佛伊的惡名"
+  },
+  "Helbrym's Hide": {
+    "zh_cn": "赫尔布林的隐瞒",
+    "zh_tw": "海爾賓姆的躲藏"
+  },
+  "Dialla's Desire": {
+    "zh_cn": "达拉的渴望",
+    "zh_tw": "達拉的渴望"
+  },
+  "Daresso's Passion": {
+    "zh_cn": "德瑞索的热情",
+    "zh_tw": "德瑞索的熱情"
+  },
+  "Doedre's Undoing": {
+    "zh_cn": "德瑞的毁灭",
+    "zh_tw": "德瑞的毀滅"
+  },
+  "Kalisa's Crescendo": {
+    "zh_cn": "卡莉莎的强音",
+    "zh_tw": "卡莉莎的漸強"
+  },
+  "Piety's Mercy": {
+    "zh_cn": "神主之握",
+    "zh_tw": "神主的掌握"
+  },
+  "Romira's Requital": {
+    "zh_cn": "罗米拉的报复",
+    "zh_tw": "羅米拉的報復"
+  },
+  "Ratha's Assault": {
+    "zh_cn": "拉莎的突袭",
+    "zh_tw": "菈妲的強襲"
+  },
+  "Sione's Temper": {
+    "zh_cn": "西奥妮的怒火",
+    "zh_tw": "西奧妮的鍛鍊"
+  },
+  "Tecrod's Revenge": {
+    "zh_cn": "特克罗的复仇",
+    "zh_tw": "特克羅德的復仇"
+  },
+  "Uruk's Smelting": {
+    "zh_cn": "厄罗克的熔炼术",
+    "zh_tw": "厄羅克的鍛鍊"
+  },
+  "Paquate's Pact": {
+    "zh_cn": "帕夸特的契约",
+    "zh_tw": "帕科特的協議"
+  },
+  "Tacati's Ire": {
+    "zh_cn": "塔卡提之怒",
+    "zh_tw": "特卡蒂的憤怒"
+  },
+  "Ailith's Chimes": {
+    "zh_cn": "艾利丝钟琴",
+    "zh_tw": "艾里絲的管鐘"
+  },
+  "Rigwald's Ferocity": {
+    "zh_cn": "瑞佛的凶猛",
+    "zh_tw": "瑞佛的狂暴"
+  },
+  "Rakiata's Flow": {
+    "zh_cn": "拉其塔之流",
+    "zh_tw": "萊基亞塔的流動"
+  },
+  "Tawhoa's Tending": {
+    "zh_cn": "塔赫亚的照料",
+    "zh_tw": "塔赫亞的照顧"
+  },
+  "Dominus' Grasp": {
+    "zh_cn": "神主之握",
+    "zh_tw": "神主的掌握"
+  },
+  "Kaom's Madness": {
+    "zh_cn": "冈姆的疯狂",
+    "zh_tw": "岡姆的癲狂"
+  },
+  "Varashta's Blessing": {
+    "zh_cn": "瓦拉煞的祝福",
+    "zh_tw": "瓦拉什塔的祝福"
+  },
+  "Zarokh's Refrain": {
+    "zh_cn": "扎洛卡的克制",
+    "zh_tw": "澤洛克的克制"
+  },
+  "Garukhan's Resolve": {
+    "zh_cn": "格鲁坎的决心",
+    "zh_tw": "卡洛翰的決心"
+  },
+  "Amanamu's Tithe": {
+    "zh_cn": "阿曼娜姆的奉纳",
+    "zh_tw": "阿姆那姆的稅賦"
+  },
+  "Kurgal's Leash": {
+    "zh_cn": "古加尔的缰绳",
+    "zh_tw": "柯戈的繩索"
+  },
+  "Kulemak's Dominion": {
+    "zh_cn": "库勒马克的统治",
+    "zh_tw": "骷髏馬克的支配"
+  },
+  "Arbiter's Ignition": {
+    "zh_cn": "仲裁官的点燃",
+    "zh_tw": "仲裁者的燃灼"
+  },
+  "Ixchel's Torment": {
+    "zh_cn": "伊克切尔的折磨",
+    "zh_tw": "薩雷許的折磨"
+  },
+  "Cirel's Cultivation": {
+    "zh_cn": "西雷尔的教化",
+    "zh_tw": "西瑞爾的耕植"
+  },
+  "Uhtred's Exodus": {
+    "zh_cn": "乌崔德的出走",
+    "zh_tw": "烏特雷的出走"
+  },
+  "Uhtred's Omen": {
+    "zh_cn": "乌崔德的预兆",
+    "zh_tw": "烏特雷的徵兆"
+  },
+  "Uhtred's Augury": {
+    "zh_cn": "乌崔德的占卜",
+    "zh_tw": "烏特雷的占卜術"
+  },
+  "Tul's Stillness": {
+    "zh_cn": "托沃的寂静",
+    "zh_tw": "托沃的寧靜"
+  },
+  "Uul-Netol's Embrace": {
+    "zh_cn": "乌尔尼多的拥抱",
+    "zh_tw": "烏爾尼多的擁抱"
+  },
+  "Xoph's Pyre": {
+    "zh_cn": "索伏的葬火",
+    "zh_tw": "索伏的燃焰"
+  },
+  "Esh's Radiance": {
+    "zh_cn": "艾许的光辉",
+    "zh_tw": "艾許的光芒"
+  },
+  "Bhatair's Vengeance": {
+    "zh_cn": "巴蒂尔的复仇",
+    "zh_tw": "瓦特爾的復仇"
+  },
+  "Xibaqua's Rending": {
+    "zh_cn": "夏巴夸亚的撕裂",
+    "zh_tw": "賽巴昆的撕裂"
+  },
+  "Hayoxi's Fulmination": {
+    "zh_cn": "海幽夏的诛罚",
+    "zh_tw": "荷霖蔡的轟鳴"
+  },
+  "Guatelitzi's Ablation": {
+    "zh_cn": "瓜铁雷兹的消融",
+    "zh_tw": "瓜特利斯的消融"
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "original": "{0}% to [Fire Resistance|Fire Resistance]",
+    "translation": {
+      "zh_cn": "[Fire Resistance|火焰抗性] {0}%",
+      "zh_tw": "{0}% [Fire Resistance|火焰抗性]"
+    }
+  },
+  {
+    "original": "{0}% to [Cold Resistance|Cold Resistance]",
+    "translation": {
+      "zh_cn": "[Cold Resistance|冰霜抗性] {0}%",
+      "zh_tw": "{0}% [Cold Resistance|冰冷抗性]"
+    }
+  },
+  {
+    "original": "{0}% to [Lightning Resistance|Lightning Resistance]",
+    "translation": {
+      "zh_cn": "[Lightning Resistance|闪电抗性] {0}%",
+      "zh_tw": "{0}% [Lightning Resistance|閃電抗性]"
+    }
+  },
+  {
+    "original": "{0}% to [Chaos Resistance|Chaos Resistance]",
+    "translation": {
+      "zh_cn": "[Chaos Resistance|混沌抗性] {0}%",
+      "zh_tw": "{0}% [Chaos Resistance|混沌抗性]"
+    }
+  },
+  {
+    "original": "{0}% to all [Elemental|Elemental] [Resistances|Resistances]",
+    "translation": {
+      "zh_cn": "所有[Elemental|元素][Resistances|抗性] {0}%",
+      "zh_tw": "{0}% 全[Elemental|元素][Resistances|抗性]"
+    }
+  },
+  {
+    "original": "[Allies|Allies] in your [Presence|Presence] have {0}% to all [Elemental|Elemental] [Resistances|Resistances]",
+    "translation": {
+      "zh_cn": "[Presence|在场]的[Allies|友军]的所有[Elemental|元素][Resistances|抗性] {0}%",
+      "zh_tw": "{0}% 處於你[Presence|存在範圍]中的[Allies|友方]全[Elemental|元素][Resistances|抗性]"
+    }
+  },
+  {
+    "original": "{0}% to [Maximum Fire Resistance|Maximum Fire Resistance]",
+    "translation": {
+      "zh_cn": "{0}% [Maximum Fire Resistance|火焰抗性上限]",
+      "zh_tw": "{0}% [Maximum Fire Resistance|最大火焰抗性]"
+    }
+  },
+  {
+    "original": "{0}% to [Maximum Cold Resistance|Maximum Cold Resistance]",
+    "translation": {
+      "zh_cn": "{0}% [Maximum Cold Resistance|冰霜抗性上限]",
+      "zh_tw": "{0}% [Maximum Cold Resistance|最大冰冷抗性]"
+    }
+  },
+  {
+    "original": "{0}% to [Maximum Lightning Resistance|Maximum Lightning Resistance]",
+    "translation": {
+      "zh_cn": "{0}% [Maximum Lightning Resistance|闪电抗性上限]",
+      "zh_tw": "{0}% [Maximum Lightning Resistance|最大閃電抗性]"
+    }
+  },
+  {
+    "original": "{0}% to [Maximum Chaos Resistance|Maximum Chaos Resistance]",
+    "translation": {
+      "zh_cn": "{0}% [Maximum Chaos Resistance|混沌抗性上限]",
+      "zh_tw": "{0}% [Maximum Chaos Resistance|最大混沌抗性]"
+    }
+  },
+  {
+    "original": "{0}% to all [Maximum Elemental Resistances|Maximum Elemental Resistances]",
+    "translation": {
+      "zh_cn": "{0}% [Maximum Elemental Resistances|元素抗性上限]",
+      "zh_tw": "{0}% [Maximum Elemental Resistances|最大全元素抗性]"
+    }
+  }
+]

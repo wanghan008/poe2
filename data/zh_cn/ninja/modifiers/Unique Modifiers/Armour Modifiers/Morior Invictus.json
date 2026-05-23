@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Morior Invictus",
+    "zh_cn": "无生之辱",
+    "zh_tw": "不敗亡者",
+    "FlavourText": {
+      "original": "The Unblinking Eye did not cower and wail.\nThey stood against the end.",
+      "zh_cn": "凝望之眼绝不会退缩，\n他们傲立至最后一刻。",
+      "zh_tw": "無光之眼未曾退縮和哀泣。\n他們挺身對抗終結。"
+    },
+    "img": "MoriorInvictus_M.png",
+    "group": [
+        {
+          "original": "{0} to all [Attributes|Attributes] per Socket filled",
+          "translation": {
+            "zh_cn": "每个镶嵌的插槽使所有[Attributes|属性] {0}",
+            "zh_tw": "每個鑲嵌的插槽使所有[Attributes|能力值] {0}"
+          }
+        },
+        {
+          "original": "{0}% to all [Elemental Resistances|Elemental Resistances] per Socket filled",
+          "translation": {
+            "zh_cn": "每个镶嵌的插槽使所有[Elemental Resistances|元素抗性] {0}%",
+            "zh_tw": "每個鑲嵌的插槽使[Elemental Resistances|全元素抗性] {0}%"
+          }
+        },
+        {
+          "original": "{0} to maximum Life per Socket filled",
+          "translation": {
+            "zh_cn": "每个镶嵌的插槽使最大生命 {0}",
+            "zh_tw": "每個鑲嵌的插槽使最大生命 {0}"
+          }
+        },
+        {
+          "original": "{0} to maximum Mana per Socket filled",
+          "translation": {
+            "zh_cn": "每个镶嵌的插槽使最大魔力 {0}",
+            "zh_tw": "每個鑲嵌的插槽使最大魔力 {0}"
+          }
+        },
+        {
+          "original": "{0}% to [Chaos Resistance|Chaos Resistance] per Socket filled",
+          "translation": {
+            "zh_cn": "每个镶嵌的插槽使[Chaos Resistance|混沌抗性] {0}%",
+            "zh_tw": "{0}% 每個鑲嵌的插槽使[Chaos Resistance|混沌抗性]"
+          }
+        },
+        {
+          "original": "{0}% increased Global [Defences|Defences] per Socket filled",
+          "translation": {
+            "zh_cn": "每个镶嵌的插槽使全局[Defences|防御]提高 {0}%",
+            "zh_tw": "增加 {0}% 每個鑲嵌的插槽使全域[Defences|防禦]"
+          }
+        },
+        {
+          "original": "{0} Life Regeneration per second per Socket filled",
+          "translation": {
+            "zh_cn": "每个镶嵌的插槽每秒再生 {0} 生命",
+            "zh_tw": "每個鑲嵌的插槽每秒具有 {0} 生命回復"
+          }
+        },
+        {
+          "original": "{0}% reduced [Critical Damage Bonus|Critical Damage Bonus] per Socket filled",
+          "translation": {
+            "zh_cn": "每个镶嵌的插槽使对你的击中的[Critical Damage Bonus|暴击伤害加成]降低 {0}%",
+            "zh_tw": "每個鑲嵌的插槽使對你的擊中減少 {0}% [Critical Damage Bonus|暴擊傷害加成]"
+          }
+        },
+        {
+          "original": "{0} to [Spirit|Spirit] per Socket filled",
+          "translation": {
+            "zh_cn": "每个镶嵌的插槽使[Spirit|精魂] {0}",
+            "zh_tw": "每個鑲嵌的插槽使[Spirit|精魂] {0}"
+          }
+        },
+        {
+          "original": "{0} to [Stun Threshold|Stun Threshold] per Socket filled",
+          "translation": {
+            "zh_cn": "每个镶嵌的插槽使[Stun Threshold|晕眩阈值] {0}",
+            "zh_tw": "每個鑲嵌的插槽使[Stun Threshold|暈眩門檻] {0}"
+          }
+        }
+    ]
+  }
+]

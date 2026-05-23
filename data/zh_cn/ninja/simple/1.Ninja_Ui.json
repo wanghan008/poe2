@@ -1,0 +1,682 @@
+{
+  "1.Ninja_Ui_group": [
+    {
+      "Welcome to poe.ninja": {
+        "zh_cn": "欢迎来到 poe.ninja",
+        "zh_tw": "歡迎来到 poe.ninja"
+      },
+      "News": {
+        "zh_cn": "消息",
+        "zh_tw": "消息"
+      },
+      "View all posts →": {
+        "zh_cn": "查看所有帖子 →",
+        "zh_tw": "查看所有帖子 →"
+      },
+      "Economy": {
+        "zh_cn": "经济",
+        "zh_tw": "經濟"
+      },
+      "Economy - Path of Exile 1": {
+        "zh_cn": "经济 - 流放之路 1",
+        "zh_tw": "經濟 - 流亡黯道 1"
+      },
+      "Economy - Path of Exile 2": {
+        "zh_cn": "经济 - 流放之路 2",
+        "zh_tw": "經濟 - 流亡黯道 2"
+      },
+      "Search by item…": {
+        "zh_cn": "搜索物品...",
+        "zh_tw": "搜索物品..."
+      },
+      "General": {
+        "zh_cn": "通用",
+        "zh_tw": "通用"
+      },
+      "Filter by Name": {
+        "zh_cn": "按名称筛选",
+        "zh_tw": "按名稱篩選"
+      },
+      "Value Display": {
+        "zh_cn": "价值显示",
+        "zh_tw": "價值顯示"
+      },
+      "Adaptive": {
+        "zh_cn": "自适应",
+        "zh_tw": "自適應"
+      },
+      "Name": {
+        "zh_cn": "名字",
+        "zh_tw": "名稱"
+      },
+      "Value": {
+        "zh_cn": "价值",
+        "zh_tw": "價值"
+      },
+      "Last 7 days": {
+        "zh_cn": "最近7天",
+        "zh_tw": "最近7天"
+      },
+      "Exchange": {
+        "zh_cn": "兑换",
+        "zh_tw": "交換"
+      },
+      "Volume / Hour": {
+        "zh_cn": "每小时/成交量",
+        "zh_tw": "每小時/成交量"
+      },
+      "Price history": {
+        "zh_cn": "价格历史",
+        "zh_tw": "價格歷史"
+      },
+      "Most Popular": {
+        "zh_cn": "最热门",
+        "zh_tw": "最熱門"
+      },
+      "Show more": {
+        "zh_cn": "显示更多",
+        "zh_tw": "顯示更多"
+      },
+      "Available Leagues": {
+        "zh_cn": "可选赛季",
+        "zh_tw": "可选聯盟"
+      },
+      "Top Classes Per League": {
+        "zh_cn": "每个赛季 职业Top榜",
+        "zh_tw": "每个聯盟 職業Top榜"
+      },
+      "Builds": {
+        "zh_cn": "Build",
+        "zh_tw": "Build"
+      },
+      "See all builds": {
+        "zh_cn": "查看所有 Builds",
+        "zh_tw": "查看所有 Builds"
+      },
+      "Builds - Path of Exile 1": {
+        "zh_cn": "Builds - 流放之路 1",
+        "zh_tw": "Builds - 流亡黯道 1"
+      },
+      "Builds - Path of Exile 2": {
+        "zh_cn": "Builds - 流放之路 2",
+        "zh_tw": "Builds - 流亡黯道 2"
+      },
+      "All": {
+        "zh_cn": "全部",
+        "zh_tw": "全部"
+      },
+      "Character is using any": {
+        "zh_cn": "角色正在使用任意",
+        "zh_tw": "角色正在使用任意"
+      },
+      "Amulet Base Types": {
+        "zh_cn": "项链基础类型",
+        "zh_tw": "項鍊基礎類型"
+      },
+      "Belt Base Types": {
+        "zh_cn": "腰带基础类型",
+        "zh_tw": "腰帶基礎類型"
+      },
+      "BodyArmour Base Types": {
+        "zh_cn": "胸甲基础类型",
+        "zh_tw": "胸甲基礎類型"
+      },
+      "Boots Base Types": {
+        "zh_cn": "鞋子基础类型",
+        "zh_tw": "鞋子基礎類型"
+      },
+      "Buckler Base Types": {
+        "zh_cn": "轻盾基础类型",
+        "zh_tw": "輕盾基礎類型"
+      },
+      "Charm Base Types": {
+        "zh_cn": "咒符基础类型",
+        "zh_tw": "護符基礎類型"
+      },
+      "Flask Base Types": {
+        "zh_cn": "药剂基础类型",
+        "zh_tw": "藥劑基礎類型"
+      },
+      "Focus Base Types": {
+        "zh_cn": "法器基础类型",
+        "zh_tw": "法器基礎類型"
+      },
+      "Gloves Base Types": {
+        "zh_cn": "手套基础类型",
+        "zh_tw": "手套基礎類型"
+      },
+      "Helmet Base Types": {
+        "zh_cn": "头盔基础类型",
+        "zh_tw": "头盔基礎類型"
+      },
+      "Jewel Base Types": {
+        "zh_cn": "珠宝基础类型",
+        "zh_tw": "珠寶基礎類型"
+      },
+      "Quiver Base Types": {
+        "zh_cn": "箭袋基础类型",
+        "zh_tw": "箭袋基礎類型"
+      },
+      "Ring Base Types": {
+        "zh_cn": "戒指基础类型",
+        "zh_tw": "戒指基礎類型"
+      },
+      "Shield Base Types": {
+        "zh_cn": "盾牌基础类型",
+        "zh_tw": "盾牌基礎類型"
+      },
+      "Weapon Base Types": {
+        "zh_cn": "武器基础类型",
+        "zh_tw": "武器基礎類型"
+      },
+      "Amulet Mods": {
+        "zh_cn": "项链词缀",
+        "zh_tw": "項鍊詞缀"
+      },
+      "Belt Mods": {
+        "zh_cn": "腰带词缀",
+        "zh_tw": "腰帶詞缀"
+      },
+      "BodyArmour Mods": {
+        "zh_cn": "胸甲词缀",
+        "zh_tw": "胸甲詞缀"
+      },
+      "Boots Mods": {
+        "zh_cn": "鞋子词缀",
+        "zh_tw": "鞋子詞缀"
+      },
+      "Buckler Mods": {
+        "zh_cn": "轻盾词缀",
+        "zh_tw": "輕盾詞缀"
+      },
+      "Charm Mods": {
+        "zh_cn": "咒符词缀",
+        "zh_tw": "護符詞缀"
+      },
+      "Flask Mods": {
+        "zh_cn": "药剂词缀",
+        "zh_tw": "藥劑詞缀"
+      },
+      "Focus Mods": {
+        "zh_cn": "法器词缀",
+        "zh_tw": "法器詞缀"
+      },
+      "Gloves Mods": {
+        "zh_cn": "手套词缀",
+        "zh_tw": "手套詞缀"
+      },
+      "Helmet Mods": {
+        "zh_cn": "头盔词缀",
+        "zh_tw": "頭盔詞缀"
+      },
+      "Jewel Mods": {
+        "zh_cn": "珠宝词缀",
+        "zh_tw": "珠寶詞缀"
+      },
+      "Quiver Mods": {
+        "zh_cn": "箭袋词缀",
+        "zh_tw": "箭袋詞缀"
+      },
+      "Ring Mods": {
+        "zh_cn": "戒指词缀",
+        "zh_tw": "戒指詞缀"
+      },
+      "Shield Mods": {
+        "zh_cn": "盾牌词缀",
+        "zh_tw": "盾牌詞缀"
+      },
+      "Weapon Mods": {
+        "zh_cn": "武器词缀",
+        "zh_tw": "武器詞缀"
+      },
+      "Main Skills": {
+        "zh_cn": "主要技能",
+        "zh_tw": "主要技能"
+      },
+      "Main Skill Modes": {
+        "zh_cn": "主要技能模式",
+        "zh_tw": "主要技能模式"
+      },
+      "Passives": {
+        "zh_cn": "被动天赋",
+        "zh_tw": "被動天賦"
+      },
+      "Keystone": {
+        "zh_cn": "关键天赋",
+        "zh_tw": "關鍵天賦"
+      },
+      "Triggered": {
+        "zh_cn": "触发",
+        "zh_tw": "觸發"
+      },
+      "All Skills": {
+        "zh_cn": "所有技能",
+        "zh_tw": "所有技能"
+      },
+      "Anointed Passives": {
+        "zh_cn": "涂油天赋",
+        "zh_tw": "涂油天賦"
+      },
+      "Weapon Configuration": {
+        "zh_cn": "武器配置",
+        "zh_tw": "武器配置"
+      },
+      "Search filters...": {
+        "zh_cn": "搜索筛选...",
+        "zh_tw": "搜索篩選..."
+      },
+      "Add your character": {
+        "zh_cn": "添加你的角色",
+        "zh_tw": "添加你的角色"
+      },
+      "Reset all filters": {
+        "zh_cn": "重置所有筛选",
+        "zh_tw": "重置所有篩選"
+      },
+      "Show passive heatmap": {
+        "zh_cn": "显示被动天赋树热力图",
+        "zh_tw": "顯示被動天賦樹熱圖"
+      },
+      "Hide passive heatmap": {
+        "zh_cn": "隐藏被动天赋树热力图",
+        "zh_tw": "隱藏被動天賦樹熱圖"
+      },
+      "Passive Tree Heatmap": {
+        "zh_cn": "被动天赋树热力图",
+        "zh_tw": "被動天賦樹熱圖"
+      },
+      "Tree:": {
+        "zh_cn": "树:",
+        "zh_tw": "樹:"
+      },
+      "All Classes": {
+        "zh_cn": "所有职业",
+        "zh_tw": "所有職業"
+      },
+      "Min:": {
+        "zh_cn": "值:",
+        "zh_tw": "值:"
+      },
+      "Columns": {
+        "zh_cn": "列",
+        "zh_tw": "列"
+      },
+      "Reset columns": {
+        "zh_cn": "重置列",
+        "zh_tw": "重置列"
+      },
+      "Total amount of Life.": {
+        "zh_cn": "生命总量。",
+        "zh_tw": "生命總量。"
+      },
+      "Total amount of Energy Shield": {
+        "zh_cn": "(能量护盾 & ES)总量",
+        "zh_tw": "(能量護盾 & ES)總量"
+      },
+      "Effective Health Pool from Path of Building. Simulated value based on defensive stats. Capped at 10 million here.": {
+        "zh_cn": "来自 PoB 的 (有效生命池 & EHP)。该数值是基于防御属性计算的模拟值。此处上限设置为 1000 万。",
+        "zh_tw": "(有效生命池 & EHP) 上限來自PoB。模擬值基於防禦屬性。此處上限為1000萬。"
+      },
+      "Any": {
+        "zh_cn": "任意",
+        "zh_tw": "任意"
+      },
+      "Highest of any skill": {
+        "zh_cn": "任意技能最高值",
+        "zh_tw": "任意技能最高值"
+      },
+      "Display by the first skill selected in Main Skills (5+ links). If no skill selected display the highest of any skill.": {
+        "zh_cn": "根据主要技能显示第一个技能（5+ 链接）。如果未选择技能，则显示任意技能的最高值。",
+        "zh_tw": "根據主要技能顯示第一個技能（5+ 鏈接）。如果未選擇技能，則顯示任意技能的最高值。"
+      },
+      "Character": {
+        "zh_cn": "角色",
+        "zh_tw": "角色"
+      },
+      "Charges": {
+        "zh_cn": "能量球",
+        "zh_tw": "能量球"
+      },
+      "# Unique Equipment": {
+        "zh_cn": "# 传奇装备",
+        "zh_tw": "# 传奇裝備"
+      },
+      "# Mirrored Items": {
+        "zh_cn": "# 已复制物品",
+        "zh_tw": "# 已複製物品"
+      },
+      "# Mirrored Weapons": {
+        "zh_cn": "# 已复制武器",
+        "zh_tw": "# 已複製武器"
+      },
+      "# Mirrored Armours": {
+        "zh_cn": "# 已复制护甲",
+        "zh_tw": "# 已複製护甲"
+      },
+      "Defensive": {
+        "zh_cn": "防御",
+        "zh_tw": "防禦"
+      },
+      "Simulated": {
+        "zh_cn": "模拟",
+        "zh_tw": "模擬"
+      },
+      "Skill DPS Estimation": {
+        "zh_cn": "技能 DPS 估算",
+        "zh_tw": "技能 DPS 估算"
+      },
+      "Vaal body parts": {
+        "zh_cn": "瓦尔超凡肢干",
+        "zh_tw": "瓦爾超凡肢幹"
+      },
+      "Base Jewels": {
+        "zh_cn": "基础珠宝",
+        "zh_tw": "基礎珠寶"
+      },
+      "Passive tree": {
+        "zh_cn": "被动天赋树",
+        "zh_tw": "被動天賦樹"
+      },
+      "Open": {
+        "zh_cn": "开启",
+        "zh_tw": "開啟"
+      },
+      "Enlarge": {
+        "zh_cn": "放大",
+        "zh_tw": "放大"
+      },
+      "Shrink": {
+        "zh_cn": "缩小",
+        "zh_tw": "縮小"
+      },
+      "Anoints": {
+        "zh_cn": "涂膏点",
+        "zh_tw": "塗抹點"
+      },
+      "Click for quest details": {
+        "zh_cn": "点击查看任务详情",
+        "zh_tw": "點擊查看任務詳情"
+      },
+      "Passive Points": {
+        "zh_cn": "被动天赋点",
+        "zh_tw": "被動天賦點"
+      },
+      "Quest locations": {
+        "zh_cn": "任务地点",
+        "zh_tw": "任務地點"
+      },
+      "Quest Rewards": {
+        "zh_cn": "任务奖励",
+        "zh_tw": "任務獎勵"
+      },
+      "missing": {
+        "zh_cn": "缺失",
+        "zh_tw": "缺失"
+      },
+      "Missing": {
+        "zh_cn": "缺失",
+        "zh_tw": "缺失"
+      },
+      "Missing Quest Rewards": {
+        "zh_cn": "缺失的任务奖励",
+        "zh_tw": "缺失的任務獎勵"
+      },
+      "choices": {
+        "zh_cn": "选择",
+        "zh_tw": "選擇"
+      },
+      "Choices": {
+        "zh_cn": "选择",
+        "zh_tw": "選擇"
+      },
+      "Choices and missing rewards": {
+        "zh_cn": "选择和缺失奖励",
+        "zh_tw": "選擇和缺失獎勵"
+      },
+      "All quest rewards": {
+        "zh_cn": "所有任务奖励",
+        "zh_tw": "所有任務獎勵"
+      },
+      "No quest rewards to display": {
+        "zh_cn": "没有任务奖励可显示",
+        "zh_tw": "沒有任務獎勵可顯示"
+      },
+      "Skills": {
+        "zh_cn": "技能",
+        "zh_tw": "技能"
+      },
+      "Back to search": {
+        "zh_cn": "返回搜索",
+        "zh_tw": "返回搜索"
+      },
+      "Back to character list": {
+        "zh_cn": "返回角色列表",
+        "zh_tw": "返回角色列表"
+      },
+      "Previous": {
+        "zh_cn": "上一个",
+        "zh_tw": "上一個"
+      },
+      "Next": {
+        "zh_cn": "下一个",
+        "zh_tw": "下一個"
+      },
+      "Profile": {
+        "zh_cn": "个人资料",
+        "zh_tw": "個人資料"
+      },
+      "View Profile": {
+        "zh_cn": "查看个人资料",
+        "zh_tw": "查看個人資料"
+      },
+      "PoE Account": {
+        "zh_cn": "PoE 账号",
+        "zh_tw": "PoE 帳號"
+      },
+      "Account": {
+        "zh_cn": "账号",
+        "zh_tw": "帳號"
+      },
+      "Last fetched": {
+        "zh_cn": "最后获取",
+        "zh_tw": "最後獲取"
+      },
+      "Import Code for Path of Building": {
+        "zh_cn": "导入 PoB 代码",
+        "zh_tw": "導入 PoB 代碼"
+      },
+      "Equipment": {
+        "zh_cn": "装备",
+        "zh_tw": "裝備"
+      },
+      "Stats": {
+        "zh_cn": "统计",
+        "zh_tw": "統計"
+      },
+      "Class": {
+        "zh_cn": "职业",
+        "zh_tw": "職業"
+      },
+      "Passive Skill Tree": {
+        "zh_cn": "天赋树",
+        "zh_tw": "天賦樹"
+      },
+      "Passives - Path of Exile 1": {
+        "zh_cn": "天赋树 - 流放之路 1",
+        "zh_tw": "天赋樹 - 流亡黯道 1"
+      },
+      "Passives - Path of Exile 2": {
+        "zh_cn": "天赋树 - 流放之路 2",
+        "zh_tw": "天赋樹 - 流亡黯道 2"
+      },
+      "Pathing": {
+        "zh_cn": "路径",
+        "zh_tw": "路徑"
+      },
+      "Basic": {
+        "zh_cn": "基础",
+        "zh_tw": "基礎"
+      },
+      "Click to add nodes. Recommended for new players.": {
+        "zh_cn": "点击添加节点。推荐新手玩家使用。",
+        "zh_tw": "點擊添加節點。推薦新手玩家使用。"
+      },
+      "Smart": {
+        "zh_cn": "智能",
+        "zh_tw": "智能"
+      },
+      "Explore": {
+        "zh_cn": "探索",
+        "zh_tw": "探索"
+      },
+      "No pathing, just view the tree.": {
+        "zh_cn": "无路径规划，仅查看天赋树。",
+        "zh_tw": "無路徑規劃，僅查看天賦樹。"
+      },
+      "Locked": {
+        "zh_cn": "锁",
+        "zh_tw": "鎖"
+      },
+      "Reset": {
+        "zh_cn": "重置",
+        "zh_tw": "重置"
+      },
+      "Refresh character": {
+        "zh_cn": "刷新角色",
+        "zh_tw": "刷新角色"
+      },
+      "Refresh character list": {
+        "zh_cn": "刷新角色列表",
+        "zh_tw": "刷新角色列表"
+      },
+      "Refreshing...": {
+        "zh_cn": "正在刷新…",
+        "zh_tw": "正在刷新…"
+      },
+      "Refresh cooldown": {
+        "zh_cn": "刷新冷却时间",
+        "zh_tw": "刷新冷卻時間"
+      },
+      "Share link": {
+        "zh_cn": "分享链接",
+        "zh_tw": "分享連結"
+      },
+      "Last active character": {
+        "zh_cn": "最后活跃角色",
+        "zh_tw": "最後活躍角色"
+      },
+      "Passive": {
+        "zh_cn": "天赋",
+        "zh_tw": "天賦"
+      },
+      "Passive:": {
+        "zh_cn": "天赋:",
+        "zh_tw": "天賦:"
+      },
+      "Weapon Set 1": {
+        "zh_cn": "武器套装1",
+        "zh_tw": "武器裝備1"
+      },
+      "Weapon Set 2": {
+        "zh_cn": "武器套装2",
+        "zh_tw": "武器裝備2"
+      },
+      "Ascendancy": {
+        "zh_cn": "升华",
+        "zh_tw": "昇華"
+      },
+      "Search": {
+        "zh_cn": "搜索",
+        "zh_tw": "搜索"
+      },
+      "Streamers": {
+        "zh_cn": "主播",
+        "zh_tw": "主播"
+      },
+      "Share PoB": {
+        "zh_cn": "分享 PoB",
+        "zh_tw": "分享 PoB"
+      },
+      "Share Path of Building Code": {
+        "zh_cn": "分享 PoB 代码",
+        "zh_tw": "分享 PoB 代碼"
+      },
+      "Share PoB - Path of Exile 1": {
+        "zh_cn": "分享 PoB - 流放之路 1",
+        "zh_tw": "分享 PoB - 流亡黯道 1"
+      },
+      "Share PoB - Path of Exile 2": {
+        "zh_cn": "分享 PoB - 流放之路 2",
+        "zh_tw": "分享 PoB - 流亡黯道 2"
+      },
+      "Updated": {
+        "zh_cn": "更新",
+        "zh_tw": "更新"
+      },
+      "Log in": {
+        "zh_cn": "登录",
+        "zh_tw": "登錄"
+      },
+      "Back to account": {
+        "zh_cn": "返回账号",
+        "zh_tw": "返回帳號"
+      },
+      "Connected to pathofexile.com": {
+        "zh_cn": "已连接到 pathofexile.com",
+        "zh_tw": "已連接到 pathofexile.com"
+      },
+      "Refresh": {
+        "zh_cn": "刷新",
+        "zh_tw": "刷新"
+      },
+      "Patreon linked": {
+        "zh_cn": "已连接到 Patreon",
+        "zh_tw": "已連接到 Patreon"
+      },
+      "Visit Patreon": {
+        "zh_cn": "访问 Patreon",
+        "zh_tw": "訪問 Patreon"
+      },
+      "Disconnect Patreon": {
+        "zh_cn": "断开 Patreon 连接",
+        "zh_tw": "斷開 Patreon 連接"
+      },
+      "POE 1 Characters": {
+        "zh_cn": "POE 1 角色",
+        "zh_tw": "POE 1 角色"
+      },
+      "POE 2 Characters": {
+        "zh_cn": "POE 2 角色",
+        "zh_tw": "POE 2 角色"
+      },
+      "Make Profile Private": {
+        "zh_cn": "将个人资料设为私有",
+        "zh_tw": "將個人資料設為私有"
+      },
+      "Exclude from Builds": {
+        "zh_cn": "从Build中排除",
+        "zh_tw": "從Build中排除"
+      },
+      "Characters": {
+        "zh_cn": "角色",
+        "zh_tw": "角色"
+      },
+      "Settings": {
+        "zh_cn": "设置",
+        "zh_tw": "設置"
+      },
+      "Log out": {
+        "zh_cn": "退出登录",
+        "zh_tw": "退出登錄"
+      },
+      "Revoke Access": {
+        "zh_cn": "撤销访问",
+        "zh_tw": "撤銷訪問"
+      },
+      "Loading...": {
+        "zh_cn": "加载中...",
+        "zh_tw": "加載中..."
+      }
+    }
+  ]
+}

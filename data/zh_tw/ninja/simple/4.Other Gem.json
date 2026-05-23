@@ -1,0 +1,450 @@
+{
+  "Ancestral Aid": {
+    "zh_cn": "先祖之助",
+    "zh_tw": "先祖援助"
+  },
+  "Arms Length": {
+    "zh_cn": "一臂之隔",
+    "zh_tw": "伸手可及"
+  },
+  "Auto Reload": {
+    "zh_cn": "自动装填",
+    "zh_tw": "自動裝填"
+  },
+  "Bloodlust": {
+    "zh_cn": "血怒",
+    "zh_tw": "嗜血"
+  },
+  "Breachstone": {
+    "zh_cn": "裂隙石",
+    "zh_tw": "裂痕石"
+  },
+  "Break Endurance": {
+    "zh_cn": "崩解耐力",
+    "zh_tw": "打破忍耐"
+  },
+  "Break Posture": {
+    "zh_cn": "摧垮架势",
+    "zh_tw": "破壞姿態"
+  },
+  "Cast on Freeze": {
+    "zh_cn": "冰凍時施放",
+    "zh_tw": "冰凍時施放"
+  },
+  "Cast on Ignite": {
+    "zh_cn": "点燃时施放",
+    "zh_tw": "點燃時施放"
+  },
+  "Cast on Shock": {
+    "zh_cn": "感电时施放",
+    "zh_tw": "感電時施放"
+  },
+  "Charm Bounty": {
+    "zh_cn": "咒符恩典",
+    "zh_tw": "護符恩惠"
+  },
+  "Commandment": {
+    "zh_cn": "调遣",
+    "zh_tw": "誡命"
+  },
+  "Conductivity": {
+    "zh_cn": "导电",
+    "zh_tw": "導電"
+  },
+  "Dauntless": {
+    "zh_cn": "不动如山",
+    "zh_tw": "無畏"
+  },
+  "Daze": {
+    "zh_cn": "恍惚",
+    "zh_tw": "目眩"
+  },
+  "Dazing Cry": {
+    "zh_cn": "恍神咆哮",
+    "zh_tw": "目眩戰吼"
+  },
+  "Dazzle": {
+    "zh_cn": "眩目",
+    "zh_tw": "目眩"
+  },
+  "Desperation": {
+    "zh_cn": "孤注一掷",
+    "zh_tw": "絕望"
+  },
+  "Devastate": {
+    "zh_cn": "摧残",
+    "zh_tw": "蹂躪"
+  },
+  "Energy Barrier": {
+    "zh_cn": "能量屏障",
+    "zh_tw": "能量屏障"
+  },
+  "Excoriate": {
+    "zh_cn": "严厉申斥",
+    "zh_tw": "痛斥"
+  },
+  "Ferocity": {
+    "zh_cn": "狂暴",
+    "zh_tw": "狂暴"
+  },
+  "First Blood": {
+    "zh_cn": "第一滴血",
+    "zh_tw": "浴血鬥士"
+  },
+  "Flamepierce": {
+    "zh_cn": "烈焰穿刺",
+    "zh_tw": "烈焰穿透"
+  },
+  "Flammability": {
+    "zh_cn": "易燃",
+    "zh_tw": "易燃"
+  },
+  "Flow": {
+    "zh_cn": "波流",
+    "zh_tw": "流動"
+  },
+  "Font of Rage": {
+    "zh_cn": "怒火源泉",
+    "zh_tw": "盛怒器皿"
+  },
+  "Freezefork": {
+    "zh_cn": "冻结分叉",
+    "zh_tw": "冰凍之叉"
+  },
+  "Greatwood II": {
+    "zh_cn": "神木 II",
+    "zh_tw": "大森林 II"
+  },
+  "Hinder": {
+    "zh_cn": "缓速",
+    "zh_tw": "阻礙"
+  },
+  "Hobble": {
+    "zh_cn": "跛行",
+    "zh_tw": "跛行"
+  },
+  "Hypothermia": {
+    "zh_cn": "急冻",
+    "zh_tw": "急凍"
+  },
+  "Lasting Ground": {
+    "zh_cn": "持续地面",
+    "zh_tw": "持續性地面"
+  },
+  "Leverage": {
+    "zh_cn": "乘虚而入",
+    "zh_tw": "槓桿"
+  },
+  "Life Bounty": {
+    "zh_cn": "生命丰沛",
+    "zh_tw": "生命恩惠"
+  },
+  "Lockdown": {
+    "zh_cn": "封锁",
+    "zh_tw": "封鎖"
+  },
+  "Magnetic Remnants": {
+    "zh_cn": "磁化残片",
+    "zh_tw": "磁性痕跡"
+  },
+  "Malady": {
+    "zh_cn": "错乱病症",
+    "zh_tw": "疾病"
+  },
+  "Mana Bounty": {
+    "zh_cn": "魔力丰沛",
+    "zh_tw": "魔力恩惠"
+  },
+  "Murderous Intent": {
+    "zh_cn": "坚韧磨砺",
+    "zh_tw": "殺人意圖"
+  },
+  "Outmaneuver": {
+    "zh_cn": "智取",
+    "zh_tw": "出奇制勝"
+  },
+  "Potential": {
+    "zh_cn": "潜能",
+    "zh_tw": "潛力"
+  },
+  "Premeditation": {
+    "zh_cn": "先见之明",
+    "zh_tw": "預謀"
+  },
+  "Rally": {
+    "zh_cn": "奋威",
+    "zh_tw": "集結"
+  },
+  "Reverberate": {
+    "zh_cn": "回荡",
+    "zh_tw": "回響"
+  },
+  "Ricochet III": {
+    "zh_cn": "弹射 III",
+    "zh_tw": "彈射 III"
+  },
+  "Rime": {
+    "zh_cn": "雾凇",
+    "zh_tw": "霧淞"
+  },
+  "Rusted Spikes": {
+    "zh_cn": "锈蚀尖刺",
+    "zh_tw": "銹蝕尖刺"
+  },
+  "Ruthless": {
+    "zh_cn": "无情",
+    "zh_tw": "殘暴"
+  },
+  "See Red": {
+    "zh_cn": "赤红鼓动",
+    "zh_tw": "赤紅目光"
+  },
+  "Shock Siphon": {
+    "zh_cn": "感电虹吸",
+    "zh_tw": "電擊虹吸"
+  },
+  "Spar": {
+    "zh_cn": "角力",
+    "zh_tw": "打擊練習"
+  },
+  "Stormchain": {
+    "zh_cn": "风暴连锁",
+    "zh_tw": "風暴之鏈"
+  },
+  "Tremors": {
+    "zh_cn": "地震",
+    "zh_tw": "威震"
+  },
+  "Tumult": {
+    "zh_cn": "动乱",
+    "zh_tw": "紛亂"
+  },
+  "Unabating": {
+    "zh_cn": "不倦防护",
+    "zh_tw": "勢頭不減"
+  },
+  "Unbending": {
+    "zh_cn": "不屈之心",
+    "zh_tw": "永不屈服"
+  },
+  "Unbreakable": {
+    "zh_cn": "不屈不破",
+    "zh_tw": "堅不可破"
+  },
+  "Unerring Power": {
+    "zh_cn": "精准之力",
+    "zh_tw": "精準力量"
+  },
+  "Unsteady Tempo": {
+    "zh_cn": "失衡节奏",
+    "zh_tw": "不穩節奏"
+  },
+  "Untouchable": {
+    "zh_cn": "不可触及",
+    "zh_tw": "無法觸碰"
+  },
+  "Unyielding": {
+    "zh_cn": "不折",
+    "zh_tw": "屹立不搖"
+  },
+  "Volatile Power": {
+    "zh_cn": "无常之力",
+    "zh_tw": "不穩定的力量"
+  },
+  "Wind Wave": {
+    "zh_cn": "劲风波",
+    "zh_tw": "疾風之波"
+  },
+  "Uncut Skill Gem": {
+    "zh_cn": "未切割的技能宝石",
+    "zh_tw": "未切割的技能寶石"
+  },
+  "Uncut Skill Gem (Level 1)": {
+    "zh_cn": "未切割的技能宝石（等级 1）",
+    "zh_tw": "未切割的技能寶石（等級 1）"
+  },
+  "Uncut Skill Gem (Level 2)": {
+    "zh_cn": "未切割的技能宝石（等级 2）",
+    "zh_tw": "未切割的技能寶石（等級 2）"
+  },
+  "Uncut Skill Gem (Level 3)": {
+    "zh_cn": "未切割的技能宝石（等级 3）",
+    "zh_tw": "未切割的技能寶石（等級 3）"
+  },
+  "Uncut Skill Gem (Level 4)": {
+    "zh_cn": "未切割的技能宝石（等级 4）",
+    "zh_tw": "未切割的技能寶石（等級 4）"
+  },
+  "Uncut Skill Gem (Level 5)": {
+    "zh_cn": "未切割的技能宝石（等级 5）",
+    "zh_tw": "未切割的技能寶石（等級 5）"
+  },
+  "Uncut Skill Gem (Level 6)": {
+    "zh_cn": "未切割的技能宝石（等级 6）",
+    "zh_tw": "未切割的技能寶石（等級 6）"
+  },
+  "Uncut Skill Gem (Level 7)": {
+    "zh_cn": "未切割的技能宝石（等级 7）",
+    "zh_tw": "未切割的技能寶石（等級 7）"
+  },
+  "Uncut Skill Gem (Level 8)": {
+    "zh_cn": "未切割的技能宝石（等级 8）",
+    "zh_tw": "未切割的技能寶石（等級 8）"
+  },
+  "Uncut Skill Gem (Level 9)": {
+    "zh_cn": "未切割的技能宝石（等级 9）",
+    "zh_tw": "未切割的技能寶石（等級 9）"
+  },
+  "Uncut Skill Gem (Level 10)": {
+    "zh_cn": "未切割的技能宝石（等级 10）",
+    "zh_tw": "未切割的技能寶石（等級 10）"
+  },
+  "Uncut Skill Gem (Level 11)": {
+    "zh_cn": "未切割的技能宝石（等级 11）",
+    "zh_tw": "未切割的技能寶石（等級 11）"
+  },
+  "Uncut Skill Gem (Level 12)": {
+    "zh_cn": "未切割的技能宝石（等级 12）",
+    "zh_tw": "未切割的技能寶石（等級 12）"
+  },
+  "Uncut Skill Gem (Level 13)": {
+    "zh_cn": "未切割的技能宝石（等级 13）",
+    "zh_tw": "未切割的技能寶石（等級 13）"
+  },
+  "Uncut Skill Gem (Level 14)": {
+    "zh_cn": "未切割的技能宝石（等级 14）",
+    "zh_tw": "未切割的技能寶石（等級 14）"
+  },
+  "Uncut Skill Gem (Level 15)": {
+    "zh_cn": "未切割的技能宝石（等级 15）",
+    "zh_tw": "未切割的技能寶石（等級 15）"
+  },
+  "Uncut Skill Gem (Level 16)": {
+    "zh_cn": "未切割的技能宝石（等级 16）",
+    "zh_tw": "未切割的技能寶石（等級 16）"
+  },
+  "Uncut Skill Gem (Level 17)": {
+    "zh_cn": "未切割的技能宝石（等级 17）",
+    "zh_tw": "未切割的技能寶石（等級 17）"
+  },
+  "Uncut Skill Gem (Level 18)": {
+    "zh_cn": "未切割的技能宝石（等级 18）",
+    "zh_tw": "未切割的技能寶石（等級 18）"
+  },
+  "Uncut Skill Gem (Level 19)": {
+    "zh_cn": "未切割的技能宝石（等级 19）",
+    "zh_tw": "未切割的技能寶石（等級 19）"
+  },
+  "Uncut Skill Gem (Level 20)": {
+    "zh_cn": "未切割的技能宝石（等级 20）",
+    "zh_tw": "未切割的技能寶石（等級 20）"
+  },
+  "Uncut Spirit Gem": {
+    "zh_cn": "未切割的精魂宝石",
+    "zh_tw": "未切割的精魂寶石"
+  },
+  "Uncut Spirit Gem (Level 1)": {
+    "zh_cn": "未切割的精魂宝石（等级 1）",
+    "zh_tw": "未切割的精魂寶石（等級 1）"
+  },
+  "Uncut Spirit Gem (Level 2)": {
+    "zh_cn": "未切割的精魂宝石（等级 2）",
+    "zh_tw": "未切割的精魂寶石（等級 2）"
+  },
+  "Uncut Spirit Gem (Level 3)": {
+    "zh_cn": "未切割的精魂宝石（等级 3）",
+    "zh_tw": "未切割的精魂寶石（等級 3）"
+  },
+  "Uncut Spirit Gem (Level 4)": {
+    "zh_cn": "未切割的精魂宝石（等级 4）",
+    "zh_tw": "未切割的精魂寶石（等級 4）"
+  },
+  "Uncut Spirit Gem (Level 5)": {
+    "zh_cn": "未切割的精魂宝石（等级 5）",
+    "zh_tw": "未切割的精魂寶石（等級 5）"
+  },
+  "Uncut Spirit Gem (Level 6)": {
+    "zh_cn": "未切割的精魂宝石（等级 6）",
+    "zh_tw": "未切割的精魂寶石（等級 6）"
+  },
+  "Uncut Spirit Gem (Level 7)": {
+    "zh_cn": "未切割的精魂宝石（等级 7）",
+    "zh_tw": "未切割的精魂寶石（等級 7）"
+  },
+  "Uncut Spirit Gem (Level 8)": {
+    "zh_cn": "未切割的精魂宝石（等级 8）",
+    "zh_tw": "未切割的精魂寶石（等級 8）"
+  },
+  "Uncut Spirit Gem (Level 9)": {
+    "zh_cn": "未切割的精魂宝石（等级 9）",
+    "zh_tw": "未切割的精魂寶石（等級 9）"
+  },
+  "Uncut Spirit Gem (Level 10)": {
+    "zh_cn": "未切割的精魂宝石（等级 10）",
+    "zh_tw": "未切割的精魂寶石（等級 10）"
+  },
+  "Uncut Spirit Gem (Level 11)": {
+    "zh_cn": "未切割的精魂宝石（等级 11）",
+    "zh_tw": "未切割的精魂寶石（等級 11）"
+  },
+  "Uncut Spirit Gem (Level 12)": {
+    "zh_cn": "未切割的精魂宝石（等级 12）",
+    "zh_tw": "未切割的精魂寶石（等級 12）"
+  },
+  "Uncut Spirit Gem (Level 13)": {
+    "zh_cn": "未切割的精魂宝石（等级 13）",
+    "zh_tw": "未切割的精魂寶石（等級 13）"
+  },
+  "Uncut Spirit Gem (Level 14)": {
+    "zh_cn": "未切割的精魂宝石（等级 14）",
+    "zh_tw": "未切割的精魂寶石（等級 14）"
+  },
+  "Uncut Spirit Gem (Level 15)": {
+    "zh_cn": "未切割的精魂宝石（等级 15）",
+    "zh_tw": "未切割的精魂寶石（等級 15）"
+  },
+  "Uncut Spirit Gem (Level 16)": {
+    "zh_cn": "未切割的精魂宝石（等级 16）",
+    "zh_tw": "未切割的精魂寶石（等級 16）"
+  },
+  "Uncut Spirit Gem (Level 17)": {
+    "zh_cn": "未切割的精魂宝石（等级 17）",
+    "zh_tw": "未切割的精魂寶石（等級 17）"
+  },
+  "Uncut Spirit Gem (Level 18)": {
+    "zh_cn": "未切割的精魂宝石（等级 18）",
+    "zh_tw": "未切割的精魂寶石（等級 18）"
+  },
+  "Uncut Spirit Gem (Level 19)": {
+    "zh_cn": "未切割的精魂宝石（等级 19）",
+    "zh_tw": "未切割的精魂寶石（等級 19）"
+  },
+  "Uncut Spirit Gem (Level 20)": {
+    "zh_cn": "未切割的精魂宝石（等级 20）",
+    "zh_tw": "未切割的精魂寶石（等級 20）"
+  },
+  "Uncut Support Gem": {
+    "zh_cn": "未切割的辅助宝石",
+    "zh_tw": "未切割的輔助寶石"
+  },
+  "Uncut Support Gem (Level 1)": {
+    "zh_cn": "未切割的辅助宝石（等级 1）",
+    "zh_tw": "未切割的輔助寶石（等級 1）"
+  },
+  "Uncut Support Gem (Level 2)": {
+    "zh_cn": "未切割的辅助宝石（等级 2）",
+    "zh_tw": "未切割的輔助寶石（等級 2）"
+  },
+  "Uncut Support Gem (Level 3)": {
+    "zh_cn": "未切割的辅助宝石（等级 3）",
+    "zh_tw": "未切割的輔助寶石（等級 3）"
+  },
+  "Uncut Support Gem (Level 4)": {
+    "zh_cn": "未切割的辅助宝石（等级 4）",
+    "zh_tw": "未切割的輔助寶石（等級 4）"
+  },
+  "Uncut Support Gem (Level 5)": {
+    "zh_cn": "未切割的辅助宝石（等级 5）",
+    "zh_tw": "未切割的輔助寶石（等級 5）"
+  }
+}

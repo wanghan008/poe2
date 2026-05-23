@@ -1,0 +1,1402 @@
+{
+  "Stackable Currency Item /72":{
+    "zh_cn":"可堆叠的货币物品 /72",
+    "zh_tw":"可堆疊的貨幣物品 /72"
+  },
+  "Stackable Currency Item_group":[
+    {
+      "Alchemy Shard":{
+        "zh_cn":"点金石碎片",
+        "zh_tw":"點金石碎片"
+      },
+      "Vaal Siphoner":{
+        "zh_cn":"瓦尔虹吸装置",
+        "zh_tw":"瓦爾虹吸器"
+      },
+      "Blacksmith's Whetstone":{
+        "zh_cn":"磨刀石",
+        "zh_tw":"磨刀石"
+      },
+      "Arcanist's Etcher":{
+        "zh_cn":"奥术师的铭刻",
+        "zh_tw":"奧術蝕刻師"
+      },
+      "Scroll of Wisdom":{
+        "zh_cn":"知识卷轴",
+        "zh_tw":"知識卷軸"
+      },
+      "Chaos Orb":{
+        "zh_cn":"混沌石",
+        "zh_tw":"混沌石"
+      },
+      "Greater Chaos Orb":{
+        "zh_cn":"高级混沌石",
+        "zh_tw":"高階混沌石"
+      },
+      "Perfect Chaos Orb":{
+        "zh_cn":"完美混沌石",
+        "zh_tw":"完美混沌石"
+      },
+      "Armourer's Scrap":{
+        "zh_cn":"护甲片",
+        "zh_tw":"護甲片"
+      },
+      "Mirror of Kalandra":{
+        "zh_cn":"卡兰德的魔镜",
+        "zh_tw":"卡蘭德的魔鏡"
+      },
+      "Hinekora's Lock":{
+        "zh_cn":"辛格拉的发辫",
+        "zh_tw":"悉妮蔻拉的髮絲"
+      },
+      "Orb of Alchemy":{
+        "zh_cn":"点金石",
+        "zh_tw":"點金石"
+      },
+      "Orb of Chance":{
+        "zh_cn":"机会石",
+        "zh_tw":"機會石"
+      },
+      "Orb of Transmutation":{
+        "zh_cn":"蜕变石",
+        "zh_tw":"蛻變石"
+      },
+      "Greater Orb of Transmutation":{
+        "zh_cn":"高级蜕变石",
+        "zh_tw":"高階蛻變石"
+      },
+      "Perfect Orb of Transmutation":{
+        "zh_cn":"完美蜕变石",
+        "zh_tw":"完美蛻變石"
+      },
+      "Exalted Orb":{
+        "zh_cn":"崇高石",
+        "zh_tw":"崇高石"
+      },
+      "Greater Exalted Orb":{
+        "zh_cn":"高级崇高石",
+        "zh_tw":"高階崇高石"
+      },
+      "Perfect Exalted Orb":{
+        "zh_cn":"完美崇高石",
+        "zh_tw":"完美崇高石"
+      },
+      "Regal Orb":{
+        "zh_cn":"富豪石",
+        "zh_tw":"富豪石"
+      },
+      "Greater Regal Orb":{
+        "zh_cn":"高级富豪石",
+        "zh_tw":"高階富豪石"
+      },
+      "Perfect Regal Orb":{
+        "zh_cn":"完美富豪石",
+        "zh_tw":"完美富豪石"
+      },
+      "Orb of Augmentation":{
+        "zh_cn":"增幅石",
+        "zh_tw":"增幅石"
+      },
+      "Greater Orb of Augmentation":{
+        "zh_cn":"高级增幅石",
+        "zh_tw":"高階增幅石"
+      },
+      "Perfect Orb of Augmentation":{
+        "zh_cn":"完美增幅石",
+        "zh_tw":"完美增幅石"
+      },
+      "Glassblower's Bauble":{
+        "zh_cn":"玻璃弹珠",
+        "zh_tw":"玻璃彈珠"
+      },
+      "Gemcutter's Prism":{
+        "zh_cn":"宝石匠的棱镜",
+        "zh_tw":"寶石匠的稜鏡"
+      },
+      "Lesser Jeweller's Orb":{
+        "zh_cn":"低等工匠石",
+        "zh_tw":"低階工匠石"
+      },
+      "Greater Jeweller's Orb":{
+        "zh_cn":"高等工匠石",
+        "zh_tw":"高階工匠石"
+      },
+      "Perfect Jeweller's Orb":{
+        "zh_cn":"完美工匠石",
+        "zh_tw":"完美工匠石"
+      },
+      "Artificer's Orb":{
+        "zh_cn":"巧匠石",
+        "zh_tw":"巧匠石"
+      },
+      "Divine Orb":{
+        "zh_cn":"神圣石",
+        "zh_tw":"神聖石"
+      },
+      "Transmutation Shard":{
+        "zh_cn":"蜕变石碎片",
+        "zh_tw":"蛻變石碎片"
+      },
+      "Chance Shard":{
+        "zh_cn":"机会石碎片",
+        "zh_tw":"機率碎片"
+      },
+      "Albino Rhoa Feather":{
+        "zh_cn":"白化的羽毛",
+        "zh_tw":"白化的羽毛"
+      },
+      "Vaal Orb":{
+        "zh_cn":"瓦尔宝珠",
+        "zh_tw":"瓦爾寶珠"
+      },
+      "Architect's Orb":{
+        "zh_cn":"建筑师宝珠",
+        "zh_tw":"策匠石"
+      },
+      "Crystallised Corruption":{
+        "zh_cn":"结晶腐化",
+        "zh_tw":"結晶腐化"
+      },
+      "Core Destabiliser":{
+        "zh_cn":"核心失稳装置",
+        "zh_tw":"核心擾亂器"
+      },
+      "Ancient Infuser":{
+        "zh_cn":"远古注能装置",
+        "zh_tw":"遠古灌注器"
+      },
+      "Vaal Cultivation Orb":{
+        "zh_cn":"瓦尔培育宝珠",
+        "zh_tw":"瓦爾栽培寶珠"
+      },
+      "Vaal Infuser":{
+        "zh_cn":"瓦尔注能装置",
+        "zh_tw":"瓦爾灌注器"
+      },
+      "Orb of Extraction":{
+        "zh_cn":"萃取石",
+        "zh_tw":"萃取石"
+      },
+      "Orb of Annulment":{
+        "zh_cn":"剥离石",
+        "zh_tw":"無效石"
+      },
+      "Fracturing Orb":{
+        "zh_cn":"破溃宝珠",
+        "zh_tw":"破裂石"
+      },
+      "Regal Shard":{
+        "zh_cn":"富豪石碎片",
+        "zh_tw":"富豪石碎片"
+      },
+      "Artificer's Shard":{
+        "zh_cn":"巧匠石碎片",
+        "zh_tw":"工匠碎片"
+      },
+      "Diluted Liquid Ire":{
+        "zh_cn":"稀释的液化愤怒",
+        "zh_tw":"稀釋的液態憤怒"
+      },
+      "Diluted Liquid Guilt":{
+        "zh_cn":"稀释的液化内疚",
+        "zh_tw":"稀釋的液態罪惡"
+      },
+      "Diluted Liquid Greed":{
+        "zh_cn":"稀释的液化贪婪",
+        "zh_tw":"稀釋的液態貪婪"
+      },
+      "Liquid Paranoia":{
+        "zh_cn":"液化偏执",
+        "zh_tw":"液態偏執"
+      },
+      "Liquid Envy":{
+        "zh_cn":"液化嫉妒",
+        "zh_tw":"液態忌妒"
+      },
+      "Liquid Disgust":{
+        "zh_cn":"液化憎恶",
+        "zh_tw":"液態厭惡"
+      },
+      "Liquid Despair":{
+        "zh_cn":"液化绝望",
+        "zh_tw":"液態絕望"
+      },
+      "Concentrated Liquid Fear":{
+        "zh_cn":"浓缩的液化恐惧",
+        "zh_tw":"濃縮液態恐懼"
+      },
+      "Concentrated Liquid Suffering":{
+        "zh_cn":"浓缩的液化痛苦",
+        "zh_tw":"濃縮液態苦難"
+      },
+      "Concentrated Liquid Isolation":{
+        "zh_cn":"浓缩的液化孤独",
+        "zh_tw":"濃縮液態孤立"
+      },
+      "Exotic Coinage":{
+        "zh_cn":"异域铸币",
+        "zh_tw":"異域幣鑄"
+      },
+      "Broken Circle Artifact":{
+        "zh_cn":"裂环神器",
+        "zh_tw":"破碎之環文物"
+      },
+      "Black Scythe Artifact":{
+        "zh_cn":"黑镰神器",
+        "zh_tw":"黑暗血鐮文物"
+      },
+      "Order Artifact":{
+        "zh_cn":"教团神器",
+        "zh_tw":"秩序文物"
+      },
+      "Sun Artifact":{
+        "zh_cn":"烈日神器",
+        "zh_tw":"豔陽文物"
+      },
+      "Gold":{
+        "zh_cn":"金币",
+        "zh_tw":"金幣"
+      },
+      "Gnawed Jawbone":{
+        "zh_cn":"啃噬颚骨",
+        "zh_tw":"破碎的顎骨"
+      },
+      "Preserved Jawbone":{
+        "zh_cn":"遗存颚骨",
+        "zh_tw":"保存良好的顎骨"
+      },
+      "Ancient Jawbone":{
+        "zh_cn":"远古颚骨",
+        "zh_tw":"古老的顎骨"
+      },
+      "Gnawed Rib":{
+        "zh_cn":"啃噬肋骨",
+        "zh_tw":"破碎的肋骨"
+      },
+      "Preserved Rib":{
+        "zh_cn":"遗存肋骨",
+        "zh_tw":"保存良好的肋骨"
+      },
+      "Ancient Rib":{
+        "zh_cn":"远古肋骨",
+        "zh_tw":"古老的肋骨"
+      },
+      "Gnawed Collarbone":{
+        "zh_cn":"啃噬锁骨",
+        "zh_tw":"破碎的鎖骨"
+      },
+      "Preserved Collarbone":{
+        "zh_cn":"遗存锁骨",
+        "zh_tw":"保存良好的鎖骨"
+      },
+      "Ancient Collarbone":{
+        "zh_cn":"远古锁骨",
+        "zh_tw":"古老的鎖骨"
+      },
+      "Preserved Cranium":{
+        "zh_cn":"遗存头骨",
+        "zh_tw":"保存良好的顱骨"
+      },
+      "Preserved Vertebrae":{
+        "zh_cn":"遗存椎骨",
+        "zh_tw":"保存良好的脊椎"
+      }
+    }
+  ],
+  "Splinter Item /4":{
+    "zh_cn":"裂片 物品 /4",
+    "zh_tw":"裂片 物品 /4"
+  },
+  "Splinter Item_group":[
+    {
+      "Breach Splinter":{
+        "zh_cn":"裂隙碎片",
+        "zh_tw":"裂痕裂片"
+      },
+      "Simulacrum Splinter":{
+        "zh_cn":"梦魇拟像裂片",
+        "zh_tw":"幻像斷片"
+      },
+      "Petition Splinter":{
+        "zh_cn":"请愿碎片",
+        "zh_tw":"願力斷片"
+      },
+      "Runic Splinter":{
+        "zh_cn":"符文碎片",
+        "zh_tw":"符文斷片"
+      }
+    }
+  ],
+  "Catalyst Item /12":{
+    "zh_cn":"催化剂 物品 /12",
+    "zh_tw":"催化劑 物品 /12"
+  },
+  "Catalyst Item_group":[
+    {
+      "Flesh Catalyst":{
+        "zh_cn":"身躯催化剂",
+        "zh_tw":"生命催化劑"
+      },
+      "Neural Catalyst":{
+        "zh_cn":"神经催化剂",
+        "zh_tw":"魔力催化劑"
+      },
+      "Carapace Catalyst":{
+        "zh_cn":"甲壳催化剂",
+        "zh_tw":"甲殼的催化劑"
+      },
+      "Uul-Netol's Catalyst":{
+        "zh_cn":"乌尔尼多催化剂",
+        "zh_tw":"物理催化劑"
+      },
+      "Xoph's Catalyst":{
+        "zh_cn":"索伏催化剂",
+        "zh_tw":"火焰催化劑"
+      },
+      "Tul's Catalyst":{
+        "zh_cn":"托沃催化剂",
+        "zh_tw":"冰冷催化劑"
+      },
+      "Esh's Catalyst":{
+        "zh_cn":"艾许催化剂",
+        "zh_tw":"閃電催化劑"
+      },
+      "Chayula's Catalyst":{
+        "zh_cn":"夏乌拉催化剂",
+        "zh_tw":"混沌催化劑"
+      },
+      "Reaver Catalyst":{
+        "zh_cn":"袭击催化剂",
+        "zh_tw":"掠奪的催化劑"
+      },
+      "Sibilant Catalyst":{
+        "zh_cn":"嘶语催化剂",
+        "zh_tw":"嘶鳴的催化劑"
+      },
+      "Skittering Catalyst":{
+        "zh_cn":"飞掠催化剂",
+        "zh_tw":"飛掠的催化劑"
+      },
+      "Adaptive Catalyst":{
+        "zh_cn":"应变催化剂",
+        "zh_tw":"適性的催化劑"
+      }
+    }
+  ],
+  "Augment Item /123":{
+    "zh_cn":"增幅器 物品 /123",
+    "zh_tw":"增幅 物品 /123"
+  },
+  "Augment Item_group":[
+    {
+      "Desert Rune|Desert Runes":{
+        "zh_cn":"沙漠符文",
+        "zh_tw":"沙漠符文"
+      },
+      "Glacial Rune|Glacial Runes":{
+        "zh_cn":"冰川符文",
+        "zh_tw":"冰川符文"
+      },
+      "Storm Rune|Storm Runes":{
+        "zh_cn":"风暴符文",
+        "zh_tw":"暴風符文"
+      },
+      "Iron Rune|Iron Runes":{
+        "zh_cn":"钢铁符文",
+        "zh_tw":"鍛鐵符文"
+      },
+      "Body Rune|Body Runes":{
+        "zh_cn":"身躯符文",
+        "zh_tw":"肉體符文"
+      },
+      "Mind Rune|Mind Runes":{
+        "zh_cn":"心灵符文",
+        "zh_tw":"心靈符文"
+      },
+      "Rebirth Rune|Rebirth Runes":{
+        "zh_cn":"重生符文",
+        "zh_tw":"重生符文"
+      },
+      "Inspiration Rune|Inspiration Runes":{
+        "zh_cn":"启迪符文",
+        "zh_tw":"啟發符文"
+      },
+      "Stone Rune|Stone Runes":{
+        "zh_cn":"磐石符文",
+        "zh_tw":"岩石符文"
+      },
+      "Vision Rune|Vision Runes":{
+        "zh_cn":"幻象符文",
+        "zh_tw":"遠見符文"
+      },
+      "Lesser Desert Rune|Lesser Desert Runes":{
+        "zh_cn":"次级沙漠符文",
+        "zh_tw":"低階沙漠符文"
+      },
+      "Lesser Glacial Rune|Lesser Glacial Runes":{
+        "zh_cn":"次级冰川符文",
+        "zh_tw":"低階冰川符文"
+      },
+      "Lesser Storm Rune|Lesser Elemental Runes":{
+        "zh_cn":"次级风暴符文",
+        "zh_tw":"低階暴風符文"
+      },
+      "Lesser Iron Rune|Lesser Iron Runes":{
+        "zh_cn":"次级钢铁符文",
+        "zh_tw":"低階鍛鐵符文"
+      },
+      "Lesser Body Rune|Lesser Body Runes":{
+        "zh_cn":"次级身躯符文",
+        "zh_tw":"低階肉體符文"
+      },
+      "Lesser Mind Rune|Lesser Mind Runes":{
+        "zh_cn":"次级心灵符文",
+        "zh_tw":"低階心靈符文"
+      },
+      "Lesser Rebirth Rune|Lesser Rebirth Runes":{
+        "zh_cn":"次级重生符文",
+        "zh_tw":"低階重生符文"
+      },
+      "Lesser Inspiration Rune|Lesser Inspiration Runes":{
+        "zh_cn":"次级启迪符文",
+        "zh_tw":"低階啟發符文"
+      },
+      "Lesser Stone Rune|Lesser Stone Runes":{
+        "zh_cn":"次级磐石符文",
+        "zh_tw":"低階岩石符文"
+      },
+      "Lesser Vision Rune|Lesser Vision Runes":{
+        "zh_cn":"次级幻象符文",
+        "zh_tw":"低階遠見符文"
+      },
+      "Greater Desert Rune|Greater Desert Runes":{
+        "zh_cn":"高级沙漠符文",
+        "zh_tw":"高階沙漠符文"
+      },
+      "Greater Glacial Rune|Greater Glacial Runes":{
+        "zh_cn":"高级冰川符文",
+        "zh_tw":"高階冰川符文"
+      },
+      "Greater Storm Rune|Greater Storm Runes":{
+        "zh_cn":"高级风暴符文",
+        "zh_tw":"高階暴風符文"
+      },
+      "Greater Iron Rune|Greater Iron Runes":{
+        "zh_cn":"高级钢铁符文",
+        "zh_tw":"高階鍛鐵符文"
+      },
+      "Greater Body Rune|Greater Body Runes":{
+        "zh_cn":"高级身躯符文",
+        "zh_tw":"高階肉體符文"
+      },
+      "Greater Mind Rune|Greater Mind Runes":{
+        "zh_cn":"高级心灵符文",
+        "zh_tw":"高階心靈符文"
+      },
+      "Greater Rebirth Rune|Greater Rebirth Runes":{
+        "zh_cn":"高级重生符文",
+        "zh_tw":"高階重生符文"
+      },
+      "Greater Inspiration Rune|Greater Inspiration Runes":{
+        "zh_cn":"高级启迪符文",
+        "zh_tw":"高階啟發符文"
+      },
+      "Greater Stone Rune|Greater Stone Runes":{
+        "zh_cn":"高级磐石符文",
+        "zh_tw":"高階岩石符文"
+      },
+      "Greater Vision Rune|Greater Vision Runes":{
+        "zh_cn":"高级幻象符文",
+        "zh_tw":"高階遠見符文"
+      },
+      "Lesser Robust Rune|Lesser Robust Runes":{
+        "zh_cn":"次级健壮符文",
+        "zh_tw":"低階堅實符文"
+      },
+      "Robust Rune|Robust Runes":{
+        "zh_cn":"健壮符文",
+        "zh_tw":"堅實符文"
+      },
+      "Greater Robust Rune|Greater Robust Runes":{
+        "zh_cn":"高级健壮符文",
+        "zh_tw":"高階堅實符文"
+      },
+      "Lesser Adept Rune|Lesser Adept Runes":{
+        "zh_cn":"次级行家符文",
+        "zh_tw":"低階嫻熟符文"
+      },
+      "Adept Rune|Adept Runes":{
+        "zh_cn":"行家符文",
+        "zh_tw":"嫻熟符文"
+      },
+      "Greater Adept Rune|Greater Adept Runes":{
+        "zh_cn":"高级行家符文",
+        "zh_tw":"高階嫻熟符文"
+      },
+      "Lesser Resolve Rune|Lesser Resolve Runes":{
+        "zh_cn":"次级坚毅符文",
+        "zh_tw":"低階決心符文"
+      },
+      "Resolve Rune|Resolve Runes":{
+        "zh_cn":"坚毅符文",
+        "zh_tw":"決心符文"
+      },
+      "Greater Resolve Rune|Greater Resolve Runes":{
+        "zh_cn":"高级坚毅符文",
+        "zh_tw":"高階決心符文"
+      },
+      "Lesser Tempered Rune|Lesser Tempered Runes":{
+        "zh_cn":"次级淬炼符文",
+        "zh_tw":"低階鍛煉符文"
+      },
+      "Tempered Rune|Tempered Runes":{
+        "zh_cn":"淬炼符文",
+        "zh_tw":"鍛煉符文"
+      },
+      "Greater Tempered Rune|Greater Tempered Runes":{
+        "zh_cn":"高级淬炼符文",
+        "zh_tw":"高階鍛煉符文"
+      },
+      "Greater Rune of Leadership":{
+        "zh_cn":"高级领袖符文",
+        "zh_tw":"高階領導符文"
+      },
+      "Greater Rune of Tithing":{
+        "zh_cn":"高级奉纳符文",
+        "zh_tw":"高階奉獻符文"
+      },
+      "Greater Rune of Alacrity":{
+        "zh_cn":"高级迅捷符文",
+        "zh_tw":"高階迅捷符文"
+      },
+      "Greater Rune of Nobility":{
+        "zh_cn":"高级尊贵符文",
+        "zh_tw":"高階崇高符文"
+      },
+      "Hedgewitch Assandra's Rune of Wisdom":{
+        "zh_cn":"女巫阿桑德拉的智慧符文",
+        "zh_tw":"流浪女巫艾珊德菈的智慧符文"
+      },
+      "Saqawal's Rune of the Sky":{
+        "zh_cn":"萨奇沃的苍空符文",
+        "zh_tw":"斯卡沃的天空符文"
+      },
+      "Fenumus' Rune of Agony":{
+        "zh_cn":"费努姆斯的痛苦符文",
+        "zh_tw":"菲恩絲的苦痛符文"
+      },
+      "Farrul's Rune of Grace":{
+        "zh_cn":"法瑞尔的优雅符文",
+        "zh_tw":"費爾羅的優雅符文"
+      },
+      "Farrul's Rune of the Chase":{
+        "zh_cn":"法瑞尔的追逐符文",
+        "zh_tw":"費爾羅的追擊符文"
+      },
+      "Craiceann's Rune of Warding":{
+        "zh_cn":"克林斯昂的守护符文",
+        "zh_tw":"奎爾珊的守護符文"
+      },
+      "Saqawal's Rune of Memory":{
+        "zh_cn":"萨奇沃的回忆符文",
+        "zh_tw":"斯卡沃的記憶符文"
+      },
+      "Saqawal's Rune of Erosion":{
+        "zh_cn":"萨奇沃的碎砾符文",
+        "zh_tw":"斯卡沃的侵蝕符文"
+      },
+      "Farrul's Rune of the Hunt":{
+        "zh_cn":"法瑞尔的狩猎符文",
+        "zh_tw":"費爾羅的狩獵符文"
+      },
+      "Craiceann's Rune of Recovery":{
+        "zh_cn":"克林斯昂的回复符文",
+        "zh_tw":"奎爾珊的恢復符文"
+      },
+      "Courtesan Mannan's Rune of Cruelty":{
+        "zh_cn":"交际花曼南的残酷符文",
+        "zh_tw":"花魁蔓南的殘酷符文"
+      },
+      "Thane Grannell's Rune of Mastery":{
+        "zh_cn":"格兰内尔领主的掌控符文",
+        "zh_tw":"爵士格蘭內爾的專精符文"
+      },
+      "Fenumus' Rune of Spinning":{
+        "zh_cn":"费努姆斯的飞旋符文",
+        "zh_tw":"菲恩絲的轉動符文"
+      },
+      "Countess Seske's Rune of Archery":{
+        "zh_cn":"塞丝克伯爵夫人的箭术符文",
+        "zh_tw":"伯爵夫人瑟絲可的箭術符文"
+      },
+      "Thane Girt's Rune of Wildness":{
+        "zh_cn":"吉尔特领主的荒野符文",
+        "zh_tw":"爵士格特的野性符文"
+      },
+      "Fenumus' Rune of Draining":{
+        "zh_cn":"费努姆斯的流失符文",
+        "zh_tw":"菲恩絲的流失符文"
+      },
+      "Thane Myrk's Rune of Summer":{
+        "zh_cn":"默克领主的仲夏符文",
+        "zh_tw":"爵士邁爾克的盛夏符文"
+      },
+      "Lady Hestra's Rune of Winter":{
+        "zh_cn":"赫丝特拉女士的寒冬符文",
+        "zh_tw":"赫絲緹菈的寒冬符文"
+      },
+      "Thane Leld's Rune of Spring":{
+        "zh_cn":"雷尔德领主的春光符文",
+        "zh_tw":"爵士勒爾德的暖春符文"
+      },
+      "The Greatwolf's Rune of Claws":{
+        "zh_cn":"巨狼之利爪符文",
+        "zh_tw":"巨狼之爪符文"
+      },
+      "The Greatwolf's Rune of Willpower":{
+        "zh_cn":"巨狼之意志符文",
+        "zh_tw":"巨狼意志符文"
+      },
+      "Idol of Sirrius":{
+        "zh_cn":"西里乌斯的雕像",
+        "zh_tw":"席里斯魔偶"
+      },
+      "Idol of Thruldana":{
+        "zh_cn":"舒尔达纳的雕像",
+        "zh_tw":"特盧達納魔偶"
+      },
+      "Idol of Grold":{
+        "zh_cn":"格罗尔德的雕像",
+        "zh_tw":"格羅德魔偶"
+      },
+      "Idol of Eeshta":{
+        "zh_cn":"埃什塔的雕像",
+        "zh_tw":"義許塔魔偶"
+      },
+      "Idol of Egrin":{
+        "zh_cn":"艾格林的雕像",
+        "zh_tw":"埃格林魔偶"
+      },
+      "Idol of Maxarius":{
+        "zh_cn":"玛萨留斯的雕像",
+        "zh_tw":"馬薩里斯魔偶"
+      },
+      "Idol of Ralakesh":{
+        "zh_cn":"拉克斯的雕像",
+        "zh_tw":"芮勒蓋許魔偶"
+      },
+      "Hayoxi's Soul Core of Heatproofing":{
+        "zh_cn":"海幽夏的耐热灵核",
+        "zh_tw":"荷霖蔡的隔熱靈魂核心"
+      },
+      "Zalatl's Soul Core of Insulation":{
+        "zh_cn":"扎拉迪的绝缘灵核",
+        "zh_tw":"札爾特的絕緣靈魂核心"
+      },
+      "Topotante's Soul Core of Dampening":{
+        "zh_cn":"托钵塔特的抑制灵核",
+        "zh_tw":"托波譚提的阻挫靈魂核心"
+      },
+      "Atmohua's Soul Core of Retreat":{
+        "zh_cn":"阿特莫瓦的退却灵核",
+        "zh_tw":"艾特瑪哈的撤退靈魂核心"
+      },
+      "Quipolatl's Soul Core of Flow":{
+        "zh_cn":"奎波拉特尔的波流灵核",
+        "zh_tw":"克特帕托的流動靈魂核心"
+      },
+      "Tzamoto's Soul Core of Ferocity":{
+        "zh_cn":"提扎墨脱的狂暴灵核",
+        "zh_tw":"薩摩特的狂暴靈魂核心"
+      },
+      "Uromoti's Soul Core of Attenuation":{
+        "zh_cn":"武罗摩提的弱化灵核",
+        "zh_tw":"烏爾摩堤的消減靈魂核心"
+      },
+      "Opiloti's Soul Core of Assault":{
+        "zh_cn":"欧佩罗蒂的突袭灵核",
+        "zh_tw":"歐派理堤的攻擊靈魂核心"
+      },
+      "Guatelitzi's Soul Core of Endurance":{
+        "zh_cn":"瓜铁雷兹的耐力灵核",
+        "zh_tw":"瓜特利斯的的耐久靈魂核心"
+      },
+      "Xopec's Soul Core of Power":{
+        "zh_cn":"肖佩克的力量灵核",
+        "zh_tw":"柔派克的力量靈魂核心"
+      },
+      "Estazunti's Soul Core of Convalescence":{
+        "zh_cn":"埃斯塔祖提的康复灵核",
+        "zh_tw":"艾斯祖太的康復靈魂核心"
+      },
+      "Tacati's Soul Core of Affliction":{
+        "zh_cn":"塔卡提的折磨灵核",
+        "zh_tw":"特卡蒂的苦痛靈魂核心"
+      },
+      "Cholotl's Soul Core of War":{
+        "zh_cn":"查罗特的战争灵核",
+        "zh_tw":"斯拉托的戰爭靈魂核心"
+      },
+      "Citaqualotl's Soul Core of Foulness":{
+        "zh_cn":"奇塔夸雷特的腐秽灵核",
+        "zh_tw":"希特克拉多的腐壞靈魂核心"
+      },
+      "Xipocado's Soul Core of Dominion":{
+        "zh_cn":"夏波卡多的统御灵核",
+        "zh_tw":"賽匹卡托的支配靈魂核心"
+      },
+      "Soul Core of Tacati":{
+        "zh_cn":"塔卡提的灵核",
+        "zh_tw":"特卡蒂靈魂核心"
+      },
+      "Soul Core of Opiloti":{
+        "zh_cn":"欧佩罗蒂的灵核",
+        "zh_tw":"歐派理堤靈魂核心"
+      },
+      "Soul Core of Jiquani":{
+        "zh_cn":"佳华尼的灵核",
+        "zh_tw":"吉卡尼靈魂核心"
+      },
+      "Soul Core of Zalatl":{
+        "zh_cn":"扎拉迪的灵核",
+        "zh_tw":"札爾特靈魂核心"
+      },
+      "Soul Core of Citaqualotl":{
+        "zh_cn":"奇塔夸雷特的灵核",
+        "zh_tw":"希特克拉多靈魂核心"
+      },
+      "Soul Core of Puhuarte":{
+        "zh_cn":"普华特的灵核",
+        "zh_tw":"普希瓦爾靈魂核心"
+      },
+      "Soul Core of Tzamoto":{
+        "zh_cn":"提扎墨脱的灵核",
+        "zh_tw":"薩摩特靈魂核心"
+      },
+      "Soul Core of Xopec":{
+        "zh_cn":"肖佩克的灵核",
+        "zh_tw":"柔派克靈魂核心"
+      },
+      "Soul Core of Azcapa":{
+        "zh_cn":"阿兹卡帕的灵核",
+        "zh_tw":"艾斯卡巴靈魂核心"
+      },
+      "Soul Core of Topotante":{
+        "zh_cn":"托钵塔特的灵核",
+        "zh_tw":"塔普塔特靈魂核心"
+      },
+      "Soul Core of Quipolatl":{
+        "zh_cn":"奎波拉特尔的灵核",
+        "zh_tw":"克特帕托靈魂核心"
+      },
+      "Soul Core of Ticaba":{
+        "zh_cn":"提卡巴的灵核",
+        "zh_tw":"堤卡巴靈魂核心"
+      },
+      "Soul Core of Atmohua":{
+        "zh_cn":"阿特莫瓦的灵核",
+        "zh_tw":"力量靈魂核心"
+      },
+      "Soul Core of Cholotl":{
+        "zh_cn":"查罗特的灵核",
+        "zh_tw":"敏捷靈魂核心"
+      },
+      "Soul Core of Zantipi":{
+        "zh_cn":"赞提佩的灵核",
+        "zh_tw":"智慧靈魂核心"
+      },
+      "Snake Idol":{
+        "zh_cn":"毒蛇雕像",
+        "zh_tw":"蝮蛇魔偶"
+      },
+      "Primate Idol":{
+        "zh_cn":"狂猿雕像",
+        "zh_tw":"靈長魔偶"
+      },
+      "Owl Idol":{
+        "zh_cn":"猫头鹰雕像",
+        "zh_tw":"夜梟魔偶"
+      },
+      "Cat Idol":{
+        "zh_cn":"灵猫雕像",
+        "zh_tw":"靈貓魔偶"
+      },
+      "Wolf Idol":{
+        "zh_cn":"恶狼雕像",
+        "zh_tw":"野狼魔偶"
+      },
+      "Stag Idol":{
+        "zh_cn":"雄鹿雕像",
+        "zh_tw":"雄鹿魔偶"
+      },
+      "Boar Idol":{
+        "zh_cn":"野猪雕像",
+        "zh_tw":"野豬魔偶"
+      },
+      "Bear Idol":{
+        "zh_cn":"巨熊雕像",
+        "zh_tw":"巨熊魔偶"
+      },
+      "Ox Idol":{
+        "zh_cn":"公牛雕像",
+        "zh_tw":"公牛魔偶"
+      },
+      "Rabbit Idol":{
+        "zh_cn":"狡兔雕像",
+        "zh_tw":"狡兔魔偶"
+      },
+      "Fox Idol":{
+        "zh_cn":"狐狸雕像",
+        "zh_tw":"狐狸魔偶"
+      },
+      "Amanamu's Gaze":{
+        "zh_cn":"埃曼纳姆的凝视",
+        "zh_tw":"阿姆那姆的邪眼"
+      },
+      "Tecrod's Gaze":{
+        "zh_cn":"特克罗的凝视",
+        "zh_tw":"特克羅德的邪眼"
+      },
+      "Kurgal's Gaze":{
+        "zh_cn":"古加尔的凝视",
+        "zh_tw":"柯戈的邪眼"
+      },
+      "Ulaman's Gaze":{
+        "zh_cn":"乌拉曼的凝视",
+        "zh_tw":"烏拉曼的邪眼"
+      },
+      "Guatelitzi's Thesis":{
+        "zh_cn":"瓜铁雷兹的圣典",
+        "zh_tw":"瓜特利斯的假說"
+      },
+      "Citaqualotl's Thesis":{
+        "zh_cn":"奇塔夸雷特的圣典",
+        "zh_tw":"希特克拉多的假說"
+      },
+      "Jiquani's Thesis":{
+        "zh_cn":"佳华尼的圣典",
+        "zh_tw":"吉卡尼的假說"
+      },
+      "Quipolatl's Thesis":{
+        "zh_cn":"奎波拉特尔的圣典",
+        "zh_tw":"克特帕托的假說"
+      }
+    }
+  ],
+  "Omen Item /44":{
+    "zh_cn":"预兆 物品 /44",
+    "zh_tw":"預兆 物品 /44"
+  },
+  "Omen Item_group":[
+    {
+      "Omen of Refreshment":{
+        "zh_cn":"恢复预兆",
+        "zh_tw":"刷新之兆"
+      },
+      "Omen of Resurgence":{
+        "zh_cn":"复苏预兆",
+        "zh_tw":"復興之兆"
+      },
+      "Omen of Amelioration":{
+        "zh_cn":"进步预兆",
+        "zh_tw":"改善之兆"
+      },
+      "Omen of Whittling":{
+        "zh_cn":"消减预兆",
+        "zh_tw":"削切之兆"
+      },
+      "Omen of Sinistral Erasure":{
+        "zh_cn":"左旋消抹预兆",
+        "zh_tw":"左旋抺除之兆"
+      },
+      "Omen of Dextral Erasure":{
+        "zh_cn":"右旋消抹预兆",
+        "zh_tw":"右旋抺除之兆"
+      },
+      "Omen of Sinistral Alchemy":{
+        "zh_cn":"左旋炼金预兆",
+        "zh_tw":"左旋煉金之兆"
+      },
+      "Omen of Dextral Alchemy":{
+        "zh_cn":"右旋炼金预兆",
+        "zh_tw":"右旋煉金之兆"
+      },
+      "Omen of Sinistral Coronation":{
+        "zh_cn":"左旋加冕预兆",
+        "zh_tw":"左旋加冕之兆"
+      },
+      "Omen of Dextral Coronation":{
+        "zh_cn":"右旋加冕预兆",
+        "zh_tw":"右旋加冕之兆"
+      },
+      "Omen of Corruption":{
+        "zh_cn":"腐化预兆",
+        "zh_tw":"腐化之兆"
+      },
+      "Omen of Greater Exaltation":{
+        "zh_cn":"强效崇高预兆",
+        "zh_tw":"大幅提升之兆"
+      },
+      "Omen of Sinistral Exaltation":{
+        "zh_cn":"左旋崇高预兆",
+        "zh_tw":"左旋提升之兆"
+      },
+      "Omen of Dextral Exaltation":{
+        "zh_cn":"右旋崇高预兆",
+        "zh_tw":"右旋提升之兆"
+      },
+      "Omen of Greater Annulment":{
+        "zh_cn":"强效剥离预兆",
+        "zh_tw":"大幅廢止之兆"
+      },
+      "Omen of Sinistral Annulment":{
+        "zh_cn":"左旋剥离预兆",
+        "zh_tw":"左旋廢止之兆"
+      },
+      "Omen of Dextral Annulment":{
+        "zh_cn":"右旋剥离预兆",
+        "zh_tw":"右旋廢止之兆"
+      },
+      "Omen of Answered Prayers":{
+        "zh_cn":"有求必应预兆",
+        "zh_tw":"回應祈禱之兆"
+      },
+      "Omen of Secret Compartments":{
+        "zh_cn":"秘密暗格预兆",
+        "zh_tw":"密室之兆"
+      },
+      "Omen of the Hunt":{
+        "zh_cn":"狩猎预兆",
+        "zh_tw":"狩獵之兆"
+      },
+      "Omen of Reinforcements":{
+        "zh_cn":"增援预兆",
+        "zh_tw":"增援之兆"
+      },
+      "Omen of Homogenising Exaltation":{
+        "zh_cn":"同质化崇高预兆",
+        "zh_tw":"均勻喜悅之兆"
+      },
+      "Omen of Homogenising Coronation":{
+        "zh_cn":"同质化加冕预兆",
+        "zh_tw":"均勻加冕之兆"
+      },
+      "Omen of Gambling":{
+        "zh_cn":"强运预兆",
+        "zh_tw":"博弈之兆"
+      },
+      "Omen of Bartering":{
+        "zh_cn":"互换预兆",
+        "zh_tw":"還價之兆"
+      },
+      "Omen of Recombination":{
+        "zh_cn":"重组预兆",
+        "zh_tw":"重組之兆"
+      },
+      "Omen of the Blessed":{
+        "zh_cn":"祝福预兆",
+        "zh_tw":"祝福之兆"
+      },
+      "Omen of Chaotic Rarity":{
+        "zh_cn":"混沌稀有预兆",
+        "zh_tw":"混沌稀有度之兆"
+      },
+      "Omen of Chaotic Quantity":{
+        "zh_cn":"混沌怪物预兆",
+        "zh_tw":"混沌數量之兆"
+      },
+      "Omen of Chaotic Monsters":{
+        "zh_cn":"混沌数量预兆",
+        "zh_tw":"混沌怪物之兆"
+      },
+      "Omen of Chance":{
+        "zh_cn":"机遇预兆",
+        "zh_tw":"機會之兆"
+      },
+      "Omen of the Ancients":{
+        "zh_cn":"远古预兆",
+        "zh_tw":"遠古之兆"
+      },
+      "Omen of Sanctification":{
+        "zh_cn":"神圣预兆",
+        "zh_tw":"聖化之兆"
+      },
+      "Omen of Dextral Crystallisation":{
+        "zh_cn":"右旋结晶预兆",
+        "zh_tw":"右旋結晶之兆"
+      },
+      "Omen of Sinistral Crystallisation":{
+        "zh_cn":"左旋结晶预兆",
+        "zh_tw":"左旋結晶之兆"
+      },
+      "Omen of Catalysing Exaltation":{
+        "zh_cn":"催化崇高预兆",
+        "zh_tw":"催化喜悅之兆"
+      },
+      "Omen of Abyssal Echoes":{
+        "zh_cn":"深渊回响预兆",
+        "zh_tw":"深淵迴響之兆"
+      },
+      "Omen of the Sovereign":{
+        "zh_cn":"至高预兆",
+        "zh_tw":"領主之兆"
+      },
+      "Omen of the Liege":{
+        "zh_cn":"领主预兆",
+        "zh_tw":"諸侯之兆"
+      },
+      "Omen of the Blackblooded":{
+        "zh_cn":"黑血预兆",
+        "zh_tw":"黑血者之兆"
+      },
+      "Omen of Putrefaction":{
+        "zh_cn":"腐烂预兆",
+        "zh_tw":"腐敗之兆"
+      },
+      "Omen of Light":{
+        "zh_cn":"光明预兆",
+        "zh_tw":"光明之兆"
+      },
+      "Omen of Sinistral Necromancy":{
+        "zh_cn":"左旋死灵预兆",
+        "zh_tw":"左旋死靈術之兆"
+      },
+      "Omen of Dextral Necromancy":{
+        "zh_cn":"右旋死灵预兆",
+        "zh_tw":"右旋死靈術之兆"
+      }
+    }
+  ],
+  "Essence /81":{
+    "zh_cn":"精华 /81",
+    "zh_tw":"精华 /81"
+  },
+  "Essence_group":[
+    {
+      "Lesser Essence of the Body":{
+        "zh_cn":"次级身躯精华",
+        "zh_tw":"低階肉體精髓"
+      },
+      "Lesser Essence of the Mind":{
+        "zh_cn":"次级心灵精华",
+        "zh_tw":"低階心智精髓"
+      },
+      "Lesser Essence of Enhancement":{
+        "zh_cn":"次级强化精华",
+        "zh_tw":"低階強化精髓"
+      },
+      "Lesser Essence of Abrasion":{
+        "zh_cn":"次级磨蚀精华",
+        "zh_tw":"低階磨礪精髓"
+      },
+      "Lesser Essence of Flames":{
+        "zh_cn":"次级烈焰精华",
+        "zh_tw":"低階烈焰精髓"
+      },
+      "Lesser Essence of Ice":{
+        "zh_cn":"次级冰霜精华",
+        "zh_tw":"低階寒冰精髓"
+      },
+      "Lesser Essence of Electricity":{
+        "zh_cn":"次级电光精华",
+        "zh_tw":"低階電能精髓"
+      },
+      "Lesser Essence of Ruin":{
+        "zh_cn":"次级摧灭精华",
+        "zh_tw":"低階毀滅精髓"
+      },
+      "Lesser Essence of Battle":{
+        "zh_cn":"次级激战精华",
+        "zh_tw":"低階戰鬥精髓"
+      },
+      "Lesser Essence of Sorcery":{
+        "zh_cn":"次级魔法精华",
+        "zh_tw":"低階巫術精髓"
+      },
+      "Lesser Essence of Haste":{
+        "zh_cn":"次级急速精华",
+        "zh_tw":"低階迅捷精髓"
+      },
+      "Lesser Essence of the Infinite":{
+        "zh_cn":"次级永恒精华",
+        "zh_tw":"低階無限精髓"
+      },
+      "Essence of the Body":{
+        "zh_cn":"身躯精华",
+        "zh_tw":"肉體精髓"
+      },
+      "Essence of the Mind":{
+        "zh_cn":"心灵精华",
+        "zh_tw":"心智精髓"
+      },
+      "Essence of Enhancement":{
+        "zh_cn":"强化精华",
+        "zh_tw":"強化精髓"
+      },
+      "Essence of Abrasion":{
+        "zh_cn":"磨蚀精华",
+        "zh_tw":"磨礪精髓"
+      },
+      "Essence of Flames":{
+        "zh_cn":"烈焰精华",
+        "zh_tw":"烈焰精髓"
+      },
+      "Essence of Ice":{
+        "zh_cn":"冰霜精华",
+        "zh_tw":"寒冰精髓"
+      },
+      "Essence of Electricity":{
+        "zh_cn":"电光精华",
+        "zh_tw":"電能精髓"
+      },
+      "Essence of Ruin":{
+        "zh_cn":"摧灭精华",
+        "zh_tw":"毀滅精髓"
+      },
+      "Essence of Battle":{
+        "zh_cn":"激战精华",
+        "zh_tw":"戰鬥精髓"
+      },
+      "Essence of Sorcery":{
+        "zh_cn":"魔法精华",
+        "zh_tw":"巫術精髓"
+      },
+      "Essence of Haste":{
+        "zh_cn":"急速精华",
+        "zh_tw":"迅捷精髓"
+      },
+      "Essence of the Infinite":{
+        "zh_cn":"永恒精华",
+        "zh_tw":"無限精髓"
+      },
+      "Greater Essence of the Body":{
+        "zh_cn":"强效身躯精华",
+        "zh_tw":"高階肉體精髓"
+      },
+      "Greater Essence of the Mind":{
+        "zh_cn":"强效心灵精华",
+        "zh_tw":"高階心智精髓"
+      },
+      "Greater Essence of Enhancement":{
+        "zh_cn":"强效增强精华",
+        "zh_tw":"高階強化精髓"
+      },
+      "Greater Essence of Abrasion":{
+        "zh_cn":"强效磨蚀精华",
+        "zh_tw":"高階磨礪精髓"
+      },
+      "Greater Essence of Flames":{
+        "zh_cn":"强效火焰精华",
+        "zh_tw":"高階烈焰精髓"
+      },
+      "Greater Essence of Ice":{
+        "zh_cn":"强效冰霜精华",
+        "zh_tw":"高階寒冰精髓"
+      },
+      "Greater Essence of Electricity":{
+        "zh_cn":"强效电光精华",
+        "zh_tw":"高階電能精髓"
+      },
+      "Greater Essence of Ruin":{
+        "zh_cn":"强效摧灭精华",
+        "zh_tw":"高階毀滅精髓"
+      },
+      "Greater Essence of Battle":{
+        "zh_cn":"强效激战精华",
+        "zh_tw":"高階戰鬥精髓"
+      },
+      "Greater Essence of Sorcery":{
+        "zh_cn":"强效魔法精华",
+        "zh_tw":"高階巫術精髓"
+      },
+      "Greater Essence of Haste":{
+        "zh_cn":"强效急速精华",
+        "zh_tw":"高階迅捷精髓"
+      },
+      "Greater Essence of the Infinite":{
+        "zh_cn":"强效永恒精华",
+        "zh_tw":"高階無限精髓"
+      },
+      "Perfect Essence of the Body":{
+        "zh_cn":"完美身躯精华",
+        "zh_tw":"完美肉體精髓"
+      },
+      "Perfect Essence of the Mind":{
+        "zh_cn":"完美心灵精华",
+        "zh_tw":"完美心智精髓"
+      },
+      "Perfect Essence of Enhancement":{
+        "zh_cn":"完美强化精华",
+        "zh_tw":"完美強化精髓"
+      },
+      "Perfect Essence of Abrasion":{
+        "zh_cn":"完美磨蚀精华",
+        "zh_tw":"完美磨礪精髓"
+      },
+      "Perfect Essence of Flames":{
+        "zh_cn":"完美烈焰精华",
+        "zh_tw":"完美烈焰精髓"
+      },
+      "Perfect Essence of Ice":{
+        "zh_cn":"完美冰霜精华",
+        "zh_tw":"完美寒冰精髓"
+      },
+      "Perfect Essence of Electricity":{
+        "zh_cn":"完美电光精华",
+        "zh_tw":"完美電能精髓"
+      },
+      "Perfect Essence of Ruin":{
+        "zh_cn":"完美摧灭精华",
+        "zh_tw":"完美毀滅精髓"
+      },
+      "Perfect Essence of Battle":{
+        "zh_cn":"完美激战精华",
+        "zh_tw":"完美戰鬥精髓"
+      },
+      "Perfect Essence of Sorcery":{
+        "zh_cn":"完美魔法精华",
+        "zh_tw":"完美巫術精髓"
+      },
+      "Perfect Essence of Haste":{
+        "zh_cn":"完美急速精华",
+        "zh_tw":"完美迅捷精髓"
+      },
+      "Perfect Essence of the Infinite":{
+        "zh_cn":"完美永恒精华",
+        "zh_tw":"完美無限精髓"
+      },
+      "Lesser Essence of Seeking":{
+        "zh_cn":"次级寻觅精华",
+        "zh_tw":"低階探尋精髓"
+      },
+      "Essence of Seeking":{
+        "zh_cn":"寻觅精华",
+        "zh_tw":"探尋精髓"
+      },
+      "Greater Essence of Seeking":{
+        "zh_cn":"强效寻觅精华",
+        "zh_tw":"高階探尋精髓"
+      },
+      "Perfect Essence of Seeking":{
+        "zh_cn":"完美寻觅精华",
+        "zh_tw":"完美探尋精髓"
+      },
+      "Essence of Hysteria":{
+        "zh_cn":"浮夸精华",
+        "zh_tw":"浮誇精髓"
+      },
+      "Essence of Delirium":{
+        "zh_cn":"谵妄精华",
+        "zh_tw":"譫妄精髓"
+      },
+      "Essence of Horror":{
+        "zh_cn":"极恐精华",
+        "zh_tw":"極恐精髓"
+      },
+      "Essence of Insanity":{
+        "zh_cn":"错乱精华",
+        "zh_tw":"錯亂精髓"
+      },
+      "Essence of the Abyss":{
+        "zh_cn":"深渊精华",
+        "zh_tw":"深淵精髓"
+      },
+      "Lesser Essence of Insulation":{
+        "zh_cn":"次级绝缘精华",
+        "zh_tw":"低階隔絕精髓"
+      },
+      "Essence of Insulation":{
+        "zh_cn":"绝缘精华",
+        "zh_tw":"隔絕精髓"
+      },
+      "Greater Essence of Insulation":{
+        "zh_cn":"强效绝缘精华",
+        "zh_tw":"高階隔絕精髓"
+      },
+      "Perfect Essence of Insulation":{
+        "zh_cn":"完美绝缘精华",
+        "zh_tw":"完美隔絕精髓"
+      },
+      "Lesser Essence of Thawing":{
+        "zh_cn":"次级熔解精华",
+        "zh_tw":"低階解凍精髓"
+      },
+      "Essence of Thawing":{
+        "zh_cn":"熔解精华",
+        "zh_tw":"解凍精髓"
+      },
+      "Greater Essence of Thawing":{
+        "zh_cn":"强效熔解精华",
+        "zh_tw":"高階解凍精髓"
+      },
+      "Perfect Essence of Thawing":{
+        "zh_cn":"完美熔解精华",
+        "zh_tw":"完美解凍精髓"
+      },
+      "Lesser Essence of Grounding":{
+        "zh_cn":"次级接地精华",
+        "zh_tw":"低階接地精髓"
+      },
+      "Essence of Grounding":{
+        "zh_cn":"接地精华",
+        "zh_tw":"接地精髓"
+      },
+      "Greater Essence of Grounding":{
+        "zh_cn":"强效接地精华",
+        "zh_tw":"高階接地精髓"
+      },
+      "Perfect Essence of Grounding":{
+        "zh_cn":"完美接地精华",
+        "zh_tw":"完美接地精髓"
+      },
+      "Lesser Essence of Alacrity":{
+        "zh_cn":"次级迅捷精华",
+        "zh_tw":"低階輕快精髓"
+      },
+      "Essence of Alacrity":{
+        "zh_cn":"迅捷精华",
+        "zh_tw":"輕快精髓"
+      },
+      "Greater Essence of Alacrity":{
+        "zh_cn":"强效迅捷精华",
+        "zh_tw":"高階輕快精髓"
+      },
+      "Perfect Essence of Alacrity":{
+        "zh_cn":"完美迅捷精华",
+        "zh_tw":"完美輕快精髓"
+      },
+      "Lesser Essence of Opulence":{
+        "zh_cn":"次级丰裕精华",
+        "zh_tw":"低階豐裕精髓"
+      },
+      "Essence of Opulence":{
+        "zh_cn":"丰裕精华",
+        "zh_tw":"豐裕精髓"
+      },
+      "Greater Essence of Opulence":{
+        "zh_cn":"强效丰裕精华",
+        "zh_tw":"高階豐裕精髓"
+      },
+      "Perfect Essence of Opulence":{
+        "zh_cn":"完美丰裕精华",
+        "zh_tw":"完美豐裕精髓"
+      },
+      "Lesser Essence of Command":{
+        "zh_cn":"次级命令精华",
+        "zh_tw":"低階命令精髓"
+      },
+      "Essence of Command":{
+        "zh_cn":"命令精华",
+        "zh_tw":"命令精髓"
+      },
+      "Greater Essence of Command":{
+        "zh_cn":"强效命令精华",
+        "zh_tw":"高階命令精髓"
+      },
+      "Perfect Essence of Command":{
+        "zh_cn":"完美命令精华",
+        "zh_tw":"完美命令精髓"
+      }
+    }
+  ]
+}

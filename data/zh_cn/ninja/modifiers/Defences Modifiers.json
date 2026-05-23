@@ -1,0 +1,130 @@
+[
+  {
+    "original": "{0} to maximum [Energy Shield|Energy Shield]",
+    "translation": {
+      "zh_cn": "{0} 最大[Energy Shield|能量护盾]",
+      "zh_tw": "{0} 最大[Energy Shield|能量護盾]"
+    }
+  },
+  {
+    "original": "{0}% increased [Energy Shield|Energy Shield]",
+    "translation": {
+      "zh_cn": "该装备的[Energy Shield|能量护盾]提高 {0}%",
+      "zh_tw": "增加 {0}% [Energy Shield|能量護盾]"
+    }
+  },
+  {
+    "original": "{0}% increased maximum [Energy Shield|Energy Shield]",
+    "translation": {
+      "zh_cn": "[Energy Shield|能量护盾]上限提高 {0}%",
+      "zh_tw": "增加 {0}% 最大[Energy Shield|能量護盾]"
+    }
+  },
+  {
+    "original": "{0}% increased [Armour|Armour] and [Evasion|Evasion]",
+    "translation": {
+      "zh_cn": "该装备的[Armour|护甲]与[Evasion|闪避]提高 {0}%",
+      "zh_tw": "增加 {0}% [Armour|護甲值]和[Evasion|閃避]"
+    }
+  },
+  {
+    "original": "{0}% increased [Armour|Armour] and [Energy Shield|Energy Shield]",
+    "translation": {
+      "zh_cn": "该装备的[Armour|护甲]与[Energy Shield|能量护盾]提高 {0}%",
+      "zh_tw": "增加 {0}% [Armour|護甲值]和[Energy Shield|能量護盾]"
+    }
+  },
+  {
+    "original": "{0}% increased [Evasion|Evasion] and [Energy Shield|Energy Shield]",
+    "translation": {
+      "zh_cn": "该装备的[Evasion|闪避]与[Energy Shield|能量护盾]提高 {0}%",
+      "zh_tw": "增加 {0}% [Evasion|閃避]和[Energy Shield|能量護盾]"
+    }
+  },
+  {
+    "original": "{0}% increased [Armour|Armour], [Evasion|Evasion] and [Energy Shield|Energy Shield]",
+    "translation": {
+      "zh_cn": "该装备的[Armour|护甲]、[Evasion|闪避]和[Energy Shield|能量护盾]提高 {0}%",
+      "zh_tw": "增加 {0}% [Armour|護甲值]、[Evasion|閃避]和[Energy Shield|能量護盾]"
+    }
+  },
+  {
+    "original": "{0}% [faster start of Energy Shield Recharge|faster start of Energy Shield Recharge]",
+    "translation": {
+      "zh_cn": "[faster start of Energy Shield Recharge|能量护盾充能时间提前] {0}%",
+      "zh_tw": "[faster start of Energy Shield Recharge|能量護盾開始充能速度加快] {0}%"
+    }
+  },
+  {
+    "original": "{0} to [Armour|Armour]",
+    "translation": {
+      "zh_cn": "{0} [Armour|护甲]",
+      "zh_tw": "{0} [Armour|護甲值]"
+    }
+  },
+  {
+    "original": "{0}% increased [Armour|Armour]",
+    "translation": {
+      "zh_cn": "该装备[Armour|护甲]提高 {0}%",
+      "zh_tw": "增加 {0}% [Armour|護甲值]"
+    }
+  },
+  {
+    "itemTypes": ["Amulet", "项链", "項鍊"],
+    "original": "{0}% increased [Armour|Armour]",
+    "translation": {
+      "zh_cn": "[Armour|护甲]提高 {0}%",
+      "zh_tw": "增加 {0}% [Armour|護甲值]"
+    }
+  },
+  {
+    "original": "{0} to [Evasion|Evasion] Rating",
+    "translation": {
+      "zh_cn": "{0} 点[Evasion|闪避]值",
+      "zh_tw": "{0} [Evasion|閃避]值"
+    }
+  },
+  {
+    "original": "{0}% increased [Evasion|Evasion] Rating",
+    "translation": {
+      "zh_cn": "该装备的[Evasion|闪避]值提高 {0}%",
+      "zh_tw": "增加 {0}% [Evasion|閃避]值"
+    }
+  },
+  {
+    "itemTypes": ["Amulet", "项链", "項鍊"],
+    "original": "{0}% increased [Evasion Rating|Evasion Rating]",
+    "translation": {
+      "zh_cn": "[Evasion Rating|闪避值]提高 {0}%",
+      "zh_tw": "增加 {0}% [Evasion Rating|閃避值]"
+    }
+  },
+  {
+    "original": "Gain [Deflection Rating|Deflection Rating] equal to {0}% of [Evasion Rating|Evasion Rating]",
+    "translation": {
+      "zh_cn": "获得相当于[Evasion|闪避]值 {0}% 的[Deflection|偏转]值",
+      "zh_tw": "獲得等同 {0}% [Evasion|閃避]值的[Deflection|偏斜]值"
+    }
+  },
+  {
+    "original": "{0}% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]",
+    "translation": {
+      "zh_cn": "{0}% 的[Armour|护甲]同样作用于[ElementalDamage|元素伤害]",
+      "zh_tw": "{0}% 的[Armour|護甲值]也會套用至[ElementalDamage|元素傷害]"
+    }
+  },
+  {
+    "original": "{0}% additional [Physical|Physical] Damage Reduction",
+    "translation": {
+      "zh_cn": "{0}% 额外[Physical|物理]伤害减免",
+      "zh_tw": "額外 {0}% [Physical|物理]傷害減免"
+    }
+  },
+  {
+    "original": "Hits against you have {0}% reduced [Critical Damage Bonus|Critical Damage Bonus]",
+    "translation": {
+      "zh_cn": "对你的击中的[Critical Damage Bonus|暴击伤害加成]降低 {0}%",
+      "zh_tw": "對你的擊中減少 {0}% [Critical Damage Bonus|暴擊傷害加成]"
+    }
+  }
+]
